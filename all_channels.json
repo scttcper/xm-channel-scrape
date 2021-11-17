@@ -7354,7 +7354,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Holly takesover SiriusXM 105 from Wednesday, November 3 at 3am through Monday, December 27 at 3am",
     "contentId": "9343",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Holly&cp_5=Holly&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Holly&creative_id=NA_NA_DL-COM-live-Holly-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Holly",
@@ -7383,7 +7383,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1635449635742
+    "updatedDate": 1636037586515
   },
   {
     "artistsYouHear": [],
@@ -31254,8 +31254,8 @@
       "Dr. Abraham Chachoua, MD",
       "Patricia Chibbaro, MS, CPNP, RN",
       "Dr. Arun Chopra, MD",
-      "Dr. Seth Cohen, MD",
       "Dr. Elisabeth Cohen, MD",
+      "Dr. Seth Cohen, MD",
       "Dr. Doris Day, MD",
       "Dr. Benard Dreyer, MD",
       "Dr. Lori Evans, PhD",
@@ -31347,7 +31347,7 @@
     "relatedChannels": [
       "siriusstars"
     ],
-    "updatedDate": 1630522749748
+    "updatedDate": 1637081167825
   },
   {
     "artistsYouHear": [],
