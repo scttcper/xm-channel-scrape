@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl -s --request GET --url https://www.siriusxm.com/channelfeed/SXM_SIR_AUD_ALLACCESS | jq .channels > all_channels.json
-        cat all_channels.json | jq '.[] | select((.category == "music" and .categoryTitle == "Music"))' > only_music.json
+        cat all_channels.json | jq '.[] | select((.category == "music" and .categoryTitle == "Music" and .vanityURL != null))' > only_music.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
