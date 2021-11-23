@@ -1944,7 +1944,8 @@
     "assetId": 1550826399562,
     "deliveryTypes": [
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -1975,7 +1976,11 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2090,57 +2095,6 @@
   },
   {
     "artistsYouHear": [],
-    "assetId": 1550762861414,
-    "deliveryTypes": [
-      "ip",
-      "mobile",
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": "KIDZ BOP Radio (formerly ch. 77) is now on channel 79",
-    "contentId": "9366",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=KIDZBOPRadio&cp_5=KIDZBOPRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=KIDZBOPRadio&creative_id=NA_NA_DL-COM-live-KIDZBOPRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "KIDZ BOP Radio",
-    "genre": "kids",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Family",
-    "genreVanityURL": null,
-    "longDescription": "Today’s pop hits from the celebrated and trusted Kidz Bop series of music. Hear today’s biggest pop hits along with a mix of top contemporary pop music. This is a full channel of music - sung by kids - for pre-school and school-age kids.",
-    "mediumDescription": "It’s all KIDZ BOP, all the time. Tune in for a 24/7 POP STAR Party hosted by the KIDZ BOP Kids, featuring today’s biggest hits.",
-    "shortDescription": "Pop Hits Sung By Kids For Kids",
-    "siriusChannelNumber": 79,
-    "siriusServiceId": 97,
-    "xmServiceId": 77,
-    "vanityURL": "https://www.siriusxm.com/channels/kidz-bop-radio",
-    "xmChannelNumber": 79,
-    "primaryColor": "#f9199e",
-    "secondaryColor": "#20409a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/KIDZ-BOP-Radio/KIDZ-BOP-RADIO_Vector.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/KIDZ-BOP-Radio/KidzBop_White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "8216",
-      "laughbreak"
-    ],
-    "updatedDate": 1635870410622
-  },
-  {
-    "artistsYouHear": [],
     "assetId": 1550764652691,
     "deliveryTypes": [
       "ip",
@@ -2192,6 +2146,57 @@
       "thebeat"
     ],
     "updatedDate": 1631539655344
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550762861414,
+    "deliveryTypes": [
+      "ip",
+      "mobile",
+      "satellite"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": "KIDZ BOP Radio (formerly ch. 77) is now on channel 79",
+    "contentId": "9366",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=KIDZBOPRadio&cp_5=KIDZBOPRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=KIDZBOPRadio&creative_id=NA_NA_DL-COM-live-KIDZBOPRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "KIDZ BOP Radio",
+    "genre": "kids",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Family",
+    "genreVanityURL": null,
+    "longDescription": "Today’s pop hits from the celebrated and trusted Kidz Bop series of music. Hear today’s biggest pop hits along with a mix of top contemporary pop music. This is a full channel of music - sung by kids - for pre-school and school-age kids.",
+    "mediumDescription": "It’s all KIDZ BOP, all the time. Tune in for a 24/7 POP STAR Party hosted by the KIDZ BOP Kids, featuring today’s biggest hits.",
+    "shortDescription": "Pop Hits Sung By Kids For Kids",
+    "siriusChannelNumber": 79,
+    "siriusServiceId": 97,
+    "xmServiceId": 77,
+    "vanityURL": "https://www.siriusxm.com/channels/kidz-bop-radio",
+    "xmChannelNumber": 79,
+    "primaryColor": "#f9199e",
+    "secondaryColor": "#20409a",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/KIDZ-BOP-Radio/KIDZ-BOP-RADIO_Vector.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/KIDZ-BOP-Radio/KidzBop_White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "8216",
+      "laughbreak"
+    ],
+    "updatedDate": 1635870410622
   },
   {
     "artistsYouHear": [
@@ -2454,14 +2459,15 @@
     "assetId": 1550826602308,
     "deliveryTypes": [
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Hallmark Channel Radio will air on satellite channel 105 from Monday, 11/23 at 3 am ET through Monday, 12/27 at 3 am ET. ",
     "contentId": "9483",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HallmarkChannelRadio&cp_5=HallmarkChannelRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HallmarkChannelRadio&creative_id=NA_NA_DL-COM-live-HallmarkChannelRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Hallmark Channel Radio",
@@ -2473,11 +2479,11 @@
     "longDescription": "Hallmark Channel Radio is back for the holidays featuring timeless Christmas music and carols that celebrate the joy of the season. Hear the songs you love brought to you by beloved Hallmark Channel stars who will share their favorite holiday songs, traditions, and more! They'll also take you behind the scenes of their new Countdown to Christmas movies! Hallmark Channel Radio is the perfect way to embrace the wonder of the season with loved ones near & far. Listen all season long!",
     "mediumDescription": "Celebrate the holidays with timeless Christmas music and carols 24/7 brought to you by your favorite Hallmark Channel stars",
     "shortDescription": "Timeless Christmas Music",
-    "siriusChannelNumber": 777,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 104,
+    "siriusServiceId": 58,
+    "xmServiceId": 50,
     "vanityURL": "https://www.siriusxm.com/channels/hallmark-channel-radio",
-    "xmChannelNumber": 777,
+    "xmChannelNumber": 104,
     "primaryColor": "#a33438",
     "secondaryColor": "#6084a5",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/hallmark-channel-radio/HallmarkHolidayRadio-126-500x400-P.svg",
@@ -2492,7 +2498,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1636054419572
+    "updatedDate": 1637277245593
   },
   {
     "artistsYouHear": [
@@ -6460,70 +6466,6 @@
   },
   {
     "artistsYouHear": [
-      "Bill Monroe",
-      "Del McCoury",
-      "Flatt & Scruggs",
-      "Doyle Lawson",
-      "Ricky Skaggs",
-      "Rhonda Vincent",
-      "Grascals",
-      "Jimmy Martin",
-      "Osborne Brothers",
-      "Chris Jones",
-      "Kyle Cantrell",
-      "Joey Black",
-      "Ned Luberecki"
-    ],
-    "assetId": 1550762855063,
-    "deliveryTypes": [
-      "ip",
-      "satellite",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "bluegrass",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=BluegrassJunction&cp_5=BluegrassJunction&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BluegrassJunction&creative_id=NA_NA_DL-COM-live-BluegrassJunction-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Bluegrass Junction",
-    "genre": "country",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Country",
-    "genreVanityURL": null,
-    "longDescription": "The very finest in bluegrass, from first generation players Bill Monroe and Flatt & Scruggs to the contemporary sounds of Blue Highway and Alison Krauss & Union Station. Born of inspiration, steeped in tradition. Handmade, heartfelt bluegrass music on SiriusXM.",
-    "mediumDescription": "Handmade, heartfelt bluegrass music.",
-    "shortDescription": "Bluegrass",
-    "siriusChannelNumber": 62,
-    "siriusServiceId": 45,
-    "xmServiceId": 14,
-    "vanityURL": "https://www.siriusxm.com/channels/bluegrass-junction",
-    "xmChannelNumber": 62,
-    "primaryColor": "#7eb0d0",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Bluegrass-Junction/BluegrassJunction-SMPL-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Bluegrass-Junction/BluegrassJunction-WHITE.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "outlawcountry"
-    ],
-    "updatedDate": 1630095197242
-  },
-  {
-    "artistsYouHear": [
       "Green Day",
       "Offspring",
       "Nirvana",
@@ -6592,6 +6534,70 @@
       "8370"
     ],
     "updatedDate": 1631215543059
+  },
+  {
+    "artistsYouHear": [
+      "Bill Monroe",
+      "Del McCoury",
+      "Flatt & Scruggs",
+      "Doyle Lawson",
+      "Ricky Skaggs",
+      "Rhonda Vincent",
+      "Grascals",
+      "Jimmy Martin",
+      "Osborne Brothers",
+      "Chris Jones",
+      "Kyle Cantrell",
+      "Joey Black",
+      "Ned Luberecki"
+    ],
+    "assetId": 1550762855063,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "bluegrass",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=BluegrassJunction&cp_5=BluegrassJunction&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BluegrassJunction&creative_id=NA_NA_DL-COM-live-BluegrassJunction-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Bluegrass Junction",
+    "genre": "country",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Country",
+    "genreVanityURL": null,
+    "longDescription": "The very finest in bluegrass, from first generation players Bill Monroe and Flatt & Scruggs to the contemporary sounds of Blue Highway and Alison Krauss & Union Station. Born of inspiration, steeped in tradition. Handmade, heartfelt bluegrass music on SiriusXM.",
+    "mediumDescription": "Handmade, heartfelt bluegrass music.",
+    "shortDescription": "Bluegrass",
+    "siriusChannelNumber": 62,
+    "siriusServiceId": 45,
+    "xmServiceId": 14,
+    "vanityURL": "https://www.siriusxm.com/channels/bluegrass-junction",
+    "xmChannelNumber": 62,
+    "primaryColor": "#7eb0d0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Bluegrass-Junction/BluegrassJunction-SMPL-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Bluegrass-Junction/BluegrassJunction-WHITE.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "outlawcountry"
+    ],
+    "updatedDate": 1630095197242
   },
   {
     "artistsYouHear": [
@@ -6999,9 +7005,9 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Our focus is light pop that's cool and familiar, featuring songs from pop's biggest stars. Elton John, Kelly Clarkson, Adele, Billy Joel, Ed Sheeran, P!nk, Phil Collins, Train and more; all blended on one station.",
-    "mediumDescription": "A bright blend of pop hits",
-    "shortDescription": "Bright Pop Hits",
+    "longDescription": "Blending Nice & Easy Pop classics from legendary super stars to lighten your day! From Elton John to Whitney Houston, Billy Joel, Stevie Wonder, Phil Collins, Bee Gees, Michael Bolton, Lionel Richie, ABBA and more, feeling good has never been so easy! Sit back, relax and unwind with your perfect daily companion.",
+    "mediumDescription": "Nice & Easy Pop classics from artists like Elton John, Whitney Houston, Billy Joel, Stevie Wonder and more!",
+    "shortDescription": "Nice & Easy Pop",
     "siriusChannelNumber": 16,
     "siriusServiceId": 3,
     "xmServiceId": 155,
@@ -7025,8 +7031,13 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "thepulse",
-      "siriuslove"
+      "totally70s",
+      "coffeehouse",
+      "classicrewind",
+      "big80s",
+      "8206",
+      "thebridge",
+      "soultown"
     ],
     "updatedDate": 1631719788399
   },
@@ -7196,76 +7207,6 @@
   },
   {
     "artistsYouHear": [
-      "Ed Sheeran",
-      "Justin Timberlake",
-      "Lady Gaga",
-      "Katy Perry",
-      "Taylor Swift",
-      "Maroon 5",
-      "Bruno Mars",
-      "P!nk",
-      "Nicole",
-      "Stanley T",
-      "Ryan Sampson",
-      "Mikey Piff",
-      "Spyder Harrison",
-      "Tony Fly",
-      "Symon"
-    ],
-    "assetId": 1550762880974,
-    "deliveryTypes": [
-      "ip",
-      "satellite",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "siriushits1",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMHits1&cp_5=SiriusXMHits1&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMHits1&creative_id=NA_NA_DL-COM-live-SiriusXMHits1-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM Hits 1",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "From pop to hip-hop and rock to R&B, SiriusXM Hits 1 plays The Most Hit Music!",
-    "mediumDescription": "The Most Hit-Music, featuring The Morning Mash Up, Hits 1 in Hollywood, The Weekend Countdown and Hit-Bound.",
-    "shortDescription": "Today's Pop Hits",
-    "siriusChannelNumber": 2,
-    "siriusServiceId": 2,
-    "xmServiceId": 13,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-hits-1",
-    "xmChannelNumber": 2,
-    "primaryColor": "#ec008c",
-    "secondaryColor": "#1b3588",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Hits-1/SiriusXM_Hits1.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Hits-1/SiriusXM_Hits1_1C_White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_BASIC",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_BASIC",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "thepulse",
-      "hotjamz",
-      "thebeat"
-    ],
-    "updatedDate": 1631290750039
-  },
-  {
-    "artistsYouHear": [
       "Tom Petty",
       "Coldplay",
       "Red Hot Chili Peppers",
@@ -7334,6 +7275,76 @@
       "thebridge"
     ],
     "updatedDate": 1634569848401
+  },
+  {
+    "artistsYouHear": [
+      "Ed Sheeran",
+      "Justin Timberlake",
+      "Lady Gaga",
+      "Katy Perry",
+      "Taylor Swift",
+      "Maroon 5",
+      "Bruno Mars",
+      "P!nk",
+      "Nicole",
+      "Stanley T",
+      "Ryan Sampson",
+      "Mikey Piff",
+      "Spyder Harrison",
+      "Tony Fly",
+      "Symon"
+    ],
+    "assetId": 1550762880974,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "siriushits1",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMHits1&cp_5=SiriusXMHits1&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMHits1&creative_id=NA_NA_DL-COM-live-SiriusXMHits1-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM Hits 1",
+    "genre": "pop",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Pop",
+    "genreVanityURL": null,
+    "longDescription": "From pop to hip-hop and rock to R&B, SiriusXM Hits 1 plays The Most Hit Music!",
+    "mediumDescription": "The Most Hit-Music, featuring The Morning Mash Up, Hits 1 in Hollywood, The Weekend Countdown and Hit-Bound.",
+    "shortDescription": "Today's Pop Hits",
+    "siriusChannelNumber": 2,
+    "siriusServiceId": 2,
+    "xmServiceId": 13,
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-hits-1",
+    "xmChannelNumber": 2,
+    "primaryColor": "#ec008c",
+    "secondaryColor": "#1b3588",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Hits-1/SiriusXM_Hits1.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Hits-1/SiriusXM_Hits1_1C_White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "thepulse",
+      "hotjamz",
+      "thebeat"
+    ],
+    "updatedDate": 1631290750039
   },
   {
     "artistsYouHear": [
@@ -7647,54 +7658,6 @@
     "updatedDate": 1633069897754
   },
   {
-    "artistsYouHear": [],
-    "assetId": 1550826589138,
-    "deliveryTypes": [
-      "ip",
-      "satellite",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9557",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Mosaic&cp_5=Mosaic&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Mosaic&creative_id=NA_NA_DL-COM-live-Mosaic-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Mosaic",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "A diverse hit music mosaic that forms a one of a kind pop music collage from the 90s & 2000s! From P!nk to John Mayer, Mariah Carey, Matchbox Twenty, Kelly Clarkson, John Legend, Goo Goo Dolls, Gwen Stefani, Hootie & The Blowfish, Sheryl Crow and more! Spanning two decades, you’ll hear a variety of musical patterns and patchwork that form a unique, fun and colorful hit music mosaic!",
-    "mediumDescription": "Mosaic",
-    "shortDescription": "Pop Mosaic 90s & 2000s Hits!",
-    "siriusChannelNumber": 15,
-    "siriusServiceId": 32,
-    "xmServiceId": 112,
-    "vanityURL": "https://www.siriusxm.com/mosaic",
-    "xmChannelNumber": 15,
-    "primaryColor": "#48b8ac",
-    "secondaryColor": "#d62457",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/mosaic/Mosaic-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/mosaic/Mosaic-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1635433529778
-  },
-  {
     "artistsYouHear": [
       "Kenny Curtis",
       "Jack Forman",
@@ -7751,6 +7714,54 @@
       "laughbreak"
     ],
     "updatedDate": 1631213210803
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550826589138,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9557",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Mosaic&cp_5=Mosaic&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Mosaic&creative_id=NA_NA_DL-COM-live-Mosaic-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Mosaic",
+    "genre": "pop",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Pop",
+    "genreVanityURL": null,
+    "longDescription": "A colorful and diverse pop music collage from the 90s & 2000s featuring P!nk, John Mayer, Mariah Carey, Matchbox Twenty, Kelly Clarkson, John Legend, Goo Goo Dolls, Gwen Stefani, Hootie & The Blowfish, Sheryl Crow and more! From the office to your car or couch, you’ll hear a never ending variety of musical patterns and patchwork that form the most unique pop music mosaic!",
+    "mediumDescription": "A colorful and diverse pop music collage from the 90s & 2000s!",
+    "shortDescription": "90s & 2000s Pop",
+    "siriusChannelNumber": 15,
+    "siriusServiceId": 32,
+    "xmServiceId": 112,
+    "vanityURL": "https://www.siriusxm.com/mosaic",
+    "xmChannelNumber": 15,
+    "primaryColor": "#48b8ac",
+    "secondaryColor": "#d62457",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/mosaic/Mosaic-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/mosaic/Mosaic-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1635433529778
   },
   {
     "artistsYouHear": [
@@ -8218,48 +8229,6 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1631539721631
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550762858067,
-    "deliveryTypes": [
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9351",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Holly&cp_5=Holly&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Holly&creative_id=NA_NA_DL-COM-live-Holly-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Holly",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "Contemporary holiday hits featuring songs by Mariah Carey, Michael Bublé, Kelly Clarkson, Pentatonix, Rod Stewart, Trans-Siberian Orchestra, Chicago, Josh Groban, Madonna, Bruce Springsteen, Idina Menzel, and more.",
-    "mediumDescription": "Contemporary Holiday Hits",
-    "shortDescription": "Contemporary Holiday Hits",
-    "siriusChannelNumber": 105,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
-    "xmChannelNumber": 105,
-    "primaryColor": "#98d89b",
-    "secondaryColor": "#007635",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holly/Holly-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holly/Holly-WHITE.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1635958414553
   },
   {
     "artistsYouHear": [],
