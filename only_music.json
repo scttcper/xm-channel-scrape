@@ -1011,7 +1011,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "ABBA Radio will replace Studio 54 Radio on satellite radio from Friday, 11/5 at 3 am ET through Monday, 11/15 at 3 am ET. However, you can still stream Studio 54 on your devices.",
+    "channelNotification": null,
     "contentId": "9145",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Studio54Radio&cp_5=Studio54Radio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Studio54Radio&creative_id=NA_NA_DL-COM-live-Studio54Radio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Studio 54 Radio",
@@ -1050,7 +1050,7 @@
       "thebeat",
       "9471"
     ],
-    "updatedDate": 1637165973787
+    "updatedDate": 1638475217450
   },
   {
     "artistsYouHear": [
