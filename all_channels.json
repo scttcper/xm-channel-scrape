@@ -8569,6 +8569,136 @@
     "updatedDate": 1637270055700
   },
   {
+    "artistsYouHear": [],
+    "assetId": 1550828608752,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4204",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=2010sHipHop&cp_5=2010sHipHop&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=2010sHipHop&creative_id=NA_NA_DL-COM-xtra-2010sHipHop-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "2010s Hip-Hop",
+    "genre": "tens",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "The 2010s Decade",
+    "genreVanityURL": null,
+    "longDescription": "Hip-Hop from the 2010’s",
+    "mediumDescription": "Hip-Hop from the 2010’s",
+    "shortDescription": "Hip-Hop from the 2010’s",
+    "siriusChannelNumber": 1197,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1197,
+    "primaryColor": "#000000",
+    "secondaryColor": "#c2aa48",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/2010s-hip-hop/2010sHipHop-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/2010s-hip-hop/2010sHipHop-White.svg",
+    "explicitContentIndicator": "Yes",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1638863697693
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550828675462,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4205",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=Cinemagic&cp_5=Cinemagic&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=Cinemagic&creative_id=NA_NA_DL-COM-xtra-Cinemagic-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Cinemagic",
+    "genre": "instrumentals",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Instrumentals",
+    "genreVanityURL": null,
+    "longDescription": "Movie Soundtracks and More",
+    "mediumDescription": "Movie Soundtracks and More",
+    "shortDescription": "Movie Soundtracks and More",
+    "siriusChannelNumber": 1198,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1198,
+    "primaryColor": "#b0b0b0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Cinemagic/Cinemagic-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Cinemagic/Cinemagic-White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1638860529239
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550828651209,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4206",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=HappyRadio&cp_5=HappyRadio&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=HappyRadio&creative_id=NA_NA_DL-COM-xtra-HappyRadio-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Happy Radio",
+    "genre": "allxtra",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "All Xtra",
+    "genreVanityURL": null,
+    "longDescription": "Feel-Good Hits",
+    "mediumDescription": "Feel-Good Hits",
+    "shortDescription": "Feel-Good Hits",
+    "siriusChannelNumber": 1199,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1199,
+    "primaryColor": "#eda859",
+    "secondaryColor": "#3c91d0",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/happy-radio/Happy-Radio-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/happy-radio/Happy-Radio-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1638860554123
+  },
+  {
     "artistsYouHear": [
       "Aretha Franklin",
       "Beatles",
@@ -9108,68 +9238,6 @@
       "8206"
     ],
     "updatedDate": 1631653884863
-  },
-  {
-    "artistsYouHear": [
-      "Star Wars",
-      "The Lord of the Rings",
-      "Gladiator",
-      "Chinatown",
-      "The Incredibles",
-      "Gone With the Wind",
-      "Kill Bill Vol. 1&2",
-      "Moulin Rouge",
-      "Back to the Future",
-      "To Kill a Mockingbird",
-      "Paul Bachmann"
-    ],
-    "assetId": 1550762856262,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "8211",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Cinemagic&cp_5=Cinemagic&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Cinemagic&creative_id=NA_NA_DL-COM-live-Cinemagic-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Cinemagic",
-    "genre": "jazz",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Jazz/Standards/Classical",
-    "genreVanityURL": null,
-    "longDescription": "Cinemagic captures the movie experience via score music, soundtracks and film clips. It's also a destination for movie news and information, plus our interviews with composers and directors.",
-    "mediumDescription": "Escape into the movies.",
-    "shortDescription": "Movie Soundtracks and More",
-    "siriusChannelNumber": 750,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/cinemagic",
-    "xmChannelNumber": 750,
-    "primaryColor": "#b0b0b0",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Cinemagic/Cinemagic-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Cinemagic/Cinemagic-White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "radioclassics",
-      "broadwaysbest",
-      "symphonyhall",
-      "9351"
-    ],
-    "updatedDate": 1630335685849
   },
   {
     "artistsYouHear": [
@@ -17724,16 +17792,16 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9238",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ClevelandIndians&cp_5=ClevelandIndians&cp_6=MLBPBP&cp_7=COM&cp_8=SXMCOM&site_id=ClevelandIndians&creative_id=NA_NA_DL-COM-live-ClevelandIndians-MLBPBP-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Cleveland Indians",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ClevelandGuardians&cp_5=ClevelandGuardians&cp_6=MLBPBP&cp_7=COM&cp_8=SXMCOM&site_id=ClevelandGuardians&creative_id=NA_NA_DL-COM-live-ClevelandGuardians-MLBPBP-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Cleveland Guardians",
     "genre": "mlbpbp",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "MLB Play-by-Play",
     "genreVanityURL": null,
-    "longDescription": "Live hometown play-by-play coverage of the Cleveland Indians",
-    "mediumDescription": "Live hometown play-by-play coverage of the Cleveland Indians",
-    "shortDescription": "Indians Play-by-Play",
+    "longDescription": "Live hometown play-by-play coverage of the Cleveland Guardians",
+    "mediumDescription": "Live hometown play-by-play coverage of the Cleveland Guardians",
+    "shortDescription": "Guardians Play-by-Play",
     "siriusChannelNumber": 847,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -17741,8 +17809,8 @@
     "xmChannelNumber": 847,
     "primaryColor": "#dc1e36",
     "secondaryColor": "#1f376c",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/ClevelandIndians-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/ClevelandIndians-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/mlb/ClevelandGuardians-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/logos/sports/mlb/ClevelandGuardians-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -17756,7 +17824,7 @@
       "8213",
       "8368"
     ],
-    "updatedDate": 1630336122090
+    "updatedDate": 1638808046505
   },
   {
     "artistsYouHear": [],
@@ -22575,14 +22643,15 @@
     "assetId": 1550826356448,
     "deliveryTypes": [
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "County Christmas streams on channel 779 until Tuesday, December 7 at 3 am ET and then airs on channel 58 until Monday, December 27 at 3 am ET.",
+    "channelNotification": "Country Christmas will air on satellite channel 58 from now through Tuesday, 12/27 at 3 am ET.",
     "contentId": "9345",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=CountryChristmas&cp_5=CountryChristmas&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=CountryChristmas&creative_id=NA_NA_DL-COM-live-CountryChristmas-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Country Christmas",
@@ -22594,11 +22663,11 @@
     "longDescription": "Spanning the generations of country Christmas music, including Garth Brooks, Carrie Underwood and Lady A",
     "mediumDescription": "A wide-ranging assortment of country Christmas music, including Garth Brooks, Carrie Underwood and Lady A.",
     "shortDescription": "Country Christmas Music",
-    "siriusChannelNumber": 779,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 58,
+    "siriusServiceId": 42,
+    "xmServiceId": 17,
     "vanityURL": "https://www.siriusxm.com/channels/country-christmas",
-    "xmChannelNumber": 779,
+    "xmChannelNumber": 58,
     "primaryColor": "#345e17",
     "secondaryColor": "#8a2111",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Country-Christmas/CountryXMAS-4C.svg",
@@ -22607,27 +22676,30 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1637680289969
+    "updatedDate": 1638474971728
   },
   {
     "artistsYouHear": [],
     "assetId": 1550826389965,
     "deliveryTypes": [
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Holiday Soul streams on channel 778 until Tuesday, December 7 at 3 am ET and then airs on channel 49 until Monday, December 27 at 3 am ET.",
+    "channelNotification": "Holiday Soul will air on satellite channel 49 from now through Tuesday, 12/27 at 3 am ET.",
     "contentId": "9346",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HolidaySoul&cp_5=HolidaySoul&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HolidaySoul&creative_id=NA_NA_DL-COM-live-HolidaySoul-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Holiday Soul",
@@ -22639,11 +22711,11 @@
     "longDescription": "Classic soul and Motown holiday music from the 60's and 70's, along with R&B holiday music from the 80's and early 90's, including Aretha Franklin, Temptations, James Brown, Lou Rawls, Smokey Robinson, Dionne Warwick, The Jackson 5, The Four Tops, The Supremes, John Legend, Boyz II Men & many more!",
     "mediumDescription": "Classic soul and Motown holiday music from the ‘60s and ‘70s, along with R&B holiday music from the '80s and early '90s.",
     "shortDescription": "Soul/Motown/R&B Holiday",
-    "siriusChannelNumber": 778,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 49,
+    "siriusServiceId": 40,
+    "xmServiceId": 60,
     "vanityURL": "https://www.siriusxm.com/channels/holiday-soul",
-    "xmChannelNumber": 778,
+    "xmChannelNumber": 49,
     "primaryColor": "#77b03f",
     "secondaryColor": "#9a090d",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Soul/HolidaySoul-4C.svg",
@@ -22652,13 +22724,15 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1637680260473
+    "updatedDate": 1638474956398
   },
   {
     "artistsYouHear": [],
@@ -23985,8 +24059,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9399",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition5&cp_5=SXMLimitedEdition5&cp_6=TALK&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition5&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition5-TALK-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM Limited Edition 5",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=NeilYoungRadio&cp_5=NeilYoungRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=NeilYoungRadio&creative_id=NA_NA_DL-COM-live-NeilYoungRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Neil Young Radio",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
@@ -24000,10 +24074,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-5",
     "xmChannelNumber": 505,
-    "primaryColor": "#8abe56",
-    "secondaryColor": "#4aade9",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Limited-Edition-5/SiriusXM-Limited-Edition-5.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Limited-Edition-5/SiriusXM-Limited-Edition-5-White.svg",
+    "primaryColor": "#808080",
+    "secondaryColor": "#000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/neil-young-radio/NeilYoungRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/neil-young-radio/NeilYoungRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24018,7 +24092,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1635175500670
+    "updatedDate": 1638468999843
   },
   {
     "artistsYouHear": [],
@@ -24083,8 +24157,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9401",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition7&cp_5=SXMLimitedEdition7&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition7&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition7-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM Limited Edition 7",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=AliciaKeysRadio&cp_5=AliciaKeysRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=AliciaKeysRadio&creative_id=NA_NA_DL-COM-live-AliciaKeysRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Alicia Keys Radio",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
@@ -24098,10 +24172,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-7",
     "xmChannelNumber": 507,
-    "primaryColor": "#4bade9",
-    "secondaryColor": "#8bbe56",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/SiriusXM-Limited-Edition-7/SiriusXM-Limited-Edition-7.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/SiriusXM-Limited-Edition-7/SiriusXM-Limited-Edition-7-White.svg",
+    "primaryColor": "#D4AF37",
+    "secondaryColor": "#000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/alicia-keys-radio/AliciaKeysRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/alicia-keys-radio/AliciaKeysRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24116,7 +24190,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1632860835579
+    "updatedDate": 1638469021770
   },
   {
     "artistsYouHear": [],
@@ -25940,8 +26014,8 @@
     "genreIcon": null,
     "genreTitle": "Entertainment",
     "genreVanityURL": null,
-    "longDescription": "VOLUME is SiriusXM's first-ever all-talk radio channel dedicated to the topic of music. VOLUME brings the music conversation directly to listeners with live daily shows, weekly specials, in-depth documentaries & more, hosted by the most respected people in music. VOLUME gives listeners the chance to get in on the action to defend, & discuss their idols. VOLUME will keep you in the know with frequent news and music-related segments each hour. Simply put, VOLUME is your all-access pass to the world of music.",
-    "mediumDescription": "SXM's all-talk music channel. Artist interviews, weekly specials, & documentaries with the most respected people in music.",
+    "longDescription": "VOLUME is SiriusXM's first-ever all-talk radio channel dedicated to the topic of music. VOLUME brings the music conversation directly to listeners with live daily shows, artist interviews, weekly specials, news briefs, in-depth documentaries & more, hosted by the most respected people in music. VOLUME gives listeners the chance to get in on the action to defend, & discuss their idols. VOLUME will keep you in the know with frequent news and music-related segments each hour.",
+    "mediumDescription": "SXM's all-talk music channel. Artist interviews, live shows, weekly specials, & documentaries with the most respected people.",
     "shortDescription": "Music Talk That Rocks",
     "siriusChannelNumber": 106,
     "siriusServiceId": 114,
@@ -27503,14 +27577,15 @@
     "assetId": 1550826627128,
     "deliveryTypes": [
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Christmas Spirit streams on channel 782 until Tuesday, December 7 at 3 am ET and then airs on channel 63 until Monday, December 27 at 3 am ET.",
+    "channelNotification": "Christmas Spirit will air on satellite channel 63 from now through Tuesday, 12/27 at 3 am ET.",
     "contentId": "9489",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ChristmasSpirit&cp_5=ChristmasSpirit&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=ChristmasSpirit&creative_id=NA_NA_DL-COM-live-ChristmasSpirit-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Christmas Spirit",
@@ -27522,11 +27597,11 @@
     "longDescription": "Christmas music and holiday favorites exclusively from contemporary Christian artists. Here, the reason for the season is not just remembered, He’s celebrated in song, commercial free!",
     "mediumDescription": "Christmas music from contemporary Christian artists. Where the reason for the season is not just remembered, He’s celebrated!",
     "shortDescription": "The true reason of the season!",
-    "siriusChannelNumber": 782,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 63,
+    "siriusServiceId": 46,
+    "xmServiceId": 32,
     "vanityURL": "https://www.siriusxm.com/channels/christmas-spirit",
-    "xmChannelNumber": 782,
+    "xmChannelNumber": 63,
     "primaryColor": "#6db9dc",
     "secondaryColor": "#b42b34",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/christmasspirit/ChristmasSpirit-4C.svg",
@@ -27535,13 +27610,15 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1637680337428
+    "updatedDate": 1638475028878
   },
   {
     "artistsYouHear": [],
@@ -28983,10 +29060,10 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "ABBA Radio will air on satellite channel 54 from Friday, 11/5 at 3 am ET through Monday, 11/15 at 3 am ET.",
+    "channelNotification": null,
     "contentId": "9546",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ABBARadio&cp_5=ABBARadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=ABBARadio&creative_id=NA_NA_DL-COM-live-ABBARadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "ABBA Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition3&cp_5=SXMLimitedEdition3&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition3&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition3-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM Limited Edition 3",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
@@ -29000,10 +29077,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/abba-radio",
     "xmChannelNumber": 503,
-    "primaryColor": "#808080",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/abba-radio/AbbaRadio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/abba-radio/AbbaRadio-White.svg",
+    "primaryColor": "#4bade9",
+    "secondaryColor": "#8bbe56",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Limited-Edition-3/SiriusXM-Limited-Edition-3.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Limited-Edition-3/SiriusXM-Limited-Edition-3-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -29013,7 +29090,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1635868056263
+    "updatedDate": 1638459445124
   },
   {
     "artistsYouHear": [],
@@ -29189,56 +29266,6 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1630332831111
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550824708232,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9551",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HappyRadio&cp_5=HappyRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HappyRadio&creative_id=NA_NA_DL-COM-live-HappyRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Happy Radio",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "A channel dedicated to making you smile 24/7 – playing nothing but hit music with feel-good vibes. Forget your troubles and turn up Happy Radio!",
-    "mediumDescription": "Feel-good hit music with a positive message",
-    "shortDescription": "Feel-Good Hits",
-    "siriusChannelNumber": 707,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/happy-radio",
-    "xmChannelNumber": 707,
-    "primaryColor": "#eda859",
-    "secondaryColor": "#3c91d0",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/happy-radio/Happy-Radio-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/happy-radio/Happy-Radio-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "thepulse",
-      "9415",
-      "siriushits1",
-      "starlite",
-      "thebridge"
-    ],
-    "updatedDate": 1633069516520
   },
   {
     "artistsYouHear": [],
@@ -30766,7 +30793,7 @@
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "A mix of fresh music vibes from various music styles designed for you to sit back, relax, and let go into a sonic world of cool. Featuring brand new tunes and hits from a wide array of artists like Billie Eilish, The Lumineers, Kacey Musgraves, Ed Sheeran, Leon Bridges & many more.",
-    "mediumDescription": "A mix of fresh music vibes from various music styles designed to put you in relaxation mode.",
+    "mediumDescription": "Fresh Music Vibes",
     "shortDescription": "Acoustic/Singer-Songwriters",
     "siriusChannelNumber": 6,
     "siriusServiceId": 30,
@@ -31925,8 +31952,8 @@
     "genreIcon": null,
     "genreTitle": "Politics/Issues",
     "genreVanityURL": null,
-    "longDescription": "POTUS is Politics Of The United States. Politics from all points of view with Julie Mason, Michael Smerconish, Chris Cuomo, Dan Abrams, Laura Coates, and more. Spirited interviews with representatives from both sides of the aisle. Legal analysis of breaking stories, panel discussions, and daily recaps of what’s happening in Washington, DC.",
-    "mediumDescription": "Political news and talk from all sides with Julie Mason, Michael Smerconish, Chris Cuomo, Dan Abrams, Laura Coates, and more.",
+    "longDescription": "POTUS is Politics Of The United States. Politics from all points of view with Julie Mason, Michael Smerconish, Dan Abrams, Laura Coates, and more. Spirited interviews with representatives from both sides of the aisle. Legal analysis of breaking stories, panel discussions, and daily recaps of what’s happening in Washington, DC.",
+    "mediumDescription": "Political news and talk from all sides with Julie Mason, Michael Smerconish, Dan Abrams, Laura Coates, and more.",
     "shortDescription": "Politics from All Perspectives",
     "siriusChannelNumber": 124,
     "siriusServiceId": 72,
@@ -32808,15 +32835,14 @@
     "assetId": 1550762877640,
     "deliveryTypes": [
       "ip",
-      "mobile",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Country Christmas will replace Prime Country on satellite radio from Tuesday, 12/7 at 3 am ET through Tuesday, 12/27 at 3 am ET. However, you can still stream Prime Country on your devices.",
     "contentId": "primecountry",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=PrimeCountry&cp_5=PrimeCountry&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=PrimeCountry&creative_id=NA_NA_DL-COM-live-PrimeCountry-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Prime Country",
@@ -32828,11 +32854,11 @@
     "longDescription": "This is where country music from the '80s and '90s lives. Garth Brooks, Reba McEntire, George Strait, Shania Twain, Alan Jackson, and Randy Travis all play here.",
     "mediumDescription": "Country hits from the '80s and '90s.",
     "shortDescription": "'80s/'90s Country Hits",
-    "siriusChannelNumber": 58,
-    "siriusServiceId": 42,
-    "xmServiceId": 17,
+    "siriusChannelNumber": 294,
+    "siriusServiceId": null,
+    "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/prime-country",
-    "xmChannelNumber": 58,
+    "xmChannelNumber": 294,
     "primaryColor": "#fffde9",
     "secondaryColor": "#004a7b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Prime-Country/Prime-Country.svg",
@@ -32854,7 +32880,7 @@
       "big80s",
       "classicrewind"
     ],
-    "updatedDate": 1631654575054
+    "updatedDate": 1638475320818
   },
   {
     "artistsYouHear": [
@@ -34291,7 +34317,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Holiday Soul will replace Soul Town on satellite radio from Tuesday, 12/7 at 3 am ET through Tuesday, 12/27 at 3 am ET. However, you can still stream Soul Town on your devices.",
     "contentId": "soultown",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SoulTown&cp_5=SoulTown&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SoulTown&creative_id=NA_NA_DL-COM-live-SoulTown-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Soul Town",
@@ -34303,11 +34329,11 @@
     "longDescription": "Hear all the great Motown and soul hits from legends including Marvin Gaye, Diana Ross & The Supremes, Barry White, Gladys Knight & The Pips, Al Green, Stevie Wonder and James Brown.",
     "mediumDescription": "Classic soul and Motown music from the '60s and '70s.",
     "shortDescription": "Classic Soul/Motown",
-    "siriusChannelNumber": 49,
-    "siriusServiceId": 40,
-    "xmServiceId": 60,
+    "siriusChannelNumber": 292,
+    "siriusServiceId": null,
+    "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/soul-town",
-    "xmChannelNumber": 49,
+    "xmChannelNumber": 292,
     "primaryColor": "#ffdb77",
     "secondaryColor": "#7c2683",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Soul-Town/SoulTown.svg",
@@ -34328,7 +34354,7 @@
       "8238",
       "praise"
     ],
-    "updatedDate": 1631539690822
+    "updatedDate": 1638475331342
   },
   {
     "artistsYouHear": [
@@ -34409,7 +34435,6 @@
     "assetId": 1550762891041,
     "deliveryTypes": [
       "ip",
-      "satellite",
       "mobile"
     ],
     "availableToPackage": true,
@@ -34417,7 +34442,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Christmas Spirit will replace The Message on satellite radio from Tuesday, 12/7 at 3 am ET through Tuesday, 12/27 at 3 am ET. However, you can still stream The Message on your devices.",
     "contentId": "spirit",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheMessage&cp_5=TheMessage&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheMessage&creative_id=NA_NA_DL-COM-live-TheMessage-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "The Message",
@@ -34429,11 +34454,11 @@
     "longDescription": "Pop and rock with a higher purpose. Contemporary Christian music to brighten your day with the power of faith and hope.",
     "mediumDescription": "The power and positive impact of Christian pop and rock music.",
     "shortDescription": "Christian Pop & Rock",
-    "siriusChannelNumber": 63,
-    "siriusServiceId": 46,
-    "xmServiceId": 32,
+    "siriusChannelNumber": 295,
+    "siriusServiceId": null,
+    "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/the-message",
-    "xmChannelNumber": 63,
+    "xmChannelNumber": 295,
     "primaryColor": "#8dc63f",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/The_Message.svg",
@@ -34442,11 +34467,9 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -34455,7 +34478,7 @@
       "8229",
       "praise"
     ],
-    "updatedDate": 1631720895718
+    "updatedDate": 1638475313815
   },
   {
     "artistsYouHear": [
