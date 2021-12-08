@@ -2749,7 +2749,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Neil Young Radio will air on satellite channel 27 now through 12/14 at 3 am ET.",
     "contentId": "9399",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=NeilYoungRadio&cp_5=NeilYoungRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=NeilYoungRadio&creative_id=NA_NA_DL-COM-live-NeilYoungRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Neil Young Radio",
@@ -2764,7 +2764,7 @@
     "siriusChannelNumber": 505,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-5",
+    "vanityURL": "https://www.siriusxm.com/channels/neil-young-radio",
     "xmChannelNumber": 505,
     "primaryColor": "#808080",
     "secondaryColor": "#000",
@@ -2784,7 +2784,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1638468999843
+    "updatedDate": 1638905515587
   },
   {
     "artistsYouHear": [],
@@ -2847,7 +2847,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Alicia Keys Radio will air on satellite channel 48 beginning 12/10 at 3 am ET through 12/17 at 3 am ET.",
     "contentId": "9401",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=AliciaKeysRadio&cp_5=AliciaKeysRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=AliciaKeysRadio&creative_id=NA_NA_DL-COM-live-AliciaKeysRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Alicia Keys Radio",
@@ -2862,7 +2862,7 @@
     "siriusChannelNumber": 507,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-7",
+    "vanityURL": "https://www.siriusxm.com/channels/alicia-keys-radio",
     "xmChannelNumber": 507,
     "primaryColor": "#D4AF37",
     "secondaryColor": "#000",
@@ -2882,7 +2882,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1638469021770
+    "updatedDate": 1638906012687
   },
   {
     "artistsYouHear": [],
@@ -4949,7 +4949,7 @@
     "siriusChannelNumber": 503,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/abba-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-3",
     "xmChannelNumber": 503,
     "primaryColor": "#4bade9",
     "secondaryColor": "#8bbe56",
@@ -6372,7 +6372,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Alicia Keys Radio will replace Heart & Soul from Friday, December 10 at 3 am ET through Friday, December 17 at 3 am ET. ",
     "contentId": "heartandsoul",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HeartSoul&cp_5=HeartSoul&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HeartSoul&creative_id=NA_NA_DL-COM-live-HeartSoul-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Heart & Soul",
@@ -6411,7 +6411,7 @@
       "praise",
       "soultown"
     ],
-    "updatedDate": 1631124018243
+    "updatedDate": 1638896213059
   },
   {
     "artistsYouHear": [
@@ -8614,7 +8614,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Neil Young Radio will replace Deep Tracks from Tuesday, December 7 at 3 am ET through Tuesday, December 14 at 3 am ET. ",
     "contentId": "thevault",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=DeepTracks&cp_5=DeepTracks&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=DeepTracks&creative_id=NA_NA_DL-COM-live-DeepTracks-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Deep Tracks",
@@ -8654,7 +8654,7 @@
       "gratefuldead",
       "9174"
     ],
-    "updatedDate": 1630521807537
+    "updatedDate": 1638904641989
   },
   {
     "artistsYouHear": [
