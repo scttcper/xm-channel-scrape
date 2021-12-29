@@ -4217,7 +4217,7 @@
     "xmChannelNumber": 1032,
     "primaryColor": "#e8d5c8",
     "secondaryColor": "#362c2b",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/octane-test-drive/Octane-Test-Drive-4C.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/octane-test-drive/Octane-Test-Drive-Color.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/octane-test-drive/Octane-Test-Drive-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -4228,7 +4228,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1631651777948
+    "updatedDate": 1640710763942
   },
   {
     "artistsYouHear": [],
@@ -24014,7 +24014,7 @@
     "xmChannelNumber": 13,
     "primaryColor": "#009ed1",
     "secondaryColor": "#146499",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pitbull-Globalization/Pitbull_Globalization_4C_Vert_SML.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pitbull-Globalization/Pitbull-Globalization-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pitbull-Globalization/Pitbull_Globalization_White_Vert.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -24032,7 +24032,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1631652354973
+    "updatedDate": 1640713616422
   },
   {
     "artistsYouHear": [],
@@ -24590,7 +24590,7 @@
     "xmChannelNumber": 57,
     "primaryColor": "#f7a64b",
     "secondaryColor": "#cf4722",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/No-Shoes-Radio/NoShoes_Radio-FLAT-4C.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/No-Shoes-Radio/No-Shoes-Radio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/No-Shoes-Radio/NoShoes_Radio-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -24603,7 +24603,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1631651642627
+    "updatedDate": 1640707539559
   },
   {
     "artistsYouHear": [
@@ -24647,7 +24647,7 @@
     "xmChannelNumber": 702,
     "primaryColor": "#ffc20e",
     "secondaryColor": "#9c1d23",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ONEderland/ONEderland.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ONEderland/ONEderland-logo.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ONEderland/OldiesParty_White.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -24664,7 +24664,7 @@
       "big80s",
       "8206"
     ],
-    "updatedDate": 1631651932893
+    "updatedDate": 1640712159810
   },
   {
     "artistsYouHear": [
@@ -28616,7 +28616,7 @@
     "siriusChannelNumber": 510,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/The-Mannheim-Steamroller-Channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-10",
     "xmChannelNumber": 510,
     "primaryColor": "#8bbf5b",
     "secondaryColor": "#50ace9",
@@ -32055,7 +32055,7 @@
     "xmChannelNumber": 37,
     "primaryColor": "#f7ad1a",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Octane/Octane.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Octane/Octane-logo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Octane/Octane_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -32080,7 +32080,7 @@
       "hardattack",
       "buzzsaw"
     ],
-    "updatedDate": 1631651808643
+    "updatedDate": 1640709763917
   },
   {
     "artistsYouHear": [
