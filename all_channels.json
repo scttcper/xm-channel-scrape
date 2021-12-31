@@ -3574,7 +3574,7 @@
     "xmChannelNumber": 1077,
     "primaryColor": "#fecfa6",
     "secondaryColor": "#4d252a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Rocking-Country-BBQ/RockingCountryBBQ.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/xtrachannels/rocking-country-bbq/Rocking-Country-BBQ.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Rocking-Country-BBQ/RockingCountryBBQ-OnK.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -3585,7 +3585,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1631214868055
+    "updatedDate": 1640880500805
   },
   {
     "artistsYouHear": [],
@@ -9472,7 +9472,7 @@
     "xmChannelNumber": 156,
     "primaryColor": "#9C9199",
     "secondaryColor": "#7F1113",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-Fight-Nation/SiriusXMFightNation-4C.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-Fight-Nation/SiriusXM-Fight-Nation-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-Fight-Nation/SiriusXMFightNation-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -9496,7 +9496,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1640617031514
+    "updatedDate": 1640882158291
   },
   {
     "artistsYouHear": [],
@@ -22922,7 +22922,7 @@
     "xmChannelNumber": 147,
     "primaryColor": "#ed1f24",
     "secondaryColor": "#073a79",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/Rural-Radio/Rural_Radio.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/Rural-Radio/Rural-Radio.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/Rural-Radio/RuralRadio_SMPL_white.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -22943,7 +22943,7 @@
       "newcountry",
       "spirit"
     ],
-    "updatedDate": 1631215209555
+    "updatedDate": 1640881152960
   },
   {
     "artistsYouHear": [],
@@ -24190,7 +24190,7 @@
     "xmChannelNumber": 102,
     "primaryColor": "#00aeef",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/RA_Logo_4C_3D_Blue.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/Radio-Andy-Logo.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/RadioAndy_SMPL_White_OnK.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
@@ -24204,7 +24204,7 @@
       "siriusstars",
       "9405"
     ],
-    "updatedDate": 1638204540520
+    "updatedDate": 1640878647719
   },
   {
     "artistsYouHear": [],
@@ -32513,7 +32513,7 @@
     "xmChannelNumber": 24,
     "primaryColor": "#92cbcd",
     "secondaryColor": "#37763b",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Radio-Margaritaville/RAD_MARGARITA.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Radio-Margaritaville/Radio-Margaritaville.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Radio-Margaritaville/RadioMargaritaville_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -32532,7 +32532,7 @@
       "gratefuldead",
       "thebridge"
     ],
-    "updatedDate": 1631894404980
+    "updatedDate": 1640879854680
   },
   {
     "artistsYouHear": [

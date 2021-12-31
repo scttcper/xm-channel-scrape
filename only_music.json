@@ -7061,7 +7061,7 @@
     "xmChannelNumber": 24,
     "primaryColor": "#92cbcd",
     "secondaryColor": "#37763b",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Radio-Margaritaville/RAD_MARGARITA.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Radio-Margaritaville/Radio-Margaritaville.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Radio-Margaritaville/RadioMargaritaville_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -7080,7 +7080,7 @@
       "gratefuldead",
       "thebridge"
     ],
-    "updatedDate": 1631894404980
+    "updatedDate": 1640879854680
   },
   {
     "artistsYouHear": [
