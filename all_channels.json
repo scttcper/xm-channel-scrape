@@ -3531,7 +3531,7 @@
     "xmChannelNumber": 1078,
     "primaryColor": "#fecfa6",
     "secondaryColor": "#4d252a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Todays-Country-BBQ/TodaysCountryBBQ.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Todays-Country-BBQ/Todays-Country-BBQ.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Todays-Country-BBQ/TodaysCountryBBQ-OnK.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -3542,7 +3542,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1631722040047
+    "updatedDate": 1641228864879
   },
   {
     "artistsYouHear": [],
@@ -22127,7 +22127,7 @@
     "xmChannelNumber": 61,
     "primaryColor": "#8dc63f",
     "secondaryColor": "#640761",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/SiriusXM-Y2Kountry/Y2Kountry.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/SiriusXM-Y2Kountry/Y2Kountry-logo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/SiriusXM-Y2Kountry/Y2Kountry-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -22147,7 +22147,7 @@
       "primecountry",
       "newcountry"
     ],
-    "updatedDate": 1634569840276
+    "updatedDate": 1641229706958
   },
   {
     "artistsYouHear": [
@@ -23352,7 +23352,7 @@
     "xmChannelNumber": 303,
     "primaryColor": "#b74e7e",
     "secondaryColor": "#57447d",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Venus/Venus303-126-500x400-P.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Venus/Venus-303-solid-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Venus/Venus303-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -23373,7 +23373,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1633069897754
+    "updatedDate": 1641229249382
   },
   {
     "artistsYouHear": [
@@ -23409,7 +23409,7 @@
     "xmChannelNumber": 108,
     "primaryColor": "#fec469",
     "secondaryColor": "#c96021",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/TODAY-Show-Radio/Today_4C-Vertical.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/TODAY-Show-Radio/Today-Show-Radio-4C-logo.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/TODAY-Show-Radio/Today_White-Vertical.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -23428,7 +23428,7 @@
       "9405",
       "9409"
     ],
-    "updatedDate": 1631722091824
+    "updatedDate": 1641224541849
   },
   {
     "artistsYouHear": [],
@@ -27016,7 +27016,7 @@
     "xmChannelNumber": 501,
     "primaryColor": "#7ac142",
     "secondaryColor": "#8bbe56",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-1/SiriusXM-Limited-Edition-1.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -27027,7 +27027,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1632860828167
+    "updatedDate": 1641222484252
   },
   {
     "artistsYouHear": [],
@@ -28532,7 +28532,7 @@
     "xmChannelNumber": 503,
     "primaryColor": "#4bade9",
     "secondaryColor": "#8bbe56",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Limited-Edition-3/SiriusXM-Limited-Edition-3.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Limited-Edition-3/SiriusXM-Limited-Edition-3-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -28543,7 +28543,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1638459445124
+    "updatedDate": 1641222609237
   },
   {
     "artistsYouHear": [],
@@ -31553,7 +31553,7 @@
     "xmChannelNumber": 66,
     "primaryColor": "#89bd59",
     "secondaryColor": "#496fa3",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Watercolors/Watercolors-4C.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Watercolors/Watercolors-logo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Watercolors/Watercolors-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -31575,7 +31575,7 @@
       "spa73",
       "purejazz"
     ],
-    "updatedDate": 1631723552072
+    "updatedDate": 1641229494586
   },
   {
     "artistsYouHear": [],
@@ -33159,7 +33159,7 @@
     "xmChannelNumber": 127,
     "primaryColor": "#fef6e4",
     "secondaryColor": "#842325",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/SiriusXM-Progress/SiriusXM_Progress.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/SiriusXM-Progress/SiriusXM-Progress-logo.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/SiriusXM-Progress/SXM_Progress_white.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -33180,7 +33180,7 @@
       "8367",
       "9409"
     ],
-    "updatedDate": 1631293962938
+    "updatedDate": 1641223869964
   },
   {
     "artistsYouHear": [
