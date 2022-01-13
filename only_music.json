@@ -2645,54 +2645,6 @@
   },
   {
     "artistsYouHear": [],
-    "assetId": 1550762860758,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9400",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition6&cp_5=SXMLimitedEdition6&cp_6=TALK&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition6&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition6-TALK-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM Limited Edition 6",
-    "genre": "rock",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Rock",
-    "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
-    "siriusChannelNumber": 506,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-6",
-    "xmChannelNumber": 506,
-    "primaryColor": "#4bade9",
-    "secondaryColor": "#8bbe56",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-115-900x720.png",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-114-900x720.png",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "chill",
-      "9472",
-      "thebeat"
-    ],
-    "updatedDate": 1632845623069
-  },
-  {
-    "artistsYouHear": [],
     "assetId": 1550762881543,
     "deliveryTypes": [
       "ip",
