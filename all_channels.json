@@ -10121,7 +10121,7 @@
     "siriusChannelNumber": 160,
     "siriusServiceId": null,
     "xmServiceId": 149,
-    "vanityURL": "https://www.siriusxm.com/channels/verizonindycarseries",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-indycar-nation",
     "xmChannelNumber": 160,
     "primaryColor": "#262626",
     "secondaryColor": "#da3732",
@@ -12192,7 +12192,7 @@
     "siriusChannelNumber": null,
     "siriusServiceId": null,
     "xmServiceId": 227,
-    "vanityURL": "https://www.siriusxm.com/channels/sports-play-by-play-210",
+    "vanityURL": "https://www.siriusxm.com/channels/sports-play-by-play-206",
     "xmChannelNumber": 206,
     "primaryColor": "#c3e9fc",
     "secondaryColor": "#0072ba",
@@ -13242,7 +13242,7 @@
       "thespectrum",
       "octane"
     ],
-    "updatedDate": 1631652137327
+    "updatedDate": 1643141363585
   },
   {
     "artistsYouHear": [],
@@ -15332,7 +15332,7 @@
     "siriusChannelNumber": 313,
     "siriusServiceId": null,
     "xmServiceId": 258,
-    "vanityURL": "https://www.siriusxm.com/channels/rockbar",
+    "vanityURL": "https://www.siriusxm.com/channels/rockbar-313",
     "xmChannelNumber": 313,
     "primaryColor": "#a4aa4d",
     "secondaryColor": "#33655b",
@@ -22274,7 +22274,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1639765326052
+    "updatedDate": 1643138788111
   },
   {
     "artistsYouHear": [],
@@ -22376,31 +22376,31 @@
       "satellite"
     ],
     "availableToPackage": true,
-    "category": "music",
+    "category": "sports",
     "categoryIcon": null,
-    "categoryTitle": "Music",
+    "categoryTitle": "Sports",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9353",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheDavidBowieChannel&cp_5=TheDavidBowieChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheDavidBowieChannel&creative_id=NA_NA_DL-COM-live-TheDavidBowieChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The David Bowie Channel",
-    "genre": "pop",
+    "displayName": "Super Bowl LVI Radio",
+    "genre": "sportstalk",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Pop",
+    "genreTitle": "Sports",
     "genreVanityURL": null,
-    "longDescription": "Celebrate David Bowie&rsquo;s 75th Birthday Anniversary on his very own SiriusXM Limited Engagement Channel.&nbsp; Rediscover David&rsquo;s epic musical career that has transcended generations of fans with Hits, Remixes, Rare Archival Concerts, Special Guest DJ&rsquo;s and other artists honoring David with cover versions of his songs.",
-    "mediumDescription": "Celebrate David Bowie's music and 75th Birthday Anniversary on his Limited Run SiriusXM Channel",
-    "shortDescription": "The music of David Bowie",
+    "longDescription": "Super Bowl LVI Radio",
+    "mediumDescription": "Super Bowl LVI Radio",
+    "shortDescription": "Super Bowl LVI Radio",
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
+    "vanityURL": "https://www.siriusxm.com/channels/super-bowl-lvi-radio",
     "xmChannelNumber": 104,
-    "primaryColor": "#808080",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-david-bowie-channel/TheDavidBowieChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-david-bowie-channel/TheDavidBowieChannel-127-500x400-N.svg",
+    "primaryColor": "#20223b",
+    "secondaryColor": "#75498b",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/super-bowl/SuperBowl56Radio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/super-bowl/SuperBowl56Radio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -22413,7 +22413,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1641332054773
+    "updatedDate": 1643128541328
   },
   {
     "artistsYouHear": [],
@@ -22704,7 +22704,7 @@
     "siriusChannelNumber": 330,
     "siriusServiceId": null,
     "xmServiceId": 264,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-silk",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-silk-330",
     "xmChannelNumber": 330,
     "primaryColor": "#00aeef",
     "secondaryColor": "#662e91",
@@ -23302,7 +23302,7 @@
     "siriusChannelNumber": 303,
     "siriusServiceId": null,
     "xmServiceId": 282,
-    "vanityURL": "https://www.siriusxm.com/channels/venus",
+    "vanityURL": "https://www.siriusxm.com/channels/venus-303",
     "xmChannelNumber": 303,
     "primaryColor": "#b74e7e",
     "secondaryColor": "#57447d",
@@ -25960,7 +25960,7 @@
       "8208",
       "8206"
     ],
-    "updatedDate": 1631654489088
+    "updatedDate": 1643138407950
   },
   {
     "artistsYouHear": [
@@ -27970,7 +27970,7 @@
     "siriusChannelNumber": 42,
     "siriusServiceId": 150,
     "xmServiceId": 22,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-42",
+    "vanityURL": "https://www.siriusxm.com/channels/sound-42",
     "xmChannelNumber": 42,
     "primaryColor": "#808080",
     "secondaryColor": "#000",
@@ -28757,7 +28757,7 @@
     "siriusChannelNumber": 15,
     "siriusServiceId": 32,
     "xmServiceId": 112,
-    "vanityURL": "https://www.siriusxm.com/mosaic",
+    "vanityURL": "https://www.siriusxm.com/channels/mosaic",
     "xmChannelNumber": 15,
     "primaryColor": "#48b8ac",
     "secondaryColor": "#d62457",
@@ -30356,7 +30356,7 @@
       "siriuslove",
       "siriusnascarradio"
     ],
-    "updatedDate": 1632332211127
+    "updatedDate": 1643141931681
   },
   {
     "artistsYouHear": [
@@ -32936,7 +32936,7 @@
     "siriusChannelNumber": 72,
     "siriusServiceId": 6,
     "xmServiceId": 5,
-    "vanityURL": "https://www.siriusxm.com/channels/50s-on-5",
+    "vanityURL": "https://www.siriusxm.com/channels/50s-gold",
     "xmChannelNumber": 72,
     "primaryColor": "#e7bc5f",
     "secondaryColor": "#0072ba",
@@ -33514,17 +33514,13 @@
       "Dusty Dvoracek",
       "Sean Farnham",
       "Fran Fraschilla",
-      "Seth Greenberg",
       "Guy Haberman",
       "Ben Hartsock",
       "A.J. Hawk",
       "Anthony Herron",
       "Jacob Hester",
-      "Brad Hopkins",
       "Jason Horowitz",
-      "Eddie House",
       "Gabe Ikard",
-      "Jon Jansen",
       "Danny Kanell",
       "Mike Krzyzewski",
       "Steve Lappas",
@@ -33537,7 +33533,6 @@
       "Rick Neuheisel",
       "Dari Nowkhah",
       "Mark Packer",
-      "Josh Parcell",
       "Chris Plank",
       "Jeff Rickard",
       "Holly Rowe",
@@ -33606,7 +33601,7 @@
       "9457",
       "9385"
     ],
-    "updatedDate": 1631120310598
+    "updatedDate": 1643130929576
   },
   {
     "artistsYouHear": [

@@ -800,7 +800,7 @@
       "thespectrum",
       "octane"
     ],
-    "updatedDate": 1631652137327
+    "updatedDate": 1643141363585
   },
   {
     "artistsYouHear": [
@@ -1099,7 +1099,7 @@
     "siriusChannelNumber": 313,
     "siriusServiceId": null,
     "xmServiceId": 258,
-    "vanityURL": "https://www.siriusxm.com/channels/rockbar",
+    "vanityURL": "https://www.siriusxm.com/channels/rockbar-313",
     "xmChannelNumber": 313,
     "primaryColor": "#a4aa4d",
     "secondaryColor": "#33655b",
@@ -1807,7 +1807,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1639765326052
+    "updatedDate": 1643138788111
   },
   {
     "artistsYouHear": [],
@@ -1899,54 +1899,6 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1631652171985
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550762881293,
-    "deliveryTypes": [
-      "ip",
-      "mobile",
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9353",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheDavidBowieChannel&cp_5=TheDavidBowieChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheDavidBowieChannel&creative_id=NA_NA_DL-COM-live-TheDavidBowieChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The David Bowie Channel",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "Celebrate David Bowie&rsquo;s 75th Birthday Anniversary on his very own SiriusXM Limited Engagement Channel.&nbsp; Rediscover David&rsquo;s epic musical career that has transcended generations of fans with Hits, Remixes, Rare Archival Concerts, Special Guest DJ&rsquo;s and other artists honoring David with cover versions of his songs.",
-    "mediumDescription": "Celebrate David Bowie's music and 75th Birthday Anniversary on his Limited Run SiriusXM Channel",
-    "shortDescription": "The music of David Bowie",
-    "siriusChannelNumber": 104,
-    "siriusServiceId": 58,
-    "xmServiceId": 50,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
-    "xmChannelNumber": 104,
-    "primaryColor": "#808080",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-david-bowie-channel/TheDavidBowieChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-david-bowie-channel/TheDavidBowieChannel-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1641332054773
   },
   {
     "artistsYouHear": [
@@ -2046,7 +1998,7 @@
     "siriusChannelNumber": 330,
     "siriusServiceId": null,
     "xmServiceId": 264,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-silk",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-silk-330",
     "xmChannelNumber": 330,
     "primaryColor": "#00aeef",
     "secondaryColor": "#662e91",
@@ -2462,7 +2414,7 @@
     "siriusChannelNumber": 303,
     "siriusServiceId": null,
     "xmServiceId": 282,
-    "vanityURL": "https://www.siriusxm.com/channels/venus",
+    "vanityURL": "https://www.siriusxm.com/channels/venus-303",
     "xmChannelNumber": 303,
     "primaryColor": "#b74e7e",
     "secondaryColor": "#57447d",
@@ -3545,7 +3497,7 @@
       "8208",
       "8206"
     ],
-    "updatedDate": 1631654489088
+    "updatedDate": 1643138407950
   },
   {
     "artistsYouHear": [
@@ -4293,7 +4245,7 @@
     "siriusChannelNumber": 42,
     "siriusServiceId": 150,
     "xmServiceId": 22,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-42",
+    "vanityURL": "https://www.siriusxm.com/channels/sound-42",
     "xmChannelNumber": 42,
     "primaryColor": "#808080",
     "secondaryColor": "#000",
@@ -4851,7 +4803,7 @@
     "siriusChannelNumber": 15,
     "siriusServiceId": 32,
     "xmServiceId": 112,
-    "vanityURL": "https://www.siriusxm.com/mosaic",
+    "vanityURL": "https://www.siriusxm.com/channels/mosaic",
     "xmChannelNumber": 15,
     "primaryColor": "#48b8ac",
     "secondaryColor": "#d62457",
@@ -5578,7 +5530,7 @@
       "siriuslove",
       "siriusnascarradio"
     ],
-    "updatedDate": 1632332211127
+    "updatedDate": 1643141931681
   },
   {
     "artistsYouHear": [
@@ -7255,7 +7207,7 @@
     "siriusChannelNumber": 72,
     "siriusServiceId": 6,
     "xmServiceId": 5,
-    "vanityURL": "https://www.siriusxm.com/channels/50s-on-5",
+    "vanityURL": "https://www.siriusxm.com/channels/50s-gold",
     "xmChannelNumber": 72,
     "primaryColor": "#e7bc5f",
     "secondaryColor": "#0072ba",
