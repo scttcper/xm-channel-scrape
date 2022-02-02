@@ -22304,7 +22304,7 @@
     "siriusChannelNumber": 105,
     "siriusServiceId": 74,
     "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/foo-fighters-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/the-billy-joel-channel",
     "xmChannelNumber": 105,
     "primaryColor": "#808080",
     "secondaryColor": "#000",
@@ -24043,7 +24043,11 @@
     "updatedDate": 1631722118936
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Gilbert Gottfried",
+      "Frank Santopadre",
+      "Tom Papa"
+    ],
     "assetId": 1550762880453,
     "deliveryTypes": [
       "ip",
@@ -24091,7 +24095,7 @@
       "laughbreak",
       "9494"
     ],
-    "updatedDate": 1631216370337
+    "updatedDate": 1643728980641
   },
   {
     "artistsYouHear": [
@@ -34439,7 +34443,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Neil Young Radio will replace Deep Tracks on satellite radio for a limited time.",
+    "channelNotification": "Neil Young Radio will replace Deep Tracks on satellite radio until Friday, February 4 at 3am.",
     "contentId": "thevault",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=DeepTracks&cp_5=DeepTracks&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=DeepTracks&creative_id=NA_NA_DL-COM-live-DeepTracks-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Deep Tracks",
@@ -34479,7 +34483,7 @@
       "gratefuldead",
       "9174"
     ],
-    "updatedDate": 1643294393766
+    "updatedDate": 1643731072292
   },
   {
     "artistsYouHear": [
