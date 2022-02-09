@@ -33473,7 +33473,18 @@
     "updatedDate": 1634238201142
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Alexander Marlow",
+      "David Webb",
+      "Andrew Wilkow",
+      "Sean Hannity",
+      "Mark Levin",
+      "Jerome Hudson",
+      "Matt Boyle",
+      "Sonnie Johnson",
+      "Stacy Washington",
+      "Joel Pollak"
+    ],
     "assetId": 1550762882486,
     "deliveryTypes": [
       "ip",
@@ -33522,7 +33533,7 @@
     "relatedChannels": [
       "indietalk"
     ],
-    "updatedDate": 1631291728761
+    "updatedDate": 1643745897322
   },
   {
     "artistsYouHear": [
