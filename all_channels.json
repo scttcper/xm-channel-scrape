@@ -22418,31 +22418,31 @@
       "satellite"
     ],
     "availableToPackage": true,
-    "category": "music",
+    "category": "comedy",
     "categoryIcon": null,
-    "categoryTitle": "Music",
+    "categoryTitle": "Comedy",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9353",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 104",
-    "genre": "pop",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ShowtimeAtTheApollo&cp_5=ShowtimeAtTheApollo&cp_6=COMEDY&cp_7=COM&cp_8=SXMCOM&site_id=ShowtimeAtTheApollo&creative_id=NA_NA_DL-COM-live-ShowtimeAtTheApollo-COMEDY-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Showtime At The Apollo Comedy",
+    "genre": "comedy",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Pop",
+    "genreTitle": "Comedy",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 104",
-    "mediumDescription": "SiriusXM 104",
-    "shortDescription": "SiriusXM 104",
+    "longDescription": "Showtime At The Apollo Comedy",
+    "mediumDescription": "Showtime At The Apollo Comedy",
+    "shortDescription": "Showtime At The Apollo Comedy",
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
+    "vanityURL": "https://www.siriusxm.com/channels/showtime-at-the-apollo",
     "xmChannelNumber": 104,
     "primaryColor": "#000",
-    "secondaryColor": "#4aace8",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
+    "secondaryColor": "#275393",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/it’s-showtime-at-the-apollo-comedy/ShowtimeAtTheApollo-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/it’s-showtime-at-the-apollo-comedy/ShowtimeAtTheApollo-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -22455,7 +22455,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1644603080158
+    "updatedDate": 1645209785308
   },
   {
     "artistsYouHear": [],
@@ -33703,7 +33703,8 @@
     "artistsYouHear": [
       "Jenny Hutt",
       "Seth Rudetsky",
-      "Julia Cunningham"
+      "Julia Cunningham",
+      "Christina Najjar"
     ],
     "assetId": 1550762883276,
     "deliveryTypes": [
@@ -33750,7 +33751,7 @@
       "starlite",
       "9409"
     ],
-    "updatedDate": 1644505288255
+    "updatedDate": 1645542073657
   },
   {
     "artistsYouHear": [
