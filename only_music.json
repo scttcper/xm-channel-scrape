@@ -32,7 +32,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/krishna-das-yoga-radio/Krishna-Das-logo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/krishna-das-yoga-radio/Krishna-Das-logo-white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1631214986362
   },
@@ -86,7 +92,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/60s-gold/60sGold-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/60s-gold/60sGold-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusblues",
       "elvisradio",
@@ -147,7 +162,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/60s-gold/60sGold-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/60s-gold/60sGold-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusblues",
       "elvisradio",
@@ -203,7 +227,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/40s-Junction/40sJunction-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/40s-Junction/40sJunction-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "radioclassics",
       "8215",
@@ -257,7 +290,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/40s-Junction/40sJunction-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/40s-Junction/40sJunction-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "radioclassics",
       "8215",
@@ -313,7 +355,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/90s-on-9/90s-on-9.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/90s-on-9/90s-on-9_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "90salternative",
@@ -369,7 +420,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/90s-on-9/90s-on-9.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/90s-on-9/90s-on-9_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "90salternative",
@@ -425,7 +485,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Loft/TheLoft.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Loft/TheLoft_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusblues",
       "thevault",
@@ -481,7 +548,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pop2K/POP_2K.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pop2K/Pop2K_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "starlite",
@@ -535,7 +611,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pop2K/POP_2K.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pop2K/Pop2K_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "starlite",
@@ -587,7 +672,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Escape/Escape-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Escape/Escape-KO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "8205",
       "siriuslysinatra",
@@ -640,7 +734,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Escape/Escape-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Escape/Escape-KO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "8205",
       "siriuslysinatra",
@@ -689,7 +792,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/Kids-Place-Live/KidPlace-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/Kids-Place-Live/KidsPlaceLive_white_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "laughbreak"
     ],
@@ -735,7 +849,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/Kids-Place-Live/KidPlace-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/Kids-Place-Live/KidsPlaceLive_white_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "laughbreak"
     ],
@@ -786,7 +911,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Viva/Viva.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Viva/Viva_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9188",
       "cnnespanol",
@@ -842,7 +975,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Village/TheVillage.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Village/TheVillage_Neg_onK_WH.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "theroadhouse",
       "60svibrations",
@@ -897,7 +1037,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Groove/The_Groove.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Groove/theGroove_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "8238",
@@ -953,7 +1102,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Groove/The_Groove.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Groove/theGroove_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "8238",
@@ -1008,7 +1166,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/enLighten/enLighten-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/enLighten/enLighten_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "elvisradio",
       "8215",
@@ -1063,7 +1230,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/enLighten/enLighten-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/enLighten/enLighten_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "elvisradio",
       "8215",
@@ -1118,7 +1294,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Pearl-Jam-Radio/Pearl_Jam_Radio.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Pearl-Jam-Radio/Pearl_Jam_Radio_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "90salternative",
@@ -1173,7 +1357,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Pearl-Jam-Radio/Pearl_Jam_Radio.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Pearl-Jam-Radio/Pearl_Jam_Radio_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "90salternative",
@@ -1232,7 +1424,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Lithium/LITHIUM.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Lithium/Lithium_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "firstwave",
@@ -1294,7 +1495,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Lithium/LITHIUM.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Lithium/Lithium_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "firstwave",
@@ -1346,7 +1556,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Phish-Radio/PhishRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Phish-Radio/PhishRadio-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "leftofcenter",
       "90salternative",
@@ -1399,7 +1617,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Phish-Radio/PhishRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Phish-Radio/PhishRadio-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "leftofcenter",
       "90salternative",
@@ -1451,7 +1677,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Studio-54-Radio/Studio_54_Radio_Square.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Studio-54-Radio/Studio54_logo_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "totally70s",
       "chill",
@@ -1500,7 +1735,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Studio-54-Radio/Studio_54_Radio_Square.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Studio-54-Radio/Studio54_logo_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "totally70s",
       "chill",
@@ -1556,7 +1800,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-and-Roll-Hall-of-Fame-Radio/RHOF-2016-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-and-Roll-Hall-of-Fame-Radio/RHOF-2016-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusblues",
       "90salternative",
@@ -1615,7 +1868,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-and-Roll-Hall-of-Fame-Radio/RHOF-2016-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-and-Roll-Hall-of-Fame-Radio/RHOF-2016-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusblues",
       "90salternative",
@@ -1674,7 +1936,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockbar-311/RockBar-313-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockbar-311/RockBar-313-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "classicrewind",
       "classicvinyl",
@@ -1729,7 +2000,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockbar-311/RockBar-313-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockbar-311/RockBar-313-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "classicrewind",
       "classicvinyl",
@@ -1782,7 +2062,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Red-White-and-Booze/RedWhiteBooze_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Red-White-and-Booze/RedWhiteBooze-white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "hairnation",
       "primecountry",
@@ -1838,7 +2127,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Red-White-and-Booze/RedWhiteBooze_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Red-White-and-Booze/RedWhiteBooze-white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "hairnation",
       "primecountry",
@@ -1895,7 +2193,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Flow-Nacion/FlowNacion-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Flow-Nacion/FlowNacion-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "shade45",
       "9190",
@@ -1950,7 +2255,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Aguila/Aguila_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Aguila/Aguila_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "8225",
       "9191",
@@ -2003,7 +2316,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Latidos/Latidos.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Latidos/Latidos_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9188",
       "siriushits1",
@@ -2058,7 +2378,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Caricia/Caricia-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Caricia/Caricia-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "cnnespanol",
       "9189",
@@ -2113,7 +2440,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Luna/Luna.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Luna/Luna_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9188",
       "cnnespanol",
@@ -2170,7 +2504,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Rumbon/Rumbon.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Rumbon/Rumbon_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9188",
       "9189",
@@ -2227,7 +2568,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/La-Kueva/La_Kueva.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/La-Kueva/LaKueva_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "90salternative",
       "9190",
@@ -2288,7 +2636,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Fly/Sirius_XM_Fly.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Fly/SXMFly-White.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "hotjamz",
@@ -2347,7 +2701,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Fly/Sirius_XM_Fly.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Fly/SXMFly-White.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "hotjamz",
@@ -2405,7 +2765,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/SiriusXM-Y2Kountry/Y2Kountry-logo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/SiriusXM-Y2Kountry/Y2Kountry-white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "theroadhouse",
       "primecountry",
@@ -2463,7 +2834,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/SiriusXM-Y2Kountry/Y2Kountry-logo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/SiriusXM-Y2Kountry/Y2Kountry-white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "theroadhouse",
       "primecountry",
@@ -2510,7 +2892,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Traditions/HolidayTraditions-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Traditions/HolidayTraditions-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1643138788111
   },
@@ -2549,7 +2938,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/foo-fighters/Foo-Fighters-Radio-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/foo-fighters/FooFightersRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1643734340523
   },
@@ -2588,7 +2985,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/foo-fighters/Foo-Fighters-Radio-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/foo-fighters/FooFightersRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1643734340523
   },
@@ -2626,7 +3031,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Tom-Petty-Buried-Treasure/TomPetty-BuriedTreasure.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Tom-Petty-Buried-Treasure/TomPetty-BuriedTreasure_onK.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1631652171985
   },
@@ -2672,7 +3083,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Elevations/Elevations-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Elevations/Elevations-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "8215",
       "coffeehouse",
@@ -2729,7 +3146,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Silk/SXMsilk330P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Silk/SXMsilk330N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "8228",
@@ -2783,7 +3209,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Silk/SXMsilk330P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Silk/SXMsilk330N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "8228",
@@ -2836,7 +3271,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Utopia/Utopia_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Utopia/Utopica_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9145",
       "siriushits1",
@@ -2892,7 +3336,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Utopia/Utopia_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Utopia/Utopica_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9145",
       "siriushits1",
@@ -2938,7 +3391,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/KIDZ-BOP-Radio/KIDZ-BOP-RADIO_Vector.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/KIDZ-BOP-Radio/KidzBop_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "8216",
       "laughbreak"
@@ -2980,7 +3442,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/KIDZ-BOP-Radio/KIDZ-BOP-RADIO_Vector.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/KIDZ-BOP-Radio/KidzBop_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "8216",
       "laughbreak"
@@ -3030,7 +3501,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/70s80sPOP/70s80sPop-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/70s80sPOP/70s80sPop-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "hairnation",
       "9145",
@@ -3085,7 +3562,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/80s90sPOP/80s90Pop-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/80s90sPOP/80s90Pop-4C-OnK.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "firstwave",
       "90salternative",
@@ -3139,7 +3622,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Classic-Rock-Party/ClassicRockParty-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Classic-Rock-Party/ClassicRockParty-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "hairnation",
       "firstwave",
@@ -3192,7 +3681,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Oldies-Party/Oldies_Party.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Oldies-Party/OldiesParty-white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusgold",
       "60svibrations",
@@ -3246,7 +3741,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Venus/Venus-303-solid-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Venus/Venus303-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "9365",
@@ -3303,7 +3807,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Venus/Venus-303-solid-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Venus/Venus303-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "9365",
@@ -3359,7 +3872,11 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Sway-Universe/SwaysUniverse_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Sway-Universe/SwaysUniverse_Neg.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA"
+    ],
     "relatedChannels": [
       "hiphopnation",
       "shade45",
@@ -3405,7 +3922,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/aretha-franklin-channel/TheArethaFranklinChannel-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/aretha-franklin-channel/TheArethaFranklinChannel-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1643734205574
   },
@@ -3443,7 +3966,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/neil-young-radio/NeilYoungRadio-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/neil-young-radio/NeilYoungRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9145",
       "chill",
@@ -3486,7 +4015,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-115-900x720.png",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-114-900x720.png",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "chill",
       "9472",
@@ -3529,7 +4064,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-motown-channel/MotownRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-motown-channel/MotownRadio-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9145",
       "chill",
@@ -3572,7 +4113,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/soundcloud-radio/SoundCloudRadio-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/soundcloud-radio/SoundCloudRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9145",
       "chill",
@@ -3616,7 +4163,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/SiriusXM-Limited-Edition-9/SiriusXM-Limited-Edition-9.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/SiriusXM-Limited-Edition-9/SiriusXM-Limited-Edition-9-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9145",
       "chill",
@@ -3659,7 +4212,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Carolina-Shag-Radio/Carolina-Shag-Radio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Carolina-Shag-Radio/CarolinaShagRadio_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusblues",
       "siriusgold",
@@ -3703,7 +4262,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pitbull-Globalization/Pitbull-Globalization-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pitbull-Globalization/Pitbull_Globalization_White_Vert.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9389",
       "siriushits1",
@@ -3747,7 +4314,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pitbull-Globalization/Pitbull-Globalization-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Pitbull-Globalization/Pitbull_Globalization_White_Vert.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9389",
       "siriushits1",
@@ -3791,7 +4366,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Tom-Petty-Radio/TomPettyRadio_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Tom-Petty-Radio/TomPettyRadio_4C_1C_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "estreetradio",
       "thevault",
@@ -3837,7 +4420,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Tom-Petty-Radio/TomPettyRadio_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Tom-Petty-Radio/TomPettyRadio_4C_1C_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "estreetradio",
       "thevault",
@@ -3893,7 +4484,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Celebrate/Celebrate-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Celebrate/Celebrate-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9378",
       "9145",
@@ -3952,7 +4549,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Turbo/Turbo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Turbo/Turbo-1C.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "hairnation",
       "90salternative",
@@ -4014,7 +4617,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Turbo/Turbo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Turbo/Turbo-1C.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "hairnation",
       "90salternative",
@@ -4074,7 +4683,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Road-Trip-Radio/Road_Trip_Radio_1_color_blue.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Road-Trip-Radio/Road_Trip_Radio_1_color_wht_alt.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "totally70s",
@@ -4133,7 +4751,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Road-Trip-Radio/Road_Trip_Radio_1_color_blue.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Road-Trip-Radio/Road_Trip_Radio_1_color_wht_alt.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "totally70s",
@@ -4181,7 +4808,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/No-Shoes-Radio/No-Shoes-Radio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/No-Shoes-Radio/NoShoes_Radio-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1640707539559
   },
@@ -4220,7 +4855,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/No-Shoes-Radio/No-Shoes-Radio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/No-Shoes-Radio/NoShoes_Radio-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1640707539559
   },
@@ -4269,7 +4912,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ONEderland/ONEderland-logo.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ONEderland/OldiesParty_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "totally70s",
       "9412",
@@ -4323,7 +4972,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/yacht-rock-311/Yacht-Rock-311-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/yacht-rock-311/Yacht-Rock-311-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "totally70s",
       "9418",
@@ -4370,7 +5026,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Garth-Channel/The-Garth_Channel.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Garth-Channel/The-Garth_Channel_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1631720105811
   },
@@ -4411,7 +5075,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Garth-Channel/The-Garth_Channel.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Garth-Channel/The-Garth_Channel_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1631720105811
   },
@@ -4456,7 +5128,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Beatles-Channel/The-Beatles-Channel.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Beatles-Channel/The-Beatles-Channel_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "60svibrations",
       "totally70s",
@@ -4508,7 +5188,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Beatles-Channel/The-Beatles-Channel.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Beatles-Channel/The-Beatles-Channel_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "60svibrations",
       "totally70s",
@@ -4561,7 +5249,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Emo-Project/The_Emo_Project.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Emo-Project/The_Emo_Project_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "90salternative",
@@ -4616,7 +5310,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/PopRocks/PopRocks.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/PopRocks/PopRocks_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "thepulse",
@@ -4673,7 +5378,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/PopRocks/PopRocks.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/PopRocks/PopRocks_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "thepulse",
@@ -4727,7 +5443,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/indie-1-0/Indie1.0-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/indie-1-0/Indie1.0_4C-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "leftofcenter",
       "9447",
@@ -4780,7 +5502,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Marky-Ramone-Punk-Rock-Blitzkrieg/MRamonesPRBiltzkrieg-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Marky-Ramone-Punk-Rock-Blitzkrieg/MRamonesPRBiltzkrieg-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "leftofcenter",
       "altnation",
@@ -4836,7 +5564,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-WHITE.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "hiphopnation",
       "shade45",
@@ -4892,7 +5626,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-WHITE.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "hiphopnation",
       "shade45",
@@ -4946,7 +5686,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Diplo-Revolution/DiplosRevolution-4C-FILL.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Diplo-Revolution/DiploRevolution-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9389",
       "hotjamz",
@@ -4999,7 +5747,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Diplo-Revolution/DiplosRevolution-4C-FILL.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Diplo-Revolution/DiploRevolution-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9389",
       "hotjamz",
@@ -5054,7 +5810,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Dwight-Yoakam-and-The-Bakersfield-Beat/DwightYoakam-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Dwight-Yoakam-and-The-Bakersfield-Beat/DwightYoakam-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "theroadhouse",
       "primecountry",
@@ -5109,7 +5874,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Dwight-Yoakam-and-The-Bakersfield-Beat/DwightYoakam-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Dwight-Yoakam-and-The-Bakersfield-Beat/DwightYoakam-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "theroadhouse",
       "primecountry",
@@ -5145,14 +5919,20 @@
     "siriusChannelNumber": 501,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/joni-mitchell-channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-1",
     "xmChannelNumber": 501,
     "primaryColor": "#7ac142",
     "secondaryColor": "#8bbe56",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-1/SiriusXM-Limited-Edition-1.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1641222484252
   },
@@ -5190,7 +5970,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-12/SiriusXM-Limited-Edition-12.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-12/SiriusXM-Limited-Edition-12-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1631716959931
   },
@@ -5236,7 +6022,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/PandoraNow-4C-COLOR.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/PandoraNow-White.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "thepulse",
       "hiphopnation",
@@ -5288,7 +6080,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/PandoraNow-4C-COLOR.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/PandoraNow-White.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "thepulse",
       "hiphopnation",
@@ -5333,7 +6131,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/soulcycle/SoulCycleRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/soulcycle/SoulCycleRadio-4C-WHITE-SML.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "hiphopnation",
       "siriushits1",
@@ -5378,7 +6185,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/soulcycle/SoulCycleRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/soulcycle/SoulCycleRadio-4C-WHITE-SML.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "hiphopnation",
       "siriushits1",
@@ -5427,7 +6243,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/88rising/88rising-PRI-K.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/88rising/88rising-PRI-White.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "leftofcenter",
       "hiphopnation",
@@ -5475,7 +6297,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/88rising/88rising-PRI-K.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/88rising/88rising-PRI-White.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "leftofcenter",
       "hiphopnation",
@@ -5519,7 +6347,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/dave-matthews-band-radio/DMB-Radio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/dave-matthews-band-radio/DMB-Radio-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "90salternative",
@@ -5566,7 +6402,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/dave-matthews-band-radio/DMB-Radio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/dave-matthews-band-radio/DMB-Radio-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "90salternative",
@@ -5613,7 +6457,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/u2-x-radio/U2XRadio-SMPL-RGB.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/u2-x-radio/U2XRadio-SMPL-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "90salternative",
@@ -5661,7 +6513,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/u2-x-radio/U2XRadio-SMPL-RGB.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/u2-x-radio/U2XRadio-SMPL-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "90salternative",
@@ -5709,7 +6569,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/bob-marleys-tuff-gong-radio/BobMarleyTuffGong-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/bob-marleys-tuff-gong-radio/BobMarleyTuffGong-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1630095268118
   },
@@ -5748,7 +6616,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/bob-marleys-tuff-gong-radio/BobMarleyTuffGong-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/bob-marleys-tuff-gong-radio/BobMarleyTuffGong-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1630095268118
   },
@@ -5787,7 +6663,12 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/sound-42/Sound42-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/sound-42/Sound42-White.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": null,
     "updatedDate": 1631539721631
   },
@@ -5826,7 +6707,12 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/sound-42/Sound42-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/sound-42/Sound42-White.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": null,
     "updatedDate": 1631539721631
   },
@@ -5864,7 +6750,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/chucho-valdes'-cuba---beyond/ChuchoValdesCubaAndBeyond-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/chucho-valdes'-cuba---beyond/ChuchoValdesCubaAndBeyond-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1630335582942
   },
@@ -5903,7 +6795,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/disney-hits/Disney-Hits-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/disney-hits/DisneyHits-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1639755391103
   },
@@ -5942,7 +6843,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/disney-hits/Disney-Hits-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/disney-hits/DisneyHits-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1639755391103
   },
@@ -5980,7 +6890,11 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/ll-cool-js-rock-the-bells-mixdown/LLCoolJsRTBMixdown-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/ll-cool-js-rock-the-bells-mixdown/LLCoolJsRTBMixdown-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA"
+    ],
     "relatedChannels": null,
     "updatedDate": 1631215126778
   },
@@ -6027,7 +6941,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/andy-cohen-kiki-lounge/AndyCohensKikiLounge-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/andy-cohen-kiki-lounge/AndyCohensKikiLounge-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1630086830761
   },
@@ -6074,7 +6994,12 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/tiktok-radio/TikTok-Radio-artboard-Logo-Full-Color.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/tiktok-radio/TikTok-Radio-artboard-Logo-White.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": null,
     "updatedDate": 1629388083303
   },
@@ -6121,7 +7046,12 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/tiktok-radio/TikTok-Radio-artboard-Logo-Full-Color.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/tiktok-radio/TikTok-Radio-artboard-Logo-White.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": null,
     "updatedDate": 1629388083303
   },
@@ -6159,7 +7089,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/miles-davis-radio/MilesDavisRadio-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/miles-davis-radio/MilesDavisRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1643734164177
   },
@@ -6197,7 +7133,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Limited-Edition-3/SiriusXM-Limited-Edition-3-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1641222609237
   },
@@ -6235,7 +7177,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/bon-jovi-radio/BonJoviRadio-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/bon-jovi-radio/BonJoviRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1630095355919
   },
@@ -6273,7 +7221,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1639765721583
   },
@@ -6311,7 +7265,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/SiriusXM-Limited-Edition-11/SiriusXM-Limited-Edition-11.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/SiriusXM-Limited-Edition-11/SiriusXM-Limited-Edition-11-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1634140462899
   },
@@ -6350,7 +7310,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-10s-spot/10sSpot-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-10s-spot/10sSpot-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "thepulse",
@@ -6396,7 +7365,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-10s-spot/10sSpot-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-10s-spot/10sSpot-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "thepulse",
@@ -6442,7 +7420,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/mosaic/Mosaic-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/mosaic/Mosaic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1635433529778
   },
@@ -6481,7 +7468,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/mosaic/Mosaic-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/mosaic/Mosaic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1635433529778
   },
@@ -6519,7 +7515,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/little-stevens-coolest-songs-in-the-world/LittleStevensCoolestSongs-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/little-stevens-coolest-songs-in-the-world/LittleStevensCoolestSongs-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": null,
     "updatedDate": 1635449600033
   },
@@ -6566,7 +7568,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Alt-Nation/Alt-Nation_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Alt-Nation/Alt-Nation_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "leftofcenter",
       "90salternative",
@@ -6619,7 +7632,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Alt-Nation/Alt-Nation_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Alt-Nation/Alt-Nation_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "leftofcenter",
       "90salternative",
@@ -6678,7 +7702,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/80s-on-8/80son8-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/80s-on-8/80son8-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "firstwave",
@@ -6737,7 +7770,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/80s-on-8/80son8-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/80s-on-8/80son8-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "firstwave",
@@ -6796,7 +7838,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Bluegrass-Junction/BluegrassJunction-SMPL-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Bluegrass-Junction/BluegrassJunction-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "outlawcountry"
     ],
@@ -6851,7 +7902,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Bluegrass-Junction/BluegrassJunction-SMPL-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Bluegrass-Junction/BluegrassJunction-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "outlawcountry"
     ],
@@ -6907,7 +7967,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/On-Broadway/On_Broadway.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/On-Broadway/OnBroadway_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "totally70s",
       "60svibrations",
@@ -6967,7 +8036,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/On-Broadway/On_Broadway.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/On-Broadway/OnBroadway_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "totally70s",
       "60svibrations",
@@ -7029,7 +8107,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Ozzy-Boneyard/Ozzy_Boneyard.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Ozzy-Boneyard/OzzysBoneyard_White_R_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "hairnation",
       "90salternative",
@@ -7092,7 +8179,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Ozzy-Boneyard/Ozzy_Boneyard.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Ozzy-Boneyard/OzzysBoneyard_White_R_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "hairnation",
       "90salternative",
@@ -7148,7 +8244,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/SiriusXM-Chill/SiriusXMChill_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/SiriusXM-Chill/SiriusXMChill_SMPL_4C_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "leftofcenter",
       "9472"
@@ -7200,7 +8305,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/SiriusXM-Chill/SiriusXMChill_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/SiriusXM-Chill/SiriusXMChill_SMPL_4C_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "leftofcenter",
       "9472"
@@ -7258,7 +8372,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Classic-Rewind/ClassicRewind-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Classic-Rewind/ClassicRewind-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "hairnation",
       "estreetradio",
@@ -7321,7 +8446,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Classic-Rewind/ClassicRewind-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Classic-Rewind/ClassicRewind-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "hairnation",
       "estreetradio",
@@ -7383,7 +8519,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Classic-Vinyl/ClassicVinyl-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Classic-Vinyl/ClassicVinyl-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "estreetradio",
       "thevault",
@@ -7445,7 +8592,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Classic-Vinyl/ClassicVinyl-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Classic-Vinyl/ClassicVinyl-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "estreetradio",
       "thevault",
@@ -7502,7 +8660,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Coffeehouse/TheCoffeehouse-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Coffeehouse/TheCoffeeHouse_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thespectrum",
       "thebridge"
@@ -7554,7 +8721,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Coffeehouse/TheCoffeehouse-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Coffeehouse/TheCoffeeHouse_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thespectrum",
       "thebridge"
@@ -7601,7 +8777,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusgold",
       "60svibrations",
@@ -7653,7 +8837,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusgold",
       "60svibrations",
@@ -7702,7 +8894,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/E-Street-Radio/E_Street_Lock-Up.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/E-Street-Radio/E-Street_whtKO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thevault",
       "undergroundgarage",
@@ -7749,7 +8949,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/E-Street-Radio/E_Street_Lock-Up.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/E-Street-Radio/E-Street_whtKO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thevault",
       "undergroundgarage",
@@ -7806,7 +9014,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Faction-Punk/Faction-Punk-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Faction-Punk/FactionPunk-WHITE.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "altnation",
       "rawdog",
@@ -7863,7 +9077,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Faction-Punk/Faction-Punk-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Faction-Punk/FactionPunk-WHITE.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "altnation",
       "rawdog",
@@ -7926,7 +9146,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/1st-Wave/1stWave-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/1st-Wave/1stWave-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "90salternative",
@@ -7988,7 +9217,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/1st-Wave/1stWave-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/1st-Wave/1stWave-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "90salternative",
@@ -8043,7 +9281,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Grateful-Dead/GratefulDead-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Grateful-Dead/GratefulDead-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "jamon",
       "thevault",
@@ -8099,7 +9345,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Grateful-Dead/GratefulDead-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Grateful-Dead/GratefulDead-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "jamon",
       "thevault",
@@ -8161,7 +9415,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Hair-Nation/HairNation-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Hair-Nation/HairNation_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "big80s",
       "classicrewind",
@@ -8223,7 +9486,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Hair-Nation/HairNation-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Hair-Nation/HairNation_WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "big80s",
       "classicrewind",
@@ -8283,7 +9555,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Liquid-Metal/Liquid_Metal.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Liquid-Metal/LiquidMetal_White_R_424x248_K2.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "howardstern101",
       "howardstern100",
@@ -8342,7 +9620,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Liquid-Metal/Liquid_Metal.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Liquid-Metal/LiquidMetal_White_R_424x248_K2.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "howardstern101",
       "howardstern100",
@@ -8402,7 +9686,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Heart-and-Soul/HeartandSoul_500x400.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Heart-and-Soul/HeartandSoul_500x400-OnK.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "8238",
       "praise",
@@ -8461,7 +9756,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Heart-and-Soul/HeartandSoul_500x400.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Heart-and-Soul/HeartandSoul_500x400-OnK.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "8238",
       "praise",
@@ -8519,7 +9825,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Hip-Hop-Nation/Hip-Hop-Nation.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Hip-Hop-Nation/Hip-Hop-Nation_white.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "9469",
       "shade45",
@@ -8578,7 +9890,13 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Hip-Hop-Nation/Hip-Hop-Nation.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Hip-Hop-Nation/Hip-Hop-Nation_white.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "9469",
       "shade45",
@@ -8639,7 +9957,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Heat/The-Heat-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Heat/The-Heat-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "shade45",
@@ -8702,7 +10031,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Heat/The-Heat-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Heat/The-Heat-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "shade45",
@@ -8763,7 +10103,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/jam-on-309/Jam-On-309-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/jam-on-309/Jam-On-309-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "reggaerhythms",
       "thevault",
@@ -8823,7 +10172,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/jam-on-309/Jam-On-309-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/jam-on-309/Jam-On-309-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "reggaerhythms",
       "thevault",
@@ -8882,7 +10240,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Watercolors/Watercolors-logo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Watercolors/Watercolors-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "9364",
@@ -8941,7 +10310,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Watercolors/Watercolors-logo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Watercolors/Watercolors-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "9364",
@@ -8969,6 +10349,7 @@
       "Chris Cantalini",
       "Carles",
       "Dodge",
+      "Phoebe Bridgers",
       "Chris Muckley"
     ],
     "assetId": 1550762883680,
@@ -9004,7 +10385,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXMU/SIR_XMU.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXMU/SIR_XMU_wht_ko.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "firstwave",
@@ -9013,7 +10403,7 @@
       "8207",
       "9451"
     ],
-    "updatedDate": 1631539407921
+    "updatedDate": 1646346843549
   },
   {
     "artistsYouHear": [
@@ -9033,6 +10423,7 @@
       "Chris Cantalini",
       "Carles",
       "Dodge",
+      "Phoebe Bridgers",
       "Chris Muckley"
     ],
     "assetId": 1550762883680,
@@ -9068,7 +10459,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXMU/SIR_XMU.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXMU/SIR_XMU_wht_ko.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "firstwave",
@@ -9077,7 +10477,7 @@
       "8207",
       "9451"
     ],
-    "updatedDate": 1631539407921
+    "updatedDate": 1646346843549
   },
   {
     "artistsYouHear": [
@@ -9126,7 +10526,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/Met-Opera-Radio/Met-Opera-Ch-LUp.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/Met-Opera-Radio/Met-Opera-Ch-LUp_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriuslysinatra",
       "broadwaysbest",
@@ -9183,7 +10590,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Highway/TheHighway_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Highway/TheHighway_white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "primecountry"
@@ -9239,7 +10657,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Highway/TheHighway_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Highway/TheHighway_white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "primecountry"
@@ -9299,7 +10728,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Octane/Octane-logo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Octane/Octane_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "rawdog",
@@ -9365,7 +10805,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Octane/Octane-logo-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Octane/Octane_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "rawdog",
@@ -9433,7 +10884,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Outlaw-Country/OutlawCountry.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Outlaw-Country/OutlawCountry_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "theroadhouse",
       "thespectrum"
@@ -9495,7 +10955,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Outlaw-Country/OutlawCountry.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Outlaw-Country/OutlawCountry_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "theroadhouse",
       "thespectrum"
@@ -9551,7 +11020,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/Kirk-Franklin-Praise/Kirk_Franklin-Praise.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/Kirk-Franklin-Praise/Kirk_Franklin-Praise_KO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "spirit",
       "8229"
@@ -9607,7 +11085,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/Kirk-Franklin-Praise/Kirk_Franklin-Praise.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/Kirk-Franklin-Praise/Kirk_Franklin-Praise_KO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "spirit",
       "8229"
@@ -9663,7 +11150,17 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Prime-Country/Prime-Country.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Prime-Country/PrimeCountry_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9178",
       "theroadhouse",
@@ -9722,7 +11219,17 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Prime-Country/Prime-Country.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Prime-Country/PrimeCountry_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9178",
       "theroadhouse",
@@ -9785,7 +11292,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Real-Jazz/RealJazz.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Real-Jazz/RealJazz_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusblues",
       "siriuslysinatra",
@@ -9847,7 +11363,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Real-Jazz/RealJazz.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Real-Jazz/RealJazz_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusblues",
       "siriuslysinatra",
@@ -9911,7 +11436,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Radio-Margaritaville/Radio-Margaritaville.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Radio-Margaritaville/RadioMargaritaville_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "totally70s",
       "reggaerhythms",
@@ -9976,7 +11509,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Radio-Margaritaville/Radio-Margaritaville.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Radio-Margaritaville/RadioMargaritaville_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "totally70s",
       "reggaerhythms",
@@ -10035,7 +11576,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Joint/TheJoint_4C_7-15.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Joint/TheJoint_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "jamon",
       "gratefuldead",
@@ -10096,7 +11644,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/caliente/Caliente-4C-no-padding-2.png",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/caliente/Caliente-31-720x720.png",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9188",
       "9189",
@@ -10160,7 +11719,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/caliente/Caliente-4C-no-padding-2.png",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/caliente/Caliente-31-720x720.png",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "9188",
       "9189",
@@ -10225,7 +11795,12 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Shade-45/Shade45_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Shade-45/Shade_45_white_KO.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "hiphopnation",
       "9471"
@@ -10285,7 +11860,12 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Shade-45/Shade45_SMPL_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Shade-45/Shade_45_white_KO.svg",
     "explicitContentIndicator": "Yes",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
+    ],
     "relatedChannels": [
       "hiphopnation",
       "9471"
@@ -10338,7 +11918,19 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/BB-King-Bluesville/BBKingBluesville.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/BB-King-Bluesville/BBKingBluesville_white_KO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
     "relatedChannels": [
       "thevault",
       "purejazz",
@@ -10392,7 +11984,19 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/BB-King-Bluesville/BBKingBluesville.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/BB-King-Bluesville/BBKingBluesville_white_KO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
     "relatedChannels": [
       "thevault",
       "purejazz",
@@ -10446,7 +12050,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/50s-gold/50sGold-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/50s-gold/50sGold-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "elvisradio",
       "60svibrations",
@@ -10502,7 +12115,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/50s-gold/50sGold-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/50s-gold/50sGold-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "elvisradio",
       "60svibrations",
@@ -10563,7 +12185,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Hits-1/SiriusXM_Hits1.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Hits-1/SiriusXM_Hits1_1C_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "hotjamz",
@@ -10622,7 +12255,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Hits-1/SiriusXM_Hits1.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Hits-1/SiriusXM_Hits1_1C_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "hotjamz",
@@ -10674,7 +12318,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Love/SiriusXM_love.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/SiriusXM-Love/SiriusXM_love_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "8215",
@@ -10730,7 +12381,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Siriusly-Sinatra/SIRIUSLY_SINATRA.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Siriusly-Sinatra/Siriusly_Sinatra_white_KO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusgold",
       "broadwaysbest",
@@ -10786,7 +12445,15 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Siriusly-Sinatra/SIRIUSLY_SINATRA.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Siriusly-Sinatra/Siriusly_Sinatra_white_KO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "siriusgold",
       "broadwaysbest",
@@ -10840,7 +12507,14 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/SiriusXM-Pops/SiriusXM_pops.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/SiriusXM-Pops/SiriusXM_pops_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "broadwaysbest",
       "purejazz",
@@ -10897,7 +12571,17 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Soul-Town/SoulTown.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Soul-Town/SoulTown_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "totally70s",
@@ -10954,7 +12638,17 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Soul-Town/SoulTown.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Soul-Town/SoulTown_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "heartandsoul",
       "totally70s",
@@ -11008,7 +12702,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Spa/Spa.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Spa/Spa_white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "chill",
       "jazzcafe",
@@ -11061,7 +12764,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Spa/Spa.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Spa/Spa_white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "chill",
       "jazzcafe",
@@ -11116,7 +12828,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/The_Message.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/TheMessage_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "8229",
       "praise"
@@ -11170,7 +12893,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/The_Message.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/TheMessage_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "8229",
       "praise"
@@ -11221,7 +12955,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Blend/The_Blend.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Blend/TheBlend_Black_K2-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "totally70s",
       "coffeehouse",
@@ -11277,7 +13022,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Blend/The_Blend.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Blend/TheBlend_Black_K2-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "totally70s",
       "coffeehouse",
@@ -11341,7 +13097,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/Symphony-Hall/Symphony-Hall.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/Symphony-Hall/Symphony-Hall_onK.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "broadwaysbest",
       "purejazz",
@@ -11402,7 +13169,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/Symphony-Hall/Symphony-Hall.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/Symphony-Hall/Symphony-Hall_onK.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "broadwaysbest",
       "purejazz",
@@ -11462,7 +13240,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/BPM/BPM-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/BPM/BPM-white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "siriushits1",
@@ -11521,7 +13308,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/BPM/BPM-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/BPM/BPM-white.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "altnation",
       "siriushits1",
@@ -11578,7 +13374,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Bridge/The-Bridge.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Bridge/The-Bridge_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "starlite",
@@ -11635,7 +13442,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Bridge/The-Bridge.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Bridge/The-Bridge_White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "starlite",
@@ -11693,7 +13511,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Pulse/The_PULSE.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Pulse/ThePulse_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thespectrum",
       "big80s",
@@ -11752,7 +13581,18 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Pulse/The_PULSE.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Pulse/ThePulse_White_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thespectrum",
       "big80s",
@@ -11814,7 +13654,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Willie-Roadhouse/WilliesRoadhouse_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Willie-Roadhouse/WilliesRoadhouse_wht_KO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "elvisradio",
       "bluegrass",
@@ -11875,7 +13724,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Willie-Roadhouse/WilliesRoadhouse_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Willie-Roadhouse/WilliesRoadhouse_wht_KO.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "elvisradio",
       "bluegrass",
@@ -11935,7 +13793,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Spectrum/TheSpectrum-4C-color.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Spectrum/TheSpectrum-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "coffeehouse",
@@ -11997,7 +13864,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Spectrum/TheSpectrum-4C-color.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Spectrum/TheSpectrum-White.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "thepulse",
       "coffeehouse",
@@ -12064,7 +13940,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Deep-Tracks/DeepTracks-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Deep-Tracks/DeepTracks-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "estreetradio",
       "undergroundgarage",
@@ -12132,7 +14017,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Deep-Tracks/DeepTracks-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Deep-Tracks/DeepTracks-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "estreetradio",
       "undergroundgarage",
@@ -12195,7 +14089,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/70s-on-7/70son7_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/70s-on-7/70son7-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "60svibrations",
       "classicvinyl",
@@ -12256,7 +14159,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/70s-on-7/70son7_4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/70s-on-7/70son7-WHITE.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "60svibrations",
       "classicvinyl",
@@ -12328,7 +14240,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Underground-Garage/Undrgrnd_Garage_Guitar.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Underground-Garage/UndergroundGarage_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "60svibrations",
       "estreetradio",
@@ -12401,7 +14322,16 @@
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Underground-Garage/Undrgrnd_Garage_Guitar.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Underground-Garage/UndergroundGarage_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
-    "packages": [],
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
     "relatedChannels": [
       "60svibrations",
       "estreetradio",
