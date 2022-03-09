@@ -8612,13 +8612,15 @@
   },
   {
     "artistsYouHear": [
-      "Dr. Steve",
       "Sam Roberts",
       "Ron Bennington",
       "Gail Bennington",
       "Jim Norton",
       "Dan Soder",
-      "Jay Oakerson"
+      "Jay Oakerson",
+      "Ben Kissel",
+      "Henry Zebrowski",
+      "Marcus Parks"
     ],
     "assetId": 1550762858794,
     "deliveryTypes": [
@@ -8665,17 +8667,19 @@
       "9408",
       "buzzsaw"
     ],
-    "updatedDate": 1631120495182
+    "updatedDate": 1646796288886
   },
   {
     "artistsYouHear": [
-      "Dr. Steve",
       "Sam Roberts",
       "Ron Bennington",
       "Gail Bennington",
       "Jim Norton",
       "Dan Soder",
-      "Jay Oakerson"
+      "Jay Oakerson",
+      "Ben Kissel",
+      "Henry Zebrowski",
+      "Marcus Parks"
     ],
     "assetId": 1550762858794,
     "deliveryTypes": [
@@ -8722,7 +8726,7 @@
       "9408",
       "buzzsaw"
     ],
-    "updatedDate": 1631120495182
+    "updatedDate": 1646796288886
   },
   {
     "artistsYouHear": [
