@@ -23641,7 +23641,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "St. Paddy’s Day Radio will air on channel 505 until Friday, March 18 at 3am",
+    "channelNotification": null,
     "contentId": "9399",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition5&cp_5=SXMLimitedEdition5&cp_6=TALK&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition5&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition5-TALK-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SXM Limited Edition 5",
@@ -23676,7 +23676,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1647281534247
+    "updatedDate": 1648052646749
   },
   {
     "artistsYouHear": [],
