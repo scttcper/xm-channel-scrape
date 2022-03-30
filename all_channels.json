@@ -29005,6 +29005,62 @@
     "updatedDate": 1646672519916
   },
   {
+    "artistsYouHear": [
+      "Stephen Dubner",
+      "Angela Duckworth",
+      "Steven Levitt",
+      "Bapu Jena"
+    ],
+    "assetId": 1550834614724,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "entertainment",
+    "categoryIcon": null,
+    "categoryTitle": "Talk & Entertainment",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9565",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=FreakonomicsRadio&cp_5=FreakonomicsRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=FreakonomicsRadio&creative_id=NA_NA_DL-COM-live-FreakonomicsRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Freakonomics Radio Network",
+    "genre": "entertainment",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Entertainment",
+    "genreVanityURL": null,
+    "longDescription": "Explore the hidden side of everything with storytelling both rigorous and entertaining. On <em>Freakonomics Radio</em>, Stephen Dubner explores things you always thought you knew (but didn&rsquo;t) and things you never thought you wanted to know (but do) &mdash; from the upside of quitting to the downside of disgust and the true stories of rent control, minimum wage, and the gender pay gap. Also: <em>No Stupid Questions</em> co-hosted by Angela Duckworth, Steve Levitt&rsquo;s <em>People I (Mostly) Admire,</em> and <em>Freakonomics</em>, M.D. with Bapu Jena.",
+    "mediumDescription": "Explore the hidden side of everything, from the economics of sleep to how to be great at just about anything.",
+    "shortDescription": "The hidden side of everything",
+    "siriusChannelNumber": 791,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/freakonomics-radio-network",
+    "xmChannelNumber": 791,
+    "primaryColor": "#e87e25",
+    "secondaryColor": "#3c5801",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/freaknomics-radio/Freakonomics-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/freaknomics-radio/Freakonomics-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "nprnow",
+      "radioclassics",
+      "9359",
+      "9514",
+      "bloombergradio",
+      "8239"
+    ],
+    "updatedDate": 1648019378412
+  },
+  {
     "artistsYouHear": [],
     "assetId": 1550834568017,
     "deliveryTypes": [
@@ -29047,6 +29103,59 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1647868336342
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550834967485,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9570",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RedHotChiliPeppers&cp_5=RedHotChiliPeppers&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=RedHotChiliPeppers&creative_id=NA_NA_DL-COM-live-RedHotChiliPeppers--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Whole Lotta Red Hot",
+    "genre": "rock",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Rock",
+    "genreVanityURL": null,
+    "longDescription": "A Whole Lotta Red Hot is your new SiriusXM channel.  Dive deep into the vast, funky musical world of the Red Hot Chili Peppers on their own channel.  Hear the band host shows, take you track-by-track through their new album Unlimited Love, live performances from their vault, side projects plus all of their favorite artists",
+    "mediumDescription": "Whole Lotta Red Hot is RHCP's new exclusive SiriusXM channel",
+    "shortDescription": "Red Hot Chili Peppers on SiriusXM",
+    "siriusChannelNumber": 315,
+    "siriusServiceId": null,
+    "xmServiceId": 270,
+    "vanityURL": "https://www.siriusxm.com/channels/whole-lotta-red-hot",
+    "xmChannelNumber": 315,
+    "primaryColor": "#E8230B",
+    "secondaryColor": "#000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/whole-lotta-red-hot/WholeLottaRedHot-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/whole-lotta-red-hot/WholeLottaRedHot-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "altnation",
+      "90salternative",
+      "thespectrum",
+      "8206",
+      "9450",
+      "9174"
+    ],
+    "updatedDate": 1648218347992
   },
   {
     "artistsYouHear": [
