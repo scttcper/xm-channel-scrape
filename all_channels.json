@@ -8471,6 +8471,49 @@
     "updatedDate": 1643733710391
   },
   {
+    "artistsYouHear": [],
+    "assetId": 1550834588898,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4208",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=88risingsThereThere&cp_5=88risingsThereThere&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=88risingsThereThere&creative_id=NA_NA_DL-COM-xtra-88risingsThereThere-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "88rising's There, There",
+    "genre": "discovery",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "New Music Discovery",
+    "genreVanityURL": null,
+    "longDescription": "Drift to Dream Music",
+    "mediumDescription": "Drift to Dream Music",
+    "shortDescription": "Drift to Dream Music",
+    "siriusChannelNumber": 1201,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1201,
+    "primaryColor": "#000",
+    "secondaryColor": "#000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/88rising's-there,-there/88risingThereThere-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/88rising's-there,-there/88risingThereThere-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1647564988822
+  },
+  {
     "artistsYouHear": [
       "Aretha Franklin",
       "Beatles",
@@ -28898,6 +28941,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/noel-incontournable/Noel-Incontournable-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
