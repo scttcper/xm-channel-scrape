@@ -38,6 +38,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
@@ -83,6 +84,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -126,6 +128,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -169,6 +172,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -212,6 +216,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -255,6 +260,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -298,6 +304,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -341,6 +348,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -384,6 +392,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -427,6 +436,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -469,7 +479,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631204066229
@@ -510,7 +521,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631122100438
@@ -551,7 +563,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1630085457155
@@ -593,6 +606,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -636,6 +650,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -679,6 +694,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -722,6 +738,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -765,6 +782,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -808,6 +826,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -851,6 +870,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -894,6 +914,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -937,6 +958,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -979,7 +1001,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631203983040
@@ -1021,6 +1044,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1064,6 +1088,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1107,6 +1132,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1150,6 +1176,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1193,6 +1220,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1236,6 +1264,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1279,6 +1308,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1322,6 +1352,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1365,6 +1396,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1408,6 +1440,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1451,6 +1484,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1493,7 +1527,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631120826606
@@ -1534,7 +1569,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631120796576
@@ -1576,6 +1612,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1619,6 +1656,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1662,6 +1700,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1704,7 +1743,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631203920594
@@ -1746,6 +1786,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1789,6 +1830,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1832,6 +1874,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1875,6 +1918,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1918,6 +1962,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1961,6 +2006,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2004,6 +2050,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2047,6 +2094,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2090,6 +2138,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2133,6 +2182,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2175,7 +2225,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631722687135
@@ -2216,7 +2267,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631120871785
@@ -2258,6 +2310,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2301,6 +2354,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2344,6 +2398,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2387,6 +2442,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2430,6 +2486,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2473,6 +2530,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2516,6 +2574,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2558,7 +2617,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631722653913
@@ -2600,6 +2660,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2643,6 +2704,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2686,6 +2748,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2729,6 +2792,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2771,7 +2835,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631120840663
@@ -2813,6 +2878,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2856,6 +2922,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2899,6 +2966,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2942,6 +3010,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2985,6 +3054,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3027,7 +3097,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631722721209
@@ -3069,6 +3140,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3112,6 +3184,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3155,6 +3228,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3198,6 +3272,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3240,7 +3315,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631204022318
@@ -3281,7 +3357,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631120892212
@@ -3323,6 +3400,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3366,6 +3444,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3409,6 +3488,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3452,6 +3532,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3495,6 +3576,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3538,6 +3620,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3581,6 +3664,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3623,7 +3707,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1630335769171
@@ -3665,6 +3750,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3708,6 +3794,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3751,6 +3838,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3794,6 +3882,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3837,6 +3926,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3880,6 +3970,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3923,6 +4014,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3966,6 +4058,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4009,6 +4102,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4052,6 +4146,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4095,6 +4190,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4138,6 +4234,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4181,6 +4278,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4224,6 +4322,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4267,6 +4366,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4309,7 +4409,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631203947547
@@ -4351,6 +4452,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4394,52 +4496,12 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
     "updatedDate": 1630095909643
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550762895744,
-    "deliveryTypes": [
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "4104",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=CloudRap&cp_5=CloudRap&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=CloudRap&creative_id=NA_NA_DL-COM-xtra-CloudRap-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Cloud Rap",
-    "genre": "discovery",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "New Music Discovery",
-    "genreVanityURL": null,
-    "longDescription": "Emerging Rap & Hip-Hop Music",
-    "mediumDescription": "Emerging Rap & Hip-Hop Music",
-    "shortDescription": "Emerging Rap & Hip-Hop Music",
-    "siriusChannelNumber": 1064,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": null,
-    "xmChannelNumber": 1064,
-    "primaryColor": "#e8d5c8",
-    "secondaryColor": "#362c2b",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Cloud-Rap/CloudRap.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Cloud-Rap/CloudRap_-white.svg",
-    "explicitContentIndicator": "Yes",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1630336160022
   },
   {
     "artistsYouHear": [],
@@ -4478,6 +4540,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4521,6 +4584,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4564,6 +4628,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4607,6 +4672,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4650,6 +4716,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4693,6 +4760,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4736,6 +4804,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4779,6 +4848,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4822,6 +4892,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4865,6 +4936,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4908,6 +4980,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4951,6 +5024,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4994,6 +5068,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5037,6 +5112,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5080,6 +5156,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5123,6 +5200,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5166,6 +5244,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5208,7 +5287,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631126421275
@@ -5249,7 +5329,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631655055638
@@ -5290,7 +5371,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1630094706274
@@ -5332,6 +5414,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5375,6 +5458,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5418,6 +5502,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5461,6 +5546,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5504,6 +5590,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5546,7 +5633,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631539945591
@@ -5588,6 +5676,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5631,6 +5720,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5673,7 +5763,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1630085426271
@@ -5715,6 +5806,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5758,6 +5850,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5801,6 +5894,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5845,6 +5939,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5887,7 +5982,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631215080955
@@ -5929,6 +6025,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5972,6 +6069,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6015,6 +6113,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6058,6 +6157,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6101,6 +6201,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6144,6 +6245,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6187,6 +6289,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6230,6 +6333,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6273,6 +6377,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6316,6 +6421,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6359,6 +6465,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6402,6 +6509,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6445,6 +6553,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6488,6 +6597,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6532,6 +6642,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6576,6 +6687,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6620,6 +6732,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6664,6 +6777,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6708,6 +6822,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6752,6 +6867,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6796,6 +6912,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6840,6 +6957,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6884,6 +7002,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6928,6 +7047,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -6972,6 +7092,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7016,6 +7137,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7060,6 +7182,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7104,6 +7227,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7148,6 +7272,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7192,6 +7317,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7236,6 +7362,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7280,6 +7407,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7324,6 +7452,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7368,6 +7497,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7412,6 +7542,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7456,6 +7587,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7500,6 +7632,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7544,6 +7677,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7588,6 +7722,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7632,6 +7767,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7676,6 +7812,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7720,6 +7857,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7764,6 +7902,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7808,6 +7947,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7852,6 +7992,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7896,6 +8037,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7940,6 +8082,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7984,6 +8127,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8028,6 +8172,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8072,6 +8217,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8116,6 +8262,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8160,6 +8307,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8204,6 +8352,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8248,6 +8397,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8292,6 +8442,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8335,7 +8486,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1638863697693
@@ -8378,6 +8530,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8422,6 +8575,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8465,53 +8619,11 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1643733710391
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550834588898,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "4208",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=88risingsThereThere&cp_5=88risingsThereThere&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=88risingsThereThere&creative_id=NA_NA_DL-COM-xtra-88risingsThereThere-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "88rising's There, There",
-    "genre": "discovery",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "New Music Discovery",
-    "genreVanityURL": null,
-    "longDescription": "Drift to Dream Music",
-    "mediumDescription": "Drift to Dream Music",
-    "shortDescription": "Drift to Dream Music",
-    "siriusChannelNumber": 1201,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": null,
-    "xmChannelNumber": 1201,
-    "primaryColor": "#000",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/88rising's-there,-there/88risingThereThere-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/88rising's-there,-there/88risingThereThere-127-500x400-N.svg",
-    "explicitContentIndicator": "Yes",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1647564988822
   },
   {
     "artistsYouHear": [
@@ -8978,6 +9090,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -9023,7 +9136,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "It’s  the hits from the 2000s that hit you right in the memories. Hear Justin Timberlake, Maroon 5, Nelly, Nickelback and all the songs you have a story about.",
+    "longDescription": "It’s the hits from the 2000s that hit you right in the memories. Hear Justin Timberlake, Maroon 5, Nelly, Nickelback and all the songs you have a story about.",
     "mediumDescription": "Hear the hits from the 2000s that hit you right in the memories. It’s all the songs you have a story about.",
     "shortDescription": "Pop Hits From The 2000s",
     "siriusChannelNumber": 10,
@@ -9303,6 +9416,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -9367,6 +9481,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -9864,6 +9979,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -13411,9 +13527,9 @@
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Grunge rock and '90s alternative. You'll hear Pearl Jam, Nirvana, Green Day, Smashing Pumpkins, Soundgarden, Weezer, Oasis and more.",
-    "mediumDescription": "Grunge rock and '90s alternative.",
-    "shortDescription": "'90s Alternative/Grunge",
+    "longDescription": "Grunge rock and '90s alternative. You'll hear Pearl Jam, Nirvana, Green Day, Smashing Pumpkins, Soundgarden, Weezer, Oasis and more",
+    "mediumDescription": "Grunge rock and '90s alternative featuring Matt Pinfield",
+    "shortDescription": "90s Alternative/Grunge",
     "siriusChannelNumber": 34,
     "siriusServiceId": 63,
     "xmServiceId": 54,
@@ -15544,7 +15660,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "rawdog",
@@ -15606,6 +15723,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -15669,6 +15787,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -15729,6 +15848,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -15791,6 +15911,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -15853,6 +15974,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -15917,6 +16039,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -15981,6 +16104,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -16257,7 +16381,7 @@
     "genreVanityURL": null,
     "longDescription": "Live hometown play-by-play coverage of the Washington Commanders",
     "mediumDescription": "Live hometown play-by-play coverage of the Washington Commanders",
-    "shortDescription": "Washington Play-by-Play",
+    "shortDescription": "Washington Commanders Play-by-Play",
     "siriusChannelNumber": 831,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -22353,6 +22477,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -22372,27 +22497,27 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "SiriusXM Guitar Greats will air on satellite channel 105 until Thursday, April 21 at 3am EST.",
     "contentId": "9351",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheGRAMMYChannel&cp_5=TheGRAMMYChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheGRAMMYChannel&creative_id=NA_NA_DL-COM-live-TheGRAMMYChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The GRAMMY Channel",
-    "genre": "pop",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMGuitarGreats&cp_5=SiriusXMGuitarGreats&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMGuitarGreats&creative_id=NA_NA_DL-COM-live-SiriusXMGuitarGreats--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM Guitar Greats",
+    "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Pop",
+    "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Celebrating the artists, albums and songs nominated for the 64th Annual GRAMMY Awards.",
-    "mediumDescription": "Celebrating the artists, albums and songs nominated for the 64th Annual GRAMMY Awards",
-    "shortDescription": "Celebrating the GRAMMY nominees",
+    "longDescription": "SiriusXM Guitar Greats Channel salutes epic players during Int'l Guitar Month!  Hear early guitar innovators like Les Paul, Robert Johnson, Chuck Berry and Buddy Holly, on through genres & eras that include Jimmy Page, The Edge, Prince, Bonnie Raitt, Tom Morello, Eddie Van Halen, Jimi Hendrix, Jack White & more. Also featured: Guitar masters as Guest DJs",
+    "mediumDescription": "SiriusXM Guitar Greats honors Int'l Guitar Month saluting 6-string masters from many genres and eras",
+    "shortDescription": "Epic songs from Guitar Greats!",
     "siriusChannelNumber": 105,
     "siriusServiceId": 74,
     "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/the-grammy-channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxmguitar-greats",
     "xmChannelNumber": 105,
     "primaryColor": "#2596be",
     "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/the-grammy-channel/TheGrammyChannel-K.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/the-grammy-channel/TheGrammyChannel-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/guitar-great-radio/SiriusXMGuitarGreats-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/guitar-great-radio/SiriusXMGuitarGreats-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -22404,7 +22529,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1647565380787
+    "updatedDate": 1649331857170
   },
   {
     "artistsYouHear": [],
@@ -22444,6 +22569,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -22590,6 +22716,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -22735,6 +22862,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23076,6 +23204,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23137,6 +23266,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23197,6 +23327,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23256,6 +23387,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23615,7 +23747,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "hiphopnation",
@@ -23640,37 +23773,38 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "SiriusXM Guitar Greats will air on satellite channel 105 until Thursday, April 21 at 3am EST.",
     "contentId": "9398",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition4&cp_5=SXMLimitedEdition4&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition4&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition4-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 4",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMGuitarGreats&cp_5=SiriusXMGuitarGreats&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMGuitarGreats&creative_id=NA_NA_DL-COM-live-SiriusXMGuitarGreats--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM Guitar Greats",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "SiriusXM Guitar Greats Channel salutes epic players during Int'l Guitar Month!  Hear early guitar innovators like Les Paul, Robert Johnson, Chuck Berry and Buddy Holly, on through genres & eras that include Jimmy Page, The Edge, Prince, Bonnie Raitt, Tom Morello, Eddie Van Halen, Jimi Hendrix, Jack White & more. Also featured: Guitar masters as Guest DJs",
+    "mediumDescription": "SiriusXM Guitar Greats honors Int'l Guitar Month saluting 6-string masters from many genres and eras",
+    "shortDescription": "Epic songs from Guitar Greats!",
     "siriusChannelNumber": 504,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/sxmlimitededition-4",
+    "vanityURL": "https://www.siriusxm.com/channels/sxm-guitar-greats",
     "xmChannelNumber": 504,
     "primaryColor": "#23b9f1",
-    "secondaryColor": "#7bbb59",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition4/SiriusXM-Limited-Edition-4.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition4/SiriusXM-Limited-Edition-4-White.svg",
+    "secondaryColor": "#000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/guitar-great-radio/SiriusXMGuitarGreats-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/guitar-great-radio/SiriusXMGuitarGreats-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1646671841037
+    "updatedDate": 1649331656063
   },
   {
     "artistsYouHear": [],
@@ -23710,6 +23844,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23735,30 +23870,31 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9400",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=LilithFairTribute&cp_5=LilithFairTribute&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=LilithFairTribute&creative_id=NA_NA_DL-COM-live-LilithFairTribute--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Lilith Fair Tribute",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition6&cp_5=SXMLimitedEdition6&cp_6=TALK&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition6&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition6-TALK-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 6",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Spread your blanket across the lawn like a 90's Summer night on SiriusXM’s Lilith Fair Tribute Channel. Hear Sarah, Missy, Sheryl, Erykah and the hundreds of other women who created a musical movement that changed the world forever. Soak-in the sounds of solidarity & sisterhood from the artists who performed at the iconic Lilith Fair Festival on this exclusive limited run channel as part of Women’s History Month.",
-    "mediumDescription": "Spread the blanket across the lawn like a 90s Summer night on SiriusXM's Lilith Fair Tribute Channel",
-    "shortDescription": "Lilith Fair Tribute Channel",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 506,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-6",
     "xmChannelNumber": 506,
-    "primaryColor": "#4bade9",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/lilith-fair-tribute/LilithFairTributeChannel-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/lilith-fair-tribute/LilithFairTributeChannel-White.svg",
+    "primaryColor": "#2f4f4f",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-115-900x720.png",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-114-900x720.png",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23767,7 +23903,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1646672321333
+    "updatedDate": 1649266021057
   },
   {
     "artistsYouHear": [],
@@ -23808,6 +23944,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23833,30 +23970,31 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9402",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SoundCloudRadio&cp_5=SoundCloudRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SoundCloudRadio&creative_id=NA_NA_DL-COM-live-SoundCloudRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SoundCloud Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition8&cp_5=SXMLimitedEdition8&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition8&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition8-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 8",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "From the biggest names in hip-hop to tomorrow's breakout stars, SoundCloud is where artists get their start and new music lands first. And now when you're not on SoundCloud, you don't have to press pause on your bars, beats or discovery. Just tune in to SiriusXM to hear all the SoundCloud hip-hop hits that paved the way and new tracks driving culture today.",
-    "mediumDescription": "Turn up the volume because all the hip-hop hits you know and love on SoundCloud for a limited time, only on SiriusXM.",
-    "shortDescription": "Emerging Hip-Hop & Stars",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 508,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/soundcloud-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-8",
     "xmChannelNumber": 508,
-    "primaryColor": "#ff7700",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/soundcloud-radio/SoundCloudRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/soundcloud-radio/SoundCloudRadio-127-500x400-N.svg",
+    "primaryColor": "#48d1cc",
+    "secondaryColor": "#87cefa",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/SiriusXM-Limited-Edition-8/SiriusXM-Limited-Edition-8.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-christian/siriusxm-limitededition8/SiriusXM-Limited-Edition-8-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23866,7 +24004,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1646727205376
+    "updatedDate": 1649253438475
   },
   {
     "artistsYouHear": [],
@@ -23883,30 +24021,31 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9403",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheTinaTurnerChannel&cp_5=TheTinaTurnerChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=TheTinaTurnerChannel&creative_id=NA_NA_DL-COM-live-TheTinaTurnerChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Tina Turner Channel",
-    "genre": "hiphop",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition9&cp_5=SXMLimitedEdition9&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition9&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition9-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 9",
+    "genre": "dance",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Hip-Hop/R&B",
+    "genreTitle": "Dance/Electronic",
     "genreVanityURL": null,
-    "longDescription": "Tina Turner has long been seen as an icon in Rock ‘N Roll and Soul music.  Now, hear why - with The Tina Turner Channel.  Explore Tina’s legendary music from her early days as part of the “Ike & Tina Revue” – all the way up to her Grammy-winning solo hits.  We capture the magic of Tina as a performer, with memorable live performances too.  You’ll also hear from fellow artists who continue to see Tina as an inspiration and source of strength!",
-    "mediumDescription": "From her early days with Ike, to her solo success, experience Tina Turner’s iconic musical career!",
-    "shortDescription": "All Tina Turner",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 509,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/the-tina-turner-channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-9+",
     "xmChannelNumber": 509,
     "primaryColor": "#4bade9",
     "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/tina-turner/TheTinaTurnerChannel-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/tina-turner/TheTinaTurnerChannel-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/SiriusXM-Limited-Edition-9/SiriusXM-Limited-Edition-9.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/SiriusXM-Limited-Edition-9/SiriusXM-Limited-Edition-9-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23916,7 +24055,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1646672402046
+    "updatedDate": 1649254078040
   },
   {
     "artistsYouHear": [],
@@ -23956,6 +24095,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -24005,6 +24145,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -24334,6 +24475,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
@@ -24391,6 +24533,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -24693,6 +24836,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -24754,6 +24898,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -24790,9 +24935,9 @@
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Garth Brooks is the #1 selling solo artist in history.  Now, all of his music is in one place, including moments you have never heard before, nor will you hear anywhere else.  No matter what kind of day you've had, you're invited to bring it to The Garth Channel...a comfortable place for great music and good friends.",
-    "mediumDescription": "The soundtrack from Garth's life - and ours!",
-    "shortDescription": "Garth's Own Channel, 24/7",
+    "longDescription": "Garth Brooks is the #1 selling solo artist in history.  Now, all of his music is in one place, along with music Garth's picks from yesterday and today's Pop, Country, R&B and Rock artists. Completely curated by Garth himself, The Garth Channel is like listening to a jukebox filled with Garth's favorites...as well as his own award-winning songs from his phenomenal career!",
+    "mediumDescription": "Garth's music and the songs he chooses by other artists. Country, Pop, Rock, R&B....what's coming next is always a surprise!!",
+    "shortDescription": "Garth's music & songs he loves",
     "siriusChannelNumber": 55,
     "siriusServiceId": 68,
     "xmServiceId": 136,
@@ -24812,7 +24957,13 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "theroadhouse",
+      "newcountry",
+      "primecountry",
+      "9340",
+      "outlawcountry"
+    ],
     "updatedDate": 1631720105811
   },
   {
@@ -25718,6 +25869,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -25909,6 +26061,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -26096,6 +26249,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -26684,6 +26838,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -27063,6 +27218,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -27107,6 +27263,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -27151,6 +27308,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -27532,7 +27690,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "9356",
@@ -27584,6 +27743,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -27635,6 +27795,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -27797,6 +27958,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -27916,6 +28078,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -28165,6 +28328,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -28209,6 +28373,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -28253,6 +28418,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -28344,7 +28510,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1631215126778
@@ -28386,7 +28553,8 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
     "updatedDate": 1630336535846
@@ -28438,6 +28606,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -28534,6 +28703,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -28554,35 +28724,36 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9546",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=AvrilLavigneRadio&cp_5=AvrilLavigneRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=AvrilLavigneRadio&creative_id=NA_NA_DL-COM-live-AvrilLavigneRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Avril Lavigne Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition3&cp_5=SXMLimitedEdition3&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition3&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition3-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 3",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Music hand-picked by Avril Lavigne. A diverse and personal music library from Alternative to Pop, Country, Rhythm, Classic Rock and more! She’ll also showcase her just released album “Love Sux”. Avril share’s her two decades of hits with behind the scenes stories while playing a variety of her core favorites from Alanis Morissette, Blink 182, Shania Twain, Machine Gun Kelly, Kelly Clarkson, Panic! At The Disco, Lady Gaga, Nirvana, Joan Jett, Green Day, Gwen Stefani, The Beatles, Kanye West and more!",
-    "mediumDescription": "A diverse music variety from Alternative to Pop and Classic Rock chosen by Avril Lavigne with exclusive stories and insights",
-    "shortDescription": "Music chosen by Avril Lavigne",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 503,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-3",
     "xmChannelNumber": 503,
-    "primaryColor": "#EF0404",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/avril-lavigne-radio-/AvrilLavigne-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/avril-lavigne-radio-/AvrilLavigne-White.svg",
+    "primaryColor": "#808080",
+    "secondaryColor": "#0000ff",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Limited-Edition-3/SiriusXM-Limited-Edition-3-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1646672258814
+    "updatedDate": 1649254701002
   },
   {
     "artistsYouHear": [],
@@ -28622,6 +28793,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -28666,6 +28838,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -28686,35 +28859,36 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9549",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=MyChurchRadio&cp_5=MyChurchRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=MyChurchRadio&creative_id=NA_NA_DL-COM-live-MyChurchRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "My Church Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition11&cp_5=SXMLimitedEdition11&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition11&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition11-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 11",
     "genre": "country",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Maren Morris brings you My Church Radio, a celebration of the music that inspires, excites, and defines her journey. Hear Maren’s eclectic personal playlist, including favorites from Jason Isbell, Beyonce, Brothers Osborne, Lizzo, Taylor Swift, John Mayer and more. Plus, behind the scenes stories about her own music, all the way back to the very first song championed by SiriusXM - My Church - to her newest album Humble Quest, out March 25th.",
-    "mediumDescription": "Maren Morris shares her personal favorites and stories behind her music, including her new album Humble Quest out March 25th.",
-    "shortDescription": "Maren Morris artist channel",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 511,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/my-church-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxmlimited-edition11",
     "xmChannelNumber": 511,
-    "primaryColor": "#8abe56",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/my-church-radio/MyChurchRadio-K.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/my-church-radio/MyChurchRadio-White.svg",
+    "primaryColor": "#87ceeb",
+    "secondaryColor": "#8fbc8f",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/SiriusXM-Limited-Edition-11/SiriusXM-Limited-Edition-11.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/talkandentertainment/entertainment/siriusxm-limitededition11/SiriusXM-Limited-Edition-11-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1646672439314
+    "updatedDate": 1649254405268
   },
   {
     "artistsYouHear": [],
@@ -28900,6 +29074,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -28945,6 +29120,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -29042,11 +29218,65 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
     "updatedDate": 1646672519916
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550833792043,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9564",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SoundCloudRadio&cp_5=SoundCloudRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SoundCloudRadio&creative_id=NA_NA_DL-COM-live-SoundCloudRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SoundCloud Radio",
+    "genre": "hiphop",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Hip-Hop/R&B",
+    "genreVanityURL": null,
+    "longDescription": "From the biggest names in hip-hop to tomorrow's breakout stars, SoundCloud is where artists get their start and new music lands first. And now when you're not on SoundCloud, you don't have to press pause on your bars, beats or discovery. Just tune in to SiriusXM to hear all the SoundCloud hip-hop hits that paved the way and new tracks driving culture today.",
+    "mediumDescription": "Turn up the volume because all the hip-hop hits you know and love on SoundCloud for a limited time, only on SiriusXM.",
+    "shortDescription": "Emerging Hip-Hop & Stars",
+    "siriusChannelNumber": 724,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/soundcloud-radio",
+    "xmChannelNumber": 724,
+    "primaryColor": "#DA6B10",
+    "secondaryColor": "#000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/soundcloud-radio-streaming-only/SoundcloudRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/soundcloud-radio/SoundCloudRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "hiphopnation",
+      "9524",
+      "shade45",
+      "4158",
+      "4204",
+      "4092"
+    ],
+    "updatedDate": 1649171880093
   },
   {
     "artistsYouHear": [
@@ -29091,6 +29321,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -29142,6 +29373,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -29172,7 +29404,7 @@
     "genreVanityURL": null,
     "longDescription": "A Whole Lotta Red Hot is your new SiriusXM channel.  Dive deep into the vast, funky musical world of the Red Hot Chili Peppers on their own channel.  Hear the band host shows, take you track-by-track through their new album Unlimited Love, live performances from their vault, side projects plus all of their favorite artists",
     "mediumDescription": "Whole Lotta Red Hot is RHCP's new exclusive SiriusXM channel",
-    "shortDescription": "Red Hot Chili Peppers on SiriusXM",
+    "shortDescription": "Whole Lotta RHCP on SiriusXM",
     "siriusChannelNumber": 315,
     "siriusServiceId": null,
     "xmServiceId": 270,
@@ -29188,6 +29420,7 @@
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -30389,6 +30622,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
@@ -30735,6 +30969,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -32053,6 +32288,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -32546,7 +32782,7 @@
     "genreVanityURL": null,
     "longDescription": "This is where country music from the '80s and '90s lives. Garth Brooks, Reba McEntire, George Strait, Shania Twain, Alan Jackson, and Randy Travis all play here.",
     "mediumDescription": "Country hits from the '80s and '90s.",
-    "shortDescription": "'80s/'90s Country Hits",
+    "shortDescription": "‘80s/'90s Country Hits",
     "siriusChannelNumber": 58,
     "siriusServiceId": 42,
     "xmServiceId": 17,
@@ -32888,6 +33124,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -33474,6 +33711,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -33828,6 +34066,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
