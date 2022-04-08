@@ -8869,8 +8869,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8186",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMPGATOURRadio&cp_5=SiriusXMPGATOURRadio&cp_6=SPORTS&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMPGATOURRadio&creative_id=NA_NA_DL-COM-live-SiriusXMPGATOURRadio-SPORTS-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM PGA TOUR Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=MastersRadioonSXM&cp_5=MastersRadioonSXM&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=MastersRadioonSXM&creative_id=NA_NA_DL-COM-live-MastersRadioonSXM--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Masters Radio on SiriusXM",
     "genre": "sportstalk",
     "genreLogo": null,
     "genreIcon": null,
@@ -8884,10 +8884,10 @@
     "xmServiceId": 146,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-pga-tour-radio",
     "xmChannelNumber": 92,
-    "primaryColor": "#ef3d42",
-    "secondaryColor": "#003e7e",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/genericsiriusxm/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/genericsiriusxm/SiriusXMLogo-White.svg",
+    "primaryColor": "#f9e44c",
+    "secondaryColor": "#2b6649",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/Masters-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/Masters-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -8908,7 +8908,7 @@
       "8185",
       "siriusnascarradio"
     ],
-    "updatedDate": 1646230845554
+    "updatedDate": 1649344504455
   },
   {
     "artistsYouHear": [
