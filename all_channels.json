@@ -8869,8 +8869,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8186",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=MastersRadioonSXM&cp_5=MastersRadioonSXM&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=MastersRadioonSXM&creative_id=NA_NA_DL-COM-live-MastersRadioonSXM--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Masters Radio on SiriusXM",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMPGATOURRadio&cp_5=SiriusXMPGATOURRadio&cp_6=SPORTS&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMPGATOURRadio&creative_id=NA_NA_DL-COM-live-SiriusXMPGATOURRadio-SPORTS-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM PGA TOUR Radio",
     "genre": "sportstalk",
     "genreLogo": null,
     "genreIcon": null,
@@ -8884,10 +8884,10 @@
     "xmServiceId": 146,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-pga-tour-radio",
     "xmChannelNumber": 92,
-    "primaryColor": "#f9e44c",
-    "secondaryColor": "#2b6649",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/Masters-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/Masters-127-500x400-N.svg",
+    "primaryColor": "#eea6a5",
+    "secondaryColor": "#173d7a",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/logos/sxm/SiriusXM-White.png",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -8908,7 +8908,7 @@
       "8185",
       "siriusnascarradio"
     ],
-    "updatedDate": 1649344504455
+    "updatedDate": 1649684263661
   },
   {
     "artistsYouHear": [
@@ -28798,7 +28798,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630095355919
+    "updatedDate": 1649521115422
   },
   {
     "artistsYouHear": [],
@@ -33863,7 +33863,6 @@
   {
     "artistsYouHear": [
       "Howard Balzer ",
-      "Gil Brandt",
       "Derrick Brooks ",
       "Tim Brown",
       "Vic Carucci",
@@ -33951,7 +33950,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1634238201142
+    "updatedDate": 1649686938785
   },
   {
     "artistsYouHear": [
