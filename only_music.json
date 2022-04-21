@@ -1867,7 +1867,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9351",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMGuitarGreats&cp_5=SiriusXMGuitarGreats&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMGuitarGreats&creative_id=NA_NA_DL-COM-live-SiriusXMGuitarGreats--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM105&cp_5=SiriusXM105&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM105&creative_id=NA_NA_DL-COM-live-SiriusXM105-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM 105",
     "genre": "pop",
     "genreLogo": null,
@@ -1898,7 +1898,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1649943602341
+    "updatedDate": 1650307816878
   },
   {
     "artistsYouHear": [],
@@ -1959,14 +1959,14 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Whole Lotta Red Hot will air on satellite channel 104 until Wednesday, May 18 at 3am EST.",
     "contentId": "9353",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM 104",
-    "genre": "pop",
+    "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Pop",
+    "genreTitle": "Rock",
     "genreVanityURL": null,
     "longDescription": "SiriusXM 104",
     "mediumDescription": "SiriusXM 104",
@@ -1974,10 +1974,10 @@
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
+    "vanityURL": "https://www.siriusxm.com/channels/showtime-at-the-apollo",
     "xmChannelNumber": 104,
-    "primaryColor": "#000",
-    "secondaryColor": "#2596be",
+    "primaryColor": "#000000",
+    "secondaryColor": "#87ceeb",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -1993,7 +1993,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1647565501133
+    "updatedDate": 1650307931572
   },
   {
     "artistsYouHear": [
@@ -4021,7 +4021,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9481",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=JoniMitchellChannel&cp_5=JoniMitchellChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=JoniMitchellChannel&creative_id=NA_NA_DL-COM-live-JoniMitchellChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition1&cp_5=SXMLimitedEdition1&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition1&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition1-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SXM Limited Edition 1",
     "genre": "pop",
     "genreLogo": null,
@@ -4051,7 +4051,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1649947672728
+    "updatedDate": 1650308125802
   },
   {
     "artistsYouHear": [],
@@ -5171,7 +5171,7 @@
     "genreVanityURL": null,
     "longDescription": "From the biggest names in hip-hop to tomorrow's breakout stars, SoundCloud is where artists get their start and new music lands first. And now when you're not on SoundCloud, you don't have to press pause on your bars, beats or discovery. Just tune in to SiriusXM to hear all the SoundCloud hip-hop hits that paved the way and new tracks driving culture today.",
     "mediumDescription": "Turn up the volume because all the hip-hop hits you know and love on SoundCloud for a limited time, only on SiriusXM.",
-    "shortDescription": "Emerging Hip-Hop & Stars",
+    "shortDescription": "Emerging Hip-Hop & Stars - xL",
     "siriusChannelNumber": 724,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -6976,7 +6976,7 @@
     "siriusChannelNumber": 37,
     "siriusServiceId": 21,
     "xmServiceId": 48,
-    "vanityURL": "https://www.siriusxm.com/octane",
+    "vanityURL": "https://www.siriusxm.com/channels/octane",
     "xmChannelNumber": 37,
     "primaryColor": "#f7ad1a",
     "secondaryColor": "#000000",
