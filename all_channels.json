@@ -8819,6 +8819,52 @@
     "updatedDate": 1643733710391
   },
   {
+    "artistsYouHear": [],
+    "assetId": 1550836663126,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": "SiriusXM Guitar Greats will air on satellite channel 1202 starting Tuesday, May 3 at 3am EST.",
+    "contentId": "4209",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=SiriusXMGuitarGreats&cp_5=SiriusXMGuitarGreats&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMGuitarGreats&creative_id=NA_NA_DL-COM-xtra-SiriusXMGuitarGreats-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM Guitar Greats",
+    "genre": "allxtra",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "All Xtra",
+    "genreVanityURL": null,
+    "longDescription": "Epic songs from Guitar Greats!",
+    "mediumDescription": "Epic songs from Guitar Greats!",
+    "shortDescription": "Epic songs from Guitar Greats!",
+    "siriusChannelNumber": 1202,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1202,
+    "primaryColor": "#000000",
+    "secondaryColor": "#d3d3d3",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/guitar-greats/GuitarGreats-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/guitar-greats/GuitarGreats-White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1651251262746
+  },
+  {
     "artistsYouHear": [
       "Aretha Franklin",
       "Beatles",
@@ -9011,7 +9057,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1632233393316
+    "updatedDate": 1651114598502
   },
   {
     "artistsYouHear": [
@@ -9104,7 +9150,7 @@
       "8185",
       "siriusnascarradio"
     ],
-    "updatedDate": 1649684263661
+    "updatedDate": 1651114783086
   },
   {
     "artistsYouHear": [
@@ -9444,7 +9490,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1650554260094
+    "updatedDate": 1651109113737
   },
   {
     "artistsYouHear": [
@@ -9901,7 +9947,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1641850574619
+    "updatedDate": 1651109466477
   },
   {
     "artistsYouHear": [],
@@ -13446,7 +13492,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1632250143058
+    "updatedDate": 1651115001953
   },
   {
     "artistsYouHear": [
@@ -13662,7 +13708,7 @@
       "thespectrum",
       "octane"
     ],
-    "updatedDate": 1643141363585
+    "updatedDate": 1651108328893
   },
   {
     "artistsYouHear": [],
@@ -15689,8 +15735,8 @@
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM has partnered with the Rock and Roll Hall of Fame to commemorate the artists who've been inducted into The Rock and Roll Hall of Fame and Museum. Hear music and stories from Rock Hall inductees, including The Beatles, Buddy Holly, Nirvana, The Temptations, The Doors, Pink Floyd, Prince, Tom Petty, U2, Marvin Gaye and more.",
-    "mediumDescription": "Hear music & stories from Rock Hall inductees Buddy Holly, Beatles, Marvin Gaye, Doors, Nirvana, Pink Floyd, Prince, U2 & more.",
+    "longDescription": "SiriusXM has partnered with the Rock and Roll Hall of Fame to commemorate the artists who've been inducted into The Rock and Roll Hall of Fame and Museum.",
+    "mediumDescription": "Hear music & stories from Rock Hall inductees.",
     "shortDescription": "Rock Hall Inducted Artists",
     "siriusChannelNumber": 310,
     "siriusServiceId": null,
@@ -15909,7 +15955,7 @@
       "9408",
       "9494"
     ],
-    "updatedDate": 1630096119488
+    "updatedDate": 1651114165131
   },
   {
     "artistsYouHear": [
@@ -22926,7 +22972,7 @@
       "9408",
       "9494"
     ],
-    "updatedDate": 1630336514936
+    "updatedDate": 1651114108182
   },
   {
     "artistsYouHear": [],
@@ -23538,7 +23584,7 @@
       "big80s",
       "8206"
     ],
-    "updatedDate": 1630084757536
+    "updatedDate": 1651107751742
   },
   {
     "artistsYouHear": [
@@ -23741,7 +23787,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1631291430199
+    "updatedDate": 1651115063477
   },
   {
     "artistsYouHear": [
@@ -23919,7 +23965,7 @@
       "9390",
       "praise"
     ],
-    "updatedDate": 1631212664878
+    "updatedDate": 1651113930075
   },
   {
     "artistsYouHear": [],
@@ -24042,27 +24088,27 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Rockville Radio will air on satellite channel 504 until Thursday, June 2 at 3am EST.",
     "contentId": "9398",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMGuitarGreats&cp_5=SiriusXMGuitarGreats&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMGuitarGreats&creative_id=NA_NA_DL-COM-live-SiriusXMGuitarGreats--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM Limited Edition 4",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RockvilleRadio&cp_5=RockvilleRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=RockvilleRadio&creative_id=NA_NA_DL-COM-live-RockvilleRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Rockville Radio",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "SiriusXM has partnered with the Rock and Roll Hall of Fame to commemorate the artists who've been inducted into The Rock and Roll Hall of Fame and Museum.",
+    "mediumDescription": "Hear music & stories from Rock Hall inductees.",
+    "shortDescription": "Rock Hall Inducted Artists",
     "siriusChannelNumber": 504,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-4",
+    "vanityURL": "https://www.siriusxm.com/channels/rockville-radio",
     "xmChannelNumber": 504,
-    "primaryColor": "#23b9f1",
+    "primaryColor": "#ff4500",
     "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition4/SiriusXM-Limited-Edition-4.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Limited-Edition-4/SiriusXM-Limited-Edition-4-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockville-road/RockvilleRadio-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockville-road/RockvilleRadio-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24074,7 +24120,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1651018775661
+    "updatedDate": 1651236248753
   },
   {
     "artistsYouHear": [],
@@ -24541,7 +24587,7 @@
       "classicvinyl",
       "9174"
     ],
-    "updatedDate": 1631722118936
+    "updatedDate": 1651108203158
   },
   {
     "artistsYouHear": [
@@ -24597,7 +24643,7 @@
       "laughbreak",
       "9494"
     ],
-    "updatedDate": 1643998602037
+    "updatedDate": 1651114075007
   },
   {
     "artistsYouHear": [
@@ -25073,7 +25119,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1640707539559
+    "updatedDate": 1651108387819
   },
   {
     "artistsYouHear": [
@@ -26308,7 +26354,7 @@
       "classicrewind",
       "thebridge"
     ],
-    "updatedDate": 1631719701642
+    "updatedDate": 1651108156982
   },
   {
     "artistsYouHear": [
@@ -26428,7 +26474,7 @@
       "siriuspatriot",
       "9392"
     ],
-    "updatedDate": 1631722532770
+    "updatedDate": 1651113706407
   },
   {
     "artistsYouHear": [
@@ -26904,7 +26950,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1631294259445
+    "updatedDate": 1651109245712
   },
   {
     "artistsYouHear": [
@@ -27090,7 +27136,7 @@
       "8238",
       "9494"
     ],
-    "updatedDate": 1650031478410
+    "updatedDate": 1651114257190
   },
   {
     "artistsYouHear": [
@@ -27277,7 +27323,7 @@
       "9406",
       "thebeat"
     ],
-    "updatedDate": 1630522004918
+    "updatedDate": 1651111987696
   },
   {
     "artistsYouHear": [],
@@ -27486,7 +27532,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1631719733410
+    "updatedDate": 1651107664646
   },
   {
     "artistsYouHear": [],
@@ -28018,7 +28064,7 @@
       "9408",
       "9494"
     ],
-    "updatedDate": 1631215760718
+    "updatedDate": 1651114050195
   },
   {
     "artistsYouHear": [],
@@ -28128,7 +28174,7 @@
       "thespectrum",
       "8370"
     ],
-    "updatedDate": 1630520906101
+    "updatedDate": 1651108276861
   },
   {
     "artistsYouHear": [],
@@ -28185,7 +28231,7 @@
       "classicrewind",
       "8206"
     ],
-    "updatedDate": 1631722754967
+    "updatedDate": 1651108518772
   },
   {
     "artistsYouHear": [],
@@ -28562,7 +28608,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1647263726885
+    "updatedDate": 1651109350080
   },
   {
     "artistsYouHear": [],
@@ -28837,7 +28883,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630336535846
+    "updatedDate": 1651114391945
   },
   {
     "artistsYouHear": [
@@ -28892,7 +28938,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630086830761
+    "updatedDate": 1651114329998
   },
   {
     "artistsYouHear": [
@@ -28991,7 +29037,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1646695297004
+    "updatedDate": 1651108096598
   },
   {
     "artistsYouHear": [],
@@ -29083,7 +29129,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1649521115422
+    "updatedDate": 1651107438087
   },
   {
     "artistsYouHear": [],
@@ -29921,7 +29967,7 @@
     "relatedChannels": [
       "metropolitanopera"
     ],
-    "updatedDate": 1632842848546
+    "updatedDate": 1651112559009
   },
   {
     "artistsYouHear": [
@@ -30061,7 +30107,7 @@
       "cnn",
       "8367"
     ],
-    "updatedDate": 1630095161106
+    "updatedDate": 1651112610489
   },
   {
     "artistsYouHear": [
@@ -30116,7 +30162,7 @@
       "laughbreak",
       "9494"
     ],
-    "updatedDate": 1640702485273
+    "updatedDate": 1651114305309
   },
   {
     "artistsYouHear": [
@@ -31367,7 +31413,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1643641394130
+    "updatedDate": 1651109382598
   },
   {
     "artistsYouHear": [
@@ -31666,7 +31712,7 @@
     "relatedChannels": [
       "siriuspatriot"
     ],
-    "updatedDate": 1631120990160
+    "updatedDate": 1651117164000
   },
   {
     "artistsYouHear": [
@@ -31731,7 +31777,7 @@
       "purejazz",
       "classicvinyl"
     ],
-    "updatedDate": 1631121930821
+    "updatedDate": 1651108359290
   },
   {
     "artistsYouHear": [
@@ -32491,7 +32537,7 @@
       "9408",
       "9494"
     ],
-    "updatedDate": 1631215241529
+    "updatedDate": 1651114418580
   },
   {
     "artistsYouHear": [
@@ -33412,7 +33458,7 @@
       "9408",
       "9494"
     ],
-    "updatedDate": 1631654967972
+    "updatedDate": 1651114232416
   },
   {
     "artistsYouHear": [
@@ -33949,7 +33995,7 @@
       "hotjamz",
       "thebeat"
     ],
-    "updatedDate": 1631290750039
+    "updatedDate": 1651107533904
   },
   {
     "artistsYouHear": [
@@ -34213,7 +34259,7 @@
       "8185",
       "8186"
     ],
-    "updatedDate": 1642616894368
+    "updatedDate": 1651114698610
   },
   {
     "artistsYouHear": [
@@ -34306,7 +34352,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1649686938785
+    "updatedDate": 1651114922071
   },
   {
     "artistsYouHear": [
@@ -34395,7 +34441,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "SiriusXM Pops will now air on satellite channel 745 starting Tuesday, May 3 at 3am EST.",
     "contentId": "siriuspops",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMPops&cp_5=SiriusXMPops&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMPops&creative_id=NA_NA_DL-COM-live-SiriusXMPops-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM Pops",
@@ -34407,11 +34453,11 @@
     "longDescription": "Classical Music's greatest hits. The most popular classical pieces of all time, performed by the world's most renowned orchestras and soloists.",
     "mediumDescription": "Classical Music’s greatest hits -- beautiful and fun!",
     "shortDescription": "Classical Pops",
-    "siriusChannelNumber": 755,
+    "siriusChannelNumber": 745,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-pops",
-    "xmChannelNumber": 755,
+    "xmChannelNumber": 745,
     "primaryColor": "#f2cb8d",
     "secondaryColor": "#7f186e",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/SiriusXM-Pops/SiriusXM_pops.svg",
@@ -34433,7 +34479,7 @@
       "symphonyhall",
       "metropolitanopera"
     ],
-    "updatedDate": 1631291946859
+    "updatedDate": 1651560480731
   },
   {
     "artistsYouHear": [
@@ -34538,7 +34584,7 @@
       "9457",
       "9385"
     ],
-    "updatedDate": 1650038479409
+    "updatedDate": 1651109422556
   },
   {
     "artistsYouHear": [
