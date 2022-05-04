@@ -7925,7 +7925,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "SiriusXM Pops will now air on satellite channel 745 starting Tuesday, May 3 at 3am EST.",
+    "channelNotification": null,
     "contentId": "siriuspops",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMPops&cp_5=SiriusXMPops&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMPops&creative_id=NA_NA_DL-COM-live-SiriusXMPops-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM Pops",
@@ -7963,7 +7963,7 @@
       "symphonyhall",
       "metropolitanopera"
     ],
-    "updatedDate": 1651560480731
+    "updatedDate": 1651588323678
   },
   {
     "artistsYouHear": [

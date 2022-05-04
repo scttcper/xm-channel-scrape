@@ -8830,7 +8830,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "SiriusXM Guitar Greats will air on satellite channel 1202 starting Tuesday, May 3 at 3am EST.",
+    "channelNotification": null,
     "contentId": "4209",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=SiriusXMGuitarGreats&cp_5=SiriusXMGuitarGreats&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMGuitarGreats&creative_id=NA_NA_DL-COM-xtra-SiriusXMGuitarGreats-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM Guitar Greats",
@@ -8862,7 +8862,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1651251262746
+    "updatedDate": 1651588198515
   },
   {
     "artistsYouHear": [
@@ -34441,7 +34441,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "SiriusXM Pops will now air on satellite channel 745 starting Tuesday, May 3 at 3am EST.",
+    "channelNotification": null,
     "contentId": "siriuspops",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMPops&cp_5=SiriusXMPops&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMPops&creative_id=NA_NA_DL-COM-live-SiriusXMPops-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM Pops",
@@ -34479,7 +34479,7 @@
       "symphonyhall",
       "metropolitanopera"
     ],
-    "updatedDate": 1651560480731
+    "updatedDate": 1651588323678
   },
   {
     "artistsYouHear": [
