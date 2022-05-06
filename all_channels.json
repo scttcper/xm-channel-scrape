@@ -13578,12 +13578,9 @@
       "John Hansen",
       "Bob Harris",
       "Josh Hayes",
-      "Keith Irizarry",
       "Paul Kelly",
       "Tom Kessenich",
       "Byron Lambert",
-      "Chris Liss",
-      "Dave Loughran",
       "Jeff Mans",
       "Jade McCarthy",
       "Lenny Melnick",
@@ -13644,7 +13641,7 @@
       "siriusnflradio",
       "8213"
     ],
-    "updatedDate": 1640616776704
+    "updatedDate": 1651783495189
   },
   {
     "artistsYouHear": [
@@ -28148,7 +28145,7 @@
     "siriusChannelNumber": 30,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/dave-matthews-band-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/dave-matthews-band-radio",
     "xmChannelNumber": 30,
     "primaryColor": "#808184",
     "secondaryColor": "#010101",
@@ -30844,7 +30841,7 @@
     "siriusChannelNumber": 112,
     "siriusServiceId": 89,
     "xmServiceId": 127,
-    "vanityURL": "https://www.siriusxm.com/cnbc",
+    "vanityURL": "https://www.siriusxm.com/channels/cnbc",
     "xmChannelNumber": 112,
     "primaryColor": "#bfbfbf",
     "secondaryColor": "#595a5c",
@@ -30902,7 +30899,7 @@
     "siriusChannelNumber": 116,
     "siriusServiceId": 91,
     "xmServiceId": 195,
-    "vanityURL": "https://www.siriusxm.com/cnn",
+    "vanityURL": "https://www.siriusxm.com/channels/cnn",
     "xmChannelNumber": 116,
     "primaryColor": "#8FA6B2",
     "secondaryColor": "#cc0000",
@@ -33301,7 +33298,7 @@
     "siriusChannelNumber": 148,
     "siriusServiceId": 79,
     "xmServiceId": 191,
-    "vanityURL": "https://www.siriusxm.com/radio-classics",
+    "vanityURL": "https://www.siriusxm.com/channels/radioclassics",
     "xmChannelNumber": 148,
     "primaryColor": "#b0b0b0",
     "secondaryColor": "#000000",
