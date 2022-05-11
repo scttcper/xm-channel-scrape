@@ -22789,7 +22789,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Prom Radio will air on satellite channel 105 now through 5/26 at 3 am ET.",
     "contentId": "9351",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM105&cp_5=SiriusXM105&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM105&creative_id=NA_NA_DL-COM-live-SiriusXM105-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM 105",
@@ -22807,7 +22807,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/siriusxmguitargreats",
     "xmChannelNumber": 105,
     "primaryColor": "#000000",
-    "secondaryColor": "#87ceeb",
+    "secondaryColor": "#4aade9",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXM105-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-105/SiriusXM105-white.svg",
     "explicitContentIndicator": "No",
@@ -22822,7 +22822,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1650307816878
+    "updatedDate": 1652197580731
   },
   {
     "artistsYouHear": [],
