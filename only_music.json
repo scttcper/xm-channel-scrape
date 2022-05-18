@@ -1959,14 +1959,14 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Whole Lotta Red Hot will air on satellite channel 104 until Wednesday, May 18 at 3am EST.",
+    "channelNotification": null,
     "contentId": "9353",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM 104",
-    "genre": "rock",
+    "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Rock",
+    "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "SiriusXM 104",
     "mediumDescription": "SiriusXM 104",
@@ -1993,7 +1993,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1650307931572
+    "updatedDate": 1652272386761
   },
   {
     "artistsYouHear": [
@@ -2724,7 +2724,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9400",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition6&cp_5=SXMLimitedEdition6&cp_6=TALK&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition6&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition6-TALK-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMLimitedEdition6&cp_5=SiriusXMLimitedEdition6&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMLimitedEdition6&creative_id=NA_NA_DL-COM-live-SiriusXMLimitedEdition6-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20",
     "displayName": "SXM Limited Edition 6",
     "genre": "rock",
     "genreLogo": null,
@@ -2739,7 +2739,7 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-6",
     "xmChannelNumber": 506,
-    "primaryColor": "#2f4f4f",
+    "primaryColor": "#7fff00",
     "secondaryColor": "#87ceeb",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-115-900x720.png",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-114-900x720.png",
@@ -2758,7 +2758,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1649266021057
+    "updatedDate": 1652809352307
   },
   {
     "artistsYouHear": [],
