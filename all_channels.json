@@ -10164,15 +10164,15 @@
     "channelNotification": null,
     "contentId": "8241",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=KIISLosAngeles&cp_5=KIISLosAngeles&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=KIISLosAngeles&creative_id=NA_NA_DL-COM-live-KIISLosAngeles-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "KIIS-Los Angeles",
+    "displayName": "SiriusXM 14",
     "genre": "more",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "More",
     "genreVanityURL": null,
-    "longDescription": "KIIS FM is LA's #1 Hit Music Station playing the biggest Pop, Hip Hop, Dance, Latin Pop, Rock and R&B hits.",
-    "mediumDescription": "KIIS FM is LA's #1 Hit Music Station.",
-    "shortDescription": "KIIS FM LOS Angeles",
+    "longDescription": "SiriusXM 14",
+    "mediumDescription": "SiriusXM 14",
+    "shortDescription": "SiriusXM 14",
     "siriusChannelNumber": 14,
     "siriusServiceId": 203,
     "xmServiceId": 21,
@@ -10180,7 +10180,7 @@
     "xmChannelNumber": 14,
     "primaryColor": "#ffc312",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/KIIS-Los-Angeles/KIIS-Los-Angeles_4C.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/genericsiriusxm/SiriusXMLogo-Color.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/KIIS-Los-Angeles/KissFM_white.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -10198,7 +10198,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1647263338775
+    "updatedDate": 1653322205600
   },
   {
     "artistsYouHear": [
