@@ -10990,10 +10990,10 @@
     "contentId": "8256",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMIndyCarNation&cp_5=SiriusXMIndyCarNation&cp_6=SPORTS&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMIndyCarNation&creative_id=NA_NA_DL-COM-live-SiriusXMIndyCarNation-SPORTS-SXMCOM-PLAYINGMODULE-NA-COM-20200429",
     "displayName": "SiriusXM IndyCar Nation",
-    "genre": "sportsplay",
+    "genre": "sportstalk",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Sports Play-by-Play",
+    "genreTitle": "Sports",
     "genreVanityURL": null,
     "longDescription": "SiriusXM’s home for all things NTT INDYCAR Series. From heart-pounding play-by-play of every race to weekly talk shows and specials with the legends of the sport, SiriusXM IndyCar Nation has you covered from the green flag to the checkered flag.",
     "mediumDescription": "NTT INDYCAR Series Play-by-Play of every race along with weekly talk shows and racing specials.",
@@ -13114,7 +13114,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8317",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "NFL Play-by-Play 225",
     "genre": "nflplay",
     "genreLogo": null,
@@ -13147,7 +13147,7 @@
       "8368",
       "8230"
     ],
-    "updatedDate": 1571172095782
+    "updatedDate": 1653597239534
   },
   {
     "artistsYouHear": [],
@@ -13210,7 +13210,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8319",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "NFL Play-by-Play 227",
     "genre": "nflplay",
     "genreLogo": null,
@@ -13243,7 +13243,7 @@
       "8368",
       "8230"
     ],
-    "updatedDate": 1571172087424
+    "updatedDate": 1653598205821
   },
   {
     "artistsYouHear": [],
@@ -13306,7 +13306,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8321",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "NFL Play-by-Play 229",
     "genre": "nflplay",
     "genreLogo": null,
@@ -13339,7 +13339,7 @@
       "8368",
       "8230"
     ],
-    "updatedDate": 1571172026605
+    "updatedDate": 1653598214213
   },
   {
     "artistsYouHear": [],
@@ -13354,7 +13354,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8322",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "NFL Play-by-Play 230",
     "genre": "nflplay",
     "genreLogo": null,
@@ -13387,7 +13387,7 @@
       "8368",
       "8230"
     ],
-    "updatedDate": 1571172038235
+    "updatedDate": 1653598221523
   },
   {
     "artistsYouHear": [],
@@ -13435,7 +13435,7 @@
       "8368",
       "8230"
     ],
-    "updatedDate": 1571172065012
+    "updatedDate": 1653598250955
   },
   {
     "artistsYouHear": [],
@@ -13450,7 +13450,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8324",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "NFL Play-by-Play 232",
     "genre": "nflplay",
     "genreLogo": null,
@@ -13483,7 +13483,7 @@
       "8368",
       "8230"
     ],
-    "updatedDate": 1571172069354
+    "updatedDate": 1653598258018
   },
   {
     "artistsYouHear": [],
@@ -13498,7 +13498,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8325",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "NFL Play-by-Play 233",
     "genre": "nflplay",
     "genreLogo": null,
@@ -13531,7 +13531,7 @@
       "8368",
       "8230"
     ],
-    "updatedDate": 1571172051846
+    "updatedDate": 1653598271500
   },
   {
     "artistsYouHear": [],
@@ -13546,7 +13546,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8326",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "NFL Play-by-Play 234",
     "genre": "nflplay",
     "genreLogo": null,
@@ -13579,7 +13579,7 @@
       "8368",
       "8230"
     ],
-    "updatedDate": 1571172058743
+    "updatedDate": 1653598294888
   },
   {
     "artistsYouHear": [],
@@ -14847,7 +14847,7 @@
       "8213",
       "8368"
     ],
-    "updatedDate": 1630086893692
+    "updatedDate": 1653597334718
   },
   {
     "artistsYouHear": [],
@@ -14895,7 +14895,7 @@
       "8213",
       "8368"
     ],
-    "updatedDate": 1630093966572
+    "updatedDate": 1653597456785
   },
   {
     "artistsYouHear": [],
@@ -14943,7 +14943,7 @@
       "8213",
       "8368"
     ],
-    "updatedDate": 1630094348379
+    "updatedDate": 1653598333479
   },
   {
     "artistsYouHear": [],
@@ -14991,7 +14991,7 @@
       "8213",
       "8368"
     ],
-    "updatedDate": 1630095682071
+    "updatedDate": 1653598362248
   },
   {
     "artistsYouHear": [],
@@ -15039,7 +15039,7 @@
       "8213",
       "8368"
     ],
-    "updatedDate": 1630096207815
+    "updatedDate": 1653598368033
   },
   {
     "artistsYouHear": [],
@@ -34767,7 +34767,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1651114922071
+    "updatedDate": 1653597259916
   },
   {
     "artistsYouHear": [
