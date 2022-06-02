@@ -9467,7 +9467,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1651114598502
+    "updatedDate": 1654101080531
   },
   {
     "artistsYouHear": [
@@ -9542,7 +9542,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -9891,7 +9890,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
@@ -10350,7 +10348,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -10956,7 +10953,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -11073,7 +11069,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -12365,7 +12360,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8291",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "NHL Play-by-Play 219",
     "genre": "NHL_PBP",
     "genreLogo": null,
@@ -12403,7 +12398,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1571172728757
+    "updatedDate": 1654100585272
   },
   {
     "artistsYouHear": [],
@@ -13963,7 +13958,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -14053,7 +14047,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -14116,7 +14109,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -16362,7 +16354,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -21037,8 +21028,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Ducks_Primary_-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -21046,7 +21039,7 @@
       "8213",
       "8185"
     ],
-    "updatedDate": 1630086790653
+    "updatedDate": 1654100758169
   },
   {
     "artistsYouHear": [],
@@ -23124,7 +23117,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
@@ -23379,7 +23371,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -23873,7 +23864,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -24199,7 +24189,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -24386,7 +24375,7 @@
       "9390",
       "praise"
     ],
-    "updatedDate": 1651113930075
+    "updatedDate": 1654109707210
   },
   {
     "artistsYouHear": [],
@@ -24745,7 +24734,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1653505804298
+    "updatedDate": 1653672673950
   },
   {
     "artistsYouHear": [],
@@ -24992,7 +24981,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25051,7 +25039,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -25132,7 +25119,7 @@
       "siriusstars",
       "9405"
     ],
-    "updatedDate": 1647535293795
+    "updatedDate": 1654109260243
   },
   {
     "artistsYouHear": [],
@@ -25171,7 +25158,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25531,7 +25517,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25707,7 +25692,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -26693,7 +26677,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
@@ -26759,7 +26742,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -27545,7 +27527,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -27730,7 +27711,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -27783,7 +27763,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28189,7 +28168,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28471,7 +28449,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -28578,7 +28555,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28634,7 +28610,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28765,7 +28740,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -29298,7 +29272,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -29359,7 +29332,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1651114329998
+    "updatedDate": 1654109226141
   },
   {
     "artistsYouHear": [
@@ -29458,7 +29431,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1651108096598
+    "updatedDate": 1654107830734
   },
   {
     "artistsYouHear": [],
@@ -30388,7 +30361,7 @@
     "relatedChannels": [
       "metropolitanopera"
     ],
-    "updatedDate": 1651112559009
+    "updatedDate": 1654104475379
   },
   {
     "artistsYouHear": [
@@ -30512,7 +30485,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
@@ -30570,7 +30542,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -31274,7 +31245,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -31332,7 +31302,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -31447,7 +31416,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -31685,7 +31653,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -31815,7 +31782,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -32122,7 +32088,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -32183,7 +32148,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -32940,7 +32904,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
@@ -33866,7 +33829,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -34592,7 +34554,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -34662,7 +34623,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -34755,7 +34715,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -34986,7 +34945,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
