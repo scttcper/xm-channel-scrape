@@ -9537,8 +9537,8 @@
     "xmChannelNumber": 92,
     "primaryColor": "#eea6a5",
     "secondaryColor": "#173d7a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/logos/sxm/SiriusXM-White.png",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXM_PGATOUR_4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXM_PGATOUR_4C_whtR.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -9559,7 +9559,7 @@
       "8185",
       "siriusnascarradio"
     ],
-    "updatedDate": 1651114783086
+    "updatedDate": 1654535468033
   },
   {
     "artistsYouHear": [
@@ -13989,7 +13989,6 @@
       "Kyle Elfrink",
       "Scott Engel ",
       "Jeff Erickson",
-      "Brad Evans",
       "Justin Fensterman",
       "Mike Florio",
       "Ray Flowers",
@@ -14059,7 +14058,7 @@
       "siriusnflradio",
       "8213"
     ],
-    "updatedDate": 1651783495189
+    "updatedDate": 1654612220124
   },
   {
     "artistsYouHear": [
