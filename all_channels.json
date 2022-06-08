@@ -9542,6 +9542,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -9890,6 +9891,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
@@ -10308,6 +10310,7 @@
       "Renee Paquette",
       "Bully Ray",
       "Akin \"AK\" Reyes ",
+      "Thunder Rosa",
       "Anthony Smith",
       "Jimmy Smith",
       "Din Thomas",
@@ -10348,6 +10351,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -10367,7 +10371,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1653337889894
+    "updatedDate": 1654621337332
   },
   {
     "artistsYouHear": [],
@@ -10569,31 +10573,31 @@
       "satellite"
     ],
     "availableToPackage": true,
-    "category": "more",
+    "category": "music",
     "categoryIcon": null,
-    "categoryTitle": "",
+    "categoryTitle": "Music",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8241",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM14&cp_5=SiriusXM14&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM14&creative_id=NA_NA_DL-COM-live-SiriusXM14--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 14",
-    "genre": "more",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=YachtRockRadio&cp_5=YachtRockRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=YachtRockRadio&creative_id=NA_NA_DL-COM-live-YachtRockRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Yacht Rock Radio",
+    "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "More",
+    "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 14",
-    "mediumDescription": "SiriusXM 14",
-    "shortDescription": "SiriusXM 14",
+    "longDescription": "SiriusXM’s tribute to Yacht Rock celebrates the smooth-sailing soft rock from the late '70s and early '80s.  You’ll hear artists like Michael McDonald, Christopher Cross, Hall & Oates and other titans of smooth music. It's the kind of rock that doesn’t rock the boat!",
+    "mediumDescription": "Smooth-sailing soft rock from the late '70s and early '80s. It's the kind of rock that doesn’t rock the boat!",
+    "shortDescription": "'70s/'80s Smooth-Sailing Soft Rock",
     "siriusChannelNumber": 14,
     "siriusServiceId": 203,
     "xmServiceId": 21,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-14",
+    "vanityURL": "https://www.siriusxm.com/channels/yacht-rock-radio",
     "xmChannelNumber": 14,
     "primaryColor": "#53abde",
     "secondaryColor": "#143a5a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/genericsiriusxm/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/genericsiriusxm/SiriusXMLogo-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -10610,63 +10614,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1653548753726
-  },
-  {
-    "artistsYouHear": [
-      "Britney Spears",
-      "Kanye West",
-      "Beyonce",
-      "Ne-Yo",
-      "T.I."
-    ],
-    "assetId": 1550762900810,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "more",
-    "categoryIcon": null,
-    "categoryTitle": "",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "8242",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM769&cp_5=SiriusXM769&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM769&creative_id=NA_NA_DL-COM-live-SiriusXM769--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 769",
-    "genre": "more",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "More",
-    "genreVanityURL": null,
-    "longDescription": "SiriusXM 769",
-    "mediumDescription": "SiriusXM 769",
-    "shortDescription": "SiriusXM 769",
-    "siriusChannelNumber": 769,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-769",
-    "xmChannelNumber": 769,
-    "primaryColor": "#53abde",
-    "secondaryColor": "#143a5a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/genericsiriusxm/SiriusXMLogo-White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "thepulse",
-      "siriushits1",
-      "starlite"
-    ],
-    "updatedDate": 1653548736143
+    "updatedDate": 1654279733616
   },
   {
     "artistsYouHear": [
@@ -10953,6 +10901,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -11069,6 +11018,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -12413,7 +12363,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8292",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "NHL Play-by-Play 220",
     "genre": "NHL_PBP",
     "genreLogo": null,
@@ -12451,7 +12401,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1571172731836
+    "updatedDate": 1654100618817
   },
   {
     "artistsYouHear": [],
@@ -12466,7 +12416,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8293",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "NHL Play-by-Play 221",
     "genre": "NHL_PBP",
     "genreLogo": null,
@@ -12504,7 +12454,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1571172746799
+    "updatedDate": 1654100909934
   },
   {
     "artistsYouHear": [],
@@ -13958,6 +13908,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -14046,6 +13997,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -14108,6 +14060,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -16353,6 +16306,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -21027,10 +20981,8 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Ducks_Primary_-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23116,6 +23068,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
@@ -23370,6 +23323,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -23863,6 +23817,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -24188,6 +24143,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -24497,27 +24453,27 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Rockville Radio will air on satellite channel 504 until Thursday, June 2 at 3am EST.",
+    "channelNotification": null,
     "contentId": "9398",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RockvilleRadio&cp_5=RockvilleRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=RockvilleRadio&creative_id=NA_NA_DL-COM-live-RockvilleRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Rockville Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition4&cp_5=SXMLimitedEdition4&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition4&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition4-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 4",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "The music, backstage interviews, live performances, and more from the Welcome To Rockville music festival.",
-    "mediumDescription": "Welcome To Rockville Music Festival",
-    "shortDescription": "Rockville Music Festival",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 504,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/rockville-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-4",
     "xmChannelNumber": 504,
-    "primaryColor": "#ff4500",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockville-road/RockvilleRadio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockville-road/RockvilleRadio-White.svg",
+    "primaryColor": "#228b22",
+    "secondaryColor": "#0000ff",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition4/SiriusXM-Limited-Edition-4.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition4/SiriusXM-Limited-Edition-4-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24529,7 +24485,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1651236248753
+    "updatedDate": 1654277509624
   },
   {
     "artistsYouHear": [],
@@ -24757,7 +24713,7 @@
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "From his early career days, through his time at Death Row and his posthumous releases, hear all music from the genius of 2PAC. Hear from other artists and celebrities who were “Down For Pac” and hear their 2PAC favorites.",
+    "longDescription": "Through his entire prolific career, hear all music from the genius of 2PAC. Hear from other artists and celebrities who were “Down For Pac” and hear their 2PAC favorites.",
     "mediumDescription": "Hits, album tracks and live performances from Hip-Hop icon 2PAC.",
     "shortDescription": "The music of Tupac Shakur",
     "siriusChannelNumber": 509,
@@ -24980,6 +24936,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25038,6 +24995,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -25157,6 +25115,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25516,6 +25475,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25691,6 +25651,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -26676,6 +26637,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
@@ -26741,6 +26703,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -27526,6 +27489,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -27710,6 +27674,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -27762,6 +27727,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -27954,9 +27920,9 @@
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Country Pride",
-    "mediumDescription": "Country Pride",
-    "shortDescription": "Country Pride",
+    "longDescription": "Celebrate Pride Month with Country Pride – because y’all means all! Trailblazers in the LGBTQIA+ country community meet the newest class of rising stars from pop country to Western twang. Plus: music from icons and allies like Dolly, Kacey, Reba & more.",
+    "mediumDescription": "A Pride Month pop-up spotlighting LGBTQIA+ artists and allies in country music.",
+    "shortDescription": "Pride Month goes country!",
     "siriusChannelNumber": 501,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -28167,6 +28133,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28448,6 +28415,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -28554,6 +28522,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28609,6 +28578,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28739,6 +28709,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -29271,6 +29242,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -30484,6 +30456,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
@@ -30541,6 +30514,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -31244,6 +31218,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -31301,6 +31276,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -31415,6 +31391,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -31652,6 +31629,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -31781,6 +31759,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -32087,6 +32066,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -32147,6 +32127,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -32903,6 +32884,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
@@ -33828,6 +33810,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -34553,6 +34536,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -34622,6 +34606,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -34714,6 +34699,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -34944,6 +34930,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
