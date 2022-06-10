@@ -29389,8 +29389,8 @@
     "xmChannelNumber": 502,
     "primaryColor": "#0e82ea",
     "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXMLogo-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -29402,7 +29402,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1654107830734
+    "updatedDate": 1654868280792
   },
   {
     "artistsYouHear": [],
@@ -29436,7 +29436,7 @@
     "primaryColor": "#808080",
     "secondaryColor": "#0000ff",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Limited-Edition-3/SiriusXM-Limited-Edition-3-White.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -29448,7 +29448,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1649254701002
+    "updatedDate": 1654867667779
   },
   {
     "artistsYouHear": [],
@@ -30159,7 +30159,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Gov Ball Radio will air on satellite channel 36 starting June 10th at 2:00pm ET through 6/12 at 11:59pm ET. ",
     "contentId": "altnation",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=AltNation&cp_5=AltNation&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=AltNation&creative_id=NA_NA_DL-COM-live-AltNation-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Alt Nation",
@@ -30201,7 +30201,7 @@
       "octane",
       "8370"
     ],
-    "updatedDate": 1630086132323
+    "updatedDate": 1654814200060
   },
   {
     "artistsYouHear": [
