@@ -5382,7 +5382,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Gov Ball Radio will air on satellite channel 36 starting June 10th at 2:00pm ET through 6/12 at 11:59pm ET. ",
+    "channelNotification": null,
     "contentId": "altnation",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=AltNation&cp_5=AltNation&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=AltNation&creative_id=NA_NA_DL-COM-live-AltNation-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Alt Nation",
@@ -5424,7 +5424,7 @@
       "octane",
       "8370"
     ],
-    "updatedDate": 1654814200060
+    "updatedDate": 1655117772298
   },
   {
     "artistsYouHear": [
