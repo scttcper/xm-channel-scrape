@@ -864,7 +864,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -1900,9 +1899,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Traditions/HolidayTraditions-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -1949,7 +1946,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -2099,7 +2095,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -2343,7 +2338,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -2406,7 +2400,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -2529,7 +2522,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -2784,7 +2776,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9400",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=GovBallRadio&cp_5=GovBallRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=GovBallRadio&creative_id=NA_NA_DL-COM-live-GovBallRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMLimitedEdition6&cp_5=SiriusXMLimitedEdition6&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMLimitedEdition6&creative_id=NA_NA_DL-COM-live-SiriusXMLimitedEdition6-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20",
     "displayName": "SXM Limited Edition 6",
     "genre": "rock",
     "genreLogo": null,
@@ -2797,7 +2789,7 @@
     "siriusChannelNumber": 506,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/gov-ball-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-6",
     "xmChannelNumber": 506,
     "primaryColor": "#228b22",
     "secondaryColor": "#49a8cc",
@@ -2818,7 +2810,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1654862679816
+    "updatedDate": 1655304753068
   },
   {
     "artistsYouHear": [],
@@ -3011,7 +3003,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -3063,7 +3054,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -3116,7 +3106,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -3181,7 +3170,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -3373,7 +3361,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -3431,7 +3418,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -3549,7 +3535,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -3609,7 +3594,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -3986,7 +3970,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -4313,9 +4296,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/88rising/88rising-PRI-White.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -4365,7 +4346,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -4421,7 +4401,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -4718,7 +4697,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -4773,7 +4751,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -4817,7 +4794,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -4863,7 +4839,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -5360,6 +5335,52 @@
       "9174"
     ],
     "updatedDate": 1648218347992
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550839383811,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9571",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=BillboardTop500&cp_5=BillboardTop500&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BillboardTop500&creative_id=NA_NA_DL-COM-live-BillboardTop500-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Billboard Top 500 Summer Hits",
+    "genre": "pop",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Pop",
+    "genreVanityURL": null,
+    "longDescription": "It’s a countdown of the Top 500 Summer Hits according to Billboard including songs by Mariah Carey, The Police, Lil Nas X, Bee Gees, Katy Perry and The Beatles. Eight decades of Summertime songs that bring back memories of long days and warm nights!!!",
+    "mediumDescription": "500 of the most popular summer hits according to Billboard. Sizzling hits that made summertime even hotter… which will be #1?",
+    "shortDescription": "Billboard Summer Hits",
+    "siriusChannelNumber": 560,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/billboard-top-500",
+    "xmChannelNumber": 560,
+    "primaryColor": "#696969",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/billboard-500/BillboardTop500SummerHits-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/billboard-500/BillboardTop500SummerHits-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1655309896491
   },
   {
     "artistsYouHear": [
@@ -6018,7 +6039,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -6277,7 +6297,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -7880,9 +7899,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/SiriusXM-Love/SiriusXM_love_White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -7946,7 +7963,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
