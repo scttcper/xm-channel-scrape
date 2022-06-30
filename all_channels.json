@@ -5095,7 +5095,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630077543206
+    "updatedDate": 1656587092994
   },
   {
     "artistsYouHear": [],
@@ -29577,7 +29577,9 @@
     "updatedDate": 1630332831111
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Catherine Haley"
+    ],
     "assetId": 1550826389147,
     "deliveryTypes": [
       "ip",
@@ -29630,7 +29632,7 @@
       "9450",
       "thebeat"
     ],
-    "updatedDate": 1635444412060
+    "updatedDate": 1656516196828
   },
   {
     "artistsYouHear": [],

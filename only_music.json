@@ -4979,7 +4979,9 @@
     "updatedDate": 1653508268541
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Catherine Haley"
+    ],
     "assetId": 1550826389147,
     "deliveryTypes": [
       "ip",
@@ -5032,7 +5034,7 @@
       "9450",
       "thebeat"
     ],
-    "updatedDate": 1635444412060
+    "updatedDate": 1656516196828
   },
   {
     "artistsYouHear": [],
