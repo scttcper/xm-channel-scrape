@@ -28103,8 +28103,8 @@
     "xmChannelNumber": 3,
     "primaryColor": "#db5aa5",
     "secondaryColor": "#49224a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/PandoraNow-4C-COLOR.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/PandoraNow-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/pandora-now/PandoraNow-4C-COLOR.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/pandora-now/PandoraNow-White.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -28121,7 +28121,7 @@
       "hotjamz",
       "thebeat"
     ],
-    "updatedDate": 1631652095054
+    "updatedDate": 1657038539693
   },
   {
     "artistsYouHear": [],
@@ -28224,8 +28224,8 @@
     "xmChannelNumber": 93,
     "primaryColor": "#d1d3d4",
     "secondaryColor": "#631a1d",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/NetflixIsAJoke-4C-COLOR.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/NetflixIsAJoke-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/netflix-is-a-joke/NetflixIsAJoke-4C-COLOR.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/netflix-is-a-joke/NetflixIsAJoke-White.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -28243,7 +28243,7 @@
       "9181",
       "8184"
     ],
-    "updatedDate": 1631651267890
+    "updatedDate": 1657039106452
   },
   {
     "artistsYouHear": [],
@@ -31017,7 +31017,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "bstnpa",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "Boston/Philadelphia/Washington DC",
     "genre": "trafficandnews",
     "genreLogo": null,
@@ -31034,8 +31034,8 @@
     "xmChannelNumber": 134,
     "primaryColor": "#309de9",
     "secondaryColor": "#0c8142",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_1st_TraffWeath-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_1st_TraffWeath-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_FF",
@@ -31055,7 +31055,7 @@
       "siriushits1",
       "purejazz"
     ],
-    "updatedDate": 1571171713602
+    "updatedDate": 1657041930285
   },
   {
     "artistsYouHear": [
@@ -31251,7 +31251,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "chicagostlouis",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "Chicago/Detroit/Dallas-Ft. Worth",
     "genre": "trafficandnews",
     "genreLogo": null,
@@ -31268,8 +31268,8 @@
     "xmChannelNumber": 135,
     "primaryColor": "#309de9",
     "secondaryColor": "#0c8142",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_1st_TraffWeath-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_1st_TraffWeath-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_FF",
@@ -31289,7 +31289,7 @@
       "siriushits1",
       "purejazz"
     ],
-    "updatedDate": 1571171746645
+    "updatedDate": 1657041951242
   },
   {
     "artistsYouHear": [
@@ -32716,7 +32716,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Soundcloud Radio will air on satellite channel 44 starting July 1st at 3am ET through July 5th at 3 am ET.",
+    "channelNotification": null,
     "contentId": "hiphopnation",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HipHopNation&cp_5=HipHopNation&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HipHopNation&creative_id=NA_NA_DL-COM-live-HipHopNation-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Hip-Hop Nation",
@@ -32752,7 +32752,7 @@
       "hotjamz",
       "9471"
     ],
-    "updatedDate": 1656618850077
+    "updatedDate": 1657037096796
   },
   {
     "artistsYouHear": [
@@ -33142,7 +33142,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "la",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "Los Angeles",
     "genre": "trafficandnews",
     "genreLogo": null,
@@ -33159,8 +33159,8 @@
     "xmChannelNumber": 136,
     "primaryColor": "#309de9",
     "secondaryColor": "#0c8142",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_1st_TraffWeath-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_1st_TraffWeath-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_FF",
@@ -33180,7 +33180,7 @@
       "siriushits1",
       "purejazz"
     ],
-    "updatedDate": 1571171796926
+    "updatedDate": 1657041908727
   },
   {
     "artistsYouHear": [],
@@ -33539,8 +33539,8 @@
     "xmChannelNumber": 133,
     "primaryColor": "#309de9",
     "secondaryColor": "#0c8142",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_1st_TraffWeath-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_1st_TraffWeath-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_FF",
@@ -33560,7 +33560,7 @@
       "siriushits1",
       "purejazz"
     ],
-    "updatedDate": 1586551418411
+    "updatedDate": 1657041963431
   },
   {
     "artistsYouHear": [
