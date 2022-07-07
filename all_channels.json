@@ -30,8 +30,8 @@
     "xmChannelNumber": 794,
     "primaryColor": null,
     "secondaryColor": null,
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_Preview-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_Preview-WHITE.svg",
+    "colorLogo": "https://www.siriusxm.comnull",
+    "greyscaleLogo": "https://www.siriusxm.comnull",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -14129,7 +14129,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8373",
-    "deepLink": "",
+    "deepLink": "https://player.siriusxm.com",
     "displayName": "XM Preview",
     "genre": "entertainment",
     "genreLogo": null,
@@ -14146,8 +14146,8 @@
     "xmChannelNumber": 1,
     "primaryColor": "#c3e9fc",
     "secondaryColor": "#0072ba",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_Preview-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/SXM_Preview-WHITE.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SXM_Preview-color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SXM_Preview-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -14162,7 +14162,7 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": null,
-    "updatedDate": 1571172474686
+    "updatedDate": 1657136174338
   },
   {
     "artistsYouHear": [
@@ -28049,8 +28049,8 @@
     "xmChannelNumber": 796,
     "primaryColor": "#a7a9ac",
     "secondaryColor": "#b61319",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/ATN-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/missing/ATN-white.svg",
+    "colorLogo": "https://www.siriusxm.comnull",
+    "greyscaleLogo": "https://www.siriusxm.comnull",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
