@@ -24505,8 +24505,8 @@
     "xmChannelNumber": 504,
     "primaryColor": "#228b22",
     "secondaryColor": "#0000ff",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition4/SiriusXM-Limited-Edition-4.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition4/SiriusXM-Limited-Edition-4-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24518,7 +24518,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1654277509624
+    "updatedDate": 1657741943855
   },
   {
     "artistsYouHear": [],
@@ -24551,8 +24551,8 @@
     "xmChannelNumber": 505,
     "primaryColor": "#ffa500",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition5/SiriusXM-Limited-Edition-5.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition5/SiriusXM-Limited-Edition-5-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24569,7 +24569,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1656427759319
+    "updatedDate": 1657742044196
   },
   {
     "artistsYouHear": [],
@@ -24654,7 +24654,7 @@
     "primaryColor": "#efaa40",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-country/siriusxm-limitededition7/SiriusXM-Limited-Edition-7.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-country/siriusxm-limitededition7/SiriusXM-Limited-Edition-7-White.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24671,7 +24671,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1656427691544
+    "updatedDate": 1657743234740
   },
   {
     "artistsYouHear": [],
