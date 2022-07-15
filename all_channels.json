@@ -30,8 +30,8 @@
     "xmChannelNumber": 794,
     "primaryColor": null,
     "secondaryColor": null,
-    "colorLogo": "https://www.siriusxm.comnull",
-    "greyscaleLogo": "https://www.siriusxm.comnull",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SXM_Preview-color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SXM_Preview-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -46,7 +46,7 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": null,
-    "updatedDate": 1631656236438
+    "updatedDate": 1657895549351
   },
   {
     "artistsYouHear": [],
@@ -23208,7 +23208,7 @@
     "siriusChannelNumber": 105,
     "siriusServiceId": 74,
     "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
+    "vanityURL": "https://www.siriusxm.com/channels/the-beach-boys-channel",
     "xmChannelNumber": 105,
     "primaryColor": "#bd4d65",
     "secondaryColor": "#cb6436",
@@ -28049,8 +28049,8 @@
     "xmChannelNumber": 796,
     "primaryColor": "#a7a9ac",
     "secondaryColor": "#b61319",
-    "colorLogo": "https://www.siriusxm.comnull",
-    "greyscaleLogo": "https://www.siriusxm.comnull",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/asian-television-network/ATN-color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/asian-television-network/ATN-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -28062,7 +28062,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630094061063
+    "updatedDate": 1657892978833
   },
   {
     "artistsYouHear": [
