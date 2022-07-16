@@ -2018,7 +2018,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Whole Lotta Red Hot will air on channel 104 until Sunday, July 31 at 3am",
     "contentId": "9353",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Red Hot Chili Peppers",
@@ -2033,7 +2033,7 @@
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
-    "vanityURL": "https://www.siriusxm.com/channels/showtime-at-the-apollo",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
     "xmChannelNumber": 104,
     "primaryColor": "#000000",
     "secondaryColor": "#87ceeb",
@@ -2051,7 +2051,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1652272386761
+    "updatedDate": 1657903282646
   },
   {
     "artistsYouHear": [

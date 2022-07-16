@@ -30,8 +30,8 @@
     "xmChannelNumber": 794,
     "primaryColor": null,
     "secondaryColor": null,
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SXM_Preview-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SXM_Preview-WHITE.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/preview/sxm_preview/SXM_Preview-color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/preview/sxm_preview/SXM_Preview-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -46,7 +46,7 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": null,
-    "updatedDate": 1657895549351
+    "updatedDate": 1657981035920
   },
   {
     "artistsYouHear": [],
@@ -14146,8 +14146,8 @@
     "xmChannelNumber": 1,
     "primaryColor": "#c3e9fc",
     "secondaryColor": "#0072ba",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SXM_Preview-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SXM_Preview-WHITE.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/preview/sxm_preview/SXM_Preview-color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/preview/sxm_preview/SXM_Preview-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -14162,7 +14162,7 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": null,
-    "updatedDate": 1657136174338
+    "updatedDate": 1657980996976
   },
   {
     "artistsYouHear": [
@@ -23287,7 +23287,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Whole Lotta Red Hot will air on channel 104 until Sunday, July 31 at 3am",
     "contentId": "9353",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Red Hot Chili Peppers",
@@ -23302,7 +23302,7 @@
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
-    "vanityURL": "https://www.siriusxm.com/channels/showtime-at-the-apollo",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
     "xmChannelNumber": 104,
     "primaryColor": "#000000",
     "secondaryColor": "#87ceeb",
@@ -23320,7 +23320,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1652272386761
+    "updatedDate": 1657903282646
   },
   {
     "artistsYouHear": [],
