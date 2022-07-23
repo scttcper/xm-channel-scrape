@@ -31961,8 +31961,8 @@
     "xmChannelNumber": 75,
     "primaryColor": "#ef3b39",
     "secondaryColor": "#3a6060",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-WHITE.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-4C1.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -31983,7 +31983,7 @@
       "siriuslove",
       "siriusnascarradio"
     ],
-    "updatedDate": 1643141931681
+    "updatedDate": 1658373371017
   },
   {
     "artistsYouHear": [
