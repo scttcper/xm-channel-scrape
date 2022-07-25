@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: Fetch latest data
       run: |-
         curl -s --request GET --url https://www.siriusxm.com/channelfeed/SXM_SIR_AUD_ALLACCESS | jq '.channels | sort_by(.contentId)' > all_channels.json
