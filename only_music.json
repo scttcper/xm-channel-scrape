@@ -2018,18 +2018,18 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Whole Lotta Red Hot will air on channel 104 until Sunday, July 31 at 3am",
+    "channelNotification": null,
     "contentId": "9353",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Red Hot Chili Peppers",
-    "genre": "rock",
+    "displayName": "SiriusXM 104",
+    "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Rock",
+    "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "A Whole Lotta Red Hot is your new SiriusXM channel.  Dive deep into the vast, funky musical world of the Red Hot Chili Peppers on their own channel.  Hear the band host shows, take you track-by-track through their new album Unlimited Love, live performances from their vault, side projects plus all of their favorite artists",
-    "mediumDescription": "Whole Lotta Red Hot is RHCP's new exclusive SiriusXM channel",
-    "shortDescription": "Whole Lotta RHCP on SiriusXM",
+    "longDescription": "SiriusXM 104",
+    "mediumDescription": "SiriusXM 104",
+    "shortDescription": "SiriusXM 104",
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
@@ -2051,7 +2051,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1657903282646
+    "updatedDate": 1658929668524
   },
   {
     "artistsYouHear": [
@@ -4926,27 +4926,27 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "The Chicks Channel streaming on the app now until September 1.",
     "contentId": "9548",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition10&cp_5=SXMLimitedEdition10&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition10&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition10-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 10",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheChicksChannel&cp_5=TheChicksChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=TheChicksChannel&creative_id=NA_NA_DL-COM-live-TheChicksChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "The Chicks Channel",
     "genre": "country",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels.",
+    "longDescription": "The Chicks Channel is an exploration of the band’s entire catalog of music, guided by their stories and commentary, and intertwined with songs they love from other artists.",
+    "mediumDescription": "An exploration of The Chicks' catalog of music, with their stories and commentary, alongside their favorites from other artists.",
+    "shortDescription": "Music chosen by The Chicks",
     "siriusChannelNumber": 510,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-10",
+    "vanityURL": "https://www.siriusxm.com/channels/the-chicks-channel",
     "xmChannelNumber": 510,
-    "primaryColor": "#008000",
-    "secondaryColor": "#0000cd",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-127-500x400-N.svg",
+    "primaryColor": "#e3ae01",
+    "secondaryColor": "#243A5C",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-chick-channel/TheChicksChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-chick-channel/TheChicksChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -4957,8 +4957,13 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
-    "updatedDate": 1656427641820
+    "relatedChannels": [
+      "9178",
+      "primecountry",
+      "newcountry",
+      "4159"
+    ],
+    "updatedDate": 1659449681775
   },
   {
     "artistsYouHear": [],
@@ -5086,7 +5091,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "A colorful and diverse pop music collage from the 90s & 2000s featuring P!nk, John Mayer, Mariah Carey, Matchbox Twenty, Kelly Clarkson, John Legend, Goo Goo Dolls, Gwen Stefani, Hootie & The Blowfish, Sheryl Crow and more! From the office to your car or couch, you’ll hear a never ending variety of musical patterns and patchwork that form the most unique pop music mosaic!",
+    "longDescription": "A colorful and diverse pop music collage from the 90s & 2000s featuring P!nk, Bruno Mars, Adele, Matchbox Twenty, Kelly Clarkson, Goo Goo Dolls, Gwen Stefani, Hootie & The Blowfish, Lady Gaga and more! From the office to your car or couch, you’ll hear a never-ending variety of musical patterns and patchwork that form the most unique pop music mosaic!",
     "mediumDescription": "A colorful and diverse pop music collage from the 90s & 2000s!",
     "shortDescription": "90s & 2000s Pop",
     "siriusChannelNumber": 15,
@@ -5110,7 +5115,15 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "thepulse",
+      "coffeehouse",
+      "9556",
+      "siriushits1",
+      "8208",
+      "8206",
+      "9450"
+    ],
     "updatedDate": 1635433529778
   },
   {
@@ -6328,8 +6341,8 @@
     "xmChannelNumber": 75,
     "primaryColor": "#ef3b39",
     "secondaryColor": "#3a6060",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-WHITE.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-4C1.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -6350,7 +6363,7 @@
       "siriuslove",
       "siriusnascarradio"
     ],
-    "updatedDate": 1658935713741
+    "updatedDate": 1659038115895
   },
   {
     "artistsYouHear": [
@@ -7276,8 +7289,8 @@
     "genreTitle": "Country",
     "genreVanityURL": null,
     "longDescription": "New Country music including the hottest country superstars, up-and-coming artists, and the very latest discoveries direct from Nashville. Luke Combs, Carrie Underwood, Maren Morris, Old Dominion, Dan+Shay, Thomas Rhett. Plus Nashville Flash music updates throughout the day.",
-    "mediumDescription": "Today's country hits featuring Storme Warren.",
-    "shortDescription": "Today's Country Hits",
+    "mediumDescription": "Country Music’s Next Generation featuring Storme Warren.",
+    "shortDescription": "Country Music’s Next Gen",
     "siriusChannelNumber": 56,
     "siriusServiceId": 41,
     "xmServiceId": 16,
