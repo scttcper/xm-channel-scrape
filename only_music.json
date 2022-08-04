@@ -2018,7 +2018,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "The Chicks Channel on channel 104 now through August 9th at 3am EST and on the app until September 1.",
     "contentId": "9353",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM 104",
@@ -2051,7 +2051,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1658929668524
+    "updatedDate": 1659542747272
   },
   {
     "artistsYouHear": [
@@ -4926,7 +4926,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "The Chicks Channel streaming on the app now until September 1.",
+    "channelNotification": "The Chicks Channel streaming on the app now until September 1 and in your car on channel 104 through August 9th at 3am EST.",
     "contentId": "9548",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheChicksChannel&cp_5=TheChicksChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=TheChicksChannel&creative_id=NA_NA_DL-COM-live-TheChicksChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "The Chicks Channel",
@@ -4963,7 +4963,7 @@
       "newcountry",
       "4159"
     ],
-    "updatedDate": 1659449681775
+    "updatedDate": 1659542666447
   },
   {
     "artistsYouHear": [],
@@ -8185,7 +8185,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "SiriusXM Love is now a streaming only channel ",
+    "channelNotification": null,
     "contentId": "siriuslove",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMLove&cp_5=SiriusXMLove&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMLove&creative_id=NA_NA_DL-COM-live-SiriusXMLove-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM Love",
@@ -8222,7 +8222,7 @@
       "siriuslysinatra",
       "big80s"
     ],
-    "updatedDate": 1635878289199
+    "updatedDate": 1659542634685
   },
   {
     "artistsYouHear": [
