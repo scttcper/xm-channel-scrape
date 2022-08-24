@@ -2683,27 +2683,27 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "Shinedown Radio Takeover begins on Wed 24th, Aug at 3am EST Through Sun 25th Sep at 3am EST",
     "contentId": "9398",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition4&cp_5=SXMLimitedEdition4&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition4&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition4-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 4",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ShinedownRadio&cp_5=ShinedownRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=ShinedownRadio&creative_id=NA_NA_DL-COM-live-ShinedownRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Shinedown Radio",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Hear all of Shinedown's music, influences, friends, & tourmates, with commentary from the band. Plus the SXM/Pandora Small Stage Series with Shinedown Live from the Orange Peel in Asheville, NC!",
+    "mediumDescription": "All of Shinedown's music, influences, friends, & tourmates. Plus the SXM/Pandora Small Stage Series with Shinedown Live!",
+    "shortDescription": "The Sound of Shinedown",
     "siriusChannelNumber": 504,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-4",
+    "vanityURL": "https://www.siriusxm.com/channels/shinedown-radio",
     "xmChannelNumber": 504,
-    "primaryColor": "#228b22",
-    "secondaryColor": "#0000ff",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4-White.svg",
+    "primaryColor": "#8b4513",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/shinedownradio/ShinedownRadio-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/shinedownradio/ShinedownRadio-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -2715,7 +2715,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1657741943855
+    "updatedDate": 1661188152616
   },
   {
     "artistsYouHear": [],
@@ -4726,10 +4726,9 @@
   {
     "artistsYouHear": [
       "Taylor Cassidy",
-      "8illy",
       "Lamar Dawson",
       "Catherine Haley",
-      "Hindz"
+      "Masani Musa"
     ],
     "assetId": 1550819762617,
     "deliveryTypes": [
@@ -4772,7 +4771,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1660236784239
+    "updatedDate": 1660754900713
   },
   {
     "artistsYouHear": [],
