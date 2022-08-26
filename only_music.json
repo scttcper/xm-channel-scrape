@@ -2683,7 +2683,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Shinedown Radio Takeover begins on Wed 24th, Aug at 3am EST Through Sun 25th Sep at 3am EST",
+    "channelNotification": null,
     "contentId": "9398",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ShinedownRadio&cp_5=ShinedownRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=ShinedownRadio&creative_id=NA_NA_DL-COM-live-ShinedownRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Shinedown Radio",
@@ -2715,7 +2715,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1661188152616
+    "updatedDate": 1661453646961
   },
   {
     "artistsYouHear": [],
@@ -3694,7 +3694,8 @@
       "No Doubt",
       "Weezer",
       "Green Day",
-      "Julia Cunningham"
+      "Julia Cunningham",
+      "Kat Corbett"
     ],
     "assetId": 1550762877466,
     "deliveryTypes": [
@@ -3749,7 +3750,7 @@
       "8208",
       "8206"
     ],
-    "updatedDate": 1643138407950
+    "updatedDate": 1660918889601
   },
   {
     "artistsYouHear": [
@@ -8981,10 +8982,12 @@
       "Pearl Jam.",
       "Kristine Stone",
       "Demos",
-      "David Fricke ",
-      "Dave Holmes",
       "Jenny Eliscu",
-      "Mark Hamilton"
+      "Dave Holmes",
+      "Mark Hamilton",
+      "David Fricke ",
+      "Nathaniel Rateliff",
+      "Brandi Carlile"
     ],
     "assetId": 1550762891214,
     "deliveryTypes": [
@@ -9037,7 +9040,7 @@
       "radiomargaritaville",
       "thebridge"
     ],
-    "updatedDate": 1634569848401
+    "updatedDate": 1661454130265
   },
   {
     "artistsYouHear": [
