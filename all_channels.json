@@ -329,8 +329,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "4006",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=ClassicRockMix&cp_5=ClassicRockMix&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=ClassicRockMix&creative_id=NA_NA_DL-COM-xtra-ClassicRockMix-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Classic Rock Mix",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=Rockwall&cp_5=Rockwall&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=Rockwall&creative_id=NA_NA_DL-COM-xtra-Rockwall-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Rockwall",
     "genre": "mash",
     "genreLogo": null,
     "genreIcon": null,
@@ -346,8 +346,8 @@
     "xmChannelNumber": 1032,
     "primaryColor": "#d8df99",
     "secondaryColor": "#ab7a34",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Rock-Mix/ClassicRockMix.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Rock-Mix/ClassicRockMix-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/rockwall/Rockwall-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/rockwall/Rockwall-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -359,7 +359,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630335920373
+    "updatedDate": 1661832119539
   },
   {
     "artistsYouHear": [],
@@ -417,10 +417,10 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=CrossCountry&cp_5=CrossCountry&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=CrossCountry&creative_id=NA_NA_DL-COM-xtra-CrossCountry-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "contentId": "4008",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=CountryPopMix&cp_5=CountryPopMix&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=CountryPopMix&creative_id=NA_NA_DL-COM-xtra-CountryPopMix-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Country & Pop Mix",
+    "displayName": "Cross Country",
     "genre": "mash",
     "genreLogo": null,
     "genreIcon": null,
@@ -436,8 +436,8 @@
     "xmChannelNumber": 1114,
     "primaryColor": "#d8df99",
     "secondaryColor": "#ab7a34",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Country-and-Pop-Mix/CountryAndPopMix.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Country-and-Pop-Mix/CountryAndPopMix_-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/cross-country/CrossCountry-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/cross-country/CrossCountry-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -449,7 +449,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630336816310
+    "updatedDate": 1661832064911
   },
   {
     "artistsYouHear": [],
@@ -507,8 +507,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "4010",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=HardRockNewClassic&cp_5=HardRockNewClassic&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=HardRockNewClassic&creative_id=NA_NA_DL-COM-xtra-HardRockNewClassic-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Hard Rock New & Classic",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=Nitro&cp_5=Nitro&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=Nitro&creative_id=NA_NA_DL-COM-xtra-Nitro-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Nitro",
     "genre": "mash",
     "genreLogo": null,
     "genreIcon": null,
@@ -524,8 +524,8 @@
     "xmChannelNumber": 1049,
     "primaryColor": "#d8df99",
     "secondaryColor": "#ab7a34",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Hard-Rock-New-and-Classic/HardRockNewAndClassic.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Hard-Rock-New-and-Classic/HardRockNewAndClassic_-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/nitro/Nitro-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/nitro/Nitro-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -535,7 +535,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1631122100438
+    "updatedDate": 1661832091305
   },
   {
     "artistsYouHear": [],
@@ -4752,8 +4752,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "4108",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=90stoNowCountryHits&cp_5=90stoNowCountryHits&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=90stoNowCountryHits&creative_id=NA_NA_DL-COM-xtra-90stoNowCountryHits-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "90s to Now Country Hits",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=NashvilleNation&cp_5=NashvilleNation&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=NashvilleNation&creative_id=NA_NA_DL-COM-xtra-NashvilleNation-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Nashville Nation",
     "genre": "mash",
     "genreLogo": null,
     "genreIcon": null,
@@ -4769,8 +4769,8 @@
     "xmChannelNumber": 1095,
     "primaryColor": "#4b1954",
     "secondaryColor": "#a8cf38",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/90sToNowCountryHits.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/90sToNowCountryHits-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/90schillax/90sChillax-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/90schillax/90sChillax-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -4782,7 +4782,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630085487304
+    "updatedDate": 1661832204286
   },
   {
     "artistsYouHear": [],
@@ -5157,8 +5157,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "4118",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=80sMellowHits&cp_5=80sMellowHits&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=80sMellowHits&creative_id=NA_NA_DL-COM-xtra-80sMellowHits-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "80s Mellow Hits",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=80sChillpill&cp_5=80sChillpill&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=80sChillpill&creative_id=NA_NA_DL-COM-xtra-80sChillpill-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "80s Chillpill",
     "genre": "eighties",
     "genreLogo": null,
     "genreIcon": null,
@@ -5174,8 +5174,8 @@
     "xmChannelNumber": 1016,
     "primaryColor": "#104962",
     "secondaryColor": "#43b2e5",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/80sMellowHits.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/80sMellowHits-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/80schillpill/80sChillpill-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/80schillpill/80sChillpill-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -5187,7 +5187,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630084800207
+    "updatedDate": 1661832259348
   },
   {
     "artistsYouHear": [],
@@ -5202,8 +5202,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "4119",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=90sMellowHits&cp_5=90sMellowHits&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=90sMellowHits&creative_id=NA_NA_DL-COM-xtra-90sMellowHits-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "90s Mellow Hits",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=90sChillax&cp_5=90sChillax&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=90sChillax&creative_id=NA_NA_DL-COM-xtra-90sChillax-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "90s Chillax",
     "genre": "nineties",
     "genreLogo": null,
     "genreIcon": null,
@@ -5219,8 +5219,8 @@
     "xmChannelNumber": 1020,
     "primaryColor": "#533594",
     "secondaryColor": "#a8cf38",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/90sMellowHits.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/90sMellowHits-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/90schillax/90sChillax-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/90schillax/90sChillax-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -5232,7 +5232,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630085172194
+    "updatedDate": 1661832226205
   },
   {
     "artistsYouHear": [],
@@ -8653,16 +8653,16 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "4204",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=2010sHipHop&cp_5=2010sHipHop&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=2010sHipHop&creative_id=NA_NA_DL-COM-xtra-2010sHipHop-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "2010s Hip-Hop",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=SiriusXMTheTrap&cp_5=SiriusXMTheTrap&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMTheTrap&creative_id=NA_NA_DL-COM-xtra-SiriusXMTheTrap-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM The Trap",
     "genre": "tens",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "The 2010s Decade",
     "genreVanityURL": null,
-    "longDescription": "Hip-Hop from the 2010’s",
-    "mediumDescription": "Hip-Hop from the 2010’s",
-    "shortDescription": "Hip-Hop from the 2010’s",
+    "longDescription": "Mid 2000’s Hip-Hop",
+    "mediumDescription": "Mid 2000’s Hip-Hop",
+    "shortDescription": "Mid 2000’s Hip-Hop",
     "siriusChannelNumber": 1197,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -8670,8 +8670,8 @@
     "xmChannelNumber": 1197,
     "primaryColor": "#000000",
     "secondaryColor": "#c2aa48",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/2010s-hip-hop/2010sHipHop-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/2010s-hip-hop/2010sHipHop-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/siriusxm-the-trap/TheTrap-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/siriusxm-the-trap/TheTrap-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -8681,7 +8681,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1638863697693
+    "updatedDate": 1661832167302
   },
   {
     "artistsYouHear": [],
@@ -9357,7 +9357,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "It started with the Twist and ended with Woodstock - all '60s hits. Motown, surf music, the British Invasion, folk-rock - it's all here  on '60s on 6!",
+    "longDescription": "It started with the Twist and ended with Woodstock — all '60s hits. Motown, surf music, the British Invasion, folk-rock — it's all here — on '60s Gold!",
     "mediumDescription": "Relive the musical revolution of the '60s.",
     "shortDescription": "All 60s hits",
     "siriusChannelNumber": 73,
@@ -22897,25 +22897,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9338",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Sports994&cp_5=Sports994&cp_6=PBP&cp_7=COM&cp_8=SXMCOM&site_id=Sports994&creative_id=NA_NA_DL-COM-live-Sports994-PBP-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Sports Play-by-Play 994",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=FanDuelRacing&cp_5=FanDuelRacing&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=FanDuelRacing&creative_id=NA_NA_DL-COM-live-FanDuelRacing--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "FanDuel Racing",
     "genre": "sportsplay",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Sports Play-by-Play",
     "genreVanityURL": null,
-    "longDescription": "College Sports PXP & More",
-    "mediumDescription": "College Sports PXP & More",
-    "shortDescription": "College Sports PXP & More",
+    "longDescription": "FanDuel Racing is your home for live horse racing with action from over 200 racetracks around the world. Experience the thrill of the track while at home or on the go, 24 hours a day.",
+    "mediumDescription": "Live horse racing with action from over 200 racetracks around the world. Experience the thrill of the track 24 hours a day.",
+    "shortDescription": "Live horse racing",
     "siriusChannelNumber": 994,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/sports-play-by-play-994",
+    "vanityURL": "https://www.siriusxm.com/channels/fanduel-racing",
     "xmChannelNumber": 994,
     "primaryColor": "#00a3dd",
     "secondaryColor": "#005581",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/SportsPlayByPlay-generic-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/SportsPlayByPlay-generic-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/fanduel-racing/FanduelRacing-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/fanduel-racing/FanduelRacing-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -22927,7 +22927,7 @@
       "siriusnflradio",
       "siriusnascarradio"
     ],
-    "updatedDate": 1631652604570
+    "updatedDate": 1661891161585
   },
   {
     "artistsYouHear": [
@@ -23207,25 +23207,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9351",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBeachBoysChannel&cp_5=TheBeachBoysChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBeachBoysChannel&creative_id=NA_NA_DL-COM-live-TheBeachBoysChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Beach Boys Channel",
-    "genre": "pop",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RedHotChiliPeppers&cp_5=RedHotChiliPeppers&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=RedHotChiliPeppers&creative_id=NA_NA_DL-COM-live-RedHotChiliPeppers--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Red Hot Chili Peppers",
+    "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Pop",
+    "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Playing sun-drenched songs from every phase of the group’s decade-spanning career! It’s all on Good Vibrations: The Beach Boys Channel! From their early songs about sand, surf, girls and cars into the psychedelic period filled with rich experimentation, The Beach Boys have grown up with American pop music and have brought California’s coastline to the world. Their biggest hits plus hard-to-find rarities  from the recent ‘Sounds of Summer” collection, combine for a trip to the beach….without leaving home!",
-    "mediumDescription": "Sun-drenched songs from The Beach Boys’ decade-spanning career with sand & surf songs, girls & cars and psychedelic grooves.",
-    "shortDescription": "The music of The Beach Boys",
+    "longDescription": "A Whole Lotta Red Hot is your new SiriusXM channel.  Dive deep into the vast, funky musical world of the Red Hot Chili Peppers on their own channel.  Hear the band host shows, take you track-by-track through their new album Unlimited Love, live performances from their vault, side projects plus all of their favorite artists",
+    "mediumDescription": "Whole Lotta Red Hot is RHCP's new exclusive SiriusXM channel",
+    "shortDescription": "Whole Lotta RHCP on SiriusXM",
     "siriusChannelNumber": 105,
     "siriusServiceId": 74,
     "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/the-beach-boys-channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
     "xmChannelNumber": 105,
-    "primaryColor": "#bd4d65",
-    "secondaryColor": "#cb6436",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channels/GoodVibrations21-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channels/GoodVibrations21-127-500x400-N.svg",
+    "primaryColor": "#000000",
+    "secondaryColor": "#dc143c",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/whole-lotta-red-hot-1/WholeLottaRedHot-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/whole-lotta-red-hot-1/WholeLottaRedHot-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -23238,7 +23238,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1656513084068
+    "updatedDate": 1661832561421
   },
   {
     "artistsYouHear": [],
@@ -23299,7 +23299,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "The Chicks Channel on channel 104 now through August 9th at 3am EST and on the app until September 1.",
+    "channelNotification": "MasterClass will air on SiriusXM 104 from Thursday, September 1 @ 3am ET to Thursday, September 15 @ 3am ET.",
     "contentId": "9353",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM 104",
@@ -23332,7 +23332,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1659542747272
+    "updatedDate": 1662015809701
   },
   {
     "artistsYouHear": [],
@@ -24545,25 +24545,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9399",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition5&cp_5=SXMLimitedEdition5&cp_6=TALK&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition5&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition5-TALK-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 5",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheDavidBowieChannel&cp_5=TheDavidBowieChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheDavidBowieChannel&creative_id=NA_NA_DL-COM-live-TheDavidBowieChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "The David Bowie Channel",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Celebrate David Bowie’s legacy and highlights from the new Moonage Daydream film on his very own SiriusXM Limited Engagement Channel.  Rediscover David’s career that has transcended generations of fans with Hits, Remixes, Rare Archival Concerts, Special Guest DJ’s and other artists honoring David with cover versions of his songs.",
+    "mediumDescription": "David Bowie's musical world & highlights from the Moonage Daydream film on his Limited Engagement Ch",
+    "shortDescription": "The music of David Bowie",
     "siriusChannelNumber": 505,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-5",
+    "vanityURL": "https://www.siriusxm.com/channels/the-david-bowie-channel",
     "xmChannelNumber": 505,
-    "primaryColor": "#ffa500",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5-White.svg",
+    "primaryColor": "#000000",
+    "secondaryColor": "#808080",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-david-bowie-channel-1/TheDavidBowieChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-david-bowie-channel-1/TheDavidBowieChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24580,7 +24580,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1657742044196
+    "updatedDate": 1661887835407
   },
   {
     "artistsYouHear": [],
@@ -26575,9 +26575,8 @@
     ],
     "assetId": 1550762892528,
     "deliveryTypes": [
-      "ip",
-      "satellite",
-      "mobile"
+      "mobile",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "entertainment",
@@ -26593,14 +26592,14 @@
     "genreIcon": null,
     "genreTitle": "Entertainment",
     "genreVanityURL": null,
-    "longDescription": "VOLUME is SiriusXM's first-ever all-talk radio channel dedicated to the topic of music. VOLUME brings the music conversation directly to listeners with live daily shows, artist interviews, weekly specials, news briefs, in-depth documentaries & more, hosted by the most respected people in music. VOLUME gives listeners the chance to get in on the action to defend, & discuss their idols. VOLUME will keep you in the know with frequent news and music-related segments each hour.",
-    "mediumDescription": "SXM's all-talk music channel. Artist interviews, live shows, weekly specials, & documentaries with the most respected people.",
-    "shortDescription": "Music Talk That Rocks",
-    "siriusChannelNumber": 106,
-    "siriusServiceId": 114,
-    "xmServiceId": 224,
+    "longDescription": "VOLUME is SiriusXM's first-ever all-talk radio channel dedicated to the topic of music. VOLUME brings the music conversation directly to listeners with live daily shows, artist interviews, weekly specials, news briefs, in-depth documentaries & more, hosted by the most respected people in music. VOLUME gives listeners the chance to get in on the action to defend, & discuss their idols. VOLUME will keep you in the know with frequent news and music-related segments each hour. Simply put, VOLUME is your all-acc",
+    "mediumDescription": "SXM's all-talk music channel. Artist interviews, live daily shows, weekly specials, & documentaries",
+    "shortDescription": "Musically Speaking",
+    "siriusChannelNumber": 780,
+    "siriusServiceId": null,
+    "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/volume",
-    "xmChannelNumber": 106,
+    "xmChannelNumber": 780,
     "primaryColor": "#5e9def",
     "secondaryColor": "#18226c",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/VOLUME/Volume-126-500x400-P.svg",
@@ -26623,7 +26622,7 @@
       "classicrewind",
       "thebridge"
     ],
-    "updatedDate": 1637339136847
+    "updatedDate": 1661888716045
   },
   {
     "artistsYouHear": [
@@ -26752,7 +26751,7 @@
       "9341",
       "siriusnascarradio"
     ],
-    "updatedDate": 1641844617427
+    "updatedDate": 1661967977407
   },
   {
     "artistsYouHear": [
@@ -29062,7 +29061,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1651109350080
+    "updatedDate": 1661968051634
   },
   {
     "artistsYouHear": [],
@@ -29397,7 +29396,8 @@
       "Taylor Cassidy",
       "Lamar Dawson",
       "Catherine Haley",
-      "Masani Musa"
+      "Masani Musa",
+      "Christina Najjar"
     ],
     "assetId": 1550819762617,
     "deliveryTypes": [
@@ -29440,7 +29440,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1660754900713
+    "updatedDate": 1661960164325
   },
   {
     "artistsYouHear": [],
@@ -29592,27 +29592,27 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "The Chicks Channel streaming on the app now until September 1 and in your car on channel 104 through August 9th at 3am EST.",
+    "channelNotification": null,
     "contentId": "9548",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheChicksChannel&cp_5=TheChicksChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=TheChicksChannel&creative_id=NA_NA_DL-COM-live-TheChicksChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Chicks Channel",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition10&cp_5=SXMLimitedEdition10&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition10&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition10-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 10",
     "genre": "country",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "The Chicks Channel is an exploration of the band’s entire catalog of music, guided by their stories and commentary, and intertwined with songs they love from other artists.",
-    "mediumDescription": "An exploration of The Chicks' catalog of music, with their stories and commentary, alongside their favorites from other artists.",
-    "shortDescription": "Music chosen by The Chicks",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels.",
     "siriusChannelNumber": 510,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/the-chicks-channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-10",
     "xmChannelNumber": 510,
-    "primaryColor": "#e3ae01",
-    "secondaryColor": "#243A5C",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-chick-channel/TheChicksChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-chick-channel/TheChicksChannel-127-500x400-N.svg",
+    "primaryColor": "#32cd32",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -29623,13 +29623,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": [
-      "9178",
-      "primecountry",
-      "newcountry",
-      "4159"
-    ],
-    "updatedDate": 1659542666447
+    "relatedChannels": null,
+    "updatedDate": 1661893593362
   },
   {
     "artistsYouHear": [],
@@ -36171,7 +36166,7 @@
       "radiomargaritaville",
       "thebridge"
     ],
-    "updatedDate": 1661454130265
+    "updatedDate": 1661955943185
   },
   {
     "artistsYouHear": [

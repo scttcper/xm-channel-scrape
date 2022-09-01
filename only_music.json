@@ -81,7 +81,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "It started with the Twist and ended with Woodstock - all '60s hits. Motown, surf music, the British Invasion, folk-rock - it's all here  on '60s on 6!",
+    "longDescription": "It started with the Twist and ended with Woodstock — all '60s hits. Motown, surf music, the British Invasion, folk-rock — it's all here — on '60s Gold!",
     "mediumDescription": "Relive the musical revolution of the '60s.",
     "shortDescription": "All 60s hits",
     "siriusChannelNumber": 73,
@@ -1926,25 +1926,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9351",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBeachBoysChannel&cp_5=TheBeachBoysChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBeachBoysChannel&creative_id=NA_NA_DL-COM-live-TheBeachBoysChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Beach Boys Channel",
-    "genre": "pop",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RedHotChiliPeppers&cp_5=RedHotChiliPeppers&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=RedHotChiliPeppers&creative_id=NA_NA_DL-COM-live-RedHotChiliPeppers--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Red Hot Chili Peppers",
+    "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Pop",
+    "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Playing sun-drenched songs from every phase of the group’s decade-spanning career! It’s all on Good Vibrations: The Beach Boys Channel! From their early songs about sand, surf, girls and cars into the psychedelic period filled with rich experimentation, The Beach Boys have grown up with American pop music and have brought California’s coastline to the world. Their biggest hits plus hard-to-find rarities  from the recent ‘Sounds of Summer” collection, combine for a trip to the beach….without leaving home!",
-    "mediumDescription": "Sun-drenched songs from The Beach Boys’ decade-spanning career with sand & surf songs, girls & cars and psychedelic grooves.",
-    "shortDescription": "The music of The Beach Boys",
+    "longDescription": "A Whole Lotta Red Hot is your new SiriusXM channel.  Dive deep into the vast, funky musical world of the Red Hot Chili Peppers on their own channel.  Hear the band host shows, take you track-by-track through their new album Unlimited Love, live performances from their vault, side projects plus all of their favorite artists",
+    "mediumDescription": "Whole Lotta Red Hot is RHCP's new exclusive SiriusXM channel",
+    "shortDescription": "Whole Lotta RHCP on SiriusXM",
     "siriusChannelNumber": 105,
     "siriusServiceId": 74,
     "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/the-beach-boys-channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
     "xmChannelNumber": 105,
-    "primaryColor": "#bd4d65",
-    "secondaryColor": "#cb6436",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channels/GoodVibrations21-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channels/GoodVibrations21-127-500x400-N.svg",
+    "primaryColor": "#000000",
+    "secondaryColor": "#dc143c",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/whole-lotta-red-hot-1/WholeLottaRedHot-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/whole-lotta-red-hot-1/WholeLottaRedHot-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -1957,7 +1957,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1656513084068
+    "updatedDate": 1661832561421
   },
   {
     "artistsYouHear": [],
@@ -2018,7 +2018,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "The Chicks Channel on channel 104 now through August 9th at 3am EST and on the app until September 1.",
+    "channelNotification": "MasterClass will air on SiriusXM 104 from Thursday, September 1 @ 3am ET to Thursday, September 15 @ 3am ET.",
     "contentId": "9353",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM 104",
@@ -2051,7 +2051,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1659542747272
+    "updatedDate": 1662015809701
   },
   {
     "artistsYouHear": [
@@ -2731,25 +2731,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9399",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition5&cp_5=SXMLimitedEdition5&cp_6=TALK&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition5&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition5-TALK-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 5",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheDavidBowieChannel&cp_5=TheDavidBowieChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheDavidBowieChannel&creative_id=NA_NA_DL-COM-live-TheDavidBowieChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "The David Bowie Channel",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Celebrate David Bowie’s legacy and highlights from the new Moonage Daydream film on his very own SiriusXM Limited Engagement Channel.  Rediscover David’s career that has transcended generations of fans with Hits, Remixes, Rare Archival Concerts, Special Guest DJ’s and other artists honoring David with cover versions of his songs.",
+    "mediumDescription": "David Bowie's musical world & highlights from the Moonage Daydream film on his Limited Engagement Ch",
+    "shortDescription": "The music of David Bowie",
     "siriusChannelNumber": 505,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-5",
+    "vanityURL": "https://www.siriusxm.com/channels/the-david-bowie-channel",
     "xmChannelNumber": 505,
-    "primaryColor": "#ffa500",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5-White.svg",
+    "primaryColor": "#000000",
+    "secondaryColor": "#808080",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-david-bowie-channel-1/TheDavidBowieChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-david-bowie-channel-1/TheDavidBowieChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -2766,7 +2766,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1657742044196
+    "updatedDate": 1661887835407
   },
   {
     "artistsYouHear": [],
@@ -4729,7 +4729,8 @@
       "Taylor Cassidy",
       "Lamar Dawson",
       "Catherine Haley",
-      "Masani Musa"
+      "Masani Musa",
+      "Christina Najjar"
     ],
     "assetId": 1550819762617,
     "deliveryTypes": [
@@ -4772,7 +4773,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1660754900713
+    "updatedDate": 1661960164325
   },
   {
     "artistsYouHear": [],
@@ -4924,27 +4925,27 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "The Chicks Channel streaming on the app now until September 1 and in your car on channel 104 through August 9th at 3am EST.",
+    "channelNotification": null,
     "contentId": "9548",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheChicksChannel&cp_5=TheChicksChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=TheChicksChannel&creative_id=NA_NA_DL-COM-live-TheChicksChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Chicks Channel",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition10&cp_5=SXMLimitedEdition10&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition10&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition10-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 10",
     "genre": "country",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "The Chicks Channel is an exploration of the band’s entire catalog of music, guided by their stories and commentary, and intertwined with songs they love from other artists.",
-    "mediumDescription": "An exploration of The Chicks' catalog of music, with their stories and commentary, alongside their favorites from other artists.",
-    "shortDescription": "Music chosen by The Chicks",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels.",
     "siriusChannelNumber": 510,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/the-chicks-channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-10",
     "xmChannelNumber": 510,
-    "primaryColor": "#e3ae01",
-    "secondaryColor": "#243A5C",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-chick-channel/TheChicksChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-chick-channel/TheChicksChannel-127-500x400-N.svg",
+    "primaryColor": "#32cd32",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -4955,13 +4956,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": [
-      "9178",
-      "primecountry",
-      "newcountry",
-      "4159"
-    ],
-    "updatedDate": 1659542666447
+    "relatedChannels": null,
+    "updatedDate": 1661893593362
   },
   {
     "artistsYouHear": [],
@@ -9040,7 +9036,7 @@
       "radiomargaritaville",
       "thebridge"
     ],
-    "updatedDate": 1661454130265
+    "updatedDate": 1661955943185
   },
   {
     "artistsYouHear": [
