@@ -779,25 +779,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8241",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=YachtRockRadio&cp_5=YachtRockRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=YachtRockRadio&creative_id=NA_NA_DL-COM-live-YachtRockRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Yacht Rock Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM14&cp_5=SiriusXM14&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM14&creative_id=NA_NA_DL-COM-live-SiriusXM14--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM 14",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM’s tribute to Yacht Rock celebrates the smooth-sailing soft rock from the late '70s and early '80s.  You’ll hear artists like Michael McDonald, Christopher Cross, Hall & Oates and other titans of smooth music. It's the kind of rock that doesn’t rock the boat!",
-    "mediumDescription": "Smooth-sailing soft rock from the late '70s and early '80s. It's the kind of rock that doesn’t rock the boat!",
-    "shortDescription": "'70s/'80s Smooth-Sailing Soft Rock",
+    "longDescription": "SiriusXM 14",
+    "mediumDescription": "SiriusXM 14",
+    "shortDescription": "SiriusXM 14",
     "siriusChannelNumber": 14,
     "siriusServiceId": 203,
     "xmServiceId": 21,
-    "vanityURL": "https://www.siriusxm.com/channels/yacht-rock-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-14",
     "xmChannelNumber": 14,
     "primaryColor": "#53abde",
     "secondaryColor": "#143a5a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-127-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -814,7 +814,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1654279733616
+    "updatedDate": 1662563837269
   },
   {
     "artistsYouHear": [

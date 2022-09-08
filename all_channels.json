@@ -9923,8 +9923,8 @@
     "genreIcon": null,
     "genreTitle": "Sports",
     "genreVanityURL": null,
-    "longDescription": "Christopher ‘Mad Dog’ Russo, Pat McAfee, Adam Schein, and The Morning Men with Evan Cohen, Mike Babchik and Willie Colon talk about the world of sports.",
-    "mediumDescription": "Chris 'Mad Dog' Russo, Adam Schein, The Morning Men, Pat McAfee, and more talk about the world of sports.",
+    "longDescription": "Christopher ‘Mad Dog’ Russo, Adam Schein, and The Morning Men with Evan Cohen, Mike Babchik and Willie Colon talk about the world of sports.",
+    "mediumDescription": "Chris 'Mad Dog' Russo, Adam Schein, The Morning Men, and more talk about the world of sports.",
     "shortDescription": "Mad Dog Russo, Morning Men",
     "siriusChannelNumber": 82,
     "siriusServiceId": 84,
@@ -10624,25 +10624,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8241",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=YachtRockRadio&cp_5=YachtRockRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=YachtRockRadio&creative_id=NA_NA_DL-COM-live-YachtRockRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Yacht Rock Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM14&cp_5=SiriusXM14&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM14&creative_id=NA_NA_DL-COM-live-SiriusXM14--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM 14",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM’s tribute to Yacht Rock celebrates the smooth-sailing soft rock from the late '70s and early '80s.  You’ll hear artists like Michael McDonald, Christopher Cross, Hall & Oates and other titans of smooth music. It's the kind of rock that doesn’t rock the boat!",
-    "mediumDescription": "Smooth-sailing soft rock from the late '70s and early '80s. It's the kind of rock that doesn’t rock the boat!",
-    "shortDescription": "'70s/'80s Smooth-Sailing Soft Rock",
+    "longDescription": "SiriusXM 14",
+    "mediumDescription": "SiriusXM 14",
+    "shortDescription": "SiriusXM 14",
     "siriusChannelNumber": 14,
     "siriusServiceId": 203,
     "xmServiceId": 21,
-    "vanityURL": "https://www.siriusxm.com/channels/yacht-rock-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-14",
     "xmChannelNumber": 14,
     "primaryColor": "#53abde",
     "secondaryColor": "#143a5a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-127-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -10659,7 +10659,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1654279733616
+    "updatedDate": 1662563837269
   },
   {
     "artistsYouHear": [
@@ -13947,8 +13947,8 @@
     "xmChannelNumber": 118,
     "primaryColor": "#bfbfbf",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/MSNBC/MSNBC-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/MSNBC/MSNBC-4C-OnK.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/MSNBC/MSNBC-VERT-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/MSNBC/MSNBC-VERT-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -13964,7 +13964,7 @@
       "cnn",
       "cnnheadlinenews"
     ],
-    "updatedDate": 1631639515602
+    "updatedDate": 1662566066139
   },
   {
     "artistsYouHear": [
@@ -27804,8 +27804,8 @@
     "genreIcon": null,
     "genreTitle": "Sports",
     "genreVanityURL": null,
-    "longDescription": "Home of The Jim Rome Show along with Tiki & Tierney, The DA Show, Zach Gelb plus top games from a variety of sports!",
-    "mediumDescription": "Home of The Jim Rome Show along with Tiki & Tierney, The DA Show, Zach Gelb and more!",
+    "longDescription": "Home of The Jim Rome Show along with Maggie & Perloff, The DA Show, and Zach Gelb plus top games from a variety of sports!",
+    "mediumDescription": "Home of The Jim Rome Show along with Maggie & Perloff, The DA Show, and Zach Gelb and more!",
     "shortDescription": "Sports Talk, Jim Rome",
     "siriusChannelNumber": 158,
     "siriusServiceId": 76,
@@ -29037,7 +29037,7 @@
     "genreIcon": null,
     "genreTitle": "Sports",
     "genreVanityURL": null,
-    "longDescription": "NBC Sports Audio is a sports talk channel consisting of some of the most important newsmakers and interviewers in the industry.  Opinionated sports talk hosts and journalists such as Dan Patrick, Rich Eisen, Mike Florio, Michael Smith, Michael Holley, Chris Simms and more deliver their insightful and entertaining thoughts on everything happening from the world of sports while speaking with A-list guests from sports, pop culture and more.",
+    "longDescription": "NBC Sports Audio is a sports talk channel consisting of some of the most important newsmakers and interviewers in the industry.  Opinionated sports talk hosts and journalists such as Dan Patrick, Mike Florio, Michael Smith, Michael Holley, Chris Simms, Matthew Berry and more deliver their insightful and entertaining thoughts on everything happening from the world of sports while speaking with A-list guests from sports, pop culture and more.",
     "mediumDescription": "Personality based sports talk with legendary hosts and journalists featuring strong opinions and A-list interviews",
     "shortDescription": "Sports Talk News & Opinions",
     "siriusChannelNumber": 85,
@@ -31971,8 +31971,8 @@
     "xmChannelNumber": 110,
     "primaryColor": "#b0b0b0",
     "secondaryColor": "#812990",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Doctor-Radio/DrRadio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Doctor-Radio/DrRadio-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Doctor-Radio/DoctorRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Doctor-Radio/DoctorRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -31991,7 +31991,7 @@
     "relatedChannels": [
       "siriusstars"
     ],
-    "updatedDate": 1656359845497
+    "updatedDate": 1662567055194
   },
   {
     "artistsYouHear": [
@@ -32075,8 +32075,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "energie2",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=AttitudeFranco&cp_5=AttitudeFranco&cp_6=TALK&cp_7=COM&cp_8=SXMCOM&site_id=AttitudeFranco&creative_id=NA_NA_DL-COM-live-AttitudeFranco-TALK-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Attitude Franco",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=LesTubesFranco&cp_5=LesTubesFranco&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=LesTubesFranco&creative_id=NA_NA_DL-COM-live-LesTubesFranco--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Les Tubes Franco",
     "genre": "canadian",
     "genreLogo": null,
     "genreIcon": null,
@@ -32088,12 +32088,12 @@
     "siriusChannelNumber": 759,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/attitude-franco",
+    "vanityURL": "https://www.siriusxm.com/channels/les-tubes-franco",
     "xmChannelNumber": 759,
     "primaryColor": "#c3e9fc",
     "secondaryColor": "#005581",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/Attitude-Franco/AttitudeFranco-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/Attitude-Franco/AttitudeFranco_WHITE.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -32109,9 +32109,9 @@
       "8245",
       "8246",
       "9504",
-      "premiereplus"
+      "rockvelours"
     ],
-    "updatedDate": 1630094141305
+    "updatedDate": 1662563804477
   },
   {
     "artistsYouHear": [
@@ -35095,8 +35095,8 @@
     "xmChannelNumber": 88,
     "primaryColor": "#da2128",
     "secondaryColor": "#003b75",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-NFL-Radio/SXM_NFL_Radio.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-NFL-Radio/SXM_NFL_Radio_white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-NFL-Radio/SXMNFLRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-NFL-Radio/SXMNFLRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -35117,7 +35117,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1660757814289
+    "updatedDate": 1662567395165
   },
   {
     "artistsYouHear": [
@@ -35914,7 +35914,7 @@
     "genreIcon": null,
     "genreTitle": "Religion",
     "genreVanityURL": null,
-    "longDescription": "Talk about it on The Catholic Channel! Combining a modern talk format and open dialogue, The Catholic Channel focuses on Catholicism in the 21st century, especially as it is lived in today's world. The Catholic Channel addresses issues in the news and on the mind of the listeners: everything from what's happening in the Church today, to the headline stories of current events and politics, to the latest in the world of entertainment, the arts and sports.",
+    "longDescription": "Talk about it on The Catholic Channel!  Combining a modern talk format and open dialogue, The Catholic Channel focuses on Catholicism in the 21st century, especially as it is lived in today's world. Cardinal Timothy Dolan leads a list of modern voices, including Fr. Dave Dwyer, Lino Rulli, Gus Lloyd, Katie McGrady, and more.",
     "mediumDescription": "Modern talk format and open dialogue for today's Catholic. Cardinal Timothy Dolan, Lino Rulli, Fr. Dave Dwyer, Gus Lloyd & more.",
     "shortDescription": "Talk For Saints and Sinners",
     "siriusChannelNumber": 129,
