@@ -417,9 +417,9 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=CrossCountry&cp_5=CrossCountry&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=CrossCountry&creative_id=NA_NA_DL-COM-xtra-CrossCountry-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "channelNotification": null,
     "contentId": "4008",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=CountryPopMix&cp_5=CountryPopMix&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=CountryPopMix&creative_id=NA_NA_DL-COM-xtra-CountryPopMix-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=CrossCountry&cp_5=CrossCountry&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=CrossCountry&creative_id=NA_NA_DL-COM-xtra-CrossCountry-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Cross Country",
     "genre": "mash",
     "genreLogo": null,
@@ -449,7 +449,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1661832064911
+    "updatedDate": 1662989322081
   },
   {
     "artistsYouHear": [],
@@ -16185,7 +16185,7 @@
       "gratefuldead",
       "soultown"
     ],
-    "updatedDate": 1631719325293
+    "updatedDate": 1662992144002
   },
   {
     "artistsYouHear": [
