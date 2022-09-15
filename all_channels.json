@@ -16718,7 +16718,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9190",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Rumbon&cp_5=Rumbon&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Rumbon&creative_id=NA_NA_DL-COM-live-Rumbon-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RumbonMusic&cp_5=RumbonMusic&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=RumbonMusic&creative_id=NA_NA_DL-COM-live-RumbonMusic-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Rumbón",
     "genre": "world",
     "genreLogo": null,
@@ -16757,7 +16757,7 @@
       "rumbon",
       "9187"
     ],
-    "updatedDate": 1631215168283
+    "updatedDate": 1663180007474
   },
   {
     "artistsYouHear": [
@@ -25295,7 +25295,9 @@
       "Tool",
       "Deftones",
       "Limp Bizkit",
+      "Caity Babs",
       "Covino",
+      "Hardy",
       "Shannon Gunz"
     ],
     "assetId": 1550762883401,
@@ -25350,7 +25352,7 @@
       "9175",
       "8230"
     ],
-    "updatedDate": 1631539375481
+    "updatedDate": 1663166592240
   },
   {
     "artistsYouHear": [],
