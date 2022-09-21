@@ -2019,7 +2019,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "MasterClass will air on SiriusXM 104 from Thursday, September 1 @ 3am ET to Thursday, September 15 @ 3am ET.",
+    "channelNotification": null,
     "contentId": "9353",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM 104",
@@ -2052,7 +2052,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1662015809701
+    "updatedDate": 1663698116733
   },
   {
     "artistsYouHear": [
