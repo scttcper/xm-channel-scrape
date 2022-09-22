@@ -9136,12 +9136,12 @@
       "Elton John",
       "Paul McCartney & Wings",
       "Eagles",
-      "Casey Kasem",
-      "Dennis \"The Menace\"",
-      "Jaybeau Jones ",
-      "Ron Parker",
       "Magic Matt",
-      "JJ Walker"
+      "Jaybeau Jones ",
+      "JJ Walker",
+      "Ron Parker",
+      "Dennis \"The Menace\"",
+      "Casey Kasem"
     ],
     "assetId": 1550762850934,
     "deliveryTypes": [
@@ -9193,7 +9193,7 @@
       "big80s",
       "classicrewind"
     ],
-    "updatedDate": 1630084536427
+    "updatedDate": 1663594645086
   },
   {
     "artistsYouHear": [
@@ -9208,15 +9208,16 @@
       "The Yardbirds",
       "The Byrds",
       "Little Steven Van Zandt",
-      "Kid Leo",
-      "The Mighty Manfred",
-      "Michael Des Barres",
-      "Palmyra Delran",
-      "Lenny Kaye",
-      "Kelly Ogden",
       "Drew Carey",
-      "Slim Jim Phantom ",
+      "Mark Lindsay",
       "Rodney Bingenheimer",
+      "Lenny Kaye",
+      "Kid Leo",
+      "Michael Des Barres",
+      "The Mighty Manfred",
+      "Palmyra Delran",
+      "Kelly Ogden",
+      "Slim Jim Phantom ",
       "Chris Carter",
       "Bill Kelly",
       "Ko Melina",
@@ -9276,6 +9277,6 @@
       "thevault",
       "outlawcountry"
     ],
-    "updatedDate": 1646238094634
+    "updatedDate": 1663789078256
   }
 ]
