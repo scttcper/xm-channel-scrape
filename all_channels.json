@@ -10763,7 +10763,7 @@
     "siriusChannelNumber": 163,
     "siriusServiceId": 145,
     "xmServiceId": 100,
-    "vanityURL": "https://www.siriusxm.com/channels/ici-musique-chansons",
+    "vanityURL": null,
     "xmChannelNumber": 163,
     "primaryColor": "#4b5fde",
     "secondaryColor": "#000000",
@@ -10781,10 +10781,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": [
-      "energie2",
-      "8246"
-    ],
+    "relatedChannels": null,
     "updatedDate": 1631204737263
   },
   {
@@ -23208,25 +23205,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9351",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RedHotChiliPeppers&cp_5=RedHotChiliPeppers&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=RedHotChiliPeppers&creative_id=NA_NA_DL-COM-live-RedHotChiliPeppers--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Red Hot Chili Peppers",
-    "genre": "rock",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBillyJoelChannel&cp_5=TheBillyJoelChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBillyJoelChannel&creative_id=NA_NA_DL-COM-live-TheBillyJoelChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "The Billy Joel Channel",
+    "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Rock",
+    "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "A Whole Lotta Red Hot is your new SiriusXM channel.  Dive deep into the vast, funky musical world of the Red Hot Chili Peppers on their own channel.  Hear the band host shows, take you track-by-track through their new album Unlimited Love, live performances from their vault, side projects plus all of their favorite artists",
-    "mediumDescription": "Whole Lotta Red Hot is RHCP's new exclusive SiriusXM channel",
-    "shortDescription": "Whole Lotta RHCP on SiriusXM",
+    "longDescription": "Billy Joel has written and performed songs that have touched a generation. Now, SiriusXM presents a limited-run channel dedicated to his music and his stories behind the songs. In addition, Billy will offer exclusive commentary on his writing process and the music that influenced it…along with track-by-track specials on three of his albums: Turnstiles, 52nd Street and Glass Houses.",
+    "mediumDescription": "Music from Billy Joel's career plus stories behind the songs and Billy's memories and anecdotes. Limited-run channel.",
+    "shortDescription": "Billy Joel's Music, 24/7",
     "siriusChannelNumber": 105,
     "siriusServiceId": 74,
     "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
+    "vanityURL": "https://www.siriusxm.com/channels/the-billy-joel-channel",
     "xmChannelNumber": 105,
-    "primaryColor": "#000000",
-    "secondaryColor": "#dc143c",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/whole-lotta-red-hot-1/WholeLottaRedHot-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/whole-lotta-red-hot-1/WholeLottaRedHot-127-500x400-N.svg",
+    "primaryColor": "#808080",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -23239,7 +23236,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1661832561421
+    "updatedDate": 1664282233317
   },
   {
     "artistsYouHear": [],
@@ -23318,7 +23315,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
     "xmChannelNumber": 104,
     "primaryColor": "#000000",
-    "secondaryColor": "#87ceeb",
+    "secondaryColor": "#006ED7",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -23333,7 +23330,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1663698116733
+    "updatedDate": 1664476283062
   },
   {
     "artistsYouHear": [],
@@ -23447,6 +23444,7 @@
       "Jeff Klein",
       "Stew Friedman",
       "Jeremy Schwartz",
+      "Melissa Biggs Bradley",
       "Jeremy Siegel ",
       "Liqian Ren",
       "Kent Smetters",
@@ -23527,7 +23525,7 @@
       "9369",
       "bloombergradio"
     ],
-    "updatedDate": 1641828511508
+    "updatedDate": 1661796899458
   },
   {
     "artistsYouHear": [
@@ -24500,25 +24498,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9398",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ShinedownRadio&cp_5=ShinedownRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=ShinedownRadio&creative_id=NA_NA_DL-COM-live-ShinedownRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Shinedown Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition4&cp_5=SXMLimitedEdition4&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition4&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition4-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 4",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Hear all of Shinedown's music, influences, friends, & tourmates, with commentary from the band. Plus the SXM/Pandora Small Stage Series with Shinedown Live from the Orange Peel in Asheville, NC!",
-    "mediumDescription": "All of Shinedown's music, influences, friends, & tourmates. Plus the SXM/Pandora Small Stage Series with Shinedown Live!",
-    "shortDescription": "The Sound of Shinedown",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 504,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/shinedown-radio",
     "xmChannelNumber": 504,
-    "primaryColor": "#8b4513",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/shinedownradio/ShinedownRadio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/shinedownradio/ShinedownRadio-White.svg",
+    "primaryColor": "#8fbc8f",
+    "secondaryColor": "#006ED7",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition4/SiriusXM-Limited-Edition-4.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition4/SiriusXM-Limited-Edition-4-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24530,7 +24528,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1661453646961
+    "updatedDate": 1664477720048
   },
   {
     "artistsYouHear": [],
@@ -24546,25 +24544,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9399",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheDavidBowieChannel&cp_5=TheDavidBowieChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheDavidBowieChannel&creative_id=NA_NA_DL-COM-live-TheDavidBowieChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The David Bowie Channel",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition5&cp_5=SXMLimitedEdition5&cp_6=TALK&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition5&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition5-TALK-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 5",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Celebrate David Bowie’s legacy and highlights from the new Moonage Daydream film on his very own SiriusXM Limited Engagement Channel.  Rediscover David’s career that has transcended generations of fans with Hits, Remixes, Rare Archival Concerts, Special Guest DJ’s and other artists honoring David with cover versions of his songs.",
-    "mediumDescription": "David Bowie's musical world & highlights from the Moonage Daydream film on his Limited Engagement Ch",
-    "shortDescription": "The music of David Bowie",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 505,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/the-david-bowie-channel",
     "xmChannelNumber": 505,
-    "primaryColor": "#000000",
-    "secondaryColor": "#808080",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-david-bowie-channel-1/TheDavidBowieChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-david-bowie-channel-1/TheDavidBowieChannel-127-500x400-N.svg",
+    "primaryColor": "#87ceeb",
+    "secondaryColor": "#2e8b57",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition5/SiriusXM-Limited-Edition-5.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition5/SiriusXM-Limited-Edition-5-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24581,7 +24579,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1661887835407
+    "updatedDate": 1664282560298
   },
   {
     "artistsYouHear": [],
@@ -25657,9 +25655,7 @@
     "updatedDate": 1633069763025
   },
   {
-    "artistsYouHear": [
-      "Garth Brooks"
-    ],
+    "artistsYouHear": [],
     "assetId": 1550762890526,
     "deliveryTypes": [
       "ip",
@@ -25673,25 +25669,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9421",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheGarthChannel&cp_5=TheGarthChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheGarthChannel&creative_id=NA_NA_DL-COM-live-TheGarthChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Garth Channel",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM55&cp_5=SiriusXM55&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM55&creative_id=NA_NA_DL-COM-live-SiriusXM55--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM 55",
     "genre": "country",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Garth Brooks is the #1 selling solo artist in history.  Now, all of his music is in one place, along with music Garth's picks from yesterday and today's Pop, Country, R&B and Rock artists. Completely curated by Garth himself, The Garth Channel is like listening to a jukebox filled with Garth's favorites...as well as his own award-winning songs from his phenomenal career!",
-    "mediumDescription": "Garth's music and the songs he chooses by other artists. Country, Pop, Rock, R&B....what's coming next is always a surprise!!",
-    "shortDescription": "Garth's music & songs he loves",
+    "longDescription": "SiriusXM 55",
+    "mediumDescription": "SiriusXM 55",
+    "shortDescription": "SiriusXM 55",
     "siriusChannelNumber": 55,
     "siriusServiceId": 68,
     "xmServiceId": 136,
     "vanityURL": "https://www.siriusxm.com/channels/the-garth-channel",
     "xmChannelNumber": 55,
-    "primaryColor": "#D39E34",
-    "secondaryColor": "#698EA3",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Garth-Channel/The-Garth_Channel.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Garth-Channel/The-Garth_Channel_White.svg",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#006ED7",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -25710,7 +25706,7 @@
       "9340",
       "outlawcountry"
     ],
-    "updatedDate": 1631720105811
+    "updatedDate": 1664477647642
   },
   {
     "artistsYouHear": [],
@@ -29093,7 +29089,7 @@
     "siriusChannelNumber": 735,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": null,
+    "vanityURL": "https://www.siriusxm.com/channels/steve-aokis-remix-radio",
     "xmChannelNumber": 735,
     "primaryColor": "#64c2ec",
     "secondaryColor": "#000",
@@ -29139,10 +29135,10 @@
     "siriusChannelNumber": 736,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": null,
+    "vanityURL": "https://www.siriusxm.com/channels/a-state-of-armin",
     "xmChannelNumber": 736,
     "primaryColor": "#000",
-    "secondaryColor": "#808080",
+    "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/a-state-of-armin/AStateOfArmin-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/a-state-of-armin/AStateOfArmin-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -29156,7 +29152,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630087175156
+    "updatedDate": 1664523743828
   },
   {
     "artistsYouHear": [],
@@ -29506,23 +29502,23 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9546",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition3&cp_5=SXMLimitedEdition3&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition3&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition3-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 3",
-    "genre": "pop",
+    "deepLink": "NA_NA_DL-COM-live-KingofBachataRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "King of Bachata Radio",
+    "genre": "world",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Pop",
+    "genreTitle": "Latino",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Romeo Santos, one of the most influential voices in Latin music today hosts an exclusive channel where the language is romance.  Known as the King of Bachata, this boundary crossing superstar captures hearts all around the world.  The former lead vocalist of the band Aventura, reigns supreme with his new studio album, Formula Vol.3.   Explore his music, new and classic, and hear music from his influences and favorite artists.",
+    "mediumDescription": "Romeo Santos shares his new album, insights behind his biggest songs, music from his influences & genre-crossing collaborators.",
+    "shortDescription": "Romeo Santos’ hits & favorites",
     "siriusChannelNumber": 503,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-3",
     "xmChannelNumber": 503,
-    "primaryColor": "#808080",
-    "secondaryColor": "#0000ff",
+    "primaryColor": "#32cd32",
+    "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3-White.svg",
     "explicitContentIndicator": "No",
@@ -29536,7 +29532,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1654867667779
+    "updatedDate": 1664524323842
   },
   {
     "artistsYouHear": [],
@@ -29750,7 +29746,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/the-10s-spot",
     "xmChannelNumber": 11,
     "primaryColor": "#f3e14c",
-    "secondaryColor": "#d93b74",
+    "secondaryColor": "#bf215a",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-10s-spot/10sSpot-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-10s-spot/10sSpot-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -29773,7 +29769,7 @@
       "9450",
       "thebeat"
     ],
-    "updatedDate": 1664303050746
+    "updatedDate": 1664475896586
   },
   {
     "artistsYouHear": [],
@@ -30656,7 +30652,7 @@
     "siriusChannelNumber": 171,
     "siriusServiceId": 138,
     "xmServiceId": 47,
-    "vanityURL": "https://www.siriusxm.com/channels/cbc-country",
+    "vanityURL": null,
     "xmChannelNumber": 171,
     "primaryColor": "#ed1b2e",
     "secondaryColor": "#000000",
@@ -31231,7 +31227,7 @@
     "siriusChannelNumber": 162,
     "siriusServiceId": 139,
     "xmServiceId": 135,
-    "vanityURL": "https://www.siriusxm.com/channels/cbc-radio-3",
+    "vanityURL": null,
     "xmChannelNumber": 162,
     "primaryColor": "#ed1b2e",
     "secondaryColor": "#000000",
@@ -32094,10 +32090,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/les-tubes-franco",
     "xmChannelNumber": 759,
-    "primaryColor": "#c3e9fc",
-    "secondaryColor": "#005581",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "primaryColor": "#8a2be2",
+    "secondaryColor": "#4169e1",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/lestubesfranco/LesTubesFranco-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/lestubesfranco/LesTubesFranco-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -32110,12 +32106,10 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "8245",
       "8246",
-      "9504",
-      "rockvelours"
+      "9504"
     ],
-    "updatedDate": 1662563804477
+    "updatedDate": 1664278273165
   },
   {
     "artistsYouHear": [
@@ -34400,7 +34394,7 @@
     "siriusChannelNumber": 166,
     "siriusServiceId": 142,
     "xmServiceId": 89,
-    "vanityURL": "https://www.siriusxm.com/channels/ici-musique-francocountry",
+    "vanityURL": null,
     "xmChannelNumber": 166,
     "primaryColor": "#4b5fde",
     "secondaryColor": "#000000",
