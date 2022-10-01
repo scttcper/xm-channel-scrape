@@ -4944,10 +4944,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-3",
     "xmChannelNumber": 503,
-    "primaryColor": "#32cd32",
+    "primaryColor": "#FF0000",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/king-of-bachata-radio/KingOfBachataRadio-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/king-of-bachata-radio/KingOfBachataRadio-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -4959,7 +4959,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1664524323842
+    "updatedDate": 1664552230727
   },
   {
     "artistsYouHear": [],
@@ -5100,7 +5100,11 @@
     "updatedDate": 1656427667658
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Catherine Haley",
+      "Spyder Harrison",
+      "Mack"
+    ],
     "assetId": 1550826389147,
     "deliveryTypes": [
       "ip",
@@ -5153,7 +5157,7 @@
       "9450",
       "thebeat"
     ],
-    "updatedDate": 1664475896586
+    "updatedDate": 1664545774749
   },
   {
     "artistsYouHear": [],
@@ -8191,6 +8195,7 @@
       "Nicole",
       "Stanley T",
       "Ryan Sampson",
+      "Mack",
       "Mikey Piff",
       "Spyder Harrison",
       "Tony Fly",
@@ -8247,7 +8252,7 @@
       "hotjamz",
       "thebeat"
     ],
-    "updatedDate": 1651107533904
+    "updatedDate": 1664566355498
   },
   {
     "artistsYouHear": [
