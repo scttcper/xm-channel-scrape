@@ -989,7 +989,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/phish-radio",
     "xmChannelNumber": 29,
     "primaryColor": "#005581",
-    "secondaryColor": "#69a2bf",
+    "secondaryColor": "#262a6b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Phish-Radio/PhishRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Phish-Radio/PhishRadio-White.svg",
     "explicitContentIndicator": "No",
@@ -1013,7 +1013,7 @@
       "gratefuldead",
       "8207"
     ],
-    "updatedDate": 1641924803423
+    "updatedDate": 1664804856951
   },
   {
     "artistsYouHear": [
@@ -4470,7 +4470,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/bob-marleys-tuff-gong-radio",
     "xmChannelNumber": 19,
     "primaryColor": "#ea1c20",
-    "secondaryColor": "#00a752",
+    "secondaryColor": "#07833b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/bob-marleys-tuff-gong-radio/BobMarleyTuffGong-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/bob-marleys-tuff-gong-radio/BobMarleyTuffGong-White.svg",
     "explicitContentIndicator": "No",
@@ -4485,7 +4485,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630095268118
+    "updatedDate": 1664804616469
   },
   {
     "artistsYouHear": [],
@@ -4801,7 +4801,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/andy-cohens-kiki-lounge",
     "xmChannelNumber": 312,
     "primaryColor": "#8eb963",
-    "secondaryColor": "#56a8d2",
+    "secondaryColor": "#864091",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/andy-cohen-kiki-lounge/AndyCohensKikiLounge-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/andy-cohen-kiki-lounge/AndyCohensKikiLounge-White.svg",
     "explicitContentIndicator": "No",
@@ -4815,7 +4815,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1654109226141
+    "updatedDate": 1664804487643
   },
   {
     "artistsYouHear": [
@@ -7743,7 +7743,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/real-jazz",
     "xmChannelNumber": 67,
     "primaryColor": "#a7a9ac",
-    "secondaryColor": "#6077a4",
+    "secondaryColor": "#44567b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Real-Jazz/RealJazz.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Real-Jazz/RealJazz_White.svg",
     "explicitContentIndicator": "No",
@@ -7764,7 +7764,7 @@
       "jazzcafe",
       "soultown"
     ],
-    "updatedDate": 1631655003642
+    "updatedDate": 1664805070302
   },
   {
     "artistsYouHear": [

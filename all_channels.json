@@ -11054,7 +11054,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/just-for-laughs-canada",
     "xmChannelNumber": 168,
     "primaryColor": "#2cde59",
-    "secondaryColor": "#ed1b2e",
+    "secondaryColor": "#cd1921",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/Canada-Laughs/JustForLaughsCanada-114-900x720-P.png",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/Canada-Laughs/JustForLaughsCanada-115-900x720-N.png",
     "explicitContentIndicator": "Yes",
@@ -11073,7 +11073,7 @@
       "9408",
       "9494"
     ],
-    "updatedDate": 1647644196718
+    "updatedDate": 1664805628384
   },
   {
     "artistsYouHear": [],
@@ -14716,7 +14716,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/phish-radio",
     "xmChannelNumber": 29,
     "primaryColor": "#005581",
-    "secondaryColor": "#69a2bf",
+    "secondaryColor": "#262a6b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Phish-Radio/PhishRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Phish-Radio/PhishRadio-White.svg",
     "explicitContentIndicator": "No",
@@ -14740,7 +14740,7 @@
       "gratefuldead",
       "8207"
     ],
-    "updatedDate": 1641924803423
+    "updatedDate": 1664804856951
   },
   {
     "artistsYouHear": [
@@ -24295,7 +24295,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/today-show-radio",
     "xmChannelNumber": 108,
     "primaryColor": "#fec469",
-    "secondaryColor": "#c96021",
+    "secondaryColor": "#b0541c",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/TODAY-Show-Radio/Today-Show-Radio-4C-logo.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/TODAY-Show-Radio/Today_White-Vertical.svg",
     "explicitContentIndicator": "No",
@@ -24316,7 +24316,7 @@
       "9405",
       "9409"
     ],
-    "updatedDate": 1646232575299
+    "updatedDate": 1664805162342
   },
   {
     "artistsYouHear": [],
@@ -25385,7 +25385,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/grown-folk-jamz",
     "xmChannelNumber": 362,
     "primaryColor": "#dc143c",
-    "secondaryColor": "#4891cb",
+    "secondaryColor": "#105690",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/grown-folk-jamz/GrownFolkJamz-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/grown-folk-jamz/GrownFolkJamz-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -25410,7 +25410,7 @@
       "9186",
       "9187"
     ],
-    "updatedDate": 1659542599879
+    "updatedDate": 1664805770702
   },
   {
     "artistsYouHear": [
@@ -26909,7 +26909,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/triumph",
     "xmChannelNumber": 111,
     "primaryColor": "#22255e",
-    "secondaryColor": "#66a1d1",
+    "secondaryColor": "#232362",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Triumph/Triumph-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Triumph/Triumph-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -26931,7 +26931,7 @@
       "siriuspatriot",
       "9392"
     ],
-    "updatedDate": 1651113706407
+    "updatedDate": 1664805449518
   },
   {
     "artistsYouHear": [
@@ -28394,7 +28394,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/the-tragically-hip-radio",
     "xmChannelNumber": 757,
     "primaryColor": "#b23630",
-    "secondaryColor": "#b69c65",
+    "secondaryColor": "#c02726",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/tragically-hip-radio/TheTragicallyHipRadio-4C.svg",
     "greyscaleLogo": null,
     "explicitContentIndicator": "No",
@@ -28408,11 +28408,10 @@
       "8244",
       "9468",
       "thespectrum",
-      "cbcradio3",
       "thebridge",
       "8370"
     ],
-    "updatedDate": 1631721814328
+    "updatedDate": 1664806245661
   },
   {
     "artistsYouHear": [
@@ -28716,7 +28715,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/poplandia",
     "xmChannelNumber": 754,
     "primaryColor": "#D91265",
-    "secondaryColor": "#dc427b",
+    "secondaryColor": "#c32365",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/poplandia/Poplandia-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/poplandia/Poplandia-White.svg",
     "explicitContentIndicator": "No",
@@ -28738,7 +28737,7 @@
       "8206",
       "9450"
     ],
-    "updatedDate": 1631654398317
+    "updatedDate": 1664806158339
   },
   {
     "artistsYouHear": [
@@ -28944,7 +28943,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/bob-marleys-tuff-gong-radio",
     "xmChannelNumber": 19,
     "primaryColor": "#ea1c20",
-    "secondaryColor": "#00a752",
+    "secondaryColor": "#07833b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/bob-marleys-tuff-gong-radio/BobMarleyTuffGong-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/bob-marleys-tuff-gong-radio/BobMarleyTuffGong-White.svg",
     "explicitContentIndicator": "No",
@@ -28959,7 +28958,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630095268118
+    "updatedDate": 1664804616469
   },
   {
     "artistsYouHear": [],
@@ -29322,7 +29321,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/comedy-classics",
     "xmChannelNumber": 772,
     "primaryColor": "#f9e38e",
-    "secondaryColor": "#d96c5b",
+    "secondaryColor": "#1b7e94",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/comedy-classics/ComedyClassics-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/comedy-classics/ComedyClassics-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
@@ -29333,7 +29332,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1651114391945
+    "updatedDate": 1664806609049
   },
   {
     "artistsYouHear": [
@@ -29374,7 +29373,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/andy-cohens-kiki-lounge",
     "xmChannelNumber": 312,
     "primaryColor": "#8eb963",
-    "secondaryColor": "#56a8d2",
+    "secondaryColor": "#864091",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/andy-cohen-kiki-lounge/AndyCohensKikiLounge-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/andy-cohen-kiki-lounge/AndyCohensKikiLounge-White.svg",
     "explicitContentIndicator": "No",
@@ -29388,7 +29387,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1654109226141
+    "updatedDate": 1664804487643
   },
   {
     "artistsYouHear": [
@@ -29908,7 +29907,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/noel-incontournable",
     "xmChannelNumber": 753,
     "primaryColor": "#da3932",
-    "secondaryColor": "#3f8e4f",
+    "secondaryColor": "#096c39",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/noel-incontournable/Noel-Incontournable-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/noel-incontournable/Noel-Incontournable-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -29922,7 +29921,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1641564987966
+    "updatedDate": 1664806035786
   },
   {
     "artistsYouHear": [],
@@ -34018,7 +34017,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/real-jazz",
     "xmChannelNumber": 67,
     "primaryColor": "#a7a9ac",
-    "secondaryColor": "#6077a4",
+    "secondaryColor": "#44567b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Real-Jazz/RealJazz.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Real-Jazz/RealJazz_White.svg",
     "explicitContentIndicator": "No",
@@ -34039,7 +34038,7 @@
       "jazzcafe",
       "soultown"
     ],
-    "updatedDate": 1631655003642
+    "updatedDate": 1664805070302
   },
   {
     "artistsYouHear": [
@@ -34340,7 +34339,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/road-dog-trucking",
     "xmChannelNumber": 146,
     "primaryColor": "#0f7ab0",
-    "secondaryColor": "#de592c",
+    "secondaryColor": "#ca2741",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Road-Dog-Trucking/RoadDogTrucking-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Road-Dog-Trucking/RoadDogTrucking-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -34360,7 +34359,7 @@
       "rawdog",
       "laughbreak"
     ],
-    "updatedDate": 1660148370086
+    "updatedDate": 1664805548620
   },
   {
     "artistsYouHear": [
