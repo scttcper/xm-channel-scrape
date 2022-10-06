@@ -14525,24 +14525,24 @@
     "channelNotification": null,
     "contentId": "9134",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Americano&cp_5=Americano&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=Americano&creative_id=NA_NA_DL-COM-live-Americano--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Americano",
+    "displayName": "SiriusXM 153",
     "genre": "more",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "More",
     "genreVanityURL": null,
-    "longDescription": "Americano brings you the latest in bilingual content, including daily news, commentary, and political talk, with a strong focus on Hispanic issues, business, and economics.  Other topics of discussion include entertainment, comedy, lifestyle, leisure, and travel.",
-    "mediumDescription": "Americano",
-    "shortDescription": "Americano",
+    "longDescription": "SiriusXM 153",
+    "mediumDescription": "SiriusXM 153",
+    "shortDescription": "SiriusXM 153",
     "siriusChannelNumber": 153,
     "siriusServiceId": 96,
     "xmServiceId": 215,
-    "vanityURL": "https://www.siriusxm.com/channels/americano",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-153",
     "xmChannelNumber": 153,
-    "primaryColor": "#Fb031e",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/americano/AmericanoMedia-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/americano/AmericanoMedia-White.svg",
+    "primaryColor": "#173c55",
+    "secondaryColor": "#52a7d3",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/genericsiriusxm/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/genericsiriusxm/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -14559,7 +14559,7 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": null,
-    "updatedDate": 1646672616770
+    "updatedDate": 1664984832872
   },
   {
     "artistsYouHear": [
@@ -28359,9 +28359,7 @@
   },
   {
     "artistsYouHear": [
-      "Sean Miyashiro",
-      "Dumbfoundead",
-      "Joel Kim Booster"
+      "Derrick Gee"
     ],
     "assetId": 1550766887698,
     "deliveryTypes": [
@@ -28409,7 +28407,7 @@
       "siriushits1",
       "hotjamz"
     ],
-    "updatedDate": 1634219759762
+    "updatedDate": 1664976506290
   },
   {
     "artistsYouHear": [],
