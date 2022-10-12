@@ -10181,7 +10181,7 @@
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Traditional folk music from the past to today's contemporary folk music.",
+    "longDescription": "\"Traditional folk music from the past to today's contemporary music. Hear folk songs and ballads from songwriters like Bob Dylan, Sweet Honey in the Rock, Joni Mitchell, Doc Watson, Joan Baez, John Prine, Dar Williams, Pete Seeger, Rhiannon Giddens, Shawn Colvin and more.\n\"",
     "mediumDescription": "Folk music from past to the present.",
     "shortDescription": "Folk",
     "siriusChannelNumber": 741,
@@ -10209,7 +10209,7 @@
       "60svibrations",
       "coffeehouse"
     ],
-    "updatedDate": 1663599770512
+    "updatedDate": 1665516891380
   },
   {
     "artistsYouHear": [
@@ -23246,20 +23246,20 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9353",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 104",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ScreamRadio&cp_5=ScreamRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=ScreamRadio&creative_id=NA_NA_DL-COM-live-ScreamRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Scream Radio",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 104",
-    "mediumDescription": "SiriusXM 104",
-    "shortDescription": "SiriusXM 104",
+    "longDescription": "Scream Radio is an annual tradition for Halloween enthusiasts, providing the perfect backdrop for the holiday by mixing creepy sound effects with music and atmosphere. SCREAM sets the tone for fans who want that spooky “Haunted House” vibe this Halloween.",
+    "mediumDescription": "Scream is your ultimate Halloween soundtrack, mixing creepy sound effects, scary stories, horror music and atmosphere.",
+    "shortDescription": "Your soundtrack for Halloween",
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
+    "vanityURL": "https://www.siriusxm.com/channels/scream-radio",
     "xmChannelNumber": 104,
     "primaryColor": "#000000",
     "secondaryColor": "#006ED7",
@@ -23277,7 +23277,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1664476283062
+    "updatedDate": 1665424709799
   },
   {
     "artistsYouHear": [],
@@ -25652,7 +25652,7 @@
       "9340",
       "outlawcountry"
     ],
-    "updatedDate": 1664477647642
+    "updatedDate": 1665524291121
   },
   {
     "artistsYouHear": [],
@@ -29443,25 +29443,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9546",
-    "deepLink": "NA_NA_DL-COM-live-KingofBachataRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "King of Bachata Radio",
-    "genre": "world",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition3&cp_5=SXMLimitedEdition3&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition3&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition3-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 3",
+    "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Latino",
+    "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Romeo Santos, one of the most influential voices in Latin music today hosts an exclusive channel where the language is romance.  Known as the King of Bachata, this boundary crossing superstar captures hearts all around the world.  The former lead vocalist of the band Aventura, reigns supreme with his new studio album, Formula Vol.3.   Explore his music, new and classic, and hear music from his influences and favorite artists.",
-    "mediumDescription": "Romeo Santos shares his new album, insights behind his biggest songs, music from his influences & genre-crossing collaborators.",
-    "shortDescription": "Romeo Santos’ hits & favorites",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 503,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-3",
     "xmChannelNumber": 503,
-    "primaryColor": "#FF0000",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/king-of-bachata-radio/KingOfBachataRadio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/king-of-bachata-radio/KingOfBachataRadio-White.svg",
+    "primaryColor": "#008000",
+    "secondaryColor": "#0000cd",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -29473,7 +29473,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1664552230727
+    "updatedDate": 1665424757531
   },
   {
     "artistsYouHear": [],
@@ -33601,9 +33601,9 @@
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "New Country music including the hottest country superstars, up-and-coming artists, and the very latest discoveries direct from Nashville. Luke Combs, Carrie Underwood, Maren Morris, Old Dominion, Dan+Shay, Thomas Rhett. Plus Nashville Flash music updates throughout the day.",
-    "mediumDescription": "Country Music’s Next Generation featuring Storme Warren.",
-    "shortDescription": "Country Music’s Next Gen",
+    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Storme Warren, Kellie Pickler, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
+    "mediumDescription": "Bringing you the best of country music discovery – brand new songs from Nashville’s hitmakers, Highway Finds and up-and-comers.",
+    "shortDescription": "Next Generation of Country",
     "siriusChannelNumber": 56,
     "siriusServiceId": 41,
     "xmServiceId": 16,
@@ -33628,8 +33628,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "thepulse",
-      "primecountry"
+      "9544",
+      "4156",
+      "siriushits1",
+      "primecountry",
+      "9418",
+      "9340"
     ],
     "updatedDate": 1646069157724
   },
@@ -34753,7 +34757,7 @@
       "purejazz",
       "soultown"
     ],
-    "updatedDate": 1647263549736
+    "updatedDate": 1665521192896
   },
   {
     "artistsYouHear": [
@@ -35123,18 +35127,16 @@
       "Derrick Brooks ",
       "Tim Brown",
       "Vic Carucci",
-      "Erik Coleman",
       "Charles Davis",
-      "David Diehl",
       "Mark Dominik",
-      "Brett Favre",
       "Zig Fracassi",
+      "Rich Gannon",
       "Bruce Gradkowski",
       "Todd Haley",
-      "A.J. Hawk",
       "Brad Hopkins",
       "Torry Holt",
       "Pat Kirwan",
+      "Ryan Leaf",
       "Dan Leberfeld",
       "Bill Lekas",
       "James Lofton ",
@@ -35144,15 +35146,14 @@
       "Jim Miller",
       "Kirk Morrison",
       "Bruce Murray ",
-      "Anthony Munoz ",
       "Bob Papa",
       "Bill Polian",
-      "Jeff Rickard",
-      "Geoff Schwartz",
       "Torrey Smith",
       "Max Starks ",
       "Steve Torre",
+      "Robert Turbin",
       "Charlie Weis",
+      "James White",
       "Solomon Wilcots"
     ],
     "assetId": 1550762882213,
@@ -35207,7 +35208,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1663264649226
+    "updatedDate": 1665507030714
   },
   {
     "artistsYouHear": [
@@ -35870,9 +35871,9 @@
     "genreIcon": null,
     "genreTitle": "Dance/Electronic",
     "genreVanityURL": null,
-    "longDescription": "BPM plays non-stop dance hits and remixes from EDM DJs and Producers including Avicii, Tiësto, Kaskade, Hardwell, deadmau5, Armin van Buuren, Afrojack and David Guetta.  Plus hear exclusive shows from Tiësto, Hardwell, Danny Howard, Morgan Page, Nervo, Krewella, Manufactured Superstars and more.",
-    "mediumDescription": "The biggest and emerging dance hits and remixes featuring the YouTube EDM 15.",
-    "shortDescription": "Electronic Dance Music Hits",
+    "longDescription": "BPM plays the biggest artists in Dance/Electronic music and keeps you up to date with what’s happening in clubs and festivals all over the world. Hear anything from house music, to future bass and everything in between.",
+    "mediumDescription": "The biggest in dance and electronic music.",
+    "shortDescription": "Dance/Electronic hits",
     "siriusChannelNumber": 51,
     "siriusServiceId": 36,
     "xmServiceId": 81,
@@ -35896,10 +35897,15 @@
     ],
     "relatedChannels": [
       "altnation",
+      "9365",
       "siriushits1",
+      "chill",
+      "9526",
+      "9406",
+      "9527",
       "9472"
     ],
-    "updatedDate": 1630095502050
+    "updatedDate": 1665516522693
   },
   {
     "artistsYouHear": [
