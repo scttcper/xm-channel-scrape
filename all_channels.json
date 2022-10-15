@@ -14507,7 +14507,7 @@
       "thecatholicchannel",
       "spirit"
     ],
-    "updatedDate": 1650307418792
+    "updatedDate": 1665669187929
   },
   {
     "artistsYouHear": [],
@@ -14524,7 +14524,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9134",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Americano&cp_5=Americano&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=Americano&creative_id=NA_NA_DL-COM-live-Americano--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM153&cp_5=SiriusXM153&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM153&creative_id=NA_NA_DL-COM-live-SiriusXM153--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM 153",
     "genre": "more",
     "genreLogo": null,
@@ -14559,7 +14559,7 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": null,
-    "updatedDate": 1664984832872
+    "updatedDate": 1665424874844
   },
   {
     "artistsYouHear": [
@@ -23207,7 +23207,7 @@
     "genreTitle": "Rock",
     "genreVanityURL": null,
     "longDescription": "Tom Petty's eclectic SiriusXM radio show, Tom Petty's Buried Treasure, is now its own 24/7 commercial-free channel.",
-    "mediumDescription": "Tom Petty's eclectic SiriusXM radio show, Tom Petty's Buried Treasure, is now its own 24/7 commercial-free channel.",
+    "mediumDescription": "Tom Petty's eclectic SiriusXM radio show, Tom Petty's Buried Treasure, is also its own 24/7 commercial-free channel.",
     "shortDescription": "Tom Petty’s Buried Treasure 24/7",
     "siriusChannelNumber": 711,
     "siriusServiceId": null,
@@ -23261,10 +23261,10 @@
     "xmServiceId": 50,
     "vanityURL": "https://www.siriusxm.com/channels/scream-radio",
     "xmChannelNumber": 104,
-    "primaryColor": "#000000",
-    "secondaryColor": "#006ED7",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
+    "primaryColor": "#4b1b07",
+    "secondaryColor": "#de7a3b",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/scream-radio/Scream-Radio-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/scream-radio/ScreamRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -23277,7 +23277,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1665424709799
+    "updatedDate": 1665694601107
   },
   {
     "artistsYouHear": [],
@@ -25616,15 +25616,15 @@
     "channelNotification": null,
     "contentId": "9421",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM55&cp_5=SiriusXM55&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM55&creative_id=NA_NA_DL-COM-live-SiriusXM55--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 55",
+    "displayName": "Red White & Booze",
     "genre": "country",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 55",
-    "mediumDescription": "SiriusXM 55",
-    "shortDescription": "SiriusXM 55",
+    "longDescription": "Red White & Booze",
+    "mediumDescription": "Red White & Booze",
+    "shortDescription": "Red White & Booze",
     "siriusChannelNumber": 55,
     "siriusServiceId": 68,
     "xmServiceId": 136,
@@ -28102,9 +28102,9 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "From the top trending hits to the most anticipated new releases, Pandora brings you the freshest music of the moment. Cardi B, Ariana Grande, Post Malone, Khalid, Dua Lipa, Bad Bunny and all your favorite artists—all day long. Welcome to your destination for today’s top trending hits from Pandora.",
-    "mediumDescription": "Today’s top trending hits from Pandora.",
-    "shortDescription": "Today's trending hits from Pandora",
+    "longDescription": "Pandora Now features Pandora’s most Thumbed Up & Streamed Pop, Hip Hop & R&B from the past year, as well as highly anticipated new releases and custom content from some of Pandora’s biggest artists.",
+    "mediumDescription": "Pandora’s Most Thumbed Up & Streamed Pop, Hip Hop & R&B.",
+    "shortDescription": "Pandora’s Most Streamed Tracks",
     "siriusChannelNumber": 3,
     "siriusServiceId": 166,
     "xmServiceId": 113,
@@ -30661,7 +30661,7 @@
     "genreIcon": null,
     "genreTitle": "Canadian",
     "genreVanityURL": null,
-    "longDescription": "Hip-hop and R&B dominates the globe and Canada has birthed some of it's biggest stars in modern music. From Drake and The Weeknd to Tory Lanez and Jesse Reyez and the legends that paved the way like Kardinal, k-os and Choclair. Mixtape: North is who’s hot now and who’s up next. We’re playing the greatest home-grown bangers from across Canada.",
+    "longDescription": "Hip-hop and R&B dominates the globe and Canada has birthed some of it's biggest stars in modern music. From Drake and The Weeknd to Tory Lanez and Jessie Reyez and the legends that paved the way like Kardinal, k-os and Choclair. Mixtape: North is who’s hot now and who’s up next. We’re playing the greatest home-grown bangers from across Canada.",
     "mediumDescription": "From the legends that paved the way, to who’s hot now. We’re playing the greatest home-grown Hip-Hop and R&B from across Canada.",
     "shortDescription": "Canadian Hip-Hop and R&B",
     "siriusChannelNumber": 164,
@@ -31514,7 +31514,7 @@
     "genreIcon": null,
     "genreTitle": "Dance/Electronic",
     "genreVanityURL": null,
-    "longDescription": "Chill plays downtempo electronic and deep house. Music that takes you away to a relaxing poolside or chic hotel.  Hear downtempo rhythms and melodic deep house beats from artists like Kygo, Moby, Robin Schulz, Chris Malinchak, and Disclosure.",
+    "longDescription": "Chill plays downtempo electronic and deep house. Relax to melodic sounds that makes you feel poolside no matter where you are. Hear artists like Cannons, Lane 8, Nora En Pure, RÜFÜS DU SOL, Satin Jackets and more.",
     "mediumDescription": "Chill plays downtempo electronic and deep house. Music that takes you away to a relaxing poolside or chic hotel.",
     "shortDescription": "Downtempo/Deep House",
     "siriusChannelNumber": 53,
@@ -34757,7 +34757,7 @@
       "purejazz",
       "soultown"
     ],
-    "updatedDate": 1665521192896
+    "updatedDate": 1665671073812
   },
   {
     "artistsYouHear": [
@@ -35694,16 +35694,7 @@
     "updatedDate": 1639765123845
   },
   {
-    "artistsYouHear": [
-      "Lady Gaga",
-      "Train",
-      "Bruno Mars",
-      "Kelly Clarkson",
-      "Phil Collins",
-      "Elton John",
-      "Fleetwood Mac",
-      "Billy Joel"
-    ],
+    "artistsYouHear": [],
     "assetId": 1550762890018,
     "deliveryTypes": [
       "ip",
@@ -35759,7 +35750,7 @@
       "thebridge",
       "soultown"
     ],
-    "updatedDate": 1631719788399
+    "updatedDate": 1665755855650
   },
   {
     "artistsYouHear": [
@@ -36081,9 +36072,9 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Today’s Pulse means you’ll hear pop hits from Imagine Dragons, Pink, Lady Gaga, Ed Sheeran and Dua Lipa infused with the right amount of back then from Maroon 5, One Republic and more!",
-    "mediumDescription": "Pop from 20-10 Till Today",
-    "shortDescription": "Today’s Adult Hits",
+    "longDescription": "Hear pop music that keeps you occupied during your busy day. Songs you may know the words to even if you don’t have time to keep up with what’s going on around you. It’s YOUR pop on The Pulse.",
+    "mediumDescription": "The Pulse plays your pop that keeps you occupied during your busy day!",
+    "shortDescription": "Your pop on the Pulse!",
     "siriusChannelNumber": 5,
     "siriusServiceId": 10,
     "xmServiceId": 26,
@@ -36108,12 +36099,16 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "thespectrum",
-      "big80s",
+      "9389",
+      "9557",
+      "coffeehouse",
+      "9556",
+      "siriushits1",
+      "8208",
       "starlite",
-      "8206"
+      "9450"
     ],
-    "updatedDate": 1647263187190
+    "updatedDate": 1665730841097
   },
   {
     "artistsYouHear": [
