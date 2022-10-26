@@ -1928,15 +1928,15 @@
     "channelNotification": null,
     "contentId": "9351",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBillyJoelChannel&cp_5=TheBillyJoelChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBillyJoelChannel&creative_id=NA_NA_DL-COM-live-TheBillyJoelChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Billy Joel Channel",
+    "displayName": "SiriusXM 105",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Billy Joel has written and performed songs that have touched a generation. Now, SiriusXM presents a limited-run channel dedicated to his music and his stories behind the songs. In addition, Billy will offer exclusive commentary on his writing process and the music that influenced it…along with track-by-track specials on three of his albums: Turnstiles, 52nd Street and Glass Houses.",
-    "mediumDescription": "Music from Billy Joel's career plus stories behind the songs and Billy's memories and anecdotes. Limited-run channel.",
-    "shortDescription": "Billy Joel's Music, 24/7",
+    "longDescription": "SiriusXM 105",
+    "mediumDescription": "SiriusXM 105",
+    "shortDescription": "SiriusXM 105",
     "siriusChannelNumber": 105,
     "siriusServiceId": 74,
     "xmServiceId": 37,
@@ -1958,7 +1958,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1664282233317
+    "updatedDate": 1666620303484
   },
   {
     "artistsYouHear": [],
@@ -7214,7 +7214,6 @@
       "Nick Masi",
       "Justin Gage",
       "Chris Cantalini",
-      "Carles",
       "Dodge"
     ],
     "assetId": 1550762883680,
@@ -7269,7 +7268,7 @@
       "8207",
       "9451"
     ],
-    "updatedDate": 1666640562838
+    "updatedDate": 1666724337572
   },
   {
     "artistsYouHear": [
@@ -8768,7 +8767,6 @@
       "Geronimo",
       "DB",
       "Rida",
-      "Mallory",
       "Danny Valentino",
       "Liquid Todd"
     ],
@@ -8792,7 +8790,7 @@
     "genreIcon": null,
     "genreTitle": "Dance/Electronic",
     "genreVanityURL": null,
-    "longDescription": "BPM plays the biggest artists in Dance/Electronic music and keeps you up to date with what’s happening in clubs and festivals all over the world. Hear anything from house music, to future bass and everything in between.",
+    "longDescription": "BPM plays the biggest artists in Dance/Electronic music like ILLENIUM, Marshmello, Alison Wonderland, Joel Corry, Above & Beyond and more. Plus, we’ll keep you up to date with what’s happening in clubs and festivals all over the world. Hear anything from house music, to future bass and everything in between.",
     "mediumDescription": "The biggest in dance and electronic music.",
     "shortDescription": "Dance/Electronic hits",
     "siriusChannelNumber": 51,
@@ -8826,7 +8824,7 @@
       "9527",
       "9472"
     ],
-    "updatedDate": 1665516522693
+    "updatedDate": 1666704620514
   },
   {
     "artistsYouHear": [
