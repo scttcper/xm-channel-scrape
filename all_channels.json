@@ -23558,8 +23558,9 @@
     ],
     "assetId": 1550762859942,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -23592,6 +23593,7 @@
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -23605,8 +23607,9 @@
     "artistsYouHear": [],
     "assetId": 1550850177919,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -23639,6 +23642,7 @@
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -23699,8 +23703,9 @@
     "artistsYouHear": [],
     "assetId": 1550849904391,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -28557,8 +28562,9 @@
     "artistsYouHear": [],
     "assetId": 1550849860344,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -28591,6 +28597,7 @@
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -31438,7 +31445,9 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
