@@ -25595,18 +25595,19 @@
   {
     "artistsYouHear": [
       "Andy Cohen",
-      "Bevy Smith",
       "Amy Phillips",
+      "Bevy Smith",
+      "Christina Najjar",
+      "Dorinda Medley",
       "Jeff Lewis",
-      "Sandra Bernhard",
       "John Hill",
       "Jonathan Alter",
-      "Tommy Alter",
-      "Molly Alter",
       "Lauren Ashley Smith",
+      "Molly Alter",
       "Mariah Smith",
       "Rachel Smith",
-      "Dorinda Medley"
+      "Sandra Bernhard",
+      "Tommy Alter"
     ],
     "assetId": 1550762877801,
     "deliveryTypes": [
@@ -25653,7 +25654,7 @@
       "siriusstars",
       "9405"
     ],
-    "updatedDate": 1667242670389
+    "updatedDate": 1668457336024
   },
   {
     "artistsYouHear": [],
@@ -33705,7 +33706,7 @@
       "hotjamz",
       "9471"
     ],
-    "updatedDate": 1668095645634
+    "updatedDate": 1668108382504
   },
   {
     "artistsYouHear": [
