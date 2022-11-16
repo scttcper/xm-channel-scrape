@@ -25595,6 +25595,7 @@
   {
     "artistsYouHear": [
       "Andy Cohen",
+      "Julia Cunningham",
       "Amy Phillips",
       "Bevy Smith",
       "Christina Najjar",
@@ -25602,8 +25603,8 @@
       "Jeff Lewis",
       "John Hill",
       "Jonathan Alter",
-      "Lauren Ashley Smith",
       "Molly Alter",
+      "Lauren Ashley Smith",
       "Mariah Smith",
       "Rachel Smith",
       "Sandra Bernhard",
@@ -25654,7 +25655,7 @@
       "siriusstars",
       "9405"
     ],
-    "updatedDate": 1668457336024
+    "updatedDate": 1668458767417
   },
   {
     "artistsYouHear": [],
@@ -31174,7 +31175,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9580",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM106&cp_5=SiriusXM106&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM106&creative_id=NA_NA_DL-COM-live-SiriusXM106--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TeamCocoRadio&cp_5=TeamCocoRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=TeamCocoRadio&creative_id=NA_NA_DL-COM-live-TeamCocoRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Team Coco Radio",
     "genre": "entertainment",
     "genreLogo": null,
@@ -31187,7 +31188,7 @@
     "siriusChannelNumber": 106,
     "siriusServiceId": 165,
     "xmServiceId": 224,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-106",
+    "vanityURL": "https://www.siriusxm.com/channels/team-coco-radio",
     "xmChannelNumber": 106,
     "primaryColor": "#fa5b00",
     "secondaryColor": "#000",
@@ -31202,7 +31203,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1667852826798
+    "updatedDate": 1668531867056
   },
   {
     "artistsYouHear": [
@@ -36163,8 +36164,7 @@
     "artistsYouHear": [
       "Jenny Hutt",
       "Seth Rudetsky",
-      "Julia Cunningham",
-      "Christina Najjar"
+      "Julia Cunningham"
     ],
     "assetId": 1550762883276,
     "deliveryTypes": [
@@ -36186,9 +36186,9 @@
     "genreIcon": null,
     "genreTitle": "Entertainment",
     "genreVanityURL": null,
-    "longDescription": "Your one stop for pop culture and lifestyle talk.  Featuring trending topics and interviews with the biggest celebrities from TV, movies, music, and more.  If it is trending, we are talking about it!",
-    "mediumDescription": "Your stop for pop culture and lifestyle talk. Featuring trending topics and interviews with the celebrities you know and love.",
-    "shortDescription": "Pop Culture and Lifestyle Talk",
+    "longDescription": "SiriusXM Stars",
+    "mediumDescription": "SiriusXM Stars",
+    "shortDescription": "SiriusXM Stars",
     "siriusChannelNumber": 109,
     "siriusServiceId": 156,
     "xmServiceId": 204,
@@ -36212,7 +36212,7 @@
       "starlite",
       "9409"
     ],
-    "updatedDate": 1648228905183
+    "updatedDate": 1668534594338
   },
   {
     "artistsYouHear": [
