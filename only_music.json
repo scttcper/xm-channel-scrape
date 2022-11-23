@@ -81,7 +81,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "It started with the Twist and ended with Woodstock — all '60s hits. Motown, surf music, the British Invasion, folk-rock — it's all here — on '60s Gold!",
+    "longDescription": "It started with the Twist and ended with Woodstock, all '60s hits from Motown and surf music to the British Invasion and folk rock. Hear The Beach Boys, Supremes, Rolling Stones, Aretha Franklin, Four Seasons, The Beatles and more!!",
     "mediumDescription": "Relive the musical revolution of the '60s.",
     "shortDescription": "All 60s hits",
     "siriusChannelNumber": 73,
@@ -759,66 +759,6 @@
   },
   {
     "artistsYouHear": [
-      "Usher",
-      "Rihanna",
-      "Katy Perry",
-      "Enrique Iglasias",
-      "Lady GaGa",
-      "Pitbull",
-      "Jennifer Lopez"
-    ],
-    "assetId": 1550762861494,
-    "deliveryTypes": [
-      "ip",
-      "mobile",
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "8241",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM14&cp_5=SiriusXM14&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM14&creative_id=NA_NA_DL-COM-live-SiriusXM14--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 14",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "SiriusXM 14",
-    "mediumDescription": "SiriusXM 14",
-    "shortDescription": "SiriusXM 14",
-    "siriusChannelNumber": 14,
-    "siriusServiceId": 203,
-    "xmServiceId": 21,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-14",
-    "xmChannelNumber": 14,
-    "primaryColor": "#53abde",
-    "secondaryColor": "#143a5a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "thepulse",
-      "siriushits1",
-      "starlite"
-    ],
-    "updatedDate": 1662563837269
-  },
-  {
-    "artistsYouHear": [
       "Tom Petty",
       "Pearl Jam",
       "Soundgarden",
@@ -865,6 +805,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -1950,6 +1891,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -2193,6 +2135,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -2255,6 +2198,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -2377,6 +2321,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -2438,6 +2383,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -2752,6 +2698,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -2803,6 +2750,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -2855,6 +2803,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -2919,6 +2868,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -3054,6 +3004,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -3110,6 +3061,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -3167,6 +3119,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -3288,6 +3241,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -3665,6 +3619,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -3933,6 +3888,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -3988,6 +3944,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -4037,6 +3994,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -4092,6 +4050,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -4366,7 +4325,7 @@
     "genreVanityURL": null,
     "longDescription": "Disney Hits is the Happiest SiriusXM channel on earth! All of your favorite Disney Music of all time on one channel. Featuring songs from Moana, Frozen, Lion King, Beauty and The Beast, High School Musical and many more. Plus, enjoy special magic themed hours and celebrity hosts!",
     "mediumDescription": "All of your favorite Disney songs, from all time on one channel. Disney Hits!",
-    "shortDescription": "All Your Favorite Disney Hits",
+    "shortDescription": "Wonderful World Of Disney Hits",
     "siriusChannelNumber": 302,
     "siriusServiceId": null,
     "xmServiceId": 299,
@@ -4379,6 +4338,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -4478,6 +4438,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -4531,6 +4492,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -4552,28 +4514,29 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9545",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition2&cp_5=SXMLimitedEdition2&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition2&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition2-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 2",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=MichaelJacksonChannel&cp_5=MichaelJacksonChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=MichaelJacksonChannel&creative_id=NA_NA_DL-COM-live-MichaelJacksonChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-N",
+    "displayName": "Michael Jackson Channel",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "From his groundbreaking days performing with his brothers The Jackson 5 - all the way up to his legendary solo career, experience the full musical scope of The King Of Pop!  With Michael Jackson's opus Thriller turning 40, celebrate with celebs and celebrities, as the channel honors the best-selling album of all time!",
+    "mediumDescription": "Celebrate the 40th anniversary of the iconic Thriller album, now on The Michael Jackson Channel!",
+    "shortDescription": "The music of Michael Jackson",
     "siriusChannelNumber": 502,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/sxmlimitededition-2",
+    "vanityURL": "https://www.siriusxm.com/channels/michael-jackson-channel",
     "xmChannelNumber": 502,
-    "primaryColor": "#0e82ea",
+    "primaryColor": "#e2c279",
     "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/michael-jackson-radio/MichaelJacksonChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/michael-jackson-radio/MichaelJacksonChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -4581,7 +4544,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1654868280792
+    "updatedDate": 1669133943846
   },
   {
     "artistsYouHear": [],
@@ -4619,6 +4582,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -5096,7 +5060,7 @@
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "A Whole Lotta Red Hot is your new SiriusXM channel.  Dive deep into the vast, funky musical world of the Red Hot Chili Peppers on their own channel.  Hear the band host shows, take you track-by-track through their new album Unlimited Love, live performances from their vault, side projects plus all of their favorite artists",
+    "longDescription": "Dive into the vast, funky musical world of the Red Hot Chili Peppers on their own SiriusXM channel, Whole Lotta Red Hot. Hear band hosted shows, exclusive commentary on their most beloved songs, live performances from their vault, and handpicked music from their favorite artists.",
     "mediumDescription": "Whole Lotta Red Hot is RHCP's new exclusive SiriusXM channel",
     "shortDescription": "Whole Lotta RHCP on SiriusXM",
     "siriusChannelNumber": 315,
@@ -5164,6 +5128,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -5875,7 +5840,7 @@
     "genreIcon": null,
     "genreTitle": "Dance/Electronic",
     "genreVanityURL": null,
-    "longDescription": "Chill plays downtempo electronic and deep house. Relax to melodic sounds that makes you feel poolside no matter where you are. Hear artists like Cannons, Lane 8, Nora En Pure, RÜFÜS DU SOL, Satin Jackets and more.",
+    "longDescription": "Chill plays downtempo electronic and deep house. Relax to melodic sounds that makes you feel poolside no matter where you are. Hear artists like Disclosure, Kygo, Lane 8, Nora En Pure, ODESZA, RÜFÜS DU SOL and more.",
     "mediumDescription": "Chill plays downtempo electronic and deep house. Music that takes you away to a relaxing poolside or chic hotel.",
     "shortDescription": "Downtempo/Deep House",
     "siriusChannelNumber": 53,
@@ -6158,6 +6123,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -6416,6 +6382,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -7856,7 +7823,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Take a trip to the era that marked the birth of the first decade of rock 'n' roll. It's the '50s and beyond. The sound of happy days and drive-in nights with pop radio the way it used to be - from doo-wop and R&B to girl groups.",
+    "longDescription": "Take a trip to the era that marked the birth of the first decade of rock 'n' roll. It's the '50s and beyond. The sound of happy days and drive-in nights with pop radio the way it used to be — from doo-wop and R&B to girl groups. Hear Elvis Presley, Connie Francis, Ricky Nelson, Jerry Lee Lewis, Buddy Holly, Everly Brothers, Little Richard and many more!",
     "mediumDescription": "The roots of rock 'n' roll. Chuck Berry, The Coasters, Connie Francis, Little Richard, Elvis Presley, The Platters.",
     "shortDescription": "'50s Pop Hits",
     "siriusChannelNumber": 72,
@@ -7992,7 +7959,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Light the candles, turn the lights down low and celebrate the joy of being in love as we play romantic music for you and the one you love.",
+    "longDescription": "Celebrate the joy of being in love, as a generation of superstars help set the mood for romance. Barry Manilow, Whitney Houston, The Carpenters, Lionel Richie, Celine Dion, Air Supply, Barbra Streisand and so much more.",
     "mediumDescription": "Romantic ballads and soft pop music featuring lyrics of love.",
     "shortDescription": "Love Songs",
     "siriusChannelNumber": 708,
@@ -8007,6 +7974,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -8070,6 +8038,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
