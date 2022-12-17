@@ -32097,7 +32097,17 @@
       "Kathleen Hays",
       "Karen Moskow",
       "June Grasso",
-      "Thomas R. Keene"
+      "Thomas R. Keene",
+      "David Westin",
+      "Tim Stenovec",
+      "Joe Mathieu",
+      "Paul Allen",
+      "Vonnie Quinn",
+      "Nathan Hager",
+      "Jonathan Ferro",
+      "Lisa Abramowicz",
+      "Matt Miller",
+      "Paul Sweeney"
     ],
     "assetId": 1550762854985,
     "deliveryTypes": [
@@ -32119,7 +32129,7 @@
     "genreIcon": null,
     "genreTitle": "News/Public Radio",
     "genreVanityURL": null,
-    "longDescription": "In-depth coverage of international capital markets, with insight and analysis of the business of money. Bloomberg \"zeros in\" on business on the 0's at 10, 20, 30, 40 and 50 past the hour and at the top of every hour. From Wall Street to London to Tokyo, Bloomberg draws on a global news team of 1,900 reporters in 102 news bureaus worldwide to deliver up-to-the-minute coverage of financial markets from the frontlines as news happens.",
+    "longDescription": "Bloomberg Radio is the world's only global 24-hour business radio station. Powered by more than 2700 journalists and analysts in more than 120 countries, Bloomberg Radio's resources are unparalleled. Because the financial markets never sleep, Bloomberg follows them around the globe.",
     "mediumDescription": "In-depth coverage of international capital markets, with insight and analysis of the business of money.",
     "shortDescription": "Business News",
     "siriusChannelNumber": 119,
@@ -32149,7 +32159,7 @@
       "cnn",
       "8367"
     ],
-    "updatedDate": 1671118300133
+    "updatedDate": 1671201711501
   },
   {
     "artistsYouHear": [
