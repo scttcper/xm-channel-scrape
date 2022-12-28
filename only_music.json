@@ -118,14 +118,15 @@
   {
     "artistsYouHear": [
       "Glenn Miller",
-      "Artie Shaw",
+      "Dorsey Brothers",
       "Benny Goodman",
-      "The Dorseys",
+      "Harry James",
       "Bing Crosby",
-      "Duke Ellington",
       "Count Basie",
       "Les Brown",
-      "Doris Day"
+      "Artie Shaw",
+      "Duke Ellington",
+      "Andrews Sisters"
     ],
     "assetId": 1550762850202,
     "deliveryTypes": [
@@ -150,11 +151,11 @@
     "longDescription": "This joint is jumpin'! The Swing Era lives on as you journey on the Savoy Express to the ‘40s Junction!  A station humming with big bands, vocal stars, and classic melodies from the 1940s and beyond!   You’ll be in 'In The Mood,' to Jitterbug and Lindy Hop!  Crooners serenade and harmony groups shine in jazzy orchestras that swing and sway.  So, hey hep cats! 'Let’s Dance!'",
     "mediumDescription": "Board the Savoy Express with Big Bands, classic vocal stars and hits from the 1940s and beyond. Next stop, the ‘40s Junction!",
     "shortDescription": "'40s Pop Hits/Big Band",
-    "siriusChannelNumber": 296,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 71,
+    "siriusServiceId": 1,
+    "xmServiceId": 4,
     "vanityURL": "https://www.siriusxm.com/channels/40s-junction",
-    "xmChannelNumber": 296,
+    "xmChannelNumber": 71,
     "primaryColor": "#d2d4e9",
     "secondaryColor": "#32356b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/40s-Junction/40sJunction-4C.svg",
@@ -177,7 +178,7 @@
       "siriuslysinatra",
       "purejazz"
     ],
-    "updatedDate": 1642782459116
+    "updatedDate": 1672221989549
   },
   {
     "artistsYouHear": [
@@ -818,7 +819,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1671205461785
+    "updatedDate": 1672218596627
   },
   {
     "artistsYouHear": [
@@ -1863,58 +1864,6 @@
       "newcountry"
     ],
     "updatedDate": 1646059501850
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550855246909,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9349",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RadioHanukkah&cp_5=RadioHanukkah&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=RadioHanukkah&creative_id=NA_NA_DL-COM-live-RadioHanukkah-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Radio Hanukkah",
-    "genre": "Holiday",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Holiday",
-    "genreVanityURL": null,
-    "longDescription": "Extensive collection of Hanukkah-themed music, including contemporary, traditional and children’s selections as well as daily reflections and prayers related to the holiday.",
-    "mediumDescription": "Extensive collection of Hanukkah music, including contemporary, traditional and children’s Hanukkah selections.",
-    "shortDescription": "Hanukkah Music",
-    "siriusChannelNumber": 638,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/radio-hanukkah",
-    "xmChannelNumber": 638,
-    "primaryColor": "#ffff00",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-holiday/radio-hanukkah/RadioHanukkah.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Radio-Hanukkah/RadioHanukkah_K2_White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "9421",
-      "9342",
-      "9353",
-      "9351",
-      "8241"
-    ],
-    "updatedDate": 1669972491962
   },
   {
     "artistsYouHear": [],
@@ -4277,59 +4226,6 @@
       "thebeat"
     ],
     "updatedDate": 1631539655344
-  },
-  {
-    "artistsYouHear": [
-      "Derrick Gee"
-    ],
-    "assetId": 1550766887698,
-    "deliveryTypes": [
-      "ip",
-      "mobile",
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9502",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=88risingRadio&cp_5=88risingRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=88risingRadio&creative_id=NA_NA_DL-COM-live-88risingRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "88rising Radio",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "First, 88rising revolutionized the music industry by spotlighting Asian and Asian-American talent. Now, 88rising is taking the Asian music phenomenon to the airwaves by creating the first ever all-Asian radio station, 88rising Radio. Join the world’s leading Asian tastemakers and superstar hosts as they play non-stop K-Pop, Asian RnB, hip-hop and more, delivering you breaking Asian music news, unforgettable live performances, and celebrity interviews.",
-    "mediumDescription": "Only the best music from all across Asia, from K-Pop, hip-hop, RnB, and more. Curated by 88rising.",
-    "shortDescription": "24/7 Asian hits by 88rising",
-    "siriusChannelNumber": 305,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/88rising",
-    "xmChannelNumber": 305,
-    "primaryColor": "#fff",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/88rising/88rising-PRI-K.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/88rising/88rising-PRI-White.svg",
-    "explicitContentIndicator": "Yes",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
-    ],
-    "relatedChannels": [
-      "leftofcenter",
-      "hiphopnation",
-      "siriushits1",
-      "hotjamz"
-    ],
-    "updatedDate": 1664976506290
   },
   {
     "artistsYouHear": [],
@@ -8528,11 +8424,11 @@
     "longDescription": "Hear all the great Motown and soul hits from legends including Marvin Gaye, Diana Ross & The Supremes, Barry White, Gladys Knight & The Pips, Al Green, Stevie Wonder and James Brown.",
     "mediumDescription": "Classic soul and Motown music from the '60s and '70s.",
     "shortDescription": "Classic Soul/Motown",
-    "siriusChannelNumber": 292,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 49,
+    "siriusServiceId": 40,
+    "xmServiceId": 60,
     "vanityURL": "https://www.siriusxm.com/channels/soul-town",
-    "xmChannelNumber": 292,
+    "xmChannelNumber": 49,
     "primaryColor": "#ffdb77",
     "secondaryColor": "#7c2683",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Soul-Town/SoulTown.svg",
@@ -8658,11 +8554,11 @@
     "longDescription": "Pop and rock with a higher purpose. Contemporary Christian music to brighten your day with the power of faith and hope.",
     "mediumDescription": "The power and positive impact of Christian pop and rock music.",
     "shortDescription": "Christian Pop & Rock",
-    "siriusChannelNumber": 295,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 63,
+    "siriusServiceId": 46,
+    "xmServiceId": 32,
     "vanityURL": "https://www.siriusxm.com/channels/the-message",
-    "xmChannelNumber": 295,
+    "xmChannelNumber": 63,
     "primaryColor": "#8dc63f",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/The_Message.svg",
