@@ -23412,46 +23412,6 @@
   },
   {
     "artistsYouHear": [],
-    "assetId": 1550849953594,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "Holiday",
-    "categoryIcon": null,
-    "categoryTitle": "",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9346",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HolidaySoul&cp_5=HolidaySoul&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HolidaySoul&creative_id=NA_NA_DL-COM-live-HolidaySoul-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Holiday Soul",
-    "genre": "Holiday",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Holiday",
-    "genreVanityURL": null,
-    "longDescription": "Classic soul and Motown holiday music from the 60's and 70's, along with R&B holiday music from the 80's and early 90's, including Aretha Franklin, Temptations, James Brown, Lou Rawls, Smokey Robinson, Dionne Warwick, The Jackson 5, The Four Tops, The Supremes, John Legend, Boyz II Men & many more!",
-    "mediumDescription": "Classic soul and Motown holiday music from the ‘60s and ‘70s, along with R&B holiday music from the '80s and early '90s.",
-    "shortDescription": "Soul/Motown/R&B Holiday",
-    "siriusChannelNumber": 612,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": null,
-    "xmChannelNumber": 612,
-    "primaryColor": "#8c1c16",
-    "secondaryColor": "#246037",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/holiday-soul/HolidaySoul-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/holiday-soul/HolidaySoul-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1667243146009
-  },
-  {
-    "artistsYouHear": [],
     "assetId": 1550850330947,
     "deliveryTypes": [
       "satellite",
@@ -36755,7 +36715,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Slip on your bell bottoms and light a lava lamp!  It’s the Super ‘70s with wild and crazy DJs who boogie down and spin 45 rpm records.  Polyester outfits, pet rocks, CB radios and disco from a galaxy far, far away!  Far out, man!",
+    "longDescription": "Slip on your bell bottoms and light a lava lamp!  It’s the Super ‘70s with DJs who boogie down and spin 45 rpm records.  Polyester outfits, pet rocks, CB radios and disco from a galaxy far, far away!  Far out, man!",
     "mediumDescription": "Pop tunes and pop DJs from the wild and funky decade of mood rings, disco and bell bottoms!  The Super 70s!",
     "shortDescription": "'70s Pop Hits",
     "siriusChannelNumber": 7,
@@ -36785,7 +36745,7 @@
       "big80s",
       "classicrewind"
     ],
-    "updatedDate": 1663594645086
+    "updatedDate": 1672337474053
   },
   {
     "artistsYouHear": [
