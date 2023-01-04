@@ -14869,8 +14869,8 @@
     "xmChannelNumber": 153,
     "primaryColor": "#173c55",
     "secondaryColor": "#52a7d3",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/genericsiriusxm/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/genericsiriusxm/SiriusXMLogo-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -14887,7 +14887,7 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": null,
-    "updatedDate": 1665424874844
+    "updatedDate": 1672777963268
   },
   {
     "artistsYouHear": [
