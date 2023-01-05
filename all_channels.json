@@ -26856,7 +26856,7 @@
     "genreIcon": null,
     "genreTitle": "Entertainment",
     "genreVanityURL": null,
-    "longDescription": "VOLUME is SiriusXM's first-ever all-talk radio channel dedicated to the topic of music. VOLUME brings the music conversation directly to listeners with live daily shows, artist interviews, weekly specials, news briefs, in-depth documentaries & more, hosted by the most respected people in music. VOLUME gives listeners the chance to get in on the action to defend, & discuss their idols. VOLUME will keep you in the know with frequent news and music-related segments each hour. Simply put, VOLUME is your all-acc",
+    "longDescription": "VOLUME is SiriusXM&#39;s first-ever all-talk radio channel dedicated to the topic of music brings the music conversation directly to listeners with live daily shows, artist interviews, weekly specials, news briefs, in-depth documentaries &amp; more, hosted by the most respected people in music. &nbsp;VOLUME will keep you in the know with frequent news and music-related segments each hour. Simply put, VOLUME is your all-access pass to the world of music.",
     "mediumDescription": "SXM's all-talk music channel. Artist interviews, live daily shows, weekly specials, & documentaries",
     "shortDescription": "Musically Speaking",
     "siriusChannelNumber": 780,
@@ -31934,15 +31934,17 @@
   },
   {
     "artistsYouHear": [
-      "Aerosmith",
-      "Tom Petty",
-      "AC/DC",
-      "Journey",
       "Van Halen",
-      "Cars",
+      "Tom Petty",
       "Boston",
+      "Queen",
+      "AC/DC",
       "Police",
-      "Genesis",
+      "ZZ Top",
+      "Journey",
+      "Foreigner",
+      "Cars",
+      "Fleetwood Mac",
       "John Mellencamp",
       "Bob Buchmann",
       "Rachel Steele",
@@ -32006,19 +32008,22 @@
       "buzzsaw",
       "9174"
     ],
-    "updatedDate": 1663088289374
+    "updatedDate": 1672844838240
   },
   {
     "artistsYouHear": [
-      "Beatles",
       "Led Zeppelin",
       "Rolling Stones",
+      "Beatles",
       "The Who",
+      "Doors",
       "Eagles",
       "Creedence Clearwater Revival",
+      "Elton John",
+      "Pink Floyd",
+      "The Doobie Brothers",
       "Eric Clapton",
-      "Doors",
-      "Crosby Stills Nash & Young",
+      "David Bowie",
       "Dennis Elsas",
       "Megless Griffin",
       "Earle Bailey",
@@ -32079,7 +32084,7 @@
       "gratefuldead",
       "9174"
     ],
-    "updatedDate": 1662477933268
+    "updatedDate": 1672845011824
   },
   {
     "artistsYouHear": [

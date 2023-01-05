@@ -6143,15 +6143,17 @@
   },
   {
     "artistsYouHear": [
-      "Aerosmith",
-      "Tom Petty",
-      "AC/DC",
-      "Journey",
       "Van Halen",
-      "Cars",
+      "Tom Petty",
       "Boston",
+      "Queen",
+      "AC/DC",
       "Police",
-      "Genesis",
+      "ZZ Top",
+      "Journey",
+      "Foreigner",
+      "Cars",
+      "Fleetwood Mac",
       "John Mellencamp",
       "Bob Buchmann",
       "Rachel Steele",
@@ -6215,19 +6217,22 @@
       "buzzsaw",
       "9174"
     ],
-    "updatedDate": 1663088289374
+    "updatedDate": 1672844838240
   },
   {
     "artistsYouHear": [
-      "Beatles",
       "Led Zeppelin",
       "Rolling Stones",
+      "Beatles",
       "The Who",
+      "Doors",
       "Eagles",
       "Creedence Clearwater Revival",
+      "Elton John",
+      "Pink Floyd",
+      "The Doobie Brothers",
       "Eric Clapton",
-      "Doors",
-      "Crosby Stills Nash & Young",
+      "David Bowie",
       "Dennis Elsas",
       "Megless Griffin",
       "Earle Bailey",
@@ -6288,7 +6293,7 @@
       "gratefuldead",
       "9174"
     ],
-    "updatedDate": 1662477933268
+    "updatedDate": 1672845011824
   },
   {
     "artistsYouHear": [
