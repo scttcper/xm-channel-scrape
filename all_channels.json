@@ -10955,20 +10955,20 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8241",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM14&cp_5=SiriusXM14&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM14&creative_id=NA_NA_DL-COM-live-SiriusXM14--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 14",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBillyGrahamChannel&cp_5=TheBillyGrahamChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBillyGrahamChannel&creative_id=NA_NA_DL-COM-live-TheBillyGrahamChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-N",
+    "displayName": "The Billy Joel Channel",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 14",
-    "mediumDescription": "SiriusXM 14",
-    "shortDescription": "SiriusXM 14",
+    "longDescription": "The Billy Joel Channel",
+    "mediumDescription": "The Billy Joel Channel",
+    "shortDescription": "The Billy Joel Channel",
     "siriusChannelNumber": 14,
     "siriusServiceId": 203,
     "xmServiceId": 21,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-14",
+    "vanityURL": "https://www.siriusxm.com/channels/the-billy-joel-channel",
     "xmChannelNumber": 14,
     "primaryColor": "#8fbc8f",
     "secondaryColor": "#0000ff",
@@ -10990,7 +10990,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1672218596627
+    "updatedDate": 1672976568236
   },
   {
     "artistsYouHear": [
@@ -35793,11 +35793,7 @@
     "updatedDate": 1651109422556
   },
   {
-    "artistsYouHear": [
-      "Jenny Hutt",
-      "Seth Rudetsky",
-      "Julia Cunningham"
-    ],
+    "artistsYouHear": [],
     "assetId": 1550762883276,
     "deliveryTypes": [
       "ip",
@@ -35839,7 +35835,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1669133886975
+    "updatedDate": 1672847391224
   },
   {
     "artistsYouHear": [
