@@ -178,7 +178,7 @@
       "siriuslysinatra",
       "purejazz"
     ],
-    "updatedDate": 1672221989549
+    "updatedDate": 1673250469424
   },
   {
     "artistsYouHear": [
@@ -784,7 +784,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8241",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBillyGrahamChannel&cp_5=TheBillyGrahamChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBillyGrahamChannel&creative_id=NA_NA_DL-COM-live-TheBillyGrahamChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-N",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBillyJoelChannel&cp_5=TheBillyJoelChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBillyJoelChannel&creative_id=NA_NA_DL-COM-live-TheBillyJoelChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "The Billy Joel Channel",
     "genre": "pop",
     "genreLogo": null,
@@ -799,10 +799,10 @@
     "xmServiceId": 21,
     "vanityURL": "https://www.siriusxm.com/channels/the-billy-joel-channel",
     "xmChannelNumber": 14,
-    "primaryColor": "#8fbc8f",
-    "secondaryColor": "#0000ff",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -819,7 +819,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1672976568236
+    "updatedDate": 1673026683156
   },
   {
     "artistsYouHear": [
@@ -1864,6 +1864,58 @@
       "newcountry"
     ],
     "updatedDate": 1646059501850
+  },
+  {
+    "artistsYouHear": [
+      "Bing Crosby",
+      "Andy Williams",
+      "Ray Conniff",
+      "Nat “King” Cole\""
+    ],
+    "assetId": 1550762859942,
+    "deliveryTypes": [
+      "mobile",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9342",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HolidayTraditions&cp_5=HolidayTraditions&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HolidayTraditions&creative_id=NA_NA_DL-COM-live-HolidayTraditions-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Holiday Traditions",
+    "genre": "pop",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Pop",
+    "genreVanityURL": null,
+    "longDescription": "Traditional holiday recordings from the ‘40s through the ‘60s by artists such as Bing Crosby, Andy Williams, Ray Conniff and Nat \"King\" Cole.",
+    "mediumDescription": "Traditional holiday recordings from the '40s through the '60s.",
+    "shortDescription": "Traditional Holiday Music",
+    "siriusChannelNumber": 602,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/holiday-traditions",
+    "xmChannelNumber": 602,
+    "primaryColor": "#e6eab0",
+    "secondaryColor": "#940e12",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Traditions/HolidayTraditions-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Traditions/HolidayTraditions-WHITE.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1643138788111
   },
   {
     "artistsYouHear": [],
@@ -3159,7 +3211,7 @@
       "Rage Against The Machine",
       "NIN",
       "Staind",
-      "KoRn",
+      "Punch",
       "Tool",
       "Deftones",
       "Limp Bizkit",
@@ -6886,12 +6938,13 @@
   },
   {
     "artistsYouHear": [
-      "Kendrick Lamar",
       "Drake",
       "Lil Baby",
       "21 Savage",
-      "Megan Thee Stallion",
-      "2 Chainz",
+      "DaBaby",
+      "Moneybagg Yo",
+      "GloRilla",
+      "Moone Walker",
       "Nina 9",
       "Gray Rizzy",
       "Swaggie Sie",
@@ -6917,7 +6970,7 @@
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "Hip Hop Hits from Kendrick Lamar, Drake, Lil Baby, 21 Savage, Megan Thee Stallion, and 2 Chainz are on Hip-Hop Nation! Turn Up!",
+    "longDescription": "Hip Hop Hits from Lil Baby, Drake, 21 Savage, DaBaby, Moneybagg Yo, and emerging artists GloRilla & Moone Walker",
     "mediumDescription": "Hip Hop Hits!",
     "shortDescription": "Hip-Hop Hits-XL",
     "siriusChannelNumber": 44,
@@ -6944,7 +6997,7 @@
       "hotjamz",
       "9471"
     ],
-    "updatedDate": 1670514550031
+    "updatedDate": 1672978026023
   },
   {
     "artistsYouHear": [
@@ -7373,17 +7426,15 @@
   {
     "artistsYouHear": [
       "Five Finger Death Punch",
+      "Punch",
+      "Bring Me The Horizon",
       "Disturbed",
-      "KoRn",
-      "Shinedown",
-      "Avenged Sevenfold",
-      "Seether",
-      "Nothing More",
-      "Stone Sour",
-      "Breaking Benjamin",
       "Papa Roach",
-      "Volbeat",
-      "Hellyeah",
+      "Nothing More",
+      "Falling In Reverse",
+      "Motionless In White",
+      "I Prevail",
+      "Ice Nine Kills",
       "José Mangin",
       "Caity Babs",
       "Shannon Gunz",
@@ -7445,7 +7496,7 @@
       "hardattack",
       "buzzsaw"
     ],
-    "updatedDate": 1662129297404
+    "updatedDate": 1672977448775
   },
   {
     "artistsYouHear": [
