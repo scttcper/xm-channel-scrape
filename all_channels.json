@@ -4762,9 +4762,9 @@
     "genreIcon": null,
     "genreTitle": "Music Mash",
     "genreVanityURL": null,
-    "longDescription": "Pop Hip-Hop/R&B from 90s to 2000s",
+    "longDescription": "Pop, Hip-Hop/R&amp;B from 90s to 2000s",
     "mediumDescription": "Pop Hip-Hop/R&B from 90s to 2000s",
-    "shortDescription": "Pop Hip-Hop/R&B from 90s to 2000s",
+    "shortDescription": "Pop, Hip-Hop/R&amp;B from 90s to 2000s",
     "siriusChannelNumber": 1066,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -4785,7 +4785,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1673251464615
+    "updatedDate": 1673282080788
   },
   {
     "artistsYouHear": [],
