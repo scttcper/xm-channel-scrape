@@ -1933,25 +1933,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9351",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM105&cp_5=SiriusXM105&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM105&creative_id=NA_NA_DL-COM-live-SiriusXM105-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 105",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheGRAMMYChannel&cp_5=TheGRAMMYChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheGRAMMYChannel&creative_id=NA_NA_DL-COM-live-TheGRAMMYChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "The GRAMMY Channel",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 105",
-    "mediumDescription": "SiriusXM 105",
-    "shortDescription": "SiriusXM 105",
+    "longDescription": "Celebrating the artists, albums and songs nominated for the 65th Annual GRAMMY Awards.",
+    "mediumDescription": "Celebrating the artists, albums and songs nominated for the 65th Annual GRAMMY Awards",
+    "shortDescription": "Celebrating the GRAMMY nominees",
     "siriusChannelNumber": 105,
     "siriusServiceId": 74,
     "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
+    "vanityURL": "https://www.siriusxm.com/channels/the-GRAMMY-Channel",
     "xmChannelNumber": 105,
-    "primaryColor": "#4aace8",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-105/SiriusXM105-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-105/SiriusXM105-white.svg",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#48d1cc",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-grammy-channel/TheGrammyChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-grammy-channel/TheGrammyChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -1964,7 +1964,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1671205243017
+    "updatedDate": 1674486535962
   },
   {
     "artistsYouHear": [],
@@ -3142,16 +3142,15 @@
   },
   {
     "artistsYouHear": [
-      "Jack Johnson",
-      "James Brown",
-      "Katy Perry",
-      "Bruno Mars",
-      "The Beach Boys",
-      "Chic",
-      "Michael Jackson/The Jackson 5",
+      "Madonna",
+      "Pitbull",
+      "Black Eyed Peas",
       "Kool & The Gang",
-      "Wham!",
-      "Uncle Kracker"
+      "Lady Gaga",
+      "Tavares",
+      "Michael Jackson/The Jackson 5",
+      "Aretha Franklin",
+      "Stevie Wonder"
     ],
     "assetId": 1550762856182,
     "deliveryTypes": [
@@ -3202,7 +3201,7 @@
       "9419",
       "big80s"
     ],
-    "updatedDate": 1630335194927
+    "updatedDate": 1674189581589
   },
   {
     "artistsYouHear": [
@@ -8118,14 +8117,12 @@
   {
     "artistsYouHear": [
       "Elvis Presley",
+      "Fats Domino",
       "Ricky Nelson",
-      "Jerry Lee Lewis",
-      "Brenda Lee",
       "Buddy Holly",
       "Everly Brothers",
       "Little Richard",
-      "Connie Francis",
-      "Fats Domino",
+      "Perry Como",
       "The Platters"
     ],
     "assetId": 1550762850691,
@@ -8179,18 +8176,19 @@
       "purejazz",
       "soultown"
     ],
-    "updatedDate": 1665671073812
+    "updatedDate": 1674189852282
   },
   {
     "artistsYouHear": [
-      "Ed Sheeran",
-      "Justin Timberlake",
-      "Lady Gaga",
-      "Katy Perry",
+      "Harry Styles",
       "Taylor Swift",
-      "Maroon 5",
-      "Bruno Mars",
-      "P!nk",
+      "Ed Sheeran",
+      "Lizzo",
+      "Sam Smith",
+      "Doja Cat",
+      "The Weeknd",
+      "Miley Cyrus",
+      "Lil Nas X",
       "Nicole",
       "Stanley T",
       "Ryan Sampson",
@@ -8220,8 +8218,8 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "From Pop to Hip Hop, Rock, Dance, Country and R&B, SiriusXM Hits 1 plays Today’s Pop Hits!",
-    "mediumDescription": "The Most Hit-Music, featuring The Morning Mash Up, Hits 1 LA, The Weekend Countdown and Hit-Bound.",
+    "longDescription": "From Pop to Hip Hop, Rock, Dance, Country and R&B, SiriusXM HITS 1 plays Today’s Pop Hits! Featuring The Morning Mash Up, Mack in Miami, HITS 1 LA Tony Fly & Symon and Weekend Countdown with SpyDer Harrison.",
+    "mediumDescription": "Today's Pop Hits with The Morning Mash Up, Mack in Miami, HITS 1 LA Tony Fly & Symon and Weekend Countdown with SpyDer Harrison.",
     "shortDescription": "Today's Pop Hits",
     "siriusChannelNumber": 2,
     "siriusServiceId": 2,
@@ -8248,10 +8246,12 @@
     ],
     "relatedChannels": [
       "thepulse",
-      "hotjamz",
-      "thebeat"
+      "9544",
+      "9556",
+      "8208",
+      "9492"
     ],
-    "updatedDate": 1664566355498
+    "updatedDate": 1674190280438
   },
   {
     "artistsYouHear": [
