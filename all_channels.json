@@ -4,7 +4,8 @@
     "assetId": 1550762882746,
     "deliveryTypes": [
       "mobile",
-      "ip"
+      "ip",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "entertainment",
@@ -46,7 +47,7 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": null,
-    "updatedDate": 1657981035920
+    "updatedDate": 1675278505036
   },
   {
     "artistsYouHear": [],
