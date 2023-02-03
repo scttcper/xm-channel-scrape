@@ -46,15 +46,16 @@
   },
   {
     "artistsYouHear": [
-      "Aretha Franklin",
       "Beatles",
-      "Rolling Stones",
       "Beach Boys",
+      "The Four Seasons",
+      "Rolling Stones",
       "Supremes",
+      "Simon & Garfunkel",
+      "Hermans Hermits",
       "Four Tops",
-      "Dave Clark Five",
-      "Creedence Clearwater Revival",
-      "Petula Clark",
+      "The Monkees",
+      "Neil Diamond",
       "Phlash Phelps",
       "Shotgun Tom Kelly",
       "Dave Hoeffel",
@@ -113,7 +114,7 @@
       "radiomargaritaville",
       "soultown"
     ],
-    "updatedDate": 1647263608051
+    "updatedDate": 1675409540040
   },
   {
     "artistsYouHear": [
@@ -183,16 +184,16 @@
   },
   {
     "artistsYouHear": [
-      "Janet Jackson",
-      "Aerosmith",
-      "Madonna",
-      "Ace of Base",
-      "Alanis Morissette",
-      "Dave Matthews Band",
+      "Backstreet Boys",
       "Mariah Carey",
-      "Will Smith",
-      "TLC",
-      "Goo Goo Dolls",
+      "Aerosmith",
+      "Alanis Morissette",
+      "Britney Spears",
+      "Nirvana",
+      "Green Day",
+      "Gin Blossoms",
+      "Boys II Men",
+      "Salt-N-Pepa",
       "Mark McGrath"
     ],
     "assetId": 1550762851180,
@@ -215,7 +216,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "The 90s on 9 covers grunge rock to boy bands and artists including Green Day, Mariah Carey, Nirvana, 'Nsync, Stone Temple Pilots, Janet Jackson, Dave Matthews Band, Backstreet Boys and more.",
+    "longDescription": "90s on 9 covers everything from grunge rock to boy bands, pop queens to hip-hop and R&B with artists like Mariah Carey, Aerosmith, Alanis Morissette, Nirvana, Backstreet Boys, Britney Spears , Salt-N-Pepa, Green Day, Boyz II Men and more!",
     "mediumDescription": "The defining hit music of the '90s featuring Downtown Julie Brown.",
     "shortDescription": "'90s Pop Hits",
     "siriusChannelNumber": 9,
@@ -245,7 +246,7 @@
       "8208",
       "big80s"
     ],
-    "updatedDate": 1630085210460
+    "updatedDate": 1675114972010
   },
   {
     "artistsYouHear": [
@@ -382,13 +383,13 @@
   },
   {
     "artistsYouHear": [
+      "Frank Chacksfield",
+      "101 Strings",
+      "Ronnie Aldrich",
       "Percy Faith",
-      "Bert Kaempfert",
-      "John Fox",
-      "James Last",
-      "Henry Mancini",
-      "Richard Clayderman",
-      "Caravelli",
+      "Romantic Strings",
+      "Tommy Garrett",
+      "Frank Pourcel",
       "Tony Mottola and more than 250 others"
     ],
     "assetId": 1550762858149,
@@ -441,7 +442,7 @@
       "spa73",
       "jazzcafe"
     ],
-    "updatedDate": 1631119985569
+    "updatedDate": 1675410101105
   },
   {
     "artistsYouHear": [
@@ -763,15 +764,7 @@
     "updatedDate": 1630525177461
   },
   {
-    "artistsYouHear": [
-      "Usher",
-      "Rihanna",
-      "Katy Perry",
-      "Enrique Iglasias",
-      "Lady GaGa",
-      "Pitbull",
-      "Jennifer Lopez"
-    ],
+    "artistsYouHear": [],
     "assetId": 1550762861494,
     "deliveryTypes": [
       "ip",
@@ -785,25 +778,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8241",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBillyJoelChannel&cp_5=TheBillyJoelChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBillyJoelChannel&creative_id=NA_NA_DL-COM-live-TheBillyJoelChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Billy Joel Channel",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheWhitneyChannel&cp_5=TheWhitneyChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=TheWhitneyChannel&creative_id=NA_NA_DL-COM-live-TheWhitneyChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "The Whitney Channel",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "The Billy Joel Channel",
-    "mediumDescription": "The Billy Joel Channel",
-    "shortDescription": "The Billy Joel Channel",
+    "longDescription": "Widely considered The Voice, and the most awarded female artist of all time, the incomparable Whitney Houston continues to inspire and amaze with her signature ballads and upbeat dance songs.  The Whitney Channel will feature her many Pop and R&B classics, along with remixes and live performances.  You’ll also hear from celebrities and fellow artists who had the pleasure of knowing and working with Whitney.  Through her music you’ll hear why she’s one of the most celebrated singers of our generation!",
+    "mediumDescription": "Music from and inspired by Whitney Houston",
+    "shortDescription": "Whitney's Music and more",
     "siriusChannelNumber": 14,
     "siriusServiceId": 203,
     "xmServiceId": 21,
-    "vanityURL": "https://www.siriusxm.com/channels/the-billy-joel-channel",
+    "vanityURL": "https://www.siriusxm.com/channels/The-Whitney-Channel",
     "xmChannelNumber": 14,
-    "primaryColor": "#c0c0c0",
+    "primaryColor": "#ee82ee",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-127-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-whitney-channel/TheWhitneyChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-whitney-channel/TheWhitneyChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -820,7 +813,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1673026683156
+    "updatedDate": 1675410210195
   },
   {
     "artistsYouHear": [
@@ -2027,25 +2020,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9353",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 104",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SuperBowlLVIIRadio&cp_5=SuperBowlLVIIRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SuperBowlLVIIRadio&creative_id=NA_NA_DL-COM-live-SuperBowlLVIIRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Super Bowl LVII Radio",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 104",
-    "mediumDescription": "SiriusXM 104",
-    "shortDescription": "SiriusXM 104",
+    "longDescription": "Super Bowl LVII Radio brings you the best of SXM’s coverage from Phoenix including interviews, music specials, and more.  Featuring “The Super Bowl Drive” hosted by Amber Theoharis.",
+    "mediumDescription": "The best of SXM’s coverage of Super Bowl LVII all on one channel.",
+    "shortDescription": "Coverage of Super Bowl LVII",
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
-    "vanityURL": "https://www.siriusxm.com/channels/holly",
+    "vanityURL": "https://www.siriusxm.com/channels/Super-Bowl-LVII-Radio",
     "xmChannelNumber": 104,
-    "primaryColor": "#4aace8",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
+    "primaryColor": "#d33939",
+    "secondaryColor": "#3d8c95",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/super-bowl/SiriusXMSuperBowlLVIIRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/super-bowl/SiriusXMSuperBowlLVIIRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -2058,7 +2051,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1671205281013
+    "updatedDate": 1675410643728
   },
   {
     "artistsYouHear": [
@@ -2187,15 +2180,16 @@
   },
   {
     "artistsYouHear": [
-      "Lady Gaga",
-      "Janet Jackson",
       "Madonna",
+      "Real McCoy",
       "Cascada",
       "Daft Punk",
-      "Deborah Cox",
+      "Rihanna",
+      "Robyn",
       "Fatboy Slim",
+      "Amber",
       "Kylie Minogue",
-      "Robyn"
+      "La Bouche"
     ],
     "assetId": 1550762891991,
     "deliveryTypes": [
@@ -2217,7 +2211,7 @@
     "genreIcon": null,
     "genreTitle": "Dance/Electronic",
     "genreVanityURL": null,
-    "longDescription": "From club anthems to guilty pop pleasures to underground classics – dance hits from the 90s & 2000s. Hear pop icons like Janet Jackson, dance divas like Amber, and electronic music pioneers like Daft Punk.",
+    "longDescription": "From club anthems to guilty pop pleasures to underground classics - dance hits from the '90s & 2000s. Hear pop icons like Madonna, dance divas like Amber, and electronic music pioneers like Daft Punk.",
     "mediumDescription": "From club anthems to guilty pop pleasures to underground classics – dance hits from the 90s & 2000s.",
     "shortDescription": "'90s/2000s Dance Hits",
     "siriusChannelNumber": 341,
@@ -2249,7 +2243,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1631722879835
+    "updatedDate": 1675409718995
   },
   {
     "artistsYouHear": [],
@@ -2709,7 +2703,7 @@
     "xmChannelNumber": 504,
     "primaryColor": "#529936",
     "secondaryColor": "#00578e",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition4/SiriusXM-Limited-Edition-4.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -2722,7 +2716,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1671205361096
+    "updatedDate": 1675113142255
   },
   {
     "artistsYouHear": [],
@@ -2789,26 +2783,26 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9400",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMLimitedEdition6&cp_5=SiriusXMLimitedEdition6&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMLimitedEdition6&creative_id=NA_NA_DL-COM-live-SiriusXMLimitedEdition6-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20",
-    "displayName": "SXM Limited Edition 6",
-    "genre": "rock",
+    "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=BlackMusicForever&cp_5=BlackMusicForever&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BlackMusicForever&creative_id=NA_NA_DL-COM-live-BlackMusicForever-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Black Music Forever",
+    "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Rock",
+    "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Hear the tracks that currently move The Culture - and discover the music that's on the come-up...all here!  If it's Hip-Hop and R&B that's killin' it in the clubs, or emerging Afropop and Caribbean vibes - hear it all on Black Music FOREVER!",
+    "mediumDescription": "Hear the latest Hip-Hop and R&B from today's hitmakers and discover who's got next in The Culture!",
+    "shortDescription": "Hip Hop and R&B Now & Next",
     "siriusChannelNumber": 506,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-6",
+    "vanityURL": "https://www.siriusxm.com/channels/black-music-forever",
     "xmChannelNumber": 506,
-    "primaryColor": "#228b22",
-    "secondaryColor": "#49a8cc",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-115-900x720.png",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-114-900x720.png",
-    "explicitContentIndicator": "No",
+    "primaryColor": "#808080",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/black-music-forever-radio/BlackMusicForever-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/black-music-forever-radio/BlackMusicForever-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2818,12 +2812,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": [
-      "chill",
-      "9472",
-      "thebeat"
-    ],
-    "updatedDate": 1655304753068
+    "relatedChannels": null,
+    "updatedDate": 1675411804607
   },
   {
     "artistsYouHear": [],
@@ -2840,26 +2830,26 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9401",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition7&cp_5=SXMLimitedEdition7&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition7&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition7-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 7",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=NotoriousRadio&cp_5=NotoriousRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=NotoriousRadio&creative_id=NA_NA_DL-COM-live-NotoriousRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Notorious Radio",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Brooklyn-born Christopher Wallace changed Hip-Hop forever when he burst onto the rap scene in the early 90’s.  As The Notorious B.I.G., he utilized his laid-back lyrical delivery to tell tales of celebration and strife.  Notorious Radio features his entire catalog, along with music inspired by the late rapper.  The channel will also consist of other Hip-Hop artists and luminaries paying tribute to the rap legend.  Hear why Rolling Stone calls B.I.G. “the greatest rapper that ever lived”, on Notorious Radio!",
+    "mediumDescription": "Music from and inspired by The Notorious B.I.G.",
+    "shortDescription": "Music from Notorious B.I.G.",
     "siriusChannelNumber": 507,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/marshall-mathers-station",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxmlimitededition7",
     "xmChannelNumber": 507,
-    "primaryColor": "#87ceeb",
-    "secondaryColor": "#2e8b57",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-country/siriusxm-limitededition7/SiriusXM-Limited-Edition-7.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
-    "explicitContentIndicator": "No",
+    "primaryColor": "#808080",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/notorious-radio/NotoriousRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/notorious-radio/NotoriousRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2875,7 +2865,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1667245045090
+    "updatedDate": 1675413555328
   },
   {
     "artistsYouHear": [],
@@ -6199,11 +6189,9 @@
       "Boston",
       "Queen",
       "AC/DC",
-      "Police",
-      "ZZ Top",
       "Journey",
       "Foreigner",
-      "Cars",
+      "The Cars",
       "Fleetwood Mac",
       "John Mellencamp",
       "Bob Buchmann",
@@ -6268,7 +6256,7 @@
       "buzzsaw",
       "9174"
     ],
-    "updatedDate": 1672844838240
+    "updatedDate": 1675410058833
   },
   {
     "artistsYouHear": [
@@ -6729,15 +6717,15 @@
   {
     "artistsYouHear": [
       "Motley Crue",
-      "Bon Jovi",
       "Def Leppard",
+      "Skid Row",
+      "Cinderella",
+      "Poison",
       "Ratt",
       "Tesla",
-      "Poison",
-      "Dokken",
+      "Bon Jovi",
+      "Whitesnake",
       "Guns & Roses",
-      "Cinderella",
-      "Skid Row",
       "Luc Carl",
       "Tommy London",
       "Keith Roth",
@@ -6796,7 +6784,7 @@
       "octane",
       "buzzsaw"
     ],
-    "updatedDate": 1646058399981
+    "updatedDate": 1675410167318
   },
   {
     "artistsYouHear": [
@@ -8641,7 +8629,18 @@
     "updatedDate": 1639765123845
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Lionel Richie",
+      "Elton John",
+      "Whitney Houston",
+      "Hall & Oates",
+      "Rod Stewart",
+      "Neil Diamond",
+      "Air Supply",
+      "Michael Bolton",
+      "Celine Dion",
+      "Smokey Robinson"
+    ],
     "assetId": 1550762890018,
     "deliveryTypes": [
       "ip",
@@ -8662,9 +8661,9 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Blending Nice & Easy Pop classics from legendary super stars to lighten your day! From Elton John to Whitney Houston, Billy Joel, Stevie Wonder, Phil Collins, Bee Gees, Michael Bolton, Lionel Richie, ABBA and more, feeling good has never been so easy! Sit back, relax and unwind with your perfect daily companion.",
-    "mediumDescription": "Nice & Easy Pop classics from artists like Elton John, Whitney Houston, Billy Joel, Stevie Wonder and more!",
-    "shortDescription": "Nice & Easy Pop",
+    "longDescription": "Blending nice & easy pop where you can sing along with Rod Stewart, Celine Dion, Lionel Richie, Neil Diamond, Whitney Houston and more! Feeling good has never been easier!",
+    "mediumDescription": "Nice & easy pop from superstars like Lionel Richie, Elton John & Whitney Houston!",
+    "shortDescription": "Nice & Easy Pop!",
     "siriusChannelNumber": 16,
     "siriusServiceId": 3,
     "xmServiceId": 155,
@@ -8697,7 +8696,7 @@
       "thebridge",
       "soultown"
     ],
-    "updatedDate": 1665755855650
+    "updatedDate": 1675115719747
   },
   {
     "artistsYouHear": [
@@ -9139,20 +9138,16 @@
   },
   {
     "artistsYouHear": [
-      "Bob Dylan",
-      "Led Zeppelin",
       "Rolling Stones",
-      "The Who",
-      "Steely Dan",
+      "The Beatles",
+      "Bob Dylan",
+      "David Bowie",
+      "Jethro Tull",
+      "The Kinks",
+      "Eagles",
+      "Moody Blues",
+      "Led Zeppelin",
       "Pink Floyd",
-      "Allman Brothers",
-      "Jimi Hendrix Experience",
-      "Beatles and Solos (John",
-      "Paul",
-      "George",
-      "Ringo)",
-      "Kinks",
-      "Steve Miller Band",
       "Megless Griffin",
       "Greg Roberson",
       "Jim Ladd",
@@ -9181,7 +9176,7 @@
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Album cuts, forgotten gems and lesser played songs from some of Classic Rock’s most influential artists and essential albums with rare demos and live tracks.  Curated shows from SiriusXM Hosts Jim Ladd, Earle Bailey, Meg Griffin, Dusty Street, Joe Elliott, Ron and Gail Bennington, Greg Roberson and Carol Miller. Rarities from Bob Dylan, Rolling Stones, Led Zeppelin, David Bowie, Beatles, Eagles, Doobie Brothers, Eric Clapton, Jimi Hendrix, Jethro Tull, Little Feat, Fleetwood Mac, Santana and more.",
+    "longDescription": "Album cuts, forgotten gems and lesser played songs from some of Classic Rock’s most influential artists and essential albums with rare demos and live tracks.  Curated shows from SiriusXM Hosts Jim Ladd, Earle Bailey, Meg Griffin, Dusty Street, Joe Elliott, Ron and Gail Bennington, Greg Roberson and Carol Miller. Rarities from Bob Dylan, Rolling Stones, Led Zeppelin, David Bowie, Beatles, Eagles, Jethro Tull, and more.",
     "mediumDescription": "Album cuts, forgotten gems and lesser played songs from some of Classic Rock’s most influential artists and essential albums.",
     "shortDescription": "Deep Classic Album Rock",
     "siriusChannelNumber": 27,
@@ -9213,7 +9208,7 @@
       "gratefuldead",
       "9174"
     ],
-    "updatedDate": 1643962484096
+    "updatedDate": 1675409971461
   },
   {
     "artistsYouHear": [
