@@ -23316,7 +23316,6 @@
       "Dixie Chicks",
       "Buzz Brainard",
       "Danielle Peck",
-      "Trace Adkins",
       "Al Skop"
     ],
     "assetId": 1550762900634,
@@ -23370,7 +23369,7 @@
       "primecountry",
       "newcountry"
     ],
-    "updatedDate": 1646059501850
+    "updatedDate": 1675445909940
   },
   {
     "artistsYouHear": [
@@ -24956,7 +24955,7 @@
     "siriusChannelNumber": 507,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxmlimitededition7",
+    "vanityURL": "https://www.siriusxm.com/channels/notorious-radio",
     "xmChannelNumber": 507,
     "primaryColor": "#808080",
     "secondaryColor": "#000000",
@@ -24978,7 +24977,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1675413555328
+    "updatedDate": 1675446106807
   },
   {
     "artistsYouHear": [],
