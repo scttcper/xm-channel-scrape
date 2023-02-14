@@ -11351,8 +11351,8 @@
     "xmChannelNumber": 160,
     "primaryColor": "#262626",
     "secondaryColor": "#da3732",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/Verizon-IndyCar-Racing/SXMIndycarNation-114-900x720-P.png",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/Verizon-IndyCar-Racing/SXMIndycarNation-115-900x720-N.png",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/Verizon-IndyCar-Racing/SiriusXMIndyCarNation-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/Verizon-IndyCar-Racing/SiriusXMIndyCarNation-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_FF",
@@ -11374,7 +11374,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1647263890659
+    "updatedDate": 1676360890131
   },
   {
     "artistsYouHear": [
@@ -14533,16 +14533,16 @@
   },
   {
     "artistsYouHear": [
-      "Green Day",
-      "Offspring",
       "Nirvana",
       "Pearl Jam",
-      "Smashing Pumpkins",
       "Stone Temple Pilots",
-      "Soundgarden",
-      "Alice in Chains",
       "Red Hot Chili Peppers",
-      "Bush",
+      "Soundgarden",
+      "Foo Fighters",
+      "Green Day",
+      "Alice in Chains",
+      "Smashing Pumpkins",
+      "Rage Against The Machine",
       "Grant Random",
       "Madison",
       "Hardy",
@@ -14601,7 +14601,7 @@
       "octane",
       "8370"
     ],
-    "updatedDate": 1631215543059
+    "updatedDate": 1676318797333
   },
   {
     "artistsYouHear": [
@@ -23604,25 +23604,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9353",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SuperBowlLVIIRadio&cp_5=SuperBowlLVIIRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SuperBowlLVIIRadio&creative_id=NA_NA_DL-COM-live-SuperBowlLVIIRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Super Bowl LVII Radio",
+    "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM 104",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Super Bowl LVII Radio brings you the best of SXM’s coverage from Phoenix including interviews, music specials, and more.  Featuring “The Super Bowl Drive” hosted by Amber Theoharis.",
-    "mediumDescription": "The best of SXM’s coverage of Super Bowl LVII all on one channel.",
-    "shortDescription": "Coverage of Super Bowl LVII",
+    "longDescription": "SiriusXM 104",
+    "mediumDescription": "SiriusXM 104",
+    "shortDescription": "SiriusXM 104",
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
     "vanityURL": "https://www.siriusxm.com/channels/Super-Bowl-LVII-Radio",
     "xmChannelNumber": 104,
-    "primaryColor": "#d33939",
-    "secondaryColor": "#3d8c95",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/super-bowl/SiriusXMSuperBowlLVIIRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/super-bowl/SiriusXMSuperBowlLVIIRadio-127-500x400-N.svg",
+    "primaryColor": "#529936",
+    "secondaryColor": "#00578e",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -23635,7 +23635,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1675410643728
+    "updatedDate": 1676317164772
   },
   {
     "artistsYouHear": [],
@@ -24990,25 +24990,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9402",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition8&cp_5=SXMLimitedEdition8&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition8&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition8-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 8",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ApolloTheaterChannel&cp_5=ApolloTheaterChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=ApolloTheaterChannel&creative_id=NA_NA_DL-COM-live-ApolloTheaterChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Apollo Theater Channel",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "From the early days of Jazz, through decades of R&B and Hip-Hop, The Apollo Theater has been, and continues to be, a focal point of Black culture! Now, SiriusXM spotlights the music and artists that have influenced the legendary venue. The Apollo Theater Channel features artists who've performed at the Apollo, and those who've been inspired by the Apollo. You'll also hear classic performances from artists who've graced the iconic Apollo stage over the years!",
+    "mediumDescription": "Music from the iconic artists who've performed at, and been inspired by, the legendary Apollo Theater",
+    "shortDescription": "Music inspired by The Apollo",
     "siriusChannelNumber": 508,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-8",
+    "vanityURL": "https://www.siriusxm.com/channels/the-apollo-theater-Channel",
     "xmChannelNumber": 508,
-    "primaryColor": "#529936",
-    "secondaryColor": "#00578e",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/SiriusXM-Limited-Edition-8/SiriusXM-Limited-Edition-8.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/SiriusXM-Limited-Edition-8/SiriusXM-Limited-Edition-8-White.svg",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-apollo-theater-channel/TheApolloTheaterChannel-Black.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-apollo-theater-channel/TheApolloTheaterChannel-OnRed.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -25025,7 +25025,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1670903502135
+    "updatedDate": 1676375981328
   },
   {
     "artistsYouHear": [],
@@ -25734,7 +25734,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Get in your ride and drive, and let Road Trip Radio please everyone along the way! Road Trip Radio presents a hand-selected mix of all kinds of music from the last 50 years that all share one goal - to make you wanna roll the windows down and turn the radio up?  From “California Girls” to “California Gurls.” From “Shake It Up” to “Shake It Off…” and everything in between!",
+    "longDescription": "Get in your ride and drive! Let Road Trip Radio please everyone along the way! Road Trip Radio presents a hand-selected mix of all kinds of music from the last 50 years that all share one goal - to make you wanna roll the windows down and turn the radio up!  From 'California Girls' to 'California Gurls.' From 'Shake It Up' to 'Shake It Off...' and everything in between!",
     "mediumDescription": "A hand-selected mix of all kinds of music sharing one goal - to make you wanna roll the windows down and turn the radio up!",
     "shortDescription": "Music to Drive to!",
     "siriusChannelNumber": 301,
@@ -25768,7 +25768,7 @@
       "classicvinyl",
       "8206"
     ],
-    "updatedDate": 1631214709923
+    "updatedDate": 1676362187601
   },
   {
     "artistsYouHear": [],
@@ -28036,7 +28036,7 @@
     "genreIcon": null,
     "genreTitle": "Dance/Electronic",
     "genreVanityURL": null,
-    "longDescription": "Superstar tastemaker Diplo lets you inside his Global House Party.  Discover the latest in dance music and exclusive remixes/edits.  Plus hear mixes from the biggest DJs around the world.",
+    "longDescription": "Superstar tastemaker Diplo lets you inside his Global House Party. Discover the latest in dance music and exclusive edits/remixes.  Hear Bad Bunny, Diplo, Doja Cat, Fred again.. and more!",
     "mediumDescription": "Future Sounds of Global Dance curated by Diplo.",
     "shortDescription": "Diplo’s Global House Party",
     "siriusChannelNumber": 52,
@@ -28065,7 +28065,7 @@
       "9406",
       "thebeat"
     ],
-    "updatedDate": 1651111987696
+    "updatedDate": 1676361857564
   },
   {
     "artistsYouHear": [],
@@ -30003,7 +30003,17 @@
     "updatedDate": 1664545774749
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "P!nk",
+      "Bruno Mars",
+      "Adele",
+      "Backstreet Boys",
+      "Kelly Clarkson",
+      "Goo Goo Dolls",
+      "Alanis Morissette",
+      "Hootie & The Blowfish",
+      "Lady Gaga"
+    ],
     "assetId": 1550826589138,
     "deliveryTypes": [
       "ip",
@@ -30057,7 +30067,7 @@
       "8206",
       "9450"
     ],
-    "updatedDate": 1635433529778
+    "updatedDate": 1676380412395
   },
   {
     "artistsYouHear": [],
@@ -31342,9 +31352,9 @@
     ],
     "assetId": 1550762851097,
     "deliveryTypes": [
-      "mobile",
       "satellite",
-      "ip"
+      "ip",
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -31361,7 +31371,7 @@
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "It's the big '80s! The decade when greed was good, hair was high and everyone learned what a music video was. Prince, Wham!, Madonna, Michael Jackson, Cyndi Lauper and Culture Club! They're all here and so are the original MTV VJs.",
-    "mediumDescription": "The defining hit music of the '80s. Featuring the original MTV VJs Mark Goodman, Nina Blackwood, Alan Hunter and Martha Quinn.",
+    "mediumDescription": "The defining hit music of the '80s. Featuring the original MTV VJs Mark Goodman, Nina Blackwood, and Alan Hunter.",
     "shortDescription": "'80s Pop Hits",
     "siriusChannelNumber": 8,
     "siriusServiceId": 9,
@@ -31391,7 +31401,7 @@
       "classicvinyl",
       "classicrewind"
     ],
-    "updatedDate": 1630084835272
+    "updatedDate": 1676362083708
   },
   {
     "artistsYouHear": [
@@ -31712,16 +31722,16 @@
   },
   {
     "artistsYouHear": [
+      "Ozzy Osbourne",
+      "Black Sabbath",
       "AC/DC",
       "Metallica",
       "Van Halen",
-      "Ozzy Osbourne",
-      "Black Sabbath",
+      "Aerosmith",
       "Judas Priest",
       "Iron Maiden",
-      "Rush",
-      "Dio",
       "Guns ‘N Roses",
+      "Kiss",
       "José Mangin",
       "Keith Roth",
       "Tommy London",
@@ -31781,7 +31791,7 @@
       "hardattack",
       "8184"
     ],
-    "updatedDate": 1660054776166
+    "updatedDate": 1676318214631
   },
   {
     "artistsYouHear": [],
@@ -33022,12 +33032,11 @@
   {
     "artistsYouHear": [
       "Grateful Dead",
+      "Dead & Company",
+      "Bob Weir",
       "Jerry Garcia Band",
-      "Rat Dog",
-      "Kingfish",
-      "Old and In the Way",
+      "Phil Lesh",
       "Furthur",
-      "7 Walkers",
       "David Lemieux",
       "David Gans",
       "Gary Lambert"
@@ -33082,7 +33091,7 @@
       "purejazz",
       "classicvinyl"
     ],
-    "updatedDate": 1651108359290
+    "updatedDate": 1676380562112
   },
   {
     "artistsYouHear": [
@@ -33991,8 +34000,7 @@
       "Storme Warren",
       "Jessica Wade",
       "Kim Ashley",
-      "Ania Hammar",
-      "Kellie Pickler"
+      "Ania Hammar"
     ],
     "assetId": 1550762890786,
     "deliveryTypes": [
@@ -34048,7 +34056,7 @@
       "9418",
       "9340"
     ],
-    "updatedDate": 1646069157724
+    "updatedDate": 1676319118096
   },
   {
     "artistsYouHear": [
@@ -35788,8 +35796,8 @@
     "xmChannelNumber": 84,
     "primaryColor": "#ef3e35",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-127-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-4C-OnK.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -35811,7 +35819,7 @@
       "9457",
       "9385"
     ],
-    "updatedDate": 1675347655575
+    "updatedDate": 1676360979442
   },
   {
     "artistsYouHear": [],
@@ -36409,14 +36417,15 @@
   },
   {
     "artistsYouHear": [
+      "Imagine Dragons",
+      "Taylor Swift",
       "Coldplay",
+      "Maroon 5",
       "P!nk",
-      "Rob Thomas",
-      "Andy Grammer",
-      "Fitz & The Tantrums",
-      "Kelly Clarkson",
-      "The Goo Goo Dolls",
       "OneRepublic",
+      "Lewis Capaldi",
+      "John Legend",
+      "Sam Smith",
       "Pat Monahan",
       "Jim Ryan",
       "Kim Ashley",
@@ -36480,7 +36489,7 @@
       "starlite",
       "9450"
     ],
-    "updatedDate": 1665730841097
+    "updatedDate": 1676380069262
   },
   {
     "artistsYouHear": [
