@@ -14864,7 +14864,25 @@
     "updatedDate": 1631214920404
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Lasanna \"Ace\" Harris",
+      "Marcus Hollinger",
+      "Dice Gamble",
+      "DeAndre Terrell",
+      "DJ Wade-O",
+      "King Cyz (Cyrus Alexander)",
+      "Reyna Day ",
+      "James Rosseau",
+      "Beridox",
+      "DJ Severe",
+      "Jonathan Brooks",
+      "Pastor Phil Jackson ",
+      "Terrance Foster",
+      "DJ D-Lite",
+      "DJ Tituz",
+      "DJ I Rock Jesus",
+      "B-Plus"
+    ],
     "assetId": 1550762851562,
     "deliveryTypes": [
       "ip",
@@ -14919,7 +14937,7 @@
       "thecatholicchannel",
       "spirit"
     ],
-    "updatedDate": 1665669187929
+    "updatedDate": 1676486034776
   },
   {
     "artistsYouHear": [],
@@ -34453,8 +34471,7 @@
       "Clint Black",
       "Trisha Yearwood",
       "Mike Terry",
-      "Kim Ashley",
-      "Charlie Monk"
+      "Kim Ashley"
     ],
     "assetId": 1550762877640,
     "deliveryTypes": [
@@ -34508,7 +34525,7 @@
       "big80s",
       "classicrewind"
     ],
-    "updatedDate": 1639765098398
+    "updatedDate": 1676495003125
   },
   {
     "artistsYouHear": [
@@ -36509,7 +36526,6 @@
       "Ranger Doug",
       "Jeannie Seely",
       "Paula Nelson",
-      "Charlie Monk",
       "Dallas Wayne"
     ],
     "assetId": 1550762892706,
@@ -36561,7 +36577,7 @@
       "bluegrass",
       "outlawcountry"
     ],
-    "updatedDate": 1666620011299
+    "updatedDate": 1676494896569
   },
   {
     "artistsYouHear": [
