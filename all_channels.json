@@ -86,7 +86,6 @@
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -21592,7 +21591,7 @@
       "8213",
       "8185"
     ],
-    "updatedDate": 1630095853742
+    "updatedDate": 1675363155906
   },
   {
     "artistsYouHear": [],
@@ -35813,8 +35812,8 @@
     "xmChannelNumber": 84,
     "primaryColor": "#ef3e35",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-4C-OnK.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -35836,7 +35835,7 @@
       "9457",
       "9385"
     ],
-    "updatedDate": 1676360979442
+    "updatedDate": 1676582798288
   },
   {
     "artistsYouHear": [],
