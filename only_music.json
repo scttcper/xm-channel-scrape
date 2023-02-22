@@ -1946,7 +1946,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXM105-4C-OnK.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
@@ -2040,7 +2039,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
@@ -3542,7 +3540,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
