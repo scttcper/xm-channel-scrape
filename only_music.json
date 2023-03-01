@@ -2781,7 +2781,7 @@
     "channelNotification": null,
     "contentId": "9400",
     "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=BlackMusicForever&cp_5=BlackMusicForever&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BlackMusicForever&creative_id=NA_NA_DL-COM-live-BlackMusicForever-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 1",
+    "displayName": "SXM Limited Edition 6",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
@@ -2797,8 +2797,8 @@
     "xmChannelNumber": 506,
     "primaryColor": "#808080",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/black-music-forever-radio/BlackMusicForever-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/black-music-forever-radio/BlackMusicForever-127-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-114-900x720.png",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-115-900x720.png",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -2814,7 +2814,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1677039861654
+    "updatedDate": 1677600582665
   },
   {
     "artistsYouHear": [],
@@ -4084,7 +4084,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "longDescription": "An online home for more of SiriusXM&#39;s exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
     "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
     "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 501,
@@ -4107,7 +4107,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1670363887318
+    "updatedDate": 1677600496908
   },
   {
     "artistsYouHear": [],
