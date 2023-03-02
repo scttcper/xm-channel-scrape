@@ -35798,8 +35798,8 @@
     "xmChannelNumber": 84,
     "primaryColor": "#ef3e35",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/sxm-college-sports-radio/SiriusXMCollegeSportsRadio-127-500x400-N.svg",
+    "colorLogo": null,
+    "greyscaleLogo": null,
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
