@@ -1,49 +1,5 @@
 [
   {
-    "artistsYouHear": [],
-    "assetId": 1550773570205,
-    "deliveryTypes": [
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "4138",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=KrishnaDasYogaRadio&cp_5=KrishnaDasYogaRadio&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=KrishnaDasYogaRadio&creative_id=NA_NA_DL-COM-xtra-KrishnaDasYogaRadio-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Krishna Das Yoga Radio",
-    "genre": "chill",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Cool Down",
-    "genreVanityURL": null,
-    "longDescription": "Selected by Krishna Das, named the &quot;Chant Master of American Yoga&quot; by the New York Times, this music transports listeners to a deeper place where they can quiet the mind and open the heart. Features music from eastern and western spiritual traditions and a diverse range of legendary and present-day artists.",
-    "mediumDescription": "Chant/Sacred/Spiritual Music",
-    "shortDescription": "Chant/Sacred/Spiritual Music",
-    "siriusChannelNumber": 1132,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/krishna-das-yoga-radio",
-    "xmChannelNumber": 1132,
-    "primaryColor": "#FF981E",
-    "secondaryColor": "#A61B1E",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/krishna-das-yoga-radio/Krishna-Das-logo-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/krishna-das-yoga-radio/Krishna-Das-logo-white.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1631214986362
-  },
-  {
     "artistsYouHear": [
       "Beatles",
       "Beach Boys",
@@ -2794,8 +2750,8 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-6",
     "xmChannelNumber": 506,
-    "primaryColor": "#808080",
-    "secondaryColor": "#000000",
+    "primaryColor": "#228b22",
+    "secondaryColor": "#49a8cc",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-114-900x720.png",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-115-900x720.png",
     "explicitContentIndicator": "No",
@@ -2813,7 +2769,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1677617467766
+    "updatedDate": 1678176328398
   },
   {
     "artistsYouHear": [],
@@ -2845,8 +2801,8 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-7",
     "xmChannelNumber": 507,
-    "primaryColor": "#808080",
-    "secondaryColor": "#000000",
+    "primaryColor": "#228b22",
+    "secondaryColor": "#49a8cc",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
     "explicitContentIndicator": "No",
@@ -2865,7 +2821,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1677617515289
+    "updatedDate": 1678176347507
   },
   {
     "artistsYouHear": [],
@@ -3681,15 +3637,14 @@
   },
   {
     "artistsYouHear": [
-      "Dave Matthews Band",
+      "Maroon 5",
+      "Matchbox Twenty",
+      "Third Eye Blind",
+      "Imagine Dragons",
+      "Alanis Morissette",
       "Goo Goo Dolls",
       "The Killers",
-      "Coldplay",
-      "Sheryl Crow",
-      "Third Eye Blind",
       "Train",
-      "No Doubt",
-      "Weezer",
       "Green Day",
       "Julia Cunningham",
       "Kat Corbett"
@@ -3747,7 +3702,7 @@
       "8208",
       "8206"
     ],
-    "updatedDate": 1660918889601
+    "updatedDate": 1678176110370
   },
   {
     "artistsYouHear": [
@@ -4091,8 +4046,8 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-1",
     "xmChannelNumber": 501,
-    "primaryColor": "#228b22",
-    "secondaryColor": "#49a8cc",
+    "primaryColor": "#808080",
+    "secondaryColor": "#dc143c",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-meghan-trainor/TheMeghanTrainorChannel-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-meghan-trainor/TheMeghanTrainorChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -4106,7 +4061,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1677617055567
+    "updatedDate": 1678176382613
   },
   {
     "artistsYouHear": [],
@@ -7937,7 +7892,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Salsa, bachata, reggaeton and more! A red-hot Latin mix where the sounds of the the Carribean and the Americas collide. Where Latin music & culture meet!",
+    "longDescription": "Salsa, bachata, reggaeton and more! A red-hot Latin mix where the sounds of the Caribbean and the Americas collide. Where Latin music & culture meet!",
     "mediumDescription": "A red-hot mix of salsa, bachata, reggaeton and more!",
     "shortDescription": "Latin music & culture meet!",
     "siriusChannelNumber": 151,
@@ -7972,7 +7927,7 @@
       "9187",
       "9185"
     ],
-    "updatedDate": 1671555494182
+    "updatedDate": 1678175515754
   },
   {
     "artistsYouHear": [

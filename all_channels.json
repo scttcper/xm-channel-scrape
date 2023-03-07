@@ -51,48 +51,6 @@
   },
   {
     "artistsYouHear": [],
-    "assetId": 1550856267361,
-    "deliveryTypes": [
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "more",
-    "categoryIcon": null,
-    "categoryTitle": "",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "0000",
-    "deepLink": "https://player.siriusxm.com",
-    "displayName": "SiriusXM Hits 1 Free Sample",
-    "genre": "sxmpreview",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "SiriusXM Preview",
-    "genreVanityURL": null,
-    "longDescription": "Today&#39;s Pop Hits",
-    "mediumDescription": "Today's Pop Hits",
-    "shortDescription": "Today&#39;s Pop Hits",
-    "siriusChannelNumber": null,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": null,
-    "xmChannelNumber": null,
-    "primaryColor": "#ec008c",
-    "secondaryColor": "#1b3588",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/free-sample/hits-1-free-sample/SiriusXMHits1FreeSample-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/free-sample/hits-1-free-sample/SiriusXMHits1FreeSample-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1670516721921
-  },
-  {
-    "artistsYouHear": [],
     "assetId": 1550762893080,
     "deliveryTypes": [
       "mobile"
@@ -5723,50 +5681,6 @@
   },
   {
     "artistsYouHear": [],
-    "assetId": 1550773570205,
-    "deliveryTypes": [
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "4138",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=KrishnaDasYogaRadio&cp_5=KrishnaDasYogaRadio&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=KrishnaDasYogaRadio&creative_id=NA_NA_DL-COM-xtra-KrishnaDasYogaRadio-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Krishna Das Yoga Radio",
-    "genre": "chill",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Cool Down",
-    "genreVanityURL": null,
-    "longDescription": "Selected by Krishna Das, named the &quot;Chant Master of American Yoga&quot; by the New York Times, this music transports listeners to a deeper place where they can quiet the mind and open the heart. Features music from eastern and western spiritual traditions and a diverse range of legendary and present-day artists.",
-    "mediumDescription": "Chant/Sacred/Spiritual Music",
-    "shortDescription": "Chant/Sacred/Spiritual Music",
-    "siriusChannelNumber": 1132,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/krishna-das-yoga-radio",
-    "xmChannelNumber": 1132,
-    "primaryColor": "#FF981E",
-    "secondaryColor": "#A61B1E",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/krishna-das-yoga-radio/Krishna-Das-logo-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/krishna-das-yoga-radio/Krishna-Das-logo-white.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1631214986362
-  },
-  {
-    "artistsYouHear": [],
     "assetId": 1550773897108,
     "deliveryTypes": [
       "mobile"
@@ -9735,6 +9649,52 @@
     "updatedDate": 1674486078930
   },
   {
+    "artistsYouHear": [],
+    "assetId": 1550860922011,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4235",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=RainfallRadio&cp_5=RainfallRadio&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=RainfallRadio&creative_id=NA_NA_DL-COM-xtra-RainfallRadio-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Rainfall Radio",
+    "genre": "chill",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Cool Down",
+    "genreVanityURL": null,
+    "longDescription": "Calming Sounds of Rain",
+    "mediumDescription": "Calming Sounds of Rain",
+    "shortDescription": "Calming Sounds of Rain",
+    "siriusChannelNumber": 1225,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1225,
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/rainfallradio/RainfallRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/rainfallradio/RainfallRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1674494670222
+  },
+  {
     "artistsYouHear": [
       "Beatles",
       "Beach Boys",
@@ -9913,7 +9873,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-NHL-Network-Radio/NHLN_RADIO_FINAL_SML_K2_White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -21347,10 +21306,8 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Ducks_Primary_-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -24916,8 +24873,8 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-6",
     "xmChannelNumber": 506,
-    "primaryColor": "#808080",
-    "secondaryColor": "#000000",
+    "primaryColor": "#228b22",
+    "secondaryColor": "#49a8cc",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-114-900x720.png",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-115-900x720.png",
     "explicitContentIndicator": "No",
@@ -24935,7 +24892,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1677617467766
+    "updatedDate": 1678176328398
   },
   {
     "artistsYouHear": [],
@@ -24967,8 +24924,8 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-7",
     "xmChannelNumber": 507,
-    "primaryColor": "#808080",
-    "secondaryColor": "#000000",
+    "primaryColor": "#228b22",
+    "secondaryColor": "#49a8cc",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
     "explicitContentIndicator": "No",
@@ -24987,7 +24944,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1677617515289
+    "updatedDate": 1678176347507
   },
   {
     "artistsYouHear": [],
@@ -27231,15 +27188,14 @@
   },
   {
     "artistsYouHear": [
-      "Dave Matthews Band",
+      "Maroon 5",
+      "Matchbox Twenty",
+      "Third Eye Blind",
+      "Imagine Dragons",
+      "Alanis Morissette",
       "Goo Goo Dolls",
       "The Killers",
-      "Coldplay",
-      "Sheryl Crow",
-      "Third Eye Blind",
       "Train",
-      "No Doubt",
-      "Weezer",
       "Green Day",
       "Julia Cunningham",
       "Kat Corbett"
@@ -27297,7 +27253,7 @@
       "8208",
       "8206"
     ],
-    "updatedDate": 1660918889601
+    "updatedDate": 1678176110370
   },
   {
     "artistsYouHear": [
@@ -28311,8 +28267,8 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-1",
     "xmChannelNumber": 501,
-    "primaryColor": "#228b22",
-    "secondaryColor": "#49a8cc",
+    "primaryColor": "#808080",
+    "secondaryColor": "#dc143c",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-meghan-trainor/TheMeghanTrainorChannel-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-meghan-trainor/TheMeghanTrainorChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -28326,7 +28282,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1677617055567
+    "updatedDate": 1678176382613
   },
   {
     "artistsYouHear": [],
@@ -28501,7 +28457,7 @@
     "genreIcon": null,
     "genreTitle": "Sports",
     "genreVanityURL": null,
-    "longDescription": "We are bringing ESPN’s most popular podcasts to your radio. Hear conversation and storytelling from some of your favorite personalities like: Dan Le Batard, Bomani Jones, Adam Schefter and Marty Smith.  Then each weekend, we’ll bring you a special block of ESPN’s acclaimed 30 for 30 podcasts curated exclusively for SiriusXM.",
+    "longDescription": "We are bringing ESPN’s most popular podcasts to your radio. Hear conversation and storytelling from some of your favorite personalities like: Bill Barnwell, Zach Lowe, Bomani Jones, and Adam Schefter.  Then each weekend, we’ll bring you a special block of ESPN’s acclaimed 30 for 30 podcasts and ESPN Daily with Pablo Torre curated exclusively for SiriusXM.",
     "mediumDescription": "Hear the best of ESPN and 30 for 30 Podcasts with new shows added every day.",
     "shortDescription": "ESPN Podcasts",
     "siriusChannelNumber": 370,
@@ -31081,10 +31037,8 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -31673,7 +31627,6 @@
     "artistsYouHear": [],
     "assetId": 1550762879665,
     "deliveryTypes": [
-      "mobile",
       "satellite"
     ],
     "availableToPackage": true,
@@ -31684,24 +31637,24 @@
     "channelNotification": null,
     "contentId": "bstnpa",
     "deepLink": "https://player.siriusxm.com",
-    "displayName": "Boston/Philadelphia/Washington DC",
+    "displayName": "SiriusXM 134",
     "genre": "trafficandnews",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Traffic/Weather",
     "genreVanityURL": null,
-    "longDescription": "Traffic & Weather for Boston, Philadelphia, Washington D.C.  Your city never more than 10 minutes away.",
-    "mediumDescription": "Traffic & Weather for Boston / Philadelphia / Washington D.C.",
-    "shortDescription": "Boston/Philadelphia/Wash",
+    "longDescription": "SiriusXM 134",
+    "mediumDescription": "SiriusXM 134",
+    "shortDescription": "SiriusXM 134",
     "siriusChannelNumber": 134,
     "siriusServiceId": 105,
     "xmServiceId": 210,
-    "vanityURL": null,
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-134",
     "xmChannelNumber": 134,
-    "primaryColor": "#309de9",
-    "secondaryColor": "#0c8142",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-white.svg",
+    "primaryColor": "#2aace3",
+    "secondaryColor": "#003a5d",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_FF",
@@ -31721,7 +31674,7 @@
       "siriushits1",
       "purejazz"
     ],
-    "updatedDate": 1657041930285
+    "updatedDate": 1677466754437
   },
   {
     "artistsYouHear": [
@@ -31855,7 +31808,6 @@
     "artistsYouHear": [],
     "assetId": 1550762879753,
     "deliveryTypes": [
-      "mobile",
       "satellite"
     ],
     "availableToPackage": true,
@@ -31866,24 +31818,24 @@
     "channelNotification": null,
     "contentId": "chicagostlouis",
     "deepLink": "https://player.siriusxm.com",
-    "displayName": "Chicago/Detroit/Dallas-Ft. Worth",
+    "displayName": "SiriusXM 135",
     "genre": "trafficandnews",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Traffic/Weather",
     "genreVanityURL": null,
-    "longDescription": "Traffic & Weather for Chicago, Detroit, and Dallas-Ft. Worth. Your city never more than 10 minutes away.",
-    "mediumDescription": "Traffic & Weather for Chicago / Detroit / Dallas-Ft. Worth",
-    "shortDescription": "Chicago/Detroit/Dallas-F",
+    "longDescription": "SiriusXM 135",
+    "mediumDescription": "SiriusXM 135",
+    "shortDescription": "SiriusXM 135",
     "siriusChannelNumber": 135,
     "siriusServiceId": 107,
     "xmServiceId": 217,
-    "vanityURL": null,
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-135",
     "xmChannelNumber": 135,
-    "primaryColor": "#309de9",
-    "secondaryColor": "#0c8142",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-white.svg",
+    "primaryColor": "#2aace3",
+    "secondaryColor": "#003a5d",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_FF",
@@ -31903,7 +31855,7 @@
       "siriushits1",
       "purejazz"
     ],
-    "updatedDate": 1657041951242
+    "updatedDate": 1677466971085
   },
   {
     "artistsYouHear": [
@@ -33748,7 +33700,6 @@
     "artistsYouHear": [],
     "assetId": 1550762879841,
     "deliveryTypes": [
-      "mobile",
       "satellite"
     ],
     "availableToPackage": true,
@@ -33759,24 +33710,24 @@
     "channelNotification": null,
     "contentId": "la",
     "deepLink": "https://player.siriusxm.com",
-    "displayName": "Los Angeles",
+    "displayName": "SiriusXM 136",
     "genre": "trafficandnews",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Traffic/Weather",
     "genreVanityURL": null,
-    "longDescription": "Traffic and Weather for Los Angeles.",
-    "mediumDescription": "Traffic & Weather for Los Angeles",
-    "shortDescription": "Los Angeles",
+    "longDescription": "SiriusXM 136",
+    "mediumDescription": "SiriusXM 136",
+    "shortDescription": "SiriusXM 136",
     "siriusChannelNumber": 136,
     "siriusServiceId": 106,
     "xmServiceId": 222,
-    "vanityURL": "https://www.siriusxm.com/channels/los-angeles",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-136",
     "xmChannelNumber": 136,
-    "primaryColor": "#309de9",
-    "secondaryColor": "#0c8142",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-white.svg",
+    "primaryColor": "#2aace3",
+    "secondaryColor": "#003a5d",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_FF",
@@ -33796,7 +33747,7 @@
       "siriushits1",
       "purejazz"
     ],
-    "updatedDate": 1657041908727
+    "updatedDate": 1677467179030
   },
   {
     "artistsYouHear": [],
@@ -34139,24 +34090,24 @@
     "channelNotification": null,
     "contentId": "ny",
     "deepLink": "https://player.siriusxm.com",
-    "displayName": "New York",
+    "displayName": "SiriusXM 133",
     "genre": "trafficandnews",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Traffic/Weather",
     "genreVanityURL": null,
-    "longDescription": "Traffic & Weather for New York.",
-    "mediumDescription": "Traffic & Weather for New York",
-    "shortDescription": "New York",
+    "longDescription": "SiriusXM 133",
+    "mediumDescription": "SiriusXM 133",
+    "shortDescription": "SiriusXM 133",
     "siriusChannelNumber": 133,
     "siriusServiceId": 104,
     "xmServiceId": 211,
-    "vanityURL": "https://www.siriusxm.com/channels/new-york",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-133",
     "xmChannelNumber": 133,
-    "primaryColor": "#309de9",
-    "secondaryColor": "#0c8142",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/sxm1st_trafficweather/SXM_1st_TraffWeath-white.svg",
+    "primaryColor": "#2aace3",
+    "secondaryColor": "#003a5d",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_FF",
@@ -34176,7 +34127,7 @@
       "siriushits1",
       "purejazz"
     ],
-    "updatedDate": 1657041963431
+    "updatedDate": 1677466696854
   },
   {
     "artistsYouHear": [
@@ -34929,7 +34880,7 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Salsa, bachata, reggaeton and more! A red-hot Latin mix where the sounds of the the Carribean and the Americas collide. Where Latin music & culture meet!",
+    "longDescription": "Salsa, bachata, reggaeton and more! A red-hot Latin mix where the sounds of the Caribbean and the Americas collide. Where Latin music & culture meet!",
     "mediumDescription": "A red-hot mix of salsa, bachata, reggaeton and more!",
     "shortDescription": "Latin music & culture meet!",
     "siriusChannelNumber": 151,
@@ -34964,7 +34915,7 @@
       "9187",
       "9185"
     ],
-    "updatedDate": 1671555494182
+    "updatedDate": 1678175515754
   },
   {
     "artistsYouHear": [
@@ -35820,7 +35771,7 @@
       "9457",
       "9385"
     ],
-    "updatedDate": 1677616721500
+    "updatedDate": 1678181982550
   },
   {
     "artistsYouHear": [],
