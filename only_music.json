@@ -1097,16 +1097,16 @@
   },
   {
     "artistsYouHear": [
-      "Aerosmith",
       "AC/DC",
       "Led Zeppelin",
-      "Motley Crue",
+      "Van Halen",
+      "Queen",
+      "Aerosmith",
+      "Def Leppard",
       "Metallica",
-      "Linkin Park",
-      "Five Finger Death Punch",
-      "Disturbed",
+      "Rolling Stones",
       "ZZ Top",
-      "Godsmack"
+      "The Who"
     ],
     "assetId": 1550762878750,
     "deliveryTypes": [
@@ -1158,7 +1158,7 @@
       "octane",
       "buzzsaw"
     ],
-    "updatedDate": 1633069910714
+    "updatedDate": 1678412600327
   },
   {
     "artistsYouHear": [
@@ -1855,6 +1855,7 @@
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -3326,7 +3327,6 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -4997,6 +4997,16 @@
   },
   {
     "artistsYouHear": [
+      "Katy Perry",
+      "Bruno Mars",
+      "Adele",
+      "Justin Bieber",
+      "Rihanna",
+      "Fall Out Boy",
+      "Lady Gaga",
+      "Drake",
+      "Jason Derulo",
+      "Demi Lovato",
       "Catherine Haley",
       "Spyder Harrison",
       "Mack"
@@ -5053,19 +5063,20 @@
       "9450",
       "thebeat"
     ],
-    "updatedDate": 1664545774749
+    "updatedDate": 1678414232838
   },
   {
     "artistsYouHear": [
       "P!nk",
       "Bruno Mars",
       "Adele",
-      "Backstreet Boys",
-      "Kelly Clarkson",
       "Goo Goo Dolls",
-      "Alanis Morissette",
+      "Kelly Clarkson",
+      "Train",
+      "Lady Gaga",
       "Hootie & The Blowfish",
-      "Lady Gaga"
+      "Alanis Morissette",
+      "Backstreet Boys"
     ],
     "assetId": 1550826589138,
     "deliveryTypes": [
@@ -5120,7 +5131,7 @@
       "8206",
       "9450"
     ],
-    "updatedDate": 1676652586354
+    "updatedDate": 1678413944715
   },
   {
     "artistsYouHear": [],
@@ -7712,17 +7723,16 @@
   },
   {
     "artistsYouHear": [
-      "Jack Johnson",
-      "Kenny Chesney",
-      "Sheryl Crow",
-      "The Beach Boys",
-      "Zac Brown Band",
       "Jimmy Buffett",
+      "Jack Johnson",
       "Bob Marley",
-      "Toots & the Maytals",
-      "Little Feat",
       "Paul Simon",
       "UB40",
+      "Toots & the Maytals",
+      "Ziggy Marley",
+      "Jimmy Cliff",
+      "Bonnie Raitt",
+      "Zac Brown Band",
       "JD Spradlin",
       "Kirsten",
       "Renee Adams",
@@ -7782,7 +7792,7 @@
       "gratefuldead",
       "thebridge"
     ],
-    "updatedDate": 1666619531612
+    "updatedDate": 1678413693779
   },
   {
     "artistsYouHear": [
@@ -7996,16 +8006,15 @@
   },
   {
     "artistsYouHear": [
-      "Eric Clapton",
       "BB King",
-      "Stevie Ray Vaughan",
-      "Muddy Waters",
       "Buddy Guy",
-      "Etta James",
+      "Larkin Poe",
+      "Koko Taylor",
       "Robert Cray",
-      "Joe Bonamassa",
-      "John Lee Hooker",
-      "Johnny Winter"
+      "Muddy Waters",
+      "Junior Wells",
+      "Charlie",
+      "Musse/white"
     ],
     "assetId": 1550762852326,
     "deliveryTypes": [
@@ -8059,7 +8068,7 @@
       "purejazz",
       "soultown"
     ],
-    "updatedDate": 1666620080972
+    "updatedDate": 1678413294226
   },
   {
     "artistsYouHear": [
@@ -8745,7 +8754,9 @@
       "DB",
       "Rida",
       "Danny Valentino",
-      "Liquid Todd"
+      "Liquid Todd",
+      "Erin Constantine",
+      "Lindsay"
     ],
     "assetId": 1550762855143,
     "deliveryTypes": [
@@ -8801,7 +8812,7 @@
       "9527",
       "9472"
     ],
-    "updatedDate": 1666704620514
+    "updatedDate": 1678734018526
   },
   {
     "artistsYouHear": [
@@ -9243,16 +9254,13 @@
   },
   {
     "artistsYouHear": [
-      "The Stooges",
-      "The White Stripes",
       "The Beatles",
-      "The Who",
+      "Bob Dylan",
+      "Bruce Springsteen & The E Street Band",
+      "The Byrds",
+      "The Clash",
       "The Ramones",
       "the Rolling Stones",
-      "Bo Diddley",
-      "The Hives",
-      "The Yardbirds",
-      "The Byrds",
       "Little Steven Van Zandt",
       "Drew Carey",
       "Mark Lindsay",
@@ -9323,6 +9331,6 @@
       "thevault",
       "outlawcountry"
     ],
-    "updatedDate": 1663789078256
+    "updatedDate": 1678412322494
   }
 ]
