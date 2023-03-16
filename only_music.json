@@ -1158,7 +1158,7 @@
       "octane",
       "buzzsaw"
     ],
-    "updatedDate": 1678412600327
+    "updatedDate": 1678948380450
   },
   {
     "artistsYouHear": [
@@ -2873,7 +2873,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1678400964947
+    "updatedDate": 1678948604506
   },
   {
     "artistsYouHear": [],
@@ -5063,7 +5063,7 @@
       "9450",
       "thebeat"
     ],
-    "updatedDate": 1678414232838
+    "updatedDate": 1678948560636
   },
   {
     "artistsYouHear": [
@@ -5098,9 +5098,9 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "A colorful and diverse pop music collage from the 90s & 2000s featuring P!nk, Bruno Mars, Adele, Backstreet Boys, Kelly Clarkson, Goo Goo Dolls, Alanis Morissettei, Hootie & The Blowfish, Lady Gaga and more! From the office to your car or couch, you’ll hear a never-ending variety of musical patterns and patchwork that form the most unique pop music mosaic!",
-    "mediumDescription": "A colorful and diverse pop music collage from the 90s & 2000s!",
-    "shortDescription": "90s & 2000s Pop",
+    "longDescription": "Take a load off the think tank and turn-up the pop hits you know from the ‘90s and 2000s, featuring P!nk, Bruno Mars, Adele, Backstreet Boys, Kelly Clarkson, Goo Goo Dolls, Alanis Morissette, Hootie & The Blowfish, Lady Gaga and more! Your companion at work, in the carpool lane or while you’re relaxing on the couch, we’re a never-ending variety of pop rhythm and rock that create our SiriusXM Mosaic!",
+    "mediumDescription": "90s & 2000s pop hits to get you through your day!",
+    "shortDescription": "Relaxing 90s & 2000s Pop",
     "siriusChannelNumber": 15,
     "siriusServiceId": 32,
     "xmServiceId": 112,
@@ -5131,7 +5131,7 @@
       "8206",
       "9450"
     ],
-    "updatedDate": 1678413944715
+    "updatedDate": 1678972081634
   },
   {
     "artistsYouHear": [],
@@ -5884,7 +5884,7 @@
       "classicvinyl",
       "classicrewind"
     ],
-    "updatedDate": 1676362083708
+    "updatedDate": 1678953014269
   },
   {
     "artistsYouHear": [
@@ -7346,9 +7346,9 @@
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Storme Warren, Kellie Pickler, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
-    "mediumDescription": "Bringing you the best of country music discovery – brand new songs from Nashville’s hitmakers, Highway Finds and up-and-comers.",
-    "shortDescription": "Next Generation of Country",
+    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Storme Warren, Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
+    "mediumDescription": "Discover the next generation of country on The Highway – where breakthrough Highway Finds meet country’s biggest hitmakers.",
+    "shortDescription": "The Next Generation of Country",
     "siriusChannelNumber": 56,
     "siriusServiceId": 41,
     "xmServiceId": 16,
@@ -7380,7 +7380,7 @@
       "9418",
       "9340"
     ],
-    "updatedDate": 1676319118096
+    "updatedDate": 1678948491907
   },
   {
     "artistsYouHear": [
@@ -7792,7 +7792,7 @@
       "gratefuldead",
       "thebridge"
     ],
-    "updatedDate": 1678413693779
+    "updatedDate": 1678948453197
   },
   {
     "artistsYouHear": [
@@ -8068,7 +8068,7 @@
       "purejazz",
       "soultown"
     ],
-    "updatedDate": 1678413294226
+    "updatedDate": 1678948413996
   },
   {
     "artistsYouHear": [
@@ -9331,6 +9331,6 @@
       "thevault",
       "outlawcountry"
     ],
-    "updatedDate": 1678412322494
+    "updatedDate": 1678948259062
   }
 ]
