@@ -130,7 +130,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -219,7 +218,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -9696,6 +9694,51 @@
     "updatedDate": 1674494670222
   },
   {
+    "artistsYouHear": [],
+    "assetId": 1550866803374,
+    "deliveryTypes": [
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4236",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=WomenofDance&cp_5=WomenofDance&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=WomenofDance&creative_id=NA_NA_DL-COM-xtra-WomenofDance-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Women of Dance",
+    "genre": "allxtra",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "All Xtra",
+    "genreVanityURL": null,
+    "longDescription": "Iconic Women of Dance Music",
+    "mediumDescription": "Iconic Women of Dance Music",
+    "shortDescription": "Iconic Women of Dance Music",
+    "siriusChannelNumber": 1226,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1226,
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/women-of-dance/WomenOfDance-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/women-of-dance/WomenOfDance-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1678997289249
+  },
+  {
     "artistsYouHear": [
       "Beatles",
       "Beach Boys",
@@ -9815,6 +9858,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -9872,6 +9916,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-NHL-Network-Radio/NHLN_RADIO_FINAL_SML_K2_White.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -14419,7 +14464,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -21304,8 +21348,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Ducks_Primary_-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23502,7 +23548,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -23595,7 +23640,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -23833,7 +23877,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -24181,7 +24224,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -24244,7 +24286,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -24367,7 +24408,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -24509,7 +24549,6 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25085,7 +25124,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -25188,7 +25226,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25241,7 +25278,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25367,6 +25403,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -25523,7 +25560,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -25718,7 +25754,6 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25775,7 +25810,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -25832,7 +25866,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -25948,7 +25981,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -27046,7 +27078,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28012,7 +28043,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28591,7 +28621,6 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28797,7 +28826,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28853,7 +28881,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -29425,7 +29452,6 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -29568,7 +29594,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -29621,7 +29646,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -29665,7 +29689,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -29711,7 +29734,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -30477,7 +30499,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -30802,6 +30823,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -31045,9 +31067,11 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -32534,7 +32558,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -33027,7 +33050,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -35280,7 +35302,6 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -35344,7 +35365,6 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
