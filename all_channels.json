@@ -25016,8 +25016,8 @@
     "xmChannelNumber": 508,
     "primaryColor": "#228b22",
     "secondaryColor": "#49a8cc",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/SiriusXM-Limited-Edition-8/SiriusXM-Limited-Edition-8.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-christian/siriusxm-limitededition8/SiriusXM-Limited-Edition-8-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-8/SiriusXM-Limited-Edition-8.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-8/SiriusXM-Limited-Edition-8-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -25034,7 +25034,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1678948604506
+    "updatedDate": 1679461549836
   },
   {
     "artistsYouHear": [],
