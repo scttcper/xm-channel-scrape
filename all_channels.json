@@ -24862,8 +24862,8 @@
     "xmChannelNumber": 505,
     "primaryColor": "#87ceeb",
     "secondaryColor": "#2e8b57",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition5/SiriusXM-Limited-Edition-5.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/music/x-hip-hoprab/siriusxm-limitededition5/SiriusXM-Limited-Edition-5-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5-White.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24880,7 +24880,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1664282560298
+    "updatedDate": 1679541825357
   },
   {
     "artistsYouHear": [],
@@ -28821,8 +28821,8 @@
     "xmChannelNumber": 30,
     "primaryColor": "#808184",
     "secondaryColor": "#010101",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/dave-matthews-band-radio/DMB-Radio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/dave-matthews-band-radio/DMB-Radio-WHITE.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/rock/dave-matthews-band-radio/logo/DMBRadio-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/rock/dave-matthews-band-radio/logo/DMBRadio-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -28842,7 +28842,7 @@
       "thespectrum",
       "8370"
     ],
-    "updatedDate": 1651108276861
+    "updatedDate": 1679518794859
   },
   {
     "artistsYouHear": [],
