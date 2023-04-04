@@ -9987,8 +9987,8 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8186",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMPGATOURRadio&cp_5=SiriusXMPGATOURRadio&cp_6=SPORTS&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMPGATOURRadio&creative_id=NA_NA_DL-COM-live-SiriusXMPGATOURRadio-SPORTS-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM PGA TOUR Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=MastersRadio&cp_5=MastersRadio&cp_6=SPORTS&cp_7=COM&cp_8=SXMCOM&site_id=MastersRadio&creative_id=NA_NA_DL-COM-live-MastersRadio-SPORTS-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Masters Radio on SXM",
     "genre": "sportstalk",
     "genreLogo": null,
     "genreIcon": null,
@@ -10002,10 +10002,10 @@
     "xmServiceId": 146,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-pga-tour-radio",
     "xmChannelNumber": 92,
-    "primaryColor": "#eea6a5",
-    "secondaryColor": "#173d7a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXM_PGATOUR_4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXM_PGATOUR_4C_whtR.svg",
+    "primaryColor": "#ffd700",
+    "secondaryColor": "#008000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/masters-radio/Masters-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/masters-radio/Masters-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -10026,7 +10026,7 @@
       "8185",
       "siriusnascarradio"
     ],
-    "updatedDate": 1654535468033
+    "updatedDate": 1680591561637
   },
   {
     "artistsYouHear": [
@@ -23526,26 +23526,26 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9351",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM105&cp_5=SiriusXM105&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM105&creative_id=NA_NA_DL-COM-live-SiriusXM105-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 105",
-    "genre": "pop",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=MandatoryMetallica&cp_5=MandatoryMetallica&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=MandatoryMetallica&creative_id=NA_NA_DL-COM-live-MandatoryMetallica-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Mandatory Metallica",
+    "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Pop",
+    "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 105",
-    "mediumDescription": "SiriusXM 105",
-    "shortDescription": "SiriusXM 105",
+    "longDescription": "All their ferocious heavy music, stories from their new album, <em>72 Seasons</em>, + more including remasters, demos, alternate mixes, live concerts, and other artists handpicked by Metallica.",
+    "mediumDescription": "Metallica Music + More",
+    "shortDescription": "Metallica Music + More",
     "siriusChannelNumber": 105,
-    "siriusServiceId": 74,
+    "siriusServiceId": 170,
     "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
+    "vanityURL": "https://www.siriusxm.com/channels/mandatory-metallica",
     "xmChannelNumber": 105,
-    "primaryColor": "#000000",
-    "secondaryColor": "#87ceeb",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXM105-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXM105-4C-OnK.svg",
-    "explicitContentIndicator": "No",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/mandatory-metallica/MandatoryMetallica-126-500x400-P1.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/mandatory-metallica/MandatoryMetallica-127-500x400-N1.svg",
+    "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
@@ -23555,7 +23555,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1675842163537
+    "updatedDate": 1680591027528
   },
   {
     "artistsYouHear": [],
@@ -24799,25 +24799,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9398",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition4&cp_5=SXMLimitedEdition4&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition4&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition4-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 4",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=LinkinParkRadio&cp_5=LinkinParkRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=LinkinParkRadio&creative_id=NA_NA_DL-COM-live-LinkinParkRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Linkin Park Radio",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Linkin Park band members take you behind the making of Meteora on its 20th anniversary. Plus, hear tracks from every other Linkin Park album, and stories and music from other rock and hip-hop artists they collaborated and toured with on the band's very own SiriusXM Limited Engagement Channel, Linkin Park Radio.",
+    "mediumDescription": "Linkin Park take you through the Meteora album on its 20 Anniversary plus other LP music and insight into their favorite artists",
+    "shortDescription": "Linkin Park Radio Meteora 20th",
     "siriusChannelNumber": 504,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-4",
+    "vanityURL": "https://www.siriusxm.com/channels/linkin-park-radio",
     "xmChannelNumber": 504,
-    "primaryColor": "#529936",
-    "secondaryColor": "#00578e",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4-White.svg",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/linkinparkradio/LinkinParkRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/linkinparkradio/LinkinParkRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24829,7 +24829,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1675113142255
+    "updatedDate": 1680591343040
   },
   {
     "artistsYouHear": [],
@@ -27975,10 +27975,10 @@
     "xmServiceId": 228,
     "vanityURL": "https://www.siriusxm.com/channels/rock-the-bells-radio",
     "xmChannelNumber": 43,
-    "primaryColor": "#dc9b35",
-    "secondaryColor": "#8b3921",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-WHITE.svg",
+    "primaryColor": "#00AEEF",
+    "secondaryColor": "#000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -27995,7 +27995,7 @@
       "9339",
       "8228"
     ],
-    "updatedDate": 1660054812490
+    "updatedDate": 1680038775808
   },
   {
     "artistsYouHear": [
@@ -28821,8 +28821,8 @@
     "xmChannelNumber": 30,
     "primaryColor": "#808184",
     "secondaryColor": "#010101",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/rock/dave-matthews-band-radio/logo/DMBRadio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/rock/dave-matthews-band-radio/logo/DMBRadio-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/dave-matthews-band-radio/DMBRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/dave-matthews-band-radio/DMBRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -28842,7 +28842,7 @@
       "thespectrum",
       "8370"
     ],
-    "updatedDate": 1679518794859
+    "updatedDate": 1680593472287
   },
   {
     "artistsYouHear": [],
@@ -33006,10 +33006,14 @@
     "artistsYouHear": [
       "Grateful Dead",
       "Dead & Company",
-      "Bob Weir",
+      "Jerry Garcia",
       "Jerry Garcia Band",
-      "Phil Lesh",
-      "Furthur",
+      "Bobby Weir & Wolf Bros",
+      "Bob Weir",
+      "Phil Lesh & Friends",
+      "Billy & The Kids",
+      "Mickey Hart",
+      "Fare Thee Well",
       "David Lemieux",
       "David Gans",
       "Gary Lambert"
@@ -33063,7 +33067,7 @@
       "purejazz",
       "classicvinyl"
     ],
-    "updatedDate": 1676380562112
+    "updatedDate": 1680590977463
   },
   {
     "artistsYouHear": [
