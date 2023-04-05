@@ -3159,8 +3159,8 @@
     "xmChannelNumber": 1033,
     "primaryColor": "#9baab3",
     "secondaryColor": "#284874",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Rock-Workout/ClassicRockWorkout.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Rock-Workout/ClassicRockWorkout-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/classic-rock-workout/ClassicRockWorkout.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/classic-rock-workout/ClassicRockWorkout-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -3172,7 +3172,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630335990423
+    "updatedDate": 1680657684319
   },
   {
     "artistsYouHear": [],
@@ -3560,8 +3560,8 @@
     "xmChannelNumber": 1031,
     "primaryColor": "#fecfa6",
     "secondaryColor": "#4d252a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Rock-BBQ/ClassicRockBBQ.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Rock-BBQ/ClassicRockBBQ-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/classicrockbbq/ClassicRockBBQ.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/classicrockbbq/ClassicRockBBQ-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -3573,7 +3573,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630335885067
+    "updatedDate": 1680657222839
   },
   {
     "artistsYouHear": [],
