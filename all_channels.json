@@ -3650,7 +3650,7 @@
     "xmChannelNumber": 1093,
     "primaryColor": "#fecfa6",
     "secondaryColor": "#4d252a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/explore/channel-assets/xtrachannels/rocking-country-bbq/Rocking-Country-BBQ.svg",
+    "colorLogo": null,
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Rocking-Country-BBQ/RockingCountryBBQ-OnK.svg",
     "explicitContentIndicator": "No",
     "packages": [
