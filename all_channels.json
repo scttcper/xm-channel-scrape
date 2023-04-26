@@ -24497,7 +24497,16 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "9455",
+      "8333",
+      "siriusnflradio",
+      "siriussportsaction",
+      "9458",
+      "9459",
+      "9456",
+      "9457"
+    ],
     "updatedDate": 1660932517786
   },
   {
