@@ -130,6 +130,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -218,6 +219,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -9739,6 +9741,52 @@
     "updatedDate": 1678997289249
   },
   {
+    "artistsYouHear": [],
+    "assetId": 1550869509602,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4237",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Indie10&cp_5=Indie10&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Indie10&creative_id=NA_NA_DL-COM-live-Indie10-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Indie 1.0",
+    "genre": "nineties",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "The 90s Decade",
+    "genreVanityURL": null,
+    "longDescription": "First-generation Indie Rock",
+    "mediumDescription": "First-generation Indie Rock",
+    "shortDescription": "First-generation Indie Rock",
+    "siriusChannelNumber": 1227,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1227,
+    "primaryColor": "#d2691e",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/indie-1-0/Indie10-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/indie-1-0/Indie10-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1682594688120
+  },
+  {
     "artistsYouHear": [
       "Beatles",
       "Beach Boys",
@@ -9858,7 +9906,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -9916,7 +9963,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-NHL-Network-Radio/NHLN_RADIO_FINAL_SML_K2_White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -11339,7 +11385,7 @@
     "genreIcon": null,
     "genreTitle": "Sports Play-by-Play",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM’s home for all things NTT INDYCAR Series. From heart-pounding play-by-play of every race to weekly talk shows and specials with the legends of the sport, SiriusXM IndyCar Nation has you covered from the green flag to the checkered flag.",
+    "longDescription": "SiriusXM’s home for all things NTT INDYCAR Series. From heart-pounding play-by-play of every race to weekly talk shows and specials with the legends of the sport, SiriusXM INDYCAR Nation has you covered from the green flag to the checkered flag.",
     "mediumDescription": "NTT INDYCAR Series Play-by-Play of every race along with weekly talk shows and racing specials.",
     "shortDescription": "NTT INDYCAR Series Racing",
     "siriusChannelNumber": 160,
@@ -14464,6 +14510,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -16768,8 +16815,9 @@
     ],
     "assetId": 1550762851407,
     "deliveryTypes": [
-      "ip",
-      "mobile"
+      "mobile",
+      "satellite",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -16780,23 +16828,23 @@
     "contentId": "9186",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Aguila&cp_5=Aguila&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Aguila&creative_id=NA_NA_DL-COM-live-Aguila-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Águila",
-    "genre": "world",
+    "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Latino",
+    "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Enjoy the passionately sung rancheras and accordion driven regional sounds of Mexico.  ¡Que Viva La Raza!\r\n\r\nDisfruta de rancheras apasionadas y música rítmica regional de México.  ¡Que viva la Raza!",
     "mediumDescription": "Banda, Norteño, Mariachi and all the sounds of traditional Mexican music.",
     "shortDescription": "Regional Mexican Music",
-    "siriusChannelNumber": 761,
+    "siriusChannelNumber": 322,
     "siriusServiceId": null,
-    "xmServiceId": null,
+    "xmServiceId": 333,
     "vanityURL": "https://www.siriusxm.com/channels/aguila",
-    "xmChannelNumber": 761,
+    "xmChannelNumber": 322,
     "primaryColor": "#49e889",
     "secondaryColor": "#770021",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Aguila/Aguila_4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Aguila/Aguila_WHITE.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Aguila/Aguila-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Aguila/Aguila-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -16814,7 +16862,7 @@
       "9191",
       "rumbon"
     ],
-    "updatedDate": 1630086092289
+    "updatedDate": 1682048685947
   },
   {
     "artistsYouHear": [
@@ -21348,10 +21396,8 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Ducks_Primary_-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -23548,6 +23594,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -23640,6 +23687,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -23877,6 +23925,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -24224,6 +24273,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -24286,6 +24336,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -24408,6 +24459,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -24558,6 +24610,7 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25133,6 +25186,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -25217,7 +25271,7 @@
     "displayName": "Pitbull's Globalization",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "A musical journey of Rhythm from Miami and around the world. It’s Pitbull city to city, and country to country bringing you the biggest hits and the biggest DJs from around the world. Make sure you have your passport.",
@@ -25235,6 +25289,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25287,6 +25342,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25412,7 +25468,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -25569,6 +25624,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -25665,18 +25721,18 @@
       "ip"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9414",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=GrownFolkJAMZ&cp_5=GrownFolkJAMZ&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=GrownFolkJAMZ&creative_id=NA_NA_DL-COM-live-GrownFolkJAMZ--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Grown Folk JAMZ",
-    "genre": "canadian",
+    "genre": "more",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Canadian",
+    "genreTitle": "More",
     "genreVanityURL": null,
     "longDescription": "The R&B Radio Listener is multi-dimensional and Grown Folk JAMZ® features every format this listener enjoys, professionally Imaged & Positioned into one hour, every hour, thus evoking emotion from our listeners. Grown Folk JAMZ® artists are from Today and Back In The Day. Today’s music listeners have multiple formats in their listening devices. With Grown Folk JAMZ®, we have ALL those R&B related formats, ALL on one station, ALL in one hour, EVERY hour. Grown Folk JAMZ® - “We Change The Channel For Ya!”",
     "mediumDescription": "We play only the Hits from R&B, Gospel, Old School, Hip-Hop, Smooth Jazz, Funk, Classic Soul, & Love Ballads on Grown Folk JAMZ®",
@@ -25763,6 +25819,7 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -25819,6 +25876,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -25875,6 +25933,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -25990,6 +26049,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -27087,6 +27147,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -27291,67 +27352,6 @@
       "8206"
     ],
     "updatedDate": 1678176110370
-  },
-  {
-    "artistsYouHear": [
-      "Arcade Fire",
-      "Pixies",
-      "Pavement",
-      "The White Stripes",
-      "Joy Division",
-      "The Strokes",
-      "Dinosaur Jr.",
-      "Decemberists",
-      "The Shins"
-    ],
-    "assetId": 1550762860593,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9451",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Indie10&cp_5=Indie10&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Indie10&creative_id=NA_NA_DL-COM-live-Indie10-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Indie 1.0",
-    "genre": "rock",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Rock",
-    "genreVanityURL": null,
-    "longDescription": "The first generation of Indie Rock from college radio graduates like Pavement, Joy Division and Pixies to the early cult classics from groundbreaking artists like The Strokes, Arcade Fire and The White Stripes.",
-    "mediumDescription": "First-Gen Indie Rock from college radio grads like Pavement and Pixies to early cult classics from The Strokes and Arcade Fire.",
-    "shortDescription": "First-generation Indie Rock",
-    "siriusChannelNumber": 714,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/indie-1",
-    "xmChannelNumber": 714,
-    "primaryColor": "#f7da57",
-    "secondaryColor": "#7e3e2f",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/indie-1-0/Indie1.0-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/indie-1-0/Indie1.0_4C-White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "leftofcenter",
-      "9447",
-      "90salternative",
-      "firstwave"
-    ],
-    "updatedDate": 1631204846560
   },
   {
     "artistsYouHear": [],
@@ -27879,7 +27879,7 @@
       "8238",
       "9494"
     ],
-    "updatedDate": 1681238474227
+    "updatedDate": 1681238790330
   },
   {
     "artistsYouHear": [
@@ -28052,6 +28052,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28630,6 +28631,7 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28835,6 +28837,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -28890,6 +28893,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -29461,6 +29465,7 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -29603,6 +29608,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -29655,6 +29661,7 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -29698,6 +29705,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -29743,6 +29751,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -30508,6 +30517,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -30535,7 +30545,7 @@
     "displayName": "Pop Top 500",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Counting down the biggest Pop Hits from 2000 to today! Nonstop top pop from Pink, Bruno Mars, Dua Lipa, The Weeknd, Lady Gaga, Maroon 5, Rihanna, Harry Styles, Beyonce, Ed Sheeran, Olivia Rodrigo, Lil Nas X, Taylor Swift, One Direction, Doja Cat, Black Eye Peas, Adele and more!",
@@ -30832,7 +30842,6 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
@@ -31076,11 +31085,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -31201,6 +31208,74 @@
       "doctorradio"
     ],
     "updatedDate": 1677869163304
+  },
+  {
+    "artistsYouHear": [
+      "Rosalia",
+      "Bizarrap",
+      "Shakira",
+      "Camilo",
+      "Karol G",
+      "Sebastian Yatra",
+      "Bad Bunny",
+      "Becky G",
+      "Maluma",
+      "Rauw Alejandro"
+    ],
+    "assetId": 1550869547093,
+    "deliveryTypes": [
+      "satellite",
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9593",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HitsUno&cp_5=HitsUno&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=HitsUno&creative_id=NA_NA_DL-COM-live-HitsUno--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Hits Uno",
+    "genre": "pop",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Pop",
+    "genreVanityURL": null,
+    "longDescription": "From the SiriusXM studios in Miami, your new home for today’s biggest Latin Pop hits from around the globe! From pop to reggaeton, dance to viral LatinX hits, somos los exitos!",
+    "mediumDescription": "From the SiriusXM studios in Miami, your new home for today’s biggest Latin Pop hits from around the globe!",
+    "shortDescription": "Today’s Latin Pop hits",
+    "siriusChannelNumber": 321,
+    "siriusServiceId": null,
+    "xmServiceId": 332,
+    "vanityURL": "https://www.siriusxm.com/channels/hits-uno",
+    "xmChannelNumber": 321,
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "9389",
+      "9544",
+      "siriushits1",
+      "8208",
+      "rumbon",
+      "9406",
+      "9492",
+      "9185"
+    ],
+    "updatedDate": 1682594865387
   },
   {
     "artistsYouHear": [
@@ -32566,6 +32641,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -33062,6 +33138,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
@@ -33470,7 +33547,7 @@
       "howardstern101",
       "classicvinyl"
     ],
-    "updatedDate": 1631204565121
+    "updatedDate": 1680542697526
   },
   {
     "artistsYouHear": [],
@@ -33516,7 +33593,7 @@
       "howardstern100",
       "classicvinyl"
     ],
-    "updatedDate": 1631204582609
+    "updatedDate": 1680542685507
   },
   {
     "artistsYouHear": [
@@ -35310,6 +35387,7 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -35373,6 +35451,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
