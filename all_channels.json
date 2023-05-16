@@ -10171,7 +10171,7 @@
     "displayName": "'90s on 9",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "90s on 9 covers everything from grunge rock to boy bands, pop queens to hip-hop and R&B with artists like Mariah Carey, Aerosmith, Alanis Morissette, Nirvana, Backstreet Boys, Britney Spears , Salt-N-Pepa, Green Day, Boyz II Men and more!",
@@ -10199,10 +10199,24 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4172",
+      "4161",
+      "4031",
+      "4032",
+      "4043",
+      "4186",
+      "4011",
+      "4033",
+      "4058",
+      "4069",
+      "big80s",
       "altnation",
       "90salternative",
       "8208",
-      "big80s"
+      "4005",
+      "4139",
+      "4119",
+      "4109"
     ],
     "updatedDate": 1675114972010
   },
@@ -11352,11 +11366,14 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": [
-      "siriusnflradio",
       "8333",
+      "siriusnflradio",
       "espnradio",
+      "9426",
+      "9423",
       "8213",
       "8368",
+      "9427",
       "8185",
       "8186",
       "siriusnascarradio"
@@ -23928,7 +23945,7 @@
     "displayName": "Elevations",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Imagine hearing a wide collection of songs from the last 40 years of Rock & Pop – reimagined! The beauty of string instrumentation, orchestral interpretations and piano versions of the songs you’ve been hearing on the radio are now on one unique channel. Take a fresh approach to these songs and you may find yourself humming along!",
@@ -23959,6 +23976,7 @@
       "chill",
       "spa73",
       "starlite",
+      "4090",
       "thebridge"
     ],
     "updatedDate": 1630524726401
@@ -24276,7 +24294,7 @@
     "displayName": "70s/80s Pop",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "A sweet mixtape of party hits from the '70s & '80s.  Two decades of songs that rocked the docks and ruled the pools.  A perfect backdrop of anthems that can get you fist pumping in the air!",
@@ -24306,6 +24324,7 @@
       "9145",
       "firstwave",
       "totally70s",
+      "4001",
       "big80s",
       "8228"
     ],
@@ -24339,7 +24358,7 @@
     "displayName": "80s/90s Pop",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "From the Madonna years, it’s time to party yo’ body!  This is pure energy.  Pure '80s & '90s party hits that will make you wanna do the Wild Thing!",
@@ -24365,10 +24384,18 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4042",
+      "4185",
+      "4110",
       "firstwave",
       "90salternative",
+      "4068",
+      "4057",
       "big80s",
-      "8206"
+      "4028",
+      "8206",
+      "4029",
+      "4118"
     ],
     "updatedDate": 1651107751742
   },
@@ -24427,11 +24454,13 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4073",
       "hairnation",
       "firstwave",
-      "classicvinyl",
       "classicrewind",
+      "classicvinyl",
       "9175",
+      "4082",
       "9372"
     ],
     "updatedDate": 1630335960708
@@ -29204,7 +29233,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "4147",
+      "4148"
+    ],
     "updatedDate": 1666619424062
   },
   {
@@ -30725,7 +30757,11 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "4073",
+      "4046",
+      "4082"
+    ],
     "updatedDate": 1656426930133
   },
   {
@@ -31635,7 +31671,7 @@
     "displayName": "'80s on 8",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "It's the big '80s! The decade when greed was good, hair was high and everyone learned what a music video was. Prince, Wham!, Madonna, Michael Jackson, Cyndi Lauper and Culture Club! They're all here and so are the original MTV VJs.",
@@ -31663,11 +31699,19 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4185",
       "thepulse",
-      "firstwave",
+      "4042",
       "totally70s",
+      "4110",
+      "4057",
+      "4068",
       "classicvinyl",
-      "classicrewind"
+      "firstwave",
+      "classicrewind",
+      "4028",
+      "4029",
+      "4118"
     ],
     "updatedDate": 1678953014269
   },
@@ -32296,9 +32340,11 @@
     ],
     "relatedChannels": [
       "hairnation",
+      "4085",
+      "4134",
       "estreetradio",
-      "big80s",
       "classicvinyl",
+      "big80s",
       "gratefuldead",
       "buzzsaw",
       "9174"
@@ -32371,6 +32417,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4189",
       "estreetradio",
       "thevault",
       "undergroundgarage",
@@ -33213,7 +33260,7 @@
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Hear the first wave of Alternative and New Wave from the late ‘70s through the ‘80s. From early U2 and the Police to Depeche Mode and R.E.M.",
+    "longDescription": "Hear the first wave of Alternative and New Wave from the late ‘70s through the ‘80s. From early U2 and the Police to Depeche Mode and R.E.M..",
     "mediumDescription": "Classic Alternative & New Wave",
     "shortDescription": "Classic Alternative",
     "siriusChannelNumber": 33,
@@ -33238,10 +33285,14 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4062",
+      "4074",
       "altnation",
+      "4131",
       "90salternative",
-      "big80s",
-      "classicrewind"
+      "4047",
+      "classicrewind",
+      "big80s"
     ],
     "updatedDate": 1681750823297
   },
@@ -35212,6 +35263,7 @@
       "9189",
       "9190",
       "8225",
+      "4103",
       "9191",
       "9187",
       "9185"
@@ -36519,8 +36571,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4163",
       "altnation",
       "9365",
+      "4078",
+      "4023",
+      "4102",
       "siriushits1",
       "chill",
       "9526",
@@ -37001,7 +37057,7 @@
     "displayName": "'70s on 7",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Slip on your bell bottoms and light a lava lamp!  It’s the Super ‘70s with DJs who boogie down and spin 45 rpm records.  Polyester outfits, pet rocks, CB radios and disco from a galaxy far, far away!  Far out, man!",
@@ -37029,10 +37085,13 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4184",
       "60svibrations",
+      "4025",
+      "4026",
+      "classicrewind",
       "classicvinyl",
-      "big80s",
-      "classicrewind"
+      "big80s"
     ],
     "updatedDate": 1678289199829
   },
