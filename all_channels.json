@@ -10319,7 +10319,7 @@
     "displayName": "Pop2K",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "It’s the hits from the 2000s that hit you right in the memories. Hear Justin Timberlake, Maroon 5, Nelly, Nickelback and all the songs you have a story about.",
@@ -10347,9 +10347,17 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4195",
       "thepulse",
+      "4044",
+      "4167",
+      "4036",
+      "4059",
+      "4037",
       "starlite",
-      "8206"
+      "4038",
+      "8206",
+      "4070"
     ],
     "updatedDate": 1670861042674
   },
@@ -10623,7 +10631,9 @@
     ],
     "relatedChannels": [
       "9188",
+      "4153",
       "cnnespanol",
+      "4024",
       "siriushits1",
       "9191",
       "rumbon"
@@ -14650,7 +14660,7 @@
     "genreTitle": "Rock",
     "genreVanityURL": null,
     "longDescription": "Grunge rock and '90s alternative. You'll hear Pearl Jam, Nirvana, Green Day, Smashing Pumpkins, Soundgarden, Weezer, Oasis and more",
-    "mediumDescription": "Grunge rock and '90s alternative featuring Matt Pinfield",
+    "mediumDescription": "Grunge rock and '90s alternative.Grunge rock and '90s alternative featuring Matt Pinfield",
     "shortDescription": "90s Alternative/Grunge",
     "siriusChannelNumber": 34,
     "siriusServiceId": 63,
@@ -14674,12 +14684,18 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4150",
       "altnation",
+      "4165",
       "firstwave",
       "thespectrum",
+      "4048",
       "classicrewind",
+      "4137",
+      "4149",
       "octane",
-      "8370"
+      "8370",
+      "4072"
     ],
     "updatedDate": 1676318797333
   },
@@ -29568,7 +29584,10 @@
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "4144",
+      "4145"
+    ],
     "updatedDate": 1666619773510
   },
   {
@@ -31321,13 +31340,17 @@
     ],
     "relatedChannels": [
       "9389",
+      "4164",
+      "4067",
       "9544",
       "siriushits1",
       "8208",
+      "4015",
       "rumbon",
       "9406",
       "9492",
-      "9185"
+      "9185",
+      "4094"
     ],
     "updatedDate": 1682594865387
   },
@@ -32094,6 +32117,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4194",
       "hairnation",
       "90salternative",
       "howardstern100",
@@ -33477,11 +33501,14 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "big80s",
       "classicrewind",
+      "4049",
+      "big80s",
       "8206",
       "octane",
-      "buzzsaw"
+      "buzzsaw",
+      "4192",
+      "4061"
     ],
     "updatedDate": 1675410167318
   },
@@ -33656,7 +33683,7 @@
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "Hip Hop Hits from Lil Baby, Drake, 21 Savage, DaBaby, Moneybagg Yo, and emerging artists GloRilla & Moone Walker",
+    "longDescription": "Hip Hop Hits from Kendrick Lamar, Drake, Lil Baby, 21 Savage, Megan Thee Stallion, and 2 Chainz are on Hip-Hop Nation! Turn Up!",
     "mediumDescription": "Hip Hop Hits!",
     "shortDescription": "Hip-Hop Hits-XL",
     "siriusChannelNumber": 44,
@@ -33678,8 +33705,11 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
-      "9469",
+      "4076",
       "shade45",
+      "9469",
+      "4022",
+      "4101",
       "hotjamz",
       "9471"
     ],
@@ -34054,8 +34084,10 @@
     "relatedChannels": [
       "heartandsoul",
       "9364",
+      "4088",
       "siriuslysinatra",
       "spa73",
+      "4202",
       "purejazz"
     ],
     "updatedDate": 1641229494586
@@ -34546,14 +34578,19 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "altnation",
       "rawdog",
+      "4099",
+      "4220",
+      "4166",
+      "hardattack",
+      "buzzsaw",
+      "4193",
+      "altnation",
       "howardstern101",
       "90salternative",
       "howardstern100",
       "faction",
-      "hardattack",
-      "buzzsaw"
+      "4018"
     ],
     "updatedDate": 1672977448775
   },
@@ -34808,6 +34845,11 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4030",
+      "4064",
+      "4196",
+      "4197",
+      "4054",
       "9178",
       "theroadhouse",
       "newcountry",
