@@ -11167,9 +11167,9 @@
       "ip"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8244",
@@ -11224,9 +11224,9 @@
       "ip"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8246",
@@ -11279,9 +11279,9 @@
       "satellite"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8248",
@@ -16545,9 +16545,9 @@
       "satellite"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9172",
@@ -23810,9 +23810,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9358",
@@ -27846,9 +27846,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9468",
@@ -28720,9 +28720,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9501",
@@ -28820,9 +28820,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9504",
@@ -28985,9 +28985,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9511",
@@ -29106,9 +29106,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9513",
@@ -30203,9 +30203,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9559",
@@ -30639,7 +30639,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "4111",
+      "4014"
+    ],
     "updatedDate": 1656426748925
   },
   {
@@ -30825,7 +30828,13 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "4056",
+      "4013",
+      "4007",
+      "4008",
+      "4093"
+    ],
     "updatedDate": 1656427042668
   },
   {
@@ -30983,9 +30992,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9582",
@@ -31032,9 +31041,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9583",
@@ -31045,8 +31054,8 @@
     "genreIcon": null,
     "genreTitle": "Canadian",
     "genreVanityURL": null,
-    "longDescription": "Hip-hop and R&B dominates the globe and Canada has birthed some of it's biggest stars in modern music. From Drake and The Weeknd to Tory Lanez and Jessie Reyez and the legends that paved the way like Kardinal, k-os and Choclair. Mixtape: North is who’s hot now and who’s up next. We’re playing the greatest home-grown bangers from across Canada.",
-    "mediumDescription": "From the legends that paved the way, to who’s hot now. We’re playing the greatest home-grown Hip-Hop and R&B from across Canada.",
+    "longDescription": "Playing the newest hits from Drake and Jesse Reyez to classic throwbacks from Kardinal Offishall and K-OS to the hottest emerging voices from the Canadian underground. Mixtape North is the dopest mix of Hip Hop and R&B.",
+    "mediumDescription": "Playing the newest hits from Drake and Jesse Reyez to classic throwbacks from Kardinal Offishall and K-OS to emerging voices.",
     "shortDescription": "Canadian Hip-Hop and R&B",
     "siriusChannelNumber": 164,
     "siriusServiceId": 172,
@@ -31081,9 +31090,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9584",
@@ -31130,9 +31139,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9585",
@@ -31586,9 +31595,14 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4162",
       "leftofcenter",
+      "4098",
       "90salternative",
       "thespectrum",
+      "4225",
+      "4105",
+      "4017",
       "octane",
       "8370"
     ],
@@ -32953,9 +32967,9 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "energie2",
@@ -34372,9 +34386,9 @@
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Storme Warren, Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
-    "mediumDescription": "Discover the next generation of country on The Highway – where breakthrough Highway Finds meet country’s biggest hitmakers.",
-    "shortDescription": "The Next Generation of Country",
+    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
+    "mediumDescription": "Discover the next generation of country superstars - where Highway Finds meet brand new music from country’s biggest hitmakers.",
+    "shortDescription": "Country’s Next Generation",
     "siriusChannelNumber": 56,
     "siriusServiceId": 41,
     "xmServiceId": 16,
@@ -34741,9 +34755,9 @@
       "ip"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "premiereplus",
@@ -34909,6 +34923,7 @@
     ],
     "relatedChannels": [
       "siriusblues",
+      "4198",
       "siriuslysinatra",
       "jazzcafe",
       "soultown"
@@ -36613,12 +36628,8 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "4163",
       "altnation",
       "9365",
-      "4078",
-      "4023",
-      "4102",
       "siriushits1",
       "chill",
       "9526",
@@ -37054,10 +37065,11 @@
     ],
     "relatedChannels": [
       "estreetradio",
-      "undergroundgarage",
       "thespectrum",
+      "undergroundgarage",
       "classicrewind",
       "gratefuldead",
+      "4190",
       "9174"
     ],
     "updatedDate": 1675409971461

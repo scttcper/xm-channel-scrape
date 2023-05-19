@@ -5452,7 +5452,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "4111",
+      "4014"
+    ],
     "updatedDate": 1656426748925
   },
   {
@@ -5638,7 +5641,13 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "4056",
+      "4013",
+      "4007",
+      "4008",
+      "4093"
+    ],
     "updatedDate": 1656427042668
   },
   {
@@ -5870,9 +5879,14 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4162",
       "leftofcenter",
+      "4098",
       "90salternative",
       "thespectrum",
+      "4225",
+      "4105",
+      "4017",
       "octane",
       "8370"
     ],
@@ -7434,9 +7448,9 @@
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Storme Warren, Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
-    "mediumDescription": "Discover the next generation of country on The Highway – where breakthrough Highway Finds meet country’s biggest hitmakers.",
-    "shortDescription": "The Next Generation of Country",
+    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
+    "mediumDescription": "Discover the next generation of country superstars - where Highway Finds meet brand new music from country’s biggest hitmakers.",
+    "shortDescription": "Country’s Next Generation",
     "siriusChannelNumber": 56,
     "siriusServiceId": 41,
     "xmServiceId": 16,
@@ -7813,6 +7827,7 @@
     ],
     "relatedChannels": [
       "siriusblues",
+      "4198",
       "siriuslysinatra",
       "jazzcafe",
       "soultown"
@@ -8901,12 +8916,8 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "4163",
       "altnation",
       "9365",
-      "4078",
-      "4023",
-      "4102",
       "siriushits1",
       "chill",
       "9526",
@@ -9274,10 +9285,11 @@
     ],
     "relatedChannels": [
       "estreetradio",
-      "undergroundgarage",
       "thespectrum",
+      "undergroundgarage",
       "classicrewind",
       "gratefuldead",
+      "4190",
       "9174"
     ],
     "updatedDate": 1675409971461
