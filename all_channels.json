@@ -31054,8 +31054,8 @@
     "genreIcon": null,
     "genreTitle": "Canadian",
     "genreVanityURL": null,
-    "longDescription": "Playing the newest hits from Drake and Jesse Reyez to classic throwbacks from Kardinal Offishall and K-OS to the hottest emerging voices from the Canadian underground. Mixtape North is the dopest mix of Hip Hop and R&B.",
-    "mediumDescription": "Playing the newest hits from Drake and Jesse Reyez to classic throwbacks from Kardinal Offishall and K-OS to emerging voices.",
+    "longDescription": "Hip-hop and R&B dominates the globe and Canada has birthed some of it's biggest stars in modern music. From Drake and The Weeknd to Tory Lanez and Jessie Reyez and the legends that paved the way like Kardinal, k-os and Choclair. Mixtape: North is who’s hot now and who’s up next. We’re playing the greatest home-grown bangers from across Canada.",
+    "mediumDescription": "From the legends that paved the way, to who’s hot now. We’re playing the greatest home-grown Hip-Hop and R&B from across Canada.",
     "shortDescription": "Canadian Hip-Hop and R&B",
     "siriusChannelNumber": 164,
     "siriusServiceId": 172,
@@ -31079,7 +31079,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1664828060451
+    "updatedDate": 1684507368811
   },
   {
     "artistsYouHear": [],
@@ -34386,9 +34386,9 @@
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
-    "mediumDescription": "Discover the next generation of country superstars - where Highway Finds meet brand new music from country’s biggest hitmakers.",
-    "shortDescription": "Country’s Next Generation",
+    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Storme Warren, Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
+    "mediumDescription": "Discover the next generation of country on The Highway – where breakthrough Highway Finds meet country’s biggest hitmakers.",
+    "shortDescription": "The Next Generation of Country",
     "siriusChannelNumber": 56,
     "siriusServiceId": 41,
     "xmServiceId": 16,
@@ -34420,7 +34420,7 @@
       "9418",
       "9340"
     ],
-    "updatedDate": 1683903322195
+    "updatedDate": 1684507811355
   },
   {
     "artistsYouHear": [
