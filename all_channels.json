@@ -14660,7 +14660,7 @@
     "genreTitle": "Rock",
     "genreVanityURL": null,
     "longDescription": "Grunge rock and '90s alternative. You'll hear Pearl Jam, Nirvana, Green Day, Smashing Pumpkins, Soundgarden, Weezer, Oasis and more",
-    "mediumDescription": "Grunge rock and '90s alternative.Grunge rock and '90s alternative featuring Matt Pinfield",
+    "mediumDescription": "Grunge rock and '90s alternative featuring Matt Pinfield",
     "shortDescription": "90s Alternative/Grunge",
     "siriusChannelNumber": 34,
     "siriusServiceId": 63,
@@ -33515,14 +33515,15 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4085",
+      "4097",
+      "4158",
+      "4136",
       "classicrewind",
-      "4049",
       "big80s",
       "8206",
       "octane",
-      "buzzsaw",
-      "4192",
-      "4061"
+      "buzzsaw"
     ],
     "updatedDate": 1675410167318
   },
@@ -34386,9 +34387,9 @@
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Storme Warren, Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
-    "mediumDescription": "Discover the next generation of country on The Highway – where breakthrough Highway Finds meet country’s biggest hitmakers.",
-    "shortDescription": "The Next Generation of Country",
+    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
+    "mediumDescription": "Discover the next generation of country superstars - where Highway Finds meet brand new music from country’s biggest hitmakers.",
+    "shortDescription": "Country’s Next Generation",
     "siriusChannelNumber": 56,
     "siriusServiceId": 41,
     "xmServiceId": 16,
@@ -34413,11 +34414,14 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "9544",
+      "4095",
+      "4020",
       "4156",
+      "9544",
       "siriushits1",
       "primecountry",
       "9418",
+      "4169",
       "9340"
     ],
     "updatedDate": 1684507811355
@@ -35561,11 +35565,11 @@
     "displayName": "SiriusXM Hits 1",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "From Pop to Hip Hop, Rock, Dance, Country and R&B, SiriusXM HITS 1 plays Today’s Pop Hits! Featuring The Morning Mash Up, Mack in Miami, HITS 1 LA Tony Fly & Symon and Weekend Countdown with SpyDer Harrison.",
-    "mediumDescription": "Today's Pop Hits with The Morning Mash Up, Mack in Miami, HITS 1 LA Tony Fly & Symon and Weekend Countdown with SpyDer Harrison.",
+    "longDescription": "From Pop to Hip Hop, Rock, Dance, Country and R&B, SiriusXM Hits 1 plays Today’s Pop Hits!",
+    "mediumDescription": "The Most Hit-Music, featuring The Morning Mash Up, Hits 1 LA, The Weekend Countdown and Hit-Bound.",
     "shortDescription": "Today's Pop Hits",
     "siriusChannelNumber": 2,
     "siriusServiceId": 2,
@@ -35592,10 +35596,12 @@
     ],
     "relatedChannels": [
       "thepulse",
-      "9544",
-      "9556",
-      "8208",
-      "9492"
+      "4164",
+      "4067",
+      "hotjamz",
+      "4015",
+      "thebeat",
+      "4094"
     ],
     "updatedDate": 1674190280438
   },
@@ -36948,9 +36954,9 @@
     ],
     "assetId": 1550762891214,
     "deliveryTypes": [
+      "satellite",
       "ip",
-      "mobile",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -36991,10 +36997,13 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4096",
       "thepulse",
       "coffeehouse",
       "jamon",
+      "4136",
       "radiomargaritaville",
+      "4019",
       "thebridge"
     ],
     "updatedDate": 1662649231578
