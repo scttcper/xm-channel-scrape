@@ -10368,18 +10368,13 @@
       "Evan Cohen",
       "Linda Cohn",
       "Willie Colon",
-      "Leger Douzable ",
       "Dusty Dvoracek",
       "Amin Elhassan ",
       "Zach Harper",
       "Carrington Harrison",
-      "Pacman Jones",
       "Rick Kamla",
       "Danny Kanell",
-      "Omar Kelly",
       "Robin Lundberg",
-      "Brandon Marshall ",
-      "LeSean McCoy",
       "Patrick Meagher",
       "Lance Medow",
       "Mike Meltser",
@@ -10387,12 +10382,12 @@
       "Chris Plank",
       "Adam Schein",
       "Steve Torre",
-      "Chantel Tremitiere",
       "JT the Brick ",
       "Phil Simms",
       "Jared Stillman",
-      "Antoine Walker",
-      "George Wrighster"
+      "George Wrighster",
+      "Michelle Beadle",
+      "Cody Decker"
     ],
     "assetId": 1550762862405,
     "deliveryTypes": [
@@ -10449,7 +10444,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1661979564457
+    "updatedDate": 1684770984063
   },
   {
     "artistsYouHear": [
@@ -25075,26 +25070,26 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9401",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition7&cp_5=SXMLimitedEdition7&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition7&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition7-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 7",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=The2PacChannel&cp_5=The2PacChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=The2PacChannel&creative_id=NA_NA_DL-COM-live-The2PacChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "The 2PAC Channel (xL)",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Through his entire prolific career, hear all music from the genius of 2PAC. Hear from other artists and celebrities who were “Down For Pac” and hear their 2PAC favorites.",
+    "mediumDescription": "Hits, album tracks and live performances from Hip-Hop icon 2PAC.",
+    "shortDescription": "The music of Tupac Shakur",
     "siriusChannelNumber": 507,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-7",
+    "vanityURL": "https://www.siriusxm.com/channels/the-2pac-channel",
     "xmChannelNumber": 507,
-    "primaryColor": "#228b22",
-    "secondaryColor": "#49a8cc",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
-    "explicitContentIndicator": "No",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-2pac-channel/The2PacChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-2pac-channel/The2PacChannel-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -25110,7 +25105,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1678176347507
+    "updatedDate": 1684772651682
   },
   {
     "artistsYouHear": [],
@@ -25128,25 +25123,25 @@
     "channelNotification": null,
     "contentId": "9402",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition8&cp_5=SXMLimitedEdition8&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition8&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition8-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 8",
+    "displayName": "So So Def Radio (xL)",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Celebrate 30 years of So So Def Records with founder Jermaine Dupri and various artists from the iconic label. Hear the music and stories behind some of the biggest hits as well as classic tracks produced by JD himself.",
+    "mediumDescription": "So So Def Hits, album cuts, tracks produced by Jermaine Dupri and the stories behind them.",
+    "shortDescription": "The Best of So So Def Records",
     "siriusChannelNumber": 508,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/the-apollo-theater-Channel",
+    "vanityURL": "https://www.siriusxm.com/channels/so-so-def-radio",
     "xmChannelNumber": 508,
-    "primaryColor": "#228b22",
-    "secondaryColor": "#49a8cc",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-8/SiriusXM-Limited-Edition-8.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-8/SiriusXM-Limited-Edition-8-White.svg",
-    "explicitContentIndicator": "No",
+    "primaryColor": "#808080",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/so-so-def-radio/SoSoDefRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/so-so-def-radio/SoSoDefRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -25162,7 +25157,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1679461549836
+    "updatedDate": 1684774100180
   },
   {
     "artistsYouHear": [],
@@ -29904,7 +29899,7 @@
     "siriusChannelNumber": 510,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-10",
+    "vanityURL": "https://www.siriusxm.com/channels/top-500-RnB-countdown",
     "xmChannelNumber": 510,
     "primaryColor": "#87ceeb",
     "secondaryColor": "#2e8b57",
@@ -30934,8 +30929,6 @@
   {
     "artistsYouHear": [
       "Brian Buckmire",
-      "Frank Caprio",
-      "Carroll Kelly ",
       "Sean Larkin",
       "Angenette Levy",
       "Jesse Weber"
@@ -30981,7 +30974,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1677869059383
+    "updatedDate": 1684789348834
   },
   {
     "artistsYouHear": [],
