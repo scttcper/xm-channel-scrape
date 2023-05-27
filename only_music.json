@@ -2880,7 +2880,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9402",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition8&cp_5=SXMLimitedEdition8&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition8&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition8-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SoSoDefRadio&cp_5=SoSoDefRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SoSoDefRadio&creative_id=NA_NA_DL-COM-live-SoSoDefRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "So So Def Radio (xL)",
     "genre": "hiphop",
     "genreLogo": null,
@@ -2915,7 +2915,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1684774100180
+    "updatedDate": 1685122684559
   },
   {
     "artistsYouHear": [],
@@ -2932,7 +2932,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9403",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition9&cp_5=SXMLimitedEdition9&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition9&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition9-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Top500RBCountdown&cp_5=Top500RBCountdown&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=Top500RBCountdown&creative_id=NA_NA_DL-COM-live-Top500RBCountdown--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Billboard Top 500 R&B Hits",
     "genre": "hiphop",
     "genreLogo": null,
@@ -2967,7 +2967,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1670903391798
+    "updatedDate": 1685122927096
   },
   {
     "artistsYouHear": [],
@@ -3543,7 +3543,6 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
