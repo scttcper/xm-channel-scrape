@@ -10047,10 +10047,10 @@
     "xmServiceId": 146,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-pga-tour-radio",
     "xmChannelNumber": 92,
-    "primaryColor": "#ffd700",
-    "secondaryColor": "#008000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/masters-radio/Masters-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/masters-radio/Masters-127-500x400-N.svg",
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#0000ff",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXM_PGATOUR_4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXM_PGATOUR_4C_whtR.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -10071,7 +10071,7 @@
       "8185",
       "siriusnascarradio"
     ],
-    "updatedDate": 1681185899506
+    "updatedDate": 1685547206954
   },
   {
     "artistsYouHear": [
@@ -11118,8 +11118,8 @@
     "xmChannelNumber": 14,
     "primaryColor": "#2aace3",
     "secondaryColor": "#003a5d",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -11136,7 +11136,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1677617403439
+    "updatedDate": 1685560599319
   },
   {
     "artistsYouHear": [
@@ -27882,10 +27882,7 @@
   {
     "artistsYouHear": [
       "Kevin Hart",
-      "Earthquake",
-      "Amanda Seales",
-      "Taj Rani",
-      "JeremiahLikeTheBible"
+      "Earthquake"
     ],
     "assetId": 1550762861254,
     "deliveryTypes": [
@@ -27933,7 +27930,7 @@
       "8238",
       "9494"
     ],
-    "updatedDate": 1681238790330
+    "updatedDate": 1685555950671
   },
   {
     "artistsYouHear": [

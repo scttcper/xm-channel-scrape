@@ -773,8 +773,8 @@
     "xmChannelNumber": 14,
     "primaryColor": "#2aace3",
     "secondaryColor": "#003a5d",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -791,7 +791,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1677617403439
+    "updatedDate": 1685560599319
   },
   {
     "artistsYouHear": [
