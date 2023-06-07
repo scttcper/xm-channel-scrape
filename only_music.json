@@ -392,11 +392,11 @@
     "longDescription": "Whenever you listen, you’ll always hear the world’s most beautiful easy listening music...great melodies that you can hum along to!",
     "mediumDescription": "Easy listening instrumental arrangements of familiar pop melodies!",
     "shortDescription": "Easy Listening",
-    "siriusChannelNumber": 69,
+    "siriusChannelNumber": 149,
     "siriusServiceId": 121,
     "xmServiceId": 61,
     "vanityURL": "https://www.siriusxm.com/channels/escape",
-    "xmChannelNumber": 69,
+    "xmChannelNumber": 149,
     "primaryColor": "#caebfc",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Escape/Escape-4C.svg",
@@ -419,7 +419,7 @@
       "spa73",
       "jazzcafe"
     ],
-    "updatedDate": 1675410101105
+    "updatedDate": 1686121510836
   },
   {
     "artistsYouHear": [
@@ -1812,11 +1812,11 @@
     "longDescription": "Hear the essential country hits from earlier in this millennium - from George Strait and Kenny Chesney to Luke Bryan and Carrie Underwood.",
     "mediumDescription": "Country Hits from the 2000s",
     "shortDescription": "This Millennium’s Country Hits",
-    "siriusChannelNumber": 61,
+    "siriusChannelNumber": 57,
     "siriusServiceId": 125,
     "xmServiceId": 152,
     "vanityURL": "https://www.siriusxm.com/channels/y2kountry",
-    "xmChannelNumber": 61,
+    "xmChannelNumber": 57,
     "primaryColor": "#8dc63f",
     "secondaryColor": "#640761",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/SiriusXM-Y2Kountry/Y2Kountry-logo-4C.svg",
@@ -1840,7 +1840,7 @@
       "primecountry",
       "newcountry"
     ],
-    "updatedDate": 1675445909940
+    "updatedDate": 1686121149790
   },
   {
     "artistsYouHear": [
@@ -2037,68 +2037,6 @@
   },
   {
     "artistsYouHear": [
-      "2 Cellos",
-      "Vitamin String Quartet",
-      "Piano Tribute Players",
-      "Rockfluence",
-      "Dallas String Quartet",
-      "The Piano Guys",
-      "The Hawaiian Tribute To…"
-    ],
-    "assetId": 1550762857735,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9362",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Elevations&cp_5=Elevations&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Elevations&creative_id=NA_NA_DL-COM-live-Elevations-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Elevations",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "Imagine hearing a wide collection of songs from the last 40 years of Rock & Pop – reimagined! The beauty of string instrumentation, orchestral interpretations and piano versions of the songs you’ve been hearing on the radio are now on one unique channel. Take a fresh approach to these songs and you may find yourself humming along!",
-    "mediumDescription": "Piano, string and orchestral versions of Classic Rock & Pop songs, now reimagined and on one unique channel!",
-    "shortDescription": "Reimagined Pop & Rock Classics",
-    "siriusChannelNumber": 706,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/elevations",
-    "xmChannelNumber": 706,
-    "primaryColor": "#73cef4",
-    "secondaryColor": "#365299",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Elevations/Elevations-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Elevations/Elevations-WHITE.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "8215",
-      "coffeehouse",
-      "chill",
-      "spa73",
-      "starlite",
-      "4090",
-      "thebridge"
-    ],
-    "updatedDate": 1630524726401
-  },
-  {
-    "artistsYouHear": [
       "Marvin Gaye",
       "Stevie Wonder",
       "Luther Vandross",
@@ -2279,138 +2217,6 @@
       "laughbreak"
     ],
     "updatedDate": 1666620113054
-  },
-  {
-    "artistsYouHear": [
-      "Bon Jovi",
-      "Def Leppard",
-      "Bachman-Turner Overdrive",
-      "KC & The Sunshine Band",
-      "Lynyrd Skynyrd",
-      "Bee Gees",
-      "Rick James",
-      "Blondie"
-    ],
-    "assetId": 1550762850853,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9372",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=70s80sPop&cp_5=70s80sPop&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=70s80sPop&creative_id=NA_NA_DL-COM-live-70s80sPop-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "70s/80s Pop",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "A sweet mixtape of party hits from the '70s & '80s.  Two decades of songs that rocked the docks and ruled the pools.  A perfect backdrop of anthems that can get you fist pumping in the air!",
-    "mediumDescription": "Dude! You can rock your party with these hits from the '70s & '80s. From Disco to Devo…it’s Masterblaster jammin’ time!",
-    "shortDescription": "'70s & '80s Super Party Hits",
-    "siriusChannelNumber": 704,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/70s-80s-pop",
-    "xmChannelNumber": 704,
-    "primaryColor": "#fff200",
-    "secondaryColor": "#b3006a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/70s80sPOP/70s80sPop-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/70s80sPOP/70s80sPop-White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "hairnation",
-      "9145",
-      "firstwave",
-      "totally70s",
-      "4001",
-      "big80s",
-      "8228"
-    ],
-    "updatedDate": 1630078170676
-  },
-  {
-    "artistsYouHear": [
-      "Madonna",
-      "Salt-N-Pepa",
-      "Guns N’ Roses",
-      "Cameo",
-      "Vanilla Ice",
-      "Mötley Crüe",
-      "Whitney",
-      "Houston",
-      "Van Halen"
-    ],
-    "assetId": 1550762851015,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9373",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=80s90sPop&cp_5=80s90sPop&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=80s90sPop&creative_id=NA_NA_DL-COM-live-80s90sPop-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "80s/90s Pop",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "From the Madonna years, it’s time to party yo’ body!  This is pure energy.  Pure '80s & '90s party hits that will make you wanna do the Wild Thing!",
-    "mediumDescription": "Ya can’t touch this!  Essential party hits from the Awesome '80s & the Whassup! '90s…it’s Electric!",
-    "shortDescription": "'80s & '90s Party Hits",
-    "siriusChannelNumber": 705,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/80s-90s-party",
-    "xmChannelNumber": 705,
-    "primaryColor": "#90b33e",
-    "secondaryColor": "#b3006a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/80s90sPOP/80s90Pop-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/80s90sPOP/80s90Pop-4C-OnK.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "4042",
-      "4185",
-      "4110",
-      "firstwave",
-      "90salternative",
-      "4068",
-      "4057",
-      "big80s",
-      "4028",
-      "8206",
-      "4029",
-      "4118"
-    ],
-    "updatedDate": 1651107751742
   },
   {
     "artistsYouHear": [
@@ -2727,24 +2533,24 @@
     "channelNotification": null,
     "contentId": "9399",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RockvilleRadio&cp_5=RockvilleRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=RockvilleRadio&creative_id=NA_NA_DL-COM-live-RockvilleRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Rockville Radio",
+    "displayName": "SXM Limited Edition 5",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "The music, backstage interviews, live performances, and more from the Welcome To Rockville music festival.",
-    "mediumDescription": "Welcome To Rockville Music Festival",
-    "shortDescription": "Rockville Music Festival",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 505,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/the-david-bowie-channel",
     "xmChannelNumber": 505,
-    "primaryColor": "#dc143c",
-    "secondaryColor": "#ffd700",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockville-road/RockvilleRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockville-road/RockvilleRadio-127-500x400-N.svg",
+    "primaryColor": "#7fff00",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -2761,7 +2567,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1683176363645
+    "updatedDate": 1686121600171
   },
   {
     "artistsYouHear": [],
@@ -2784,9 +2590,9 @@
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Duran Duran is about to head out on a new World Tour. Duran Duran FUTURE PAST Radio explores the 4 decade plus career of these Rock N Roll Hall Of Fame members. You'll hear the synth pop smash hits, B-sides, \"live\" albums and much more. Hear directly from Simon, Nick, John and Roger about their music and the music of those that influenced them.",
+    "longDescription": "Duran Duran is about to head out on a new World Tour. Duran Duran Future Past Radio explores the 4 decade plus career of these Rock N Roll Hall Of Fame members. You'll hear the synth pop smash hits, B-sides, \"live\" albums and much more. Hear directly from Simon, Nick, John and Roger about their music and the music of those that influenced them.",
     "mediumDescription": "Exploring the 4 decades of music from the iconic band from Birmingham, UK. Hear their synth pop smashes, B-sides,and more.",
-    "shortDescription": "Duran Duran FUTURE PAST Radio",
+    "shortDescription": "Duran Duran Future Past Radio",
     "siriusChannelNumber": 506,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -2811,7 +2617,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1683178039477
+    "updatedDate": 1686121635789
   },
   {
     "artistsYouHear": [],
@@ -2971,57 +2777,6 @@
   },
   {
     "artistsYouHear": [],
-    "assetId": 1550762855782,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9404",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=CarolinaShagRadio&cp_5=CarolinaShagRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=CarolinaShagRadio&creative_id=NA_NA_DL-COM-live-CarolinaShagRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Carolina Shag Radio",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "A channel dedicated to the vintage and R&B sounds that have meant Beach Music in the Carolinas for decades.  Put on your 'Weejuns' (leather loafers) and dance to the Shag rhythms you heard when you went to the beach 'down South, y'all'!",
-    "mediumDescription": "A channel dedicated to the vintage R&B sounds that have meant Beach Music in the Carolinas for decades.",
-    "shortDescription": "Carolina R&B Beach Music",
-    "siriusChannelNumber": 701,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/carolina-shag-radio",
-    "xmChannelNumber": 701,
-    "primaryColor": "#b0b0b0",
-    "secondaryColor": "#731203",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Carolina-Shag-Radio/Carolina-Shag-Radio-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Carolina-Shag-Radio/CarolinaShagRadio_WHITE.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "siriusblues",
-      "siriusgold",
-      "60svibrations",
-      "soultown"
-    ],
-    "updatedDate": 1639754899720
-  },
-  {
-    "artistsYouHear": [],
     "assetId": 1550762877298,
     "deliveryTypes": [
       "ip",
@@ -3127,69 +2882,6 @@
       "9174"
     ],
     "updatedDate": 1651108203158
-  },
-  {
-    "artistsYouHear": [
-      "Madonna",
-      "Pitbull",
-      "Black Eyed Peas",
-      "Kool & The Gang",
-      "Lady Gaga",
-      "Tavares",
-      "Michael Jackson/The Jackson 5",
-      "Aretha Franklin",
-      "Stevie Wonder"
-    ],
-    "assetId": 1550762856182,
-    "deliveryTypes": [
-      "mobile",
-      "ip"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9412",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Celebrate&cp_5=Celebrate&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Celebrate&creative_id=NA_NA_DL-COM-live-Celebrate-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Celebrate!",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "Finally a channel to celebrate graduation, the start of summer, your wedding, a party or just happy moments.  Hear happy songs to help you celebrate the fun and memorable days of your life!",
-    "mediumDescription": "Happy songs to help you celebrate the fun and memorable days of your life.",
-    "shortDescription": "Happy Songs For A Celebration",
-    "siriusChannelNumber": 718,
-    "siriusServiceId": null,
-    "xmServiceId": 299,
-    "vanityURL": "https://www.siriusxm.com/channels/celebrate",
-    "xmChannelNumber": 718,
-    "primaryColor": "#0aadd4",
-    "secondaryColor": "#1178a9",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Celebrate/Celebrate-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Celebrate/Celebrate-WHITE.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "9378",
-      "9145",
-      "totally70s",
-      "9418",
-      "9419",
-      "big80s"
-    ],
-    "updatedDate": 1674189581589
   },
   {
     "artistsYouHear": [
@@ -3356,11 +3048,11 @@
     "longDescription": "From the road to the radio, the studio to the sand, Kenny Chesney embodies a \"No Shoes\" state of mind.  No Shoes Radio features never released recordings from Kenny's personal archives, music from his favorite artists, live performances, acoustic moments, drop-ins from fans, friends, and celebrities, as well as plenty of Kenny's biggest hits and favorite album tracks.",
     "mediumDescription": "Music from & chosen by Kenny Chesney.  Never heard recordings, live concerts, unplugged moments & No Shoes Nation drop-ins.",
     "shortDescription": "Kenny Chesney's Music Channel",
-    "siriusChannelNumber": 57,
+    "siriusChannelNumber": 59,
     "siriusServiceId": 111,
     "xmServiceId": 99,
     "vanityURL": "https://www.siriusxm.com/channels/no-shoes-radio",
-    "xmChannelNumber": 57,
+    "xmChannelNumber": 59,
     "primaryColor": "#f7a64b",
     "secondaryColor": "#cf4722",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/No-Shoes-Radio/No-Shoes-Radio-4C.svg",
@@ -3376,70 +3068,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1651108387819
-  },
-  {
-    "artistsYouHear": [
-      "4 Non Blondes",
-      "Baha Men",
-      "The Proclaimers",
-      "Wild Cherry",
-      "Yello",
-      "Falco",
-      "Gary Numan",
-      "Shocking Blue",
-      "Chumbawamba",
-      "The Georgia Satellites"
-    ],
-    "assetId": 1550762876709,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9419",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ONEderland&cp_5=ONEderland&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=ONEderland&creative_id=NA_NA_DL-COM-live-ONEderland-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "ONEderland",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "Five decades of artists who had one big hit…and that was it!  R&B, Country, Dance, Rock, Pop, New Wave, Novelty, Instrumentals and more.  24/7, this is a collection of hits that started and ended careers…in 3 minutes.",
-    "mediumDescription": "Five decades of artists who had one big hit that stood the test of time.",
-    "shortDescription": "One-Hit Wonders, 24/7",
-    "siriusChannelNumber": 702,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/onederland",
-    "xmChannelNumber": 702,
-    "primaryColor": "#ffc20e",
-    "secondaryColor": "#9c1d23",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ONEderland/ONEderland-logo.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ONEderland/OldiesParty_White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "totally70s",
-      "9412",
-      "8208",
-      "big80s",
-      "8206"
-    ],
-    "updatedDate": 1640712159810
+    "updatedDate": 1686121212931
   },
   {
     "artistsYouHear": [
@@ -3505,58 +3134,6 @@
     "updatedDate": 1633069763025
   },
   {
-    "artistsYouHear": [],
-    "assetId": 1550849904391,
-    "deliveryTypes": [
-      "ip",
-      "satellite",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9421",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RedWhiteBooze&cp_5=RedWhiteBooze&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=RedWhiteBooze&creative_id=NA_NA_DL-COM-live-RedWhiteBooze-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Red White & Booze",
-    "genre": "country",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Country",
-    "genreVanityURL": null,
-    "longDescription": "Red White & Booze",
-    "mediumDescription": "Red White & Booze",
-    "shortDescription": "Red White & Booze",
-    "siriusChannelNumber": 55,
-    "siriusServiceId": 68,
-    "xmServiceId": 136,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-55",
-    "xmChannelNumber": 55,
-    "primaryColor": "#2aace3",
-    "secondaryColor": "#003a5d",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "theroadhouse",
-      "newcountry",
-      "primecountry",
-      "outlawcountry",
-      "9340"
-    ],
-    "updatedDate": 1677466627154
-  },
-  {
     "artistsYouHear": [
       "The Beatles",
       "John Lennon",
@@ -3616,63 +3193,6 @@
       "thebridge"
     ],
     "updatedDate": 1664294278615
-  },
-  {
-    "artistsYouHear": [
-      "Taking Back Sunday",
-      "Death Cab For Cutie",
-      "My Chemical Romance",
-      "Jimmy Eat World",
-      "AFI",
-      "Brand New",
-      "Blink-182"
-    ],
-    "assetId": 1550762890445,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9447",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheEmoProject&cp_5=TheEmoProject&cp_6=MUSICONLINEONLY&cp_7=COM&cp_8=SXMCOM&site_id=TheEmoProject&creative_id=NA_NA_DL-COM-live-TheEmoProject-MUSICONLINEONLY-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Emo Project",
-    "genre": "rock",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Rock",
-    "genreVanityURL": null,
-    "longDescription": "Throwback emo, scream-o and pop punk from the 2000s, mixed with modern day emotionally driven alternative rock.",
-    "mediumDescription": "Throwback emo, scream-o and pop punk from the 2000s and beyond.",
-    "shortDescription": "Emotionally Driven Alt Rock",
-    "siriusChannelNumber": 713,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/the-emo-project",
-    "xmChannelNumber": 713,
-    "primaryColor": "#ca9b9d",
-    "secondaryColor": "#231f20",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Emo-Project/The_Emo_Project.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Emo-Project/The_Emo_Project_WHITE.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "altnation",
-      "90salternative"
-    ],
-    "updatedDate": 1631720034798
   },
   {
     "artistsYouHear": [
@@ -3846,8 +3366,8 @@
     "xmServiceId": 228,
     "vanityURL": "https://www.siriusxm.com/channels/rock-the-bells-radio",
     "xmChannelNumber": 43,
-    "primaryColor": "#00AEEF",
-    "secondaryColor": "#000",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#87ceeb",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
@@ -3866,7 +3386,7 @@
       "9339",
       "8228"
     ],
-    "updatedDate": 1680038775808
+    "updatedDate": 1686120232880
   },
   {
     "artistsYouHear": [
@@ -4626,10 +4146,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/rock-the-bells-mixdown",
     "xmChannelNumber": 723,
-    "primaryColor": "#f0b158",
-    "secondaryColor": "#ad5538",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/ll-cool-js-rock-the-bells-mixdown/LLCoolJsRTBMixdown-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/ll-cool-js-rock-the-bells-mixdown/LLCoolJsRTBMixdown-127-500x400-N.svg",
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/LLCoolJsRTBMixdown-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/LLCoolJsRTBMixdown-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -4642,7 +4162,7 @@
       "4144",
       "4145"
     ],
-    "updatedDate": 1666619773510
+    "updatedDate": 1686120196342
   },
   {
     "artistsYouHear": [
@@ -4748,7 +4268,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1675179593327
+    "updatedDate": 1685722345174
   },
   {
     "artistsYouHear": [],
@@ -5823,6 +5343,124 @@
   },
   {
     "artistsYouHear": [
+      "Keith Urban",
+      "Guns N’ Roses",
+      "Alan Jackson",
+      "Miranda Lambert",
+      "AC/DC",
+      "Reba McEntire",
+      "Shinedown",
+      "Dolly Parton",
+      "Rolling Stones",
+      "Cody Johnson"
+    ],
+    "assetId": 1550872936161,
+    "deliveryTypes": [
+      "satellite",
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9599",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=CarriesCountry&cp_5=CarriesCountry&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=CarriesCountry&creative_id=NA_NA_DL-COM-live-CarriesCountry--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "CARRIE’S COUNTRY",
+    "genre": "country",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Country",
+    "genreVanityURL": null,
+    "longDescription": "You’ve entered Carrie’s Country: a musical journey created by country’s iconic rhinestoned superstar. Carrie shares the stories behind her record-breaking career and catalog - and highlights her friends, favorites, and influences. Hear new and classic country, workout hits, gospel and beyond. Plus, high-octane favorites from classic to hard rock for your morning exercise or your late-night jam sessions. Featuring drop-ins from Carrie’s crew, friends, and fans - and of course, Carrie herself!",
+    "mediumDescription": "The musical landscape of Carrie Underwood. Her influences, handpicked favorites, and all things Carrie.",
+    "shortDescription": "Carrie Underwood’s own channel",
+    "siriusChannelNumber": 60,
+    "siriusServiceId": 135,
+    "xmServiceId": 136,
+    "vanityURL": "https://www.siriusxm.com/channels/carries-country",
+    "xmChannelNumber": 60,
+    "primaryColor": "#221e1f",
+    "secondaryColor": "#d93574",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/carriescountry/CarriesCountry-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/carriescountry/CarriesCountry-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "theroadhouse",
+      "primecountry",
+      "newcountry",
+      "9418",
+      "4159",
+      "classicrewind",
+      "octane",
+      "9340"
+    ],
+    "updatedDate": 1686056399369
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550872739054,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9600",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=MoonbugRadio&cp_5=MoonbugRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=MoonbugRadio&creative_id=NA_NA_DL-COM-live-MoonbugRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Moonbug Radio",
+    "genre": "kids",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Family",
+    "genreVanityURL": null,
+    "longDescription": "Whether dancing along to ‘The Wheels On The Bus’ with JJ and his CoComelon friends or belting out ‘The Excavator Song’ with Blippi is your jam, the Moonbug Channel guarantees hours of fun listening for the whole family. Tune in to laugh, learn and grow with the original music from these and other family-favorite Moonbug shows",
+    "mediumDescription": "Sing along to music from your kids’ favorite shows such as CoComelon, Blippi and many more.",
+    "shortDescription": "Laugh Learn Grow with Moonbug",
+    "siriusChannelNumber": 307,
+    "siriusServiceId": null,
+    "xmServiceId": 262,
+    "vanityURL": "https://www.siriusxm.com/channels/moonbug-radio",
+    "xmChannelNumber": 307,
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#0000ff",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/family/MoonbugRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/family/MoonbugRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "9366",
+      "9530",
+      "8216"
+    ],
+    "updatedDate": 1686125015180
+  },
+  {
+    "artistsYouHear": [
       "Bastille",
       "Cage The Elephant",
       "GROUPLOVE",
@@ -6006,11 +5644,11 @@
     "longDescription": "The very finest in bluegrass, from first generation players Bill Monroe and Flatt & Scruggs to the contemporary sounds of Blue Highway and Alison Krauss & Union Station. Born of inspiration, steeped in tradition. Handmade, heartfelt bluegrass music on SiriusXM.",
     "mediumDescription": "Handmade, heartfelt bluegrass music.",
     "shortDescription": "Bluegrass",
-    "siriusChannelNumber": 62,
+    "siriusChannelNumber": 77,
     "siriusServiceId": 45,
     "xmServiceId": 14,
     "vanityURL": "https://www.siriusxm.com/channels/bluegrass-junction",
-    "xmChannelNumber": 62,
+    "xmChannelNumber": 77,
     "primaryColor": "#7eb0d0",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Bluegrass-Junction/BluegrassJunction-SMPL-4C.svg",
@@ -6030,7 +5668,7 @@
     "relatedChannels": [
       "outlawcountry"
     ],
-    "updatedDate": 1679068045447
+    "updatedDate": 1686121452923
   },
   {
     "artistsYouHear": [
@@ -6072,11 +5710,11 @@
     "longDescription": "You're front row center for the greatest hits of Broadway! All your favorite show tunes sung by the stars of the musical stage, bringing Broadway to every street in North America.",
     "mediumDescription": "Show tunes from Broadway's past and present.",
     "shortDescription": "Show Tunes",
-    "siriusChannelNumber": 77,
+    "siriusChannelNumber": 69,
     "siriusServiceId": 55,
     "xmServiceId": 28,
     "vanityURL": "https://www.siriusxm.com/channels/on-broadway",
-    "xmChannelNumber": 77,
+    "xmChannelNumber": 69,
     "primaryColor": "#f2ed99",
     "secondaryColor": "#a81c17",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/On-Broadway/On_Broadway.svg",
@@ -6100,7 +5738,7 @@
       "siriusstars",
       "big80s"
     ],
-    "updatedDate": 1647263644502
+    "updatedDate": 1686121483757
   },
   {
     "artistsYouHear": [
@@ -7610,11 +7248,11 @@
     "longDescription": "No borders, no b.s.—from country’s roots and legends to today’s outsiders that just won’t be fenced in. Tune in every weekday to hear the rantings of Mojo Nixon, \"The Loon in the Afternoon.\"",
     "mediumDescription": "No borders, no b.s.—from country’s roots and legends to today’s outsiders that just won’t be fenced in.",
     "shortDescription": "Music That Won’t Be Fenced In",
-    "siriusChannelNumber": 60,
+    "siriusChannelNumber": 62,
     "siriusServiceId": 44,
     "xmServiceId": 12,
     "vanityURL": "https://www.siriusxm.com/channels/outlaw-country",
-    "xmChannelNumber": 60,
+    "xmChannelNumber": 62,
     "primaryColor": "#ffdc8b",
     "secondaryColor": "#004a7b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Outlaw-Country/OutlawCountry.svg",
@@ -7635,7 +7273,7 @@
       "theroadhouse",
       "thespectrum"
     ],
-    "updatedDate": 1631652013141
+    "updatedDate": 1686121421747
   },
   {
     "artistsYouHear": [
@@ -9119,11 +8757,11 @@
     "longDescription": "Willie Nelson's Classic Country channel featuring songs from the '60s, '70s and '80s by artists such as Willie Nelson, Merle Haggard, George Jones, Patsy Cline, Conway Twitty and more.",
     "mediumDescription": "Classic country songs from the '60s, '70s and '80s.",
     "shortDescription": "Willie's Classic Country",
-    "siriusChannelNumber": 59,
+    "siriusChannelNumber": 61,
     "siriusServiceId": 43,
     "xmServiceId": 10,
     "vanityURL": "https://www.siriusxm.com/channels/willies-roadhouse",
-    "xmChannelNumber": 59,
+    "xmChannelNumber": 61,
     "primaryColor": "#54201E",
     "secondaryColor": "#005696",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Willie-Roadhouse/WilliesRoadhouse_4C.svg",
@@ -9145,7 +8783,7 @@
       "bluegrass",
       "outlawcountry"
     ],
-    "updatedDate": 1676494896569
+    "updatedDate": 1686121387960
   },
   {
     "artistsYouHear": [
