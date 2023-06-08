@@ -1127,15 +1127,14 @@
   {
     "artistsYouHear": [
       "AC/DC",
-      "Led Zeppelin",
       "Van Halen",
-      "Queen",
+      "Led Zeppelin",
       "Aerosmith",
+      "Ozzy Osbourne",
+      "Queen",
       "Def Leppard",
-      "Metallica",
-      "Rolling Stones",
-      "ZZ Top",
-      "The Who"
+      "KISS",
+      "Rolling Stones"
     ],
     "assetId": 1550762878750,
     "deliveryTypes": [
@@ -1187,7 +1186,7 @@
       "octane",
       "buzzsaw"
     ],
-    "updatedDate": 1678948380450
+    "updatedDate": 1686149317775
   },
   {
     "artistsYouHear": [
@@ -7205,17 +7204,15 @@
   },
   {
     "artistsYouHear": [
-      "Lucinda Williams",
-      "Dwight Yoakam",
-      "Merle Haggard",
-      "Willie Nelson",
       "Johnny Cash",
       "Waylon Jennings",
+      "Willie Nelson",
+      "Hank Williams Jr.",
+      "David Allan Coe",
+      "Dwight Yoakam",
       "Steve Earle",
       "Emmylou Harris",
-      "Jamey Johnson",
-      "Jason Isbell",
-      "Sturgill Simpson.",
+      "Lucinda Williams",
       "Hillbilly Jim",
       "Alamo Jones",
       "Paula Nelson",
@@ -7273,7 +7270,7 @@
       "theroadhouse",
       "thespectrum"
     ],
-    "updatedDate": 1686121421747
+    "updatedDate": 1686148961279
   },
   {
     "artistsYouHear": [
@@ -8716,18 +8713,15 @@
   },
   {
     "artistsYouHear": [
-      "Merle Haggard",
-      "Kenny Rogers",
       "Willie Nelson",
+      "Merle Haggard",
       "George Jones",
       "Conway Twitty",
       "Johnny Cash",
       "Charley Pride",
+      "Kenny Rogers",
       "Loretta Lynn",
       "Ronnie Milsap",
-      "Dolly Parton",
-      "Waylon Jennings",
-      "Patsy Cline",
       "Sunny Sweeney",
       "Ranger Doug",
       "Jeannie Seely",
@@ -8783,7 +8777,7 @@
       "bluegrass",
       "outlawcountry"
     ],
-    "updatedDate": 1686121387960
+    "updatedDate": 1686149474628
   },
   {
     "artistsYouHear": [
