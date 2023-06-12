@@ -10100,7 +10100,7 @@
     "displayName": "60s Gold",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "It started with the Twist and ended with Woodstock, all '60s hits from Motown and surf music to the British Invasion and folk rock. Hear The Beach Boys, Supremes, Rolling Stones, Aretha Franklin, Four Seasons, The Beatles and more!!",
@@ -10128,9 +10128,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "siriusblues",
       "elvisradio",
+      "siriusblues",
+      "4183",
       "siriusgold",
+      "4000",
+      "4112",
       "thevault",
       "radiomargaritaville",
       "soultown"
@@ -23747,9 +23750,11 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "4063",
+      "4053",
       "theroadhouse",
-      "primecountry",
-      "newcountry"
+      "newcountry",
+      "primecountry"
     ],
     "updatedDate": 1686121149790
   },
@@ -24551,12 +24556,18 @@
     "relatedChannels": [
       "4073",
       "hairnation",
-      "firstwave",
-      "classicrewind",
+      "4085",
+      "4187",
+      "4188",
+      "4046",
+      "4134",
       "classicvinyl",
       "9175",
       "4082",
-      "9372"
+      "firstwave",
+      "classicrewind",
+      "4127",
+      "4006"
     ],
     "updatedDate": 1630335960708
   },
@@ -31544,10 +31555,11 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "4162",
       "leftofcenter",
+      "4162",
       "4098",
       "90salternative",
+      "4110",
       "thespectrum",
       "4225",
       "4105",
@@ -33464,7 +33476,6 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "4085",
       "4097",
       "4158",
       "4136",
@@ -33472,7 +33483,8 @@
       "big80s",
       "8206",
       "octane",
-      "buzzsaw"
+      "buzzsaw",
+      "4192"
     ],
     "updatedDate": 1675410167318
   },
@@ -33669,12 +33681,15 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
+      "4085",
+      "4174",
       "4076",
       "shade45",
       "9469",
       "4022",
       "4101",
       "hotjamz",
+      "4009",
       "9471"
     ],
     "updatedDate": 1672978026023
@@ -35436,7 +35451,7 @@
     "displayName": "50s Gold",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Take a trip to the era that marked the birth of the first decade of rock 'n' roll. It's the '50s and beyond. The sound of happy days and drive-in nights with pop radio the way it used to be — from doo-wop and R&B to girl groups. Hear Elvis Presley, Connie Francis, Ricky Nelson, Jerry Lee Lewis, Buddy Holly, Everly Brothers, Little Richard and many more!",
@@ -35466,6 +35481,7 @@
     "relatedChannels": [
       "elvisradio",
       "60svibrations",
+      "4112",
       "siriuslysinatra",
       "purejazz",
       "soultown"
@@ -35512,8 +35528,8 @@
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "From Pop to Hip Hop, Rock, Dance, Country and R&B, SiriusXM Hits 1 plays Today’s Pop Hits!",
-    "mediumDescription": "The Most Hit-Music, featuring The Morning Mash Up, Hits 1 LA, The Weekend Countdown and Hit-Bound.",
+    "longDescription": "From Pop to Hip Hop, Rock, Dance, Country and R&B, SiriusXM HITS 1 plays Today’s Pop Hits! Featuring The Morning Mash Up, Mack in Miami, HITS 1 LA Tony Fly & Symon and Weekend Countdown with SpyDer Harrison.",
+    "mediumDescription": "Today's Pop Hits with The Morning Mash Up, Mack in Miami, HITS 1 LA Tony Fly & Symon and Weekend Countdown with SpyDer Harrison.",
     "shortDescription": "Today's Pop Hits",
     "siriusChannelNumber": 2,
     "siriusServiceId": 2,
@@ -35540,11 +35556,10 @@
     ],
     "relatedChannels": [
       "thepulse",
-      "4164",
       "4067",
-      "hotjamz",
+      "9544",
+      "9556",
       "4015",
-      "thebeat",
       "4094"
     ],
     "updatedDate": 1674190280438
@@ -37093,11 +37108,15 @@
     "relatedChannels": [
       "4184",
       "60svibrations",
+      "4000",
+      "4001",
       "4025",
       "4026",
       "classicrewind",
+      "4027",
       "classicvinyl",
-      "big80s"
+      "big80s",
+      "4171"
     ],
     "updatedDate": 1678289199829
   },
