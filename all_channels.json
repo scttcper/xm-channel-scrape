@@ -31456,7 +31456,10 @@
     "updatedDate": 1686125015180
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Jeff Lewis",
+      "Julie Goldman and Brandy Howard"
+    ],
     "assetId": 1550872769607,
     "deliveryTypes": [
       "ip",
@@ -31498,7 +31501,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1686125092189
+    "updatedDate": 1686772687247
   },
   {
     "artistsYouHear": [
