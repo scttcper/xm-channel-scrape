@@ -1715,7 +1715,6 @@
       "Heather B.",
       "Kid Capri",
       "Shaggy",
-      "DJ K Yung",
       "Snoop Dogg",
       "Boys II Men",
       "Ludacris",
@@ -1773,7 +1772,7 @@
       "hotjamz",
       "9471"
     ],
-    "updatedDate": 1632340622049
+    "updatedDate": 1687962456646
   },
   {
     "artistsYouHear": [
@@ -1889,7 +1888,6 @@
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -2007,25 +2005,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9353",
-    "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 104",
+    "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=BeachBoysChannel&cp_5=BeachBoysChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BeachBoysChannel&creative_id=NA_NA_DL-COM-live-BeachBoysChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "The Beach Boys Channel",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 104",
-    "mediumDescription": "SiriusXM 104",
-    "shortDescription": "SiriusXM 104",
+    "longDescription": "Playing sun-drenched songs from every phase of the group’s decades-spanning career! It’s all on Good Vibrations: The Beach Boys Channel! From their early songs about sand, surf, girls and cars into the psychedelic period filled with rich experimentation, The Beach Boys have grown up with American pop music and have brought California’s coastline to the world. Their biggest hits plus hard-to-find rarities combine for a trip to the beach….without leaving home!",
+    "mediumDescription": "Sun-drenched songs from The Beach Boys’ decade-spanning career with sand & surf songs, girls & cars and psychedelic grooves.",
+    "shortDescription": "The music of The Beach Boys",
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
     "xmChannelNumber": 104,
-    "primaryColor": "#529936",
-    "secondaryColor": "#00578e",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
+    "primaryColor": "#ad3858",
+    "secondaryColor": "#d06337",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channel/GoodVibrations21-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channel/GoodVibrations21-4C-OnK.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -2037,7 +2035,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1683174714171
+    "updatedDate": 1687964596784
   },
   {
     "artistsYouHear": [
@@ -5456,6 +5454,7 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
