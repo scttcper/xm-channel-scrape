@@ -11850,8 +11850,8 @@
     "xmChannelNumber": 168,
     "primaryColor": "#2cde59",
     "secondaryColor": "#cd1921",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/Canada-Laughs/JustForLaughsCanada-114-900x720-P.png",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/Canada-Laughs/JustForLaughsCanada-115-900x720-N.png",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/just-for-laughs/JustForLaughsCanada-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Comedy/just-for-laughs/JustForLaughsCanada-White.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -11868,7 +11868,7 @@
       "9408",
       "9494"
     ],
-    "updatedDate": 1664805628384
+    "updatedDate": 1688567314897
   },
   {
     "artistsYouHear": [],
@@ -31910,8 +31910,8 @@
     "xmChannelNumber": 120,
     "primaryColor": "#bfbfbf",
     "secondaryColor": "#711525",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/BBC-World-Service/BBCNewsWorldService-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/BBC-World-Service/BBCNewsWorldService-127-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/BBC-World-Service/BBCNewsWorldService-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/NewsAndIssues/BBC-World-Service/BBCNewsWorldService-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -31930,7 +31930,7 @@
     "relatedChannels": [
       "metropolitanopera"
     ],
-    "updatedDate": 1654104475379
+    "updatedDate": 1688567162714
   },
   {
     "artistsYouHear": [
