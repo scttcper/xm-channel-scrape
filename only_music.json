@@ -268,12 +268,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Loft/TheLoft_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -529,12 +527,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Viva/Viva_White_K2.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -598,12 +594,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/The-Village/TheVillage_Neg_onK_WH.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1307,7 +1301,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -1368,12 +1361,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Aguila/Aguila-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -1435,7 +1426,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -1499,7 +1489,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -1563,7 +1552,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -1629,7 +1617,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -1695,7 +1682,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
@@ -1885,12 +1871,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Traditions/HolidayTraditions-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1937,7 +1921,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1983,7 +1966,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2030,7 +2012,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2270,7 +2251,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2339,7 +2319,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2466,8 +2445,7 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SIR_IP_SA"
     ],
     "relatedChannels": [
       "hiphopnation",
@@ -2519,7 +2497,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2565,7 +2542,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2591,32 +2567,31 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9400",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=DuranDuranFuturePast&cp_5=DuranDuranFuturePast&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=DuranDuranFuturePast&creative_id=NA_NA_DL-COM-live-DuranDuranFuturePast--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Duran Duran FUTURE PAST",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMLimitedEdition6&cp_5=SiriusXMLimitedEdition6&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMLimitedEdition6&creative_id=NA_NA_DL-COM-live-SiriusXMLimitedEdition6-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20",
+    "displayName": "SXM Limited Edition 6",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Duran Duran is about to head out on a new World Tour. Duran Duran Future Past Radio explores the 4 decade plus career of these Rock N Roll Hall Of Fame members. You'll hear the synth pop smash hits, B-sides, \"live\" albums and much more. Hear directly from Simon, Nick, John and Roger about their music and the music of those that influenced them.",
-    "mediumDescription": "Exploring the 4 decades of music from the iconic band from Birmingham, UK. Hear their synth pop smashes, B-sides,and more.",
-    "shortDescription": "Duran Duran Future Past Radio",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 506,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/Duran-duran-future-past-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-6",
     "xmChannelNumber": 506,
-    "primaryColor": "#d3d3d3",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/duranduranfuturepastradio/DuranDuranFuturePastRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/duranduranfuturepastradio/DuranDuranFuturePastRadio-127-500x400-N.svg",
+    "primaryColor": "#7fff00",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-115-900x720.png",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-114-900x720.png",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2625,7 +2600,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1686121635789
+    "updatedDate": 1688358996803
   },
   {
     "artistsYouHear": [],
@@ -2642,32 +2617,31 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9401",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=The2PacChannel&cp_5=The2PacChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=The2PacChannel&creative_id=NA_NA_DL-COM-live-The2PacChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The 2PAC Channel (xL)",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition7&cp_5=SXMLimitedEdition7&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition7&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition7-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 7",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "Through his entire prolific career, hear all music from the genius of 2PAC. Hear from other artists and celebrities who were “Down For Pac” and hear their 2PAC favorites.",
-    "mediumDescription": "Hits, album tracks and live performances from Hip-Hop icon 2PAC.",
-    "shortDescription": "The music of Tupac Shakur",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 507,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/the-2pac-channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-7",
     "xmChannelNumber": 507,
-    "primaryColor": "#c0c0c0",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-2pac-channel/The2PacChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-2pac-channel/The2PacChannel-127-500x400-N.svg",
-    "explicitContentIndicator": "Yes",
+    "primaryColor": "#7fff00",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
+    "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2677,7 +2651,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1684772651682
+    "updatedDate": 1688359024928
   },
   {
     "artistsYouHear": [],
@@ -2694,32 +2668,31 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9402",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SoSoDefRadio&cp_5=SoSoDefRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SoSoDefRadio&creative_id=NA_NA_DL-COM-live-SoSoDefRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "So So Def Radio (xL)",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition8&cp_5=SXMLimitedEdition8&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition8&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition8-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 8",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "Celebrate 30 years of So So Def Records with founder Jermaine Dupri and various artists from the iconic label. Hear the music and stories behind some of the biggest hits as well as classic tracks produced by JD himself.",
-    "mediumDescription": "So So Def Hits, album cuts, tracks produced by Jermaine Dupri and the stories behind them.",
-    "shortDescription": "The Best of So So Def Records",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 508,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/so-so-def-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-8",
     "xmChannelNumber": 508,
     "primaryColor": "#808080",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/so-so-def-radio/SoSoDefRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/so-so-def-radio/SoSoDefRadio-127-500x400-N.svg",
-    "explicitContentIndicator": "Yes",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-8/SiriusXM-Limited-Edition-8.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-8/SiriusXM-Limited-Edition-8-White.svg",
+    "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2729,7 +2702,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1685122684559
+    "updatedDate": 1688359063545
   },
   {
     "artistsYouHear": [],
@@ -2746,20 +2719,20 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9403",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Top500RBCountdown&cp_5=Top500RBCountdown&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=Top500RBCountdown&creative_id=NA_NA_DL-COM-live-Top500RBCountdown--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Billboard Top 500 R&B Hits",
-    "genre": "hiphop",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition9&cp_5=SXMLimitedEdition9&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition9&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition9-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 9",
+    "genre": "dance",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Hip-Hop/R&B",
+    "genreTitle": "Dance/Electronic",
     "genreVanityURL": null,
-    "longDescription": "From the birth of Motown to the soul of Muscle Shoals....from the Queen of Soul to the King of Pop.....from James Brown to The Weeknd....these are Billboard's top 500 R&B hits, spanning the 60s through today! A celebration of Black Music Month featuring the biggest R&B hits of all time. What will be #1??",
-    "mediumDescription": "6 decades of R&B hits, ranked by the Billboard charts. From the beginning days of Motown through today's R&B superstars!",
-    "shortDescription": "Over 60 years of R&B hits",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 509,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/top-500-RnB-Countdown",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-9+",
     "xmChannelNumber": 509,
     "primaryColor": "#529936",
     "secondaryColor": "#00578e",
@@ -2771,7 +2744,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -2781,7 +2753,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1685122927096
+    "updatedDate": 1688359098992
   },
   {
     "artistsYouHear": [],
@@ -3071,7 +3043,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3123,12 +3094,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/yacht-rock-311/Yacht-Rock-311-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3320,7 +3289,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3505,7 +3473,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Dwight-Yoakam-and-The-Bakersfield-Beat/DwightYoakam-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -3562,7 +3529,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3608,7 +3574,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3977,7 +3942,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4023,7 +3987,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4069,7 +4032,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4163,8 +4125,7 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SIR_IP_SA"
     ],
     "relatedChannels": [
       "4144",
@@ -4220,7 +4181,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4317,7 +4277,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4363,7 +4322,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4409,7 +4367,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4455,7 +4412,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4501,7 +4457,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4684,7 +4639,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4729,7 +4683,6 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4776,7 +4729,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4829,7 +4781,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4929,7 +4880,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -4975,7 +4925,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5024,7 +4973,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5070,7 +5018,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5115,7 +5062,6 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5164,7 +5110,6 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5215,8 +5160,7 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SIR_IP_SA"
     ],
     "relatedChannels": null,
     "updatedDate": 1656622361308
@@ -5256,12 +5200,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/eric-church-outsiders-radio/EricChurchOutsidersRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5324,12 +5266,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5400,7 +5340,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5452,6 +5391,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/family/MoonbugRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -7046,12 +6986,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/Met-Opera-Radio/Met-Opera-Ch-LUp_White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -7607,12 +7545,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Joint/TheJoint_White_424x248_K2.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8021,12 +7957,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/SiriusXM-Love/SiriusXM_love_White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8149,12 +8083,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/SiriusXM-Pops/SiriusXM_pops_White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
