@@ -10181,7 +10181,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8186",
-    "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=MastersRadio&cp_5=MastersRadio&cp_6=SPORTS&cp_7=COM&cp_8=SXMCOM&site_id=MastersRadio&creative_id=NA_NA_DL-COM-live-MastersRadio-SPORTS-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMPGATOURRadio&cp_5=SiriusXMPGATOURRadio&cp_6=SPORTS&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMPGATOURRadio&creative_id=NA_NA_DL-COM-live-SiriusXMPGATOURRadio-SPORTS-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM PGA TOUR Radio",
     "genre": "sportstalk",
     "genreLogo": null,
@@ -10220,7 +10220,7 @@
       "8185",
       "siriusnascarradio"
     ],
-    "updatedDate": 1685547206954
+    "updatedDate": 1688662017548
   },
   {
     "artistsYouHear": [
