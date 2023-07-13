@@ -817,8 +817,8 @@
     "xmChannelNumber": 1044,
     "primaryColor": "#a1a19c",
     "secondaryColor": "#211920",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Octane-Top-Hits/OctaneTopHits.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Octane-Top-Hits/OctaneTopHits-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Octane-Top-Hits/OctaneTopHits-12-160x86-P.png",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/Octane-Top-Hits/OctaneTopHits-11-80x231-N.png",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -829,7 +829,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1631651748413
+    "updatedDate": 1689193218903
   },
   {
     "artistsYouHear": [],
