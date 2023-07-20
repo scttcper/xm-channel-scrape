@@ -10198,8 +10198,8 @@
     "xmChannelNumber": 92,
     "primaryColor": "#ff0000",
     "secondaryColor": "#0000ff",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXM_PGATOUR_4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXM_PGATOUR_4C_whtR.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXMPGATourRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXMPGATourRadio-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -10220,7 +10220,7 @@
       "8185",
       "siriusnascarradio"
     ],
-    "updatedDate": 1688662017548
+    "updatedDate": 1689781989335
   },
   {
     "artistsYouHear": [
