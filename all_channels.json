@@ -5840,10 +5840,10 @@
     "xmServiceId": null,
     "vanityURL": null,
     "xmChannelNumber": 1139,
-    "primaryColor": "#ad5538",
-    "secondaryColor": "#f0b158",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/LL-Cool-Js-RTB-Clean-Versions-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/LL-Cool-Js-RTB-Clean-Versions.svg",
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/LLCoolJsRTBCleanVersions-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/LLCoolJsRTBCleanVersions-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -5854,7 +5854,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1666619783264
+    "updatedDate": 1690400616094
   },
   {
     "artistsYouHear": [],
