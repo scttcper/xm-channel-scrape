@@ -1896,25 +1896,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9351",
-    "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=SiriusXM105&cp_5=SiriusXM105&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM105&creative_id=NA_NA_DL-COM-live-SiriusXM105-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 105",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=JonasBrothersTHECHANNEL&cp_5=JonasBrothersTHECHANNEL&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=JonasBrothersTHECHANNEL&creative_id=NA_NA_DL-COM-live-JonasBrothersTHECHANNEL--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "JonasBrothers THECHANNEL",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 105",
-    "mediumDescription": "SiriusXM 105",
-    "shortDescription": "SiriusXM 105",
+    "longDescription": "Feel the energy as Nick, Joe & Kevin create THE CHANNEL! The GRAMMY® Award-nominated powerhouse trio feature a diverse variety of hand-picked influential faves that span decades while playing their skyscraping anthems spanning 5 albums. From Bee Gees to Carole King, Stevie Wonder, Fleetwood Mac, Daft Punk, Olivia Rodrigo, Prince and more! Hear THE JONAS BROTHERS as you’ve never heard them before with personal stories and insights behind the music as they celebrate all with THE CHANNEL on SiriusXM!",
+    "mediumDescription": "THE CHANNEL featuring diverse music variety chosen by THE JONAS BROTHERS with personal stories, electric energy and their hits!",
+    "shortDescription": "JonasBrothers THECHANNEL",
     "siriusChannelNumber": 105,
     "siriusServiceId": 74,
     "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
+    "vanityURL": "https://www.siriusxm.com/channels/Jonas-Brothers-THE-CHANNEL",
     "xmChannelNumber": 105,
-    "primaryColor": "#c0c0c0",
-    "secondaryColor": "#87cefa",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-105/SiriusXM105-color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-105/SiriusXM105-white.svg",
+    "primaryColor": "#ffd700",
+    "secondaryColor": "#6495ed",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/jonasbrothersthechannel/JonasBrothersTheChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/jonasbrothersthechannel/JonasBrothersTheChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -1925,7 +1925,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1683174646878
+    "updatedDate": 1690819502611
   },
   {
     "artistsYouHear": [],
@@ -1987,25 +1987,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9353",
-    "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=BeachBoysChannel&cp_5=BeachBoysChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BeachBoysChannel&creative_id=NA_NA_DL-COM-live-BeachBoysChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Beach Boys Channel",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM 104",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Playing sun-drenched songs from every phase of the group’s decades-spanning career! It’s all on Good Vibrations: The Beach Boys Channel! From their early songs about sand, surf, girls and cars into the psychedelic period filled with rich experimentation, The Beach Boys have grown up with American pop music and have brought California’s coastline to the world. Their biggest hits plus hard-to-find rarities combine for a trip to the beach….without leaving home!",
-    "mediumDescription": "Sun-drenched songs from The Beach Boys’ decade-spanning career with sand & surf songs, girls & cars and psychedelic grooves.",
-    "shortDescription": "The music of The Beach Boys",
+    "longDescription": "SiriusXM 104",
+    "mediumDescription": "SiriusXM 104",
+    "shortDescription": "SiriusXM 104",
     "siriusChannelNumber": 104,
     "siriusServiceId": 58,
     "xmServiceId": 50,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
     "xmChannelNumber": 104,
-    "primaryColor": "#ad3858",
-    "secondaryColor": "#d06337",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channel/GoodVibrations21-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channel/GoodVibrations21-4C-OnK.svg",
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-126-500x400-P.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -2016,7 +2016,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1687964596784
+    "updatedDate": 1690821519193
   },
   {
     "artistsYouHear": [
@@ -2617,26 +2617,26 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9401",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition7&cp_5=SXMLimitedEdition7&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition7&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition7-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 7",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=BustaRhymesRadio&cp_5=BustaRhymesRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=BustaRhymesRadio&creative_id=NA_NA_DL-COM-live-BustaRhymesRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Busta Rhymes Radio",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "With a career that spans across 4 decades, Busta Rhymes has never been afraid to push the boundaries of Hip-Hop through his distinct voice and word play. Busta Rhymes Radio features music and exclusive stories from the iconic rapper.",
+    "mediumDescription": "Music by and featuring Busta Rhymes and the stories behind them",
+    "shortDescription": "The Best of Busta Rhymes",
     "siriusChannelNumber": 507,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-7",
     "xmChannelNumber": 507,
-    "primaryColor": "#7fff00",
-    "secondaryColor": "#87ceeb",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
-    "explicitContentIndicator": "No",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/bustarhymes-radio/BustaRhymesRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/bustarhymes-radio/BustaRhymesRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2651,7 +2651,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1688359024928
+    "updatedDate": 1690874233983
   },
   {
     "artistsYouHear": [],
@@ -2732,10 +2732,10 @@
     "siriusChannelNumber": 509,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-9+",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-9",
     "xmChannelNumber": 509,
-    "primaryColor": "#529936",
-    "secondaryColor": "#00578e",
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#87ceeb",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9-White.svg",
     "explicitContentIndicator": "No",
@@ -2753,7 +2753,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1688359098992
+    "updatedDate": 1690872399854
   },
   {
     "artistsYouHear": [],
@@ -3504,16 +3504,16 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9481",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition1&cp_5=SXMLimitedEdition1&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition1&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition1-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 1",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=JonasBrothersTHECHANNEL&cp_5=JonasBrothersTHECHANNEL&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=JonasBrothersTHECHANNEL&creative_id=NA_NA_DL-COM-live-JonasBrothersTHECHANNEL--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "JonasBrothers THECHANNEL",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Feel the energy as Nick, Joe & Kevin create THE CHANNEL! The GRAMMY® Award-nominated powerhouse trio feature a diverse variety of hand-picked influential faves that span decades while playing their skyscraping anthems spanning 5 albums. From Bee Gees to Carole King, Stevie Wonder, Fleetwood Mac, Daft Punk, Olivia Rodrigo, Prince and more! Hear THE JONAS BROTHERS as you’ve never heard them before with personal stories and insights behind the music as they celebrate all with THE CHANNEL on SiriusXM!",
+    "mediumDescription": "THE CHANNEL featuring diverse music variety chosen by THE JONAS BROTHERS with personal stories, electric energy and their hits!",
+    "shortDescription": "JonasBrothers THECHANNEL",
     "siriusChannelNumber": 501,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -3521,8 +3521,8 @@
     "xmChannelNumber": 501,
     "primaryColor": "#000000",
     "secondaryColor": "#0000ff",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-1/SiriusXM-Limited-Edition-1.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/jonasbrothersthechannel/JonasBrothersTheChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/jonasbrothersthechannel/JonasBrothersTheChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -3533,7 +3533,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1680747812921
+    "updatedDate": 1690819708002
   },
   {
     "artistsYouHear": [],
@@ -5260,10 +5260,10 @@
     "xmServiceId": 332,
     "vanityURL": "https://www.siriusxm.com/channels/hits-uno",
     "xmChannelNumber": 321,
-    "primaryColor": "#c0c0c0",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-127-500x400-N.svg",
+    "primaryColor": "#da70d6",
+    "secondaryColor": "#0000ff",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-126-500x400-P1.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -5275,19 +5275,15 @@
     ],
     "relatedChannels": [
       "9389",
-      "4164",
-      "4067",
       "9544",
       "siriushits1",
       "8208",
-      "4015",
       "rumbon",
       "9406",
       "9492",
-      "9185",
-      "4094"
+      "9185"
     ],
-    "updatedDate": 1682594865387
+    "updatedDate": 1690821851830
   },
   {
     "artistsYouHear": [
@@ -7781,7 +7777,8 @@
       "Everly Brothers",
       "Little Richard",
       "Perry Como",
-      "The Platters"
+      "The Platters",
+      "Little Anthony"
     ],
     "assetId": 1550762850691,
     "deliveryTypes": [
@@ -7835,7 +7832,7 @@
       "purejazz",
       "soultown"
     ],
-    "updatedDate": 1674572813172
+    "updatedDate": 1689100259046
   },
   {
     "artistsYouHear": [
