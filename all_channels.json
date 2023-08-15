@@ -23784,25 +23784,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9351",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=JonasBrothersTHECHANNEL&cp_5=JonasBrothersTHECHANNEL&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=JonasBrothersTHECHANNEL&creative_id=NA_NA_DL-COM-live-JonasBrothersTHECHANNEL--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "JonasBrothers THECHANNEL",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM105&cp_5=SiriusXM105&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM105&creative_id=NA_NA_DL-COM-live-SiriusXM105-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SiriusXM 105",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Feel the energy as Nick, Joe & Kevin create THE CHANNEL! The GRAMMY® Award-nominated powerhouse trio feature a diverse variety of hand-picked influential faves that span decades while playing their skyscraping anthems spanning 5 albums. From Bee Gees to Carole King, Stevie Wonder, Fleetwood Mac, Daft Punk, Olivia Rodrigo, Prince and more! Hear THE JONAS BROTHERS as you’ve never heard them before with personal stories and insights behind the music as they celebrate all with THE CHANNEL on SiriusXM!",
-    "mediumDescription": "THE CHANNEL featuring diverse music variety chosen by THE JONAS BROTHERS with personal stories, electric energy and their hits!",
-    "shortDescription": "JonasBrothers THECHANNEL",
+    "longDescription": "SiriusXM 105",
+    "mediumDescription": "SiriusXM 105",
+    "shortDescription": "SiriusXM 105",
     "siriusChannelNumber": 105,
     "siriusServiceId": 74,
     "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/Jonas-Brothers-THE-CHANNEL",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
     "xmChannelNumber": 105,
-    "primaryColor": "#ffd700",
-    "secondaryColor": "#6495ed",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/jonasbrothersthechannel/JonasBrothersTheChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/jonasbrothersthechannel/JonasBrothersTheChannel-127-500x400-N.svg",
+    "primaryColor": "#7fff00",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-105/SiriusXM105-color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-105/SiriusXM105-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -23813,7 +23813,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1690819502611
+    "updatedDate": 1692081773831
   },
   {
     "artistsYouHear": [],
@@ -25140,26 +25140,26 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9403",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition9&cp_5=SXMLimitedEdition9&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition9&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition9-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 9",
-    "genre": "dance",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMHipHopattheApollo&cp_5=SiriusXMHipHopattheApollo&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMHipHopattheApollo&creative_id=NA_NA_DL-COM-live-SiriusXMHipHopattheApollo--SXMCOM-PLAYINGMODULE-NA-COM-2020",
+    "displayName": "Hip-Hop at the Apollo",
+    "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Dance/Electronic",
+    "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "From Run DMC to Wu-Tang Clan, many iconic Hip-Hop artists have graced the stage at the legendary Apollo Theater in Harlem, New York.  Taken from the long-running \"It's Showtime At The Apollo\" television series, hear classic performances from Hip-Hop's biggest stars.  You'll also hear commentary from these artists on their experience at the famous venue.",
+    "mediumDescription": "Hear classic Hip-Hop music and performances from rap artists who've performed at Harlem's legendary Apollo Theater!",
+    "shortDescription": "Apollo's Hip-Hop performances",
     "siriusChannelNumber": 509,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-9",
+    "vanityURL": "https://www.siriusxm.com/channels/SiriusXM-Hip-Hop-at-the-Apollo",
     "xmChannelNumber": 509,
     "primaryColor": "#d3d3d3",
-    "secondaryColor": "#87ceeb",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9-White.svg",
-    "explicitContentIndicator": "No",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-apollo-theater-channel/SiriusXMHipHopApollo-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-apollo-theater-channel/SiriusXMHipHopApollo-White.svg",
+    "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -25174,7 +25174,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1690872399854
+    "updatedDate": 1692081237366
   },
   {
     "artistsYouHear": [],
@@ -29400,25 +29400,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9545",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition2&cp_5=SXMLimitedEdition2&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition2&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition2-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 2",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=EdSheeranChannel&cp_5=EdSheeranChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=EdSheeranChannel&creative_id=NA_NA_DL-COM-live-EdSheeranChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Ed Sheeran Channel",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Making mathematics fun! Join GRAMMY® Award winning Ed Sheeran for a non-stop journey through the decade by numbers with Plus, Multiply, Divide, Equals and Subtract! Selling out venues across the nation, your ears sit front row to hear the ultimate Ed Sheeran mix with exclusive SiriusXM live performances to sing-along with including an intimate night at Stephen Talkhouse. Relax! No math test here, but make sure to catch this global super-star for a limited time on the Ed Sheeran Channel before it’s gone!",
+    "mediumDescription": "It all adds up with non-stop Ed Sheeran! Hear Plus, Multiply, Divide, Equals, Subtract and more with exclusive performances!",
+    "shortDescription": "Ed Sheeran Channel",
     "siriusChannelNumber": 502,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-02",
+    "vanityURL": "https://www.siriusxm.com/channels/Ed-Sheeran-Channel",
     "xmChannelNumber": 502,
-    "primaryColor": "#529936",
+    "primaryColor": "#000000",
     "secondaryColor": "#00578e",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ed-sheeran-channel/EdSheeranChannel-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ed-sheeran-channel/EdSheeranChannel-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -29429,7 +29429,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1671205439396
+    "updatedDate": 1691730581907
   },
   {
     "artistsYouHear": [],
@@ -31112,18 +31112,18 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "entertainment",
+    "category": "more",
     "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
+    "categoryTitle": "",
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9597",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMOriginals&cp_5=SiriusXMOriginals&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMOriginals&creative_id=NA_NA_DL-COM-live-SiriusXMOriginals--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SXM App Originals",
-    "genre": "entertainment",
+    "genre": "more",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Entertainment",
+    "genreTitle": "More",
     "genreVanityURL": null,
     "longDescription": "SXM App Originals is the home of on-demand music and pop-culture content created exclusively for the SXM App. From eclectic weekly countdown show 'The List' to the perfect soundtrack tailored to a season or occasion in the Ultimate Music Mixes, SXM App Originals is here for every moment. You're likely to get hooked — and you might even learn something new.",
     "mediumDescription": "Original on-demand content in music and pop culture, featuring diverse voices and genres in a variety of shows.",
@@ -31269,8 +31269,7 @@
   },
   {
     "artistsYouHear": [
-      "Jeff Lewis",
-      "Julie Goldman and Brandy Howard"
+      "Jeff Lewis"
     ],
     "assetId": 1550872769607,
     "deliveryTypes": [
@@ -31291,7 +31290,7 @@
     "genreIcon": null,
     "genreTitle": "Entertainment",
     "genreVanityURL": null,
-    "longDescription": "This is Jeff Lewis, 24/7. Hear archives from the past 5 years. The official Jeff Lewis Live After Show live with Brandy Howard and Julie Goldman. Kick off the weekend with Chumps Happy Hour every Friday! Plus, exclusive content from your favorite guests and Chumps. It's great news for you, but a nightmare for our lawyers.",
+    "longDescription": "This is Jeff Lewis, 24/7. Hear archives from the past 5 years. The official Jeff Lewis Live After Show live with rotating hosts. Kick off the weekend with Chumps Happy Hour every Friday! Plus, exclusive content from your favorite guests and Chumps. It's great news for you, but a nightmare for our lawyers.",
     "mediumDescription": "Jeff Lewis 24/7! Archives, After Show, exclusive content from guests & Chumps. Great for you, but a nightmare for our lawyers.",
     "shortDescription": "This is Jeff Lewis, 24/7",
     "siriusChannelNumber": 789,
@@ -31312,7 +31311,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1687490577157
+    "updatedDate": 1692027793848
   },
   {
     "artistsYouHear": [],
@@ -34991,8 +34990,7 @@
       "Sara West",
       "Steve Huntington",
       "Ryan Middledorf",
-      "Patrick McDonald",
-      "Gogo Bell"
+      "Patrick McDonald"
     ],
     "assetId": 1550762877968,
     "deliveryTypes": [
@@ -35044,7 +35042,7 @@
       "gratefuldead",
       "thebridge"
     ],
-    "updatedDate": 1678948453197
+    "updatedDate": 1692045091572
   },
   {
     "artistsYouHear": [
