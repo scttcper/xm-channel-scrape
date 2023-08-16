@@ -23799,7 +23799,7 @@
     "xmServiceId": 37,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
     "xmChannelNumber": 105,
-    "primaryColor": "#7fff00",
+    "primaryColor": "#d3d3d3",
     "secondaryColor": "#87ceeb",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-105/SiriusXM105-color.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-105/SiriusXM105-white.svg",
@@ -23813,7 +23813,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1692081773831
+    "updatedDate": 1692117024832
   },
   {
     "artistsYouHear": [],
@@ -25140,7 +25140,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9403",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMHipHopattheApollo&cp_5=SiriusXMHipHopattheApollo&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMHipHopattheApollo&creative_id=NA_NA_DL-COM-live-SiriusXMHipHopattheApollo--SXMCOM-PLAYINGMODULE-NA-COM-2020",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HipHopattheApollo&cp_5=HipHopattheApollo&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=HipHopattheApollo&creative_id=NA_NA_DL-COM-live-HipHopattheApollo--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Hip-Hop at the Apollo",
     "genre": "hiphop",
     "genreLogo": null,
@@ -25174,7 +25174,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1692081237366
+    "updatedDate": 1692112121719
   },
   {
     "artistsYouHear": [],
@@ -29428,8 +29428,11 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": null,
-    "updatedDate": 1691730581907
+    "relatedChannels": [
+      "coffeehouse",
+      "siriushits1"
+    ],
+    "updatedDate": 1692119813917
   },
   {
     "artistsYouHear": [],
@@ -31269,7 +31272,8 @@
   },
   {
     "artistsYouHear": [
-      "Jeff Lewis"
+      "Jeff Lewis",
+      "Dr. Donna"
     ],
     "assetId": 1550872769607,
     "deliveryTypes": [
@@ -31311,7 +31315,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1692027793848
+    "updatedDate": 1692117240641
   },
   {
     "artistsYouHear": [],
@@ -34988,7 +34992,6 @@
       "Kirsten",
       "Renee Adams",
       "Sara West",
-      "Steve Huntington",
       "Ryan Middledorf",
       "Patrick McDonald"
     ],
@@ -35042,7 +35045,7 @@
       "gratefuldead",
       "thebridge"
     ],
-    "updatedDate": 1692045091572
+    "updatedDate": 1692117489385
   },
   {
     "artistsYouHear": [
@@ -36832,7 +36835,7 @@
       "starlite",
       "9450"
     ],
-    "updatedDate": 1685644106285
+    "updatedDate": 1692112363472
   },
   {
     "artistsYouHear": [
