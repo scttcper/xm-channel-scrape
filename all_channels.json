@@ -17704,7 +17704,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9207",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=VerizonIndyCarSeries&cp_5=VerizonIndyCarSeries&cp_6=SPORTS&cp_7=COM&cp_8=SXMCOM&site_id=VerizonIndyCarSeries&creative_id=NA_NA_DL-COM-live-VerizonIndyCarSeries-SPORTS-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Sports970&cp_5=Sports970&cp_6=PBP&cp_7=COM&cp_8=SXMCOM&site_id=Sports970&creative_id=NA_NA_DL-COM-live-Sports970-PBP-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Sports Play-by-Play 970",
     "genre": "sportsplay",
     "genreLogo": null,
@@ -17729,13 +17729,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": [
-      "8266",
-      "siriusnflradio",
-      "espndeportes",
-      "siriusnascarradio"
-    ],
-    "updatedDate": 1631723125957
+    "relatedChannels": null,
+    "updatedDate": 1693580191337
   },
   {
     "artistsYouHear": [],
