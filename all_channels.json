@@ -10268,16 +10268,16 @@
   },
   {
     "artistsYouHear": [
-      "Glenn Miller",
-      "Dorsey Brothers",
       "Benny Goodman",
-      "Harry James",
+      "Glenn Miller",
       "Bing Crosby",
+      "Tommy Dorsey",
       "Count Basie",
-      "Les Brown",
       "Artie Shaw",
-      "Duke Ellington",
+      "Harry James",
       "Andrews Sisters",
+      "Gene Krupa",
+      "Frank Sinatra",
       "Jan Eberle"
     ],
     "assetId": 1550762850202,
@@ -10330,20 +10330,20 @@
       "siriuslysinatra",
       "purejazz"
     ],
-    "updatedDate": 1673558235768
+    "updatedDate": 1692941835983
   },
   {
     "artistsYouHear": [
       "Backstreet Boys",
+      "TLC",
       "Mariah Carey",
       "Aerosmith",
       "Alanis Morissette",
-      "Britney Spears",
-      "Nirvana",
-      "Green Day",
-      "Gin Blossoms",
       "Boys II Men",
-      "Salt-N-Pepa",
+      "Britney Spears",
+      "Hootie & The Blowfish",
+      "Green Day",
+      "Janet Jackson",
       "Mark McGrath"
     ],
     "assetId": 1550762851180,
@@ -10410,7 +10410,7 @@
       "4119",
       "4109"
     ],
-    "updatedDate": 1675114972010
+    "updatedDate": 1693535926922
   },
   {
     "artistsYouHear": [
@@ -10760,16 +10760,15 @@
   },
   {
     "artistsYouHear": [
+      "Karol G",
       "Becky G",
-      "Shakira",
-      "J Balvin",
-      "Juanes",
-      "Maluma",
+      "Manuel Turizo",
       "Anitta",
-      "Nacho",
-      "Luis Fonsi",
-      "CNCO",
-      "Karol G"
+      "Rosalia",
+      "Camilo",
+      "Shakira",
+      "Maria Becerra",
+      "Sebastian Yatra"
     ],
     "assetId": 1550762892350,
     "deliveryTypes": [
@@ -10821,7 +10820,7 @@
       "9191",
       "rumbon"
     ],
-    "updatedDate": 1631723180751
+    "updatedDate": 1693537492988
   },
   {
     "artistsYouHear": [
@@ -14798,13 +14797,13 @@
       "Nirvana",
       "Pearl Jam",
       "Stone Temple Pilots",
-      "Red Hot Chili Peppers",
-      "Soundgarden",
+      "Alice in Chains",
       "Foo Fighters",
       "Green Day",
-      "Alice in Chains",
       "Smashing Pumpkins",
-      "Rage Against The Machine",
+      "Soundgarden",
+      "Weezer",
+      "Oasis",
       "Grant Random",
       "Madison",
       "Hardy",
@@ -14868,7 +14867,7 @@
       "8370",
       "4072"
     ],
-    "updatedDate": 1676318797333
+    "updatedDate": 1692935091654
   },
   {
     "artistsYouHear": [
@@ -23569,16 +23568,16 @@
   },
   {
     "artistsYouHear": [
-      "Toby Keith",
       "Kenny Chesney",
-      "Tim McGraw",
       "Brad Paisley",
-      "George Strait",
-      "Rascal Flatts",
-      "Keith Urban",
-      "Brooks & Dunn",
+      "Carrie Underwood",
+      "Jason Aldean",
+      "Luke Bryan",
+      "Blake Shelton",
+      "Tim McGraw",
       "Taylor Swift",
-      "Dixie Chicks",
+      "Toby Keith",
+      "Darius Rucker",
       "Buzz Brainard",
       "Danielle Peck",
       "Al Skop"
@@ -23636,7 +23635,7 @@
       "newcountry",
       "primecountry"
     ],
-    "updatedDate": 1686121149790
+    "updatedDate": 1692926065033
   },
   {
     "artistsYouHear": [
@@ -23717,9 +23716,15 @@
   {
     "artistsYouHear": [
       "Bing Crosby",
-      "Andy Williams",
+      "Perry Como",
+      "Ella Fitzgerald",
+      "Frank Sinatra",
+      "Dean Martin",
       "Ray Conniff",
-      "Nat “King” Cole\""
+      "Johnny Mathis",
+      "Nat “King” Cole\"",
+      "Andy Williams",
+      "Peggy Lee"
     ],
     "assetId": 1550762859942,
     "deliveryTypes": [
@@ -23762,7 +23767,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1643138788111
+    "updatedDate": 1692939791186
   },
   {
     "artistsYouHear": [],
@@ -24375,16 +24380,16 @@
   },
   {
     "artistsYouHear": [
-      "Aerosmith",
+      "Rolling Stones",
+      "Van Halen",
       "AC/DC",
       "Led Zeppelin",
-      "U2",
-      "Motley Crue",
-      "Rolling Stones",
-      "Metallica",
-      "INXS",
+      "Aerosmith",
+      "ZZ Top",
       "The Who",
-      "Bon Jovi"
+      "U2",
+      "Boston",
+      "Queen"
     ],
     "assetId": 1550762856424,
     "deliveryTypes": [
@@ -24442,7 +24447,7 @@
       "4127",
       "4006"
     ],
-    "updatedDate": 1630335960708
+    "updatedDate": 1693539503692
   },
   {
     "artistsYouHear": [
@@ -24591,16 +24596,15 @@
   },
   {
     "artistsYouHear": [
-      "Rihanna",
-      "Lady Gaga",
-      "Mariah Carey",
-      "Britney Spears",
       "Beyonce",
+      "The Weekend",
+      "Britney Spears",
+      "Bruno Mars",
       "Jennifer Lopez",
-      "P!nk",
-      "Christina Aguilera",
-      "Black Eyed Peas",
-      "Mary J. Blige"
+      "Usher",
+      "Lady Gaga",
+      "Drake",
+      "Mariah Carey"
     ],
     "assetId": 1550762892259,
     "deliveryTypes": [
@@ -24654,7 +24658,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1641229249382
+    "updatedDate": 1693537370579
   },
   {
     "artistsYouHear": [],
@@ -25222,7 +25226,17 @@
     "updatedDate": 1677869125171
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Pitbull",
+      "Bad Bunny",
+      "Enrique Iglasias",
+      "Rihanna",
+      "Deorro",
+      "Calvin Harris",
+      "Peso Pluma",
+      "Drake",
+      "Lil Jon"
+    ],
     "assetId": 1550762877298,
     "deliveryTypes": [
       "ip",
@@ -25272,7 +25286,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1666619359413
+    "updatedDate": 1693534988577
   },
   {
     "artistsYouHear": [],
@@ -25674,16 +25688,16 @@
   },
   {
     "artistsYouHear": [
-      "The Rolling Stones",
-      "Michael Jackson",
-      "Prince",
-      "Tom Petty",
-      "Kenny Chesney",
       "Sheryl Crow",
-      "The Beach Boys",
       "AC/DC",
-      "The Doobie Brothers",
-      "Avicii"
+      "The Beach Boys",
+      "Journey",
+      "Michael Jackson",
+      "Dua Lipa",
+      "Tom Petty",
+      "Queen",
+      "Kenny Chesney",
+      "Prince"
     ],
     "assetId": 1550762878578,
     "deliveryTypes": [
@@ -25702,7 +25716,7 @@
     "displayName": "Road Trip Radio",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Get in your ride and drive! Let Road Trip Radio please everyone along the way! Road Trip Radio presents a hand-selected mix of all kinds of music from the last 50 years that all share one goal - to make you wanna roll the windows down and turn the radio up!  From 'California Girls' to 'California Gurls.' From 'Shake It Up' to 'Shake It Off...' and everything in between!",
@@ -25732,17 +25746,25 @@
     "relatedChannels": [
       "thepulse",
       "totally70s",
-      "9412",
       "newcountry",
       "classicrewind",
-      "big80s",
       "classicvinyl",
+      "big80s",
       "8206"
     ],
-    "updatedDate": 1676362187601
+    "updatedDate": 1693537578698
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Kenny Chesney",
+      "Bob Marley",
+      "Jack Johnson",
+      "Jimmy Buffett",
+      "Grace Potter",
+      "John Mayer",
+      "Willie Nelson",
+      "Stick Figure"
+    ],
     "assetId": 1550762876045,
     "deliveryTypes": [
       "ip",
@@ -25785,7 +25807,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1686121212931
+    "updatedDate": 1692944317048
   },
   {
     "artistsYouHear": [
@@ -27730,14 +27752,13 @@
   },
   {
     "artistsYouHear": [
-      "J Balvin",
-      "Diplo",
-      "DJ Snake",
-      "Skrillex",
-      "Major Lazer",
-      "Chris Lake",
       "AlunaGeorge",
-      "Dillon Francis"
+      "Bad Bunny",
+      "Chris Lake",
+      "Diplo",
+      "Fred again..",
+      "John Summit",
+      "Skrillex"
     ],
     "assetId": 1550762857315,
     "deliveryTypes": [
@@ -27788,7 +27809,7 @@
       "9406",
       "thebeat"
     ],
-    "updatedDate": 1676361857564
+    "updatedDate": 1692943171882
   },
   {
     "artistsYouHear": [],
@@ -28133,12 +28154,16 @@
   },
   {
     "artistsYouHear": [
-      "Cardi B",
-      "Ariana Grande",
       "Post Malone",
-      "Khalid",
+      "Lil Baby",
+      "Chris Brown",
       "Dua Lipa",
-      "Bad Bunny"
+      "Latto",
+      "Nicki Minaj",
+      "Drake",
+      "Ed Sheeran",
+      "Harry Styles",
+      "Taylor Swift"
     ],
     "assetId": 1550762877128,
     "deliveryTypes": [
@@ -28188,7 +28213,7 @@
       "hotjamz",
       "thebeat"
     ],
-    "updatedDate": 1657038539693
+    "updatedDate": 1692940952038
   },
   {
     "artistsYouHear": [],
@@ -29004,7 +29029,15 @@
     "updatedDate": 1661968051634
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Steve Aoki",
+      "Afrojack",
+      "David Guetta",
+      "John Summit",
+      "Skrillex",
+      "Calvin Harris",
+      "Joel Corry"
+    ],
     "assetId": 1550772892814,
     "deliveryTypes": [
       "ip",
@@ -29046,10 +29079,19 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1666619861436
+    "updatedDate": 1692944531113
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Armin Van Buuren",
+      "AVIRA",
+      "Scorz",
+      "Above & Beyond",
+      "Gareth Emery",
+      "Cosmic Gate",
+      "Ferry Corsten",
+      "Ahmed Helmy"
+    ],
     "assetId": 1550772893148,
     "deliveryTypes": [
       "ip",
@@ -29091,7 +29133,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1666619889562
+    "updatedDate": 1692943475533
   },
   {
     "artistsYouHear": [],
@@ -29139,7 +29181,16 @@
     "updatedDate": 1666620073679
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Randy Newman",
+      "Idina Menzel",
+      "Hannah Montana",
+      "Angela Lansbury",
+      "Cast Of High School Musical",
+      "Phil Collins",
+      "Susan Egan",
+      "Julie Andrews"
+    ],
     "assetId": 1550773914844,
     "deliveryTypes": [
       "ip",
@@ -29185,7 +29236,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1639755391103
+    "updatedDate": 1692940447314
   },
   {
     "artistsYouHear": [],
@@ -29331,6 +29382,16 @@
   },
   {
     "artistsYouHear": [
+      "Ice Spice",
+      "Doja Cat",
+      "Lizzo",
+      "Taylor Swift",
+      "Olivia Rodrigo",
+      "JVKE",
+      "Lil Uzi Vert",
+      "Meghan Trainor",
+      "SZA",
+      "Pinkpantheress",
       "Davis Burleson",
       "Taylor Cassidy",
       "Lamar Dawson",
@@ -29379,7 +29440,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1691777932815
+    "updatedDate": 1692934674356
   },
   {
     "artistsYouHear": [],
@@ -29976,7 +30037,18 @@
     "updatedDate": 1646672519916
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Youngboy NBA",
+      "A Boogie Wit Da Hoodie",
+      "Juice WRLD",
+      "Lil Tecca",
+      "Trippie Redd",
+      "2Rare",
+      "midwxst",
+      "Coi Leray",
+      "Flo Milli",
+      "G Perico"
+    ],
     "assetId": 1550833792043,
     "deliveryTypes": [
       "ip",
@@ -30026,7 +30098,7 @@
       "4204",
       "4092"
     ],
-    "updatedDate": 1649171880093
+    "updatedDate": 1692941614929
   },
   {
     "artistsYouHear": [
@@ -30229,7 +30301,17 @@
     "updatedDate": 1655309896491
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "P!nk",
+      "Bruno Mars",
+      "Taylor Swift",
+      "Justin Bieber",
+      "Beyonce",
+      "Harry Styles",
+      "Lady Gaga",
+      "Eminem",
+      "Adele"
+    ],
     "assetId": 1550839574346,
     "deliveryTypes": [
       "ip",
@@ -30274,7 +30356,7 @@
       "4111",
       "4014"
     ],
-    "updatedDate": 1656426748925
+    "updatedDate": 1693536549674
   },
   {
     "artistsYouHear": [],
@@ -32385,9 +32467,9 @@
       "Doors",
       "Eagles",
       "Creedence Clearwater Revival",
+      "The Doors",
       "Elton John",
       "Pink Floyd",
-      "The Doobie Brothers",
       "Eric Clapton",
       "David Bowie",
       "Dennis Elsas",
@@ -32451,7 +32533,7 @@
       "gratefuldead",
       "9174"
     ],
-    "updatedDate": 1672845011824
+    "updatedDate": 1693538851570
   },
   {
     "artistsYouHear": [
@@ -32694,15 +32776,16 @@
   },
   {
     "artistsYouHear": [
-      "Jack Johnson",
-      "Norah Jones",
-      "George Ezra",
+      "Taylor Swift",
+      "Phoebe Bridgers",
+      "Noah Kahan",
       "Passenger",
+      "Kacey Musgraves",
       "Ed Sheeran",
-      "Shawn Mendes",
-      "Jason Mraz",
-      "David Gray",
-      "Vance Joy"
+      "Joy Oladokun",
+      "Vance Joy",
+      "Leon Bridges",
+      "The Lumineers"
     ],
     "assetId": 1550762890272,
     "deliveryTypes": [
@@ -32752,7 +32835,7 @@
       "thespectrum",
       "thebridge"
     ],
-    "updatedDate": 1647016175794
+    "updatedDate": 1693539242779
   },
   {
     "artistsYouHear": [
@@ -33180,17 +33263,15 @@
   },
   {
     "artistsYouHear": [
-      "Green Day",
       "NOFX",
-      "Pennywise",
       "Blink 182",
+      "Green Day",
       "Rancid",
       "Social Distortion",
+      "Pennywise",
       "Offspring",
       "Bad Religion",
-      "Rise Against",
-      "Against Me!",
-      "Bouncing Souls"
+      "Rise Against"
     ],
     "assetId": 1550762858714,
     "deliveryTypes": [
@@ -33240,7 +33321,7 @@
       "howardstern100",
       "octane"
     ],
-    "updatedDate": 1668013642864
+    "updatedDate": 1692940636621
   },
   {
     "artistsYouHear": [
@@ -33650,13 +33731,16 @@
   },
   {
     "artistsYouHear": [
-      "Drake",
+      "Kendrick Lamar",
+      "J. Cole",
+      "Future",
+      "Lil Wayne",
+      "Eminem",
       "Lil Baby",
-      "21 Savage",
-      "DaBaby",
-      "Moneybagg Yo",
-      "GloRilla",
-      "Moone Walker",
+      "Cardi B",
+      "Gucci Mane",
+      "2 Chainz",
+      "Drake",
       "Nina 9",
       "Gray Rizzy",
       "Swaggie Sie",
@@ -33715,7 +33799,7 @@
       "4009",
       "9471"
     ],
-    "updatedDate": 1672978026023
+    "updatedDate": 1692942026428
   },
   {
     "artistsYouHear": [
@@ -34209,9 +34293,11 @@
       "LCD Soundsystem",
       "Phoebe Bridgers",
       "Yeah Yeah Yeahs",
-      "Radiohead",
       "Beach House",
       "Fleet Foxes",
+      "Spoon",
+      "Vampire Weekend",
+      "Japanese Breakfast",
       "Jenny Eliscu",
       "Josiah Lambert",
       "JaRon",
@@ -34271,7 +34357,7 @@
       "undergroundgarage",
       "8207"
     ],
-    "updatedDate": 1684947901411
+    "updatedDate": 1692926299803
   },
   {
     "artistsYouHear": [
@@ -34337,13 +34423,16 @@
   },
   {
     "artistsYouHear": [
-      "Luke Bryan",
-      "Jason Aldean",
-      "Eric Church",
-      "Blake Shelton",
-      "Miranda Lambert",
-      "Florida Georgia Line",
-      "Thomas Rhett",
+      "Morgan Wallen",
+      "Luke Combs",
+      "Bailey Zimmerman",
+      "Old Dominion",
+      "Nate Smith",
+      "Jelly Roll",
+      "Kane Brown",
+      "Lainey Wilson",
+      "HARDY",
+      "Carrie Underwood",
       "Buzz Brainard",
       "Jessica Wade",
       "Kim Ashley",
@@ -34371,7 +34460,7 @@
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Macie Banks, Buzz Brainard and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
+    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Buzz Brainard, Ashley Till, and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
     "mediumDescription": "Discover the next generation of country superstars - where Highway Finds meet brand new music from country’s biggest hitmakers.",
     "shortDescription": "Country’s Next Generation",
     "siriusChannelNumber": 56,
@@ -34408,7 +34497,7 @@
       "4169",
       "9340"
     ],
-    "updatedDate": 1689616479061
+    "updatedDate": 1693535610621
   },
   {
     "artistsYouHear": [
@@ -34600,13 +34689,13 @@
     "artistsYouHear": [
       "Johnny Cash",
       "Waylon Jennings",
-      "Willie Nelson",
       "Hank Williams Jr.",
-      "David Allan Coe",
-      "Dwight Yoakam",
       "Steve Earle",
-      "Emmylou Harris",
+      "Tyler Childers",
       "Lucinda Williams",
+      "Zach Bryan",
+      "Cody Jinks",
+      "Chris Stapleton",
       "Hillbilly Jim",
       "Alamo Jones",
       "Paula Nelson",
@@ -34664,7 +34753,7 @@
       "theroadhouse",
       "thespectrum"
     ],
-    "updatedDate": 1686148961279
+    "updatedDate": 1693538561271
   },
   {
     "artistsYouHear": [
@@ -35311,18 +35400,14 @@
   {
     "artistsYouHear": [
       "Eminem",
-      "Kanye West",
-      "Dr. Dre",
       "Drake",
       "50 Cent",
       "Kendrick Lamar",
+      "Dr. Dre",
       "Travis Scott",
-      "Action Bronson",
-      "Wiz Khalifa",
+      "Conway the Machine Westside Gunn",
+      "Royce 5 9",
       "Big Sean",
-      "Tech N9ne",
-      "Schoolboy Q",
-      "& more.",
       "Sway Calloway",
       "Gray Rizzy",
       "Rude Jude",
@@ -35372,7 +35457,7 @@
       "hiphopnation",
       "9471"
     ],
-    "updatedDate": 1666619816025
+    "updatedDate": 1692941191485
   },
   {
     "artistsYouHear": [
@@ -35509,15 +35594,15 @@
   },
   {
     "artistsYouHear": [
-      "Harry Styles",
       "Taylor Swift",
+      "Harry Styles",
+      "Dua Lipa",
       "Ed Sheeran",
-      "Lizzo",
-      "Sam Smith",
-      "Doja Cat",
+      "Olivia Rodrigo",
       "The Weeknd",
       "Miley Cyrus",
-      "Lil Nas X",
+      "Jonas Brothers",
+      "SZA",
       "Nicole",
       "Stanley T",
       "Ryan Sampson",
@@ -35581,7 +35666,7 @@
       "4015",
       "4094"
     ],
-    "updatedDate": 1674190280438
+    "updatedDate": 1693536275271
   },
   {
     "artistsYouHear": [
@@ -36339,15 +36424,15 @@
   },
   {
     "artistsYouHear": [
-      "Chris Tomlin",
       "MercyMe",
+      "Lauren Daigle",
       "Jeremy Camp",
-      "Francesca Battistelli",
+      "Phil Wickham",
       "Casting Crowns",
       "tobyMac",
       "For King & Country",
-      "Mandisa",
-      "Steven Curtis Chapman",
+      "Big Daddy Weave",
+      "We The Kingdom",
       "Olivia Lane",
       "Tom Carter",
       "Ashley Till"
@@ -36402,7 +36487,7 @@
       "8229",
       "praise"
     ],
-    "updatedDate": 1689351723057
+    "updatedDate": 1692944015574
   },
   {
     "artistsYouHear": [
@@ -36548,15 +36633,16 @@
   },
   {
     "artistsYouHear": [
-      "The Chainsmokers",
-      "Calvin Harris",
-      "Tiësto",
-      "Armin Van Buuren",
-      "Kaskade",
       "Marshmello",
-      "Eric Prydz",
-      "Martin Garrix",
-      "Morgan Page",
+      "Anabel Englund",
+      "Calvin Harris",
+      "David Guetta",
+      "Tiësto",
+      "The Chainsmokers",
+      "Becky Hill",
+      "Loud Luxury",
+      "ILLENIUM",
+      "John Summit",
       "Geronimo",
       "DB",
       "Rida",
@@ -36619,7 +36705,7 @@
       "9527",
       "9472"
     ],
-    "updatedDate": 1685645078682
+    "updatedDate": 1692942972722
   },
   {
     "artistsYouHear": [
@@ -36760,15 +36846,15 @@
   },
   {
     "artistsYouHear": [
-      "Imagine Dragons",
-      "Taylor Swift",
-      "Coldplay",
-      "Maroon 5",
-      "P!nk",
-      "OneRepublic",
       "Lewis Capaldi",
-      "John Legend",
-      "Sam Smith",
+      "Meghan Trainor",
+      "Maroon 5",
+      "OneRepublic",
+      "Taylor Swift",
+      "Ed Sheeran",
+      "P!nk",
+      "Kelly Clarkson",
+      "Bruno Mars",
       "Pat Monahan",
       "Jim Ryan",
       "Kim Ashley",
@@ -36832,18 +36918,19 @@
       "starlite",
       "9450"
     ],
-    "updatedDate": 1692112363472
+    "updatedDate": 1692942271902
   },
   {
     "artistsYouHear": [
       "Willie Nelson",
       "Merle Haggard",
+      "Dolly Parton",
       "George Jones",
-      "Conway Twitty",
       "Johnny Cash",
-      "Charley Pride",
-      "Kenny Rogers",
       "Loretta Lynn",
+      "Patsy Cline",
+      "Conway Twitty",
+      "Kenny Rogers",
       "Ronnie Milsap",
       "Sunny Sweeney",
       "Ranger Doug",
@@ -36900,20 +36987,20 @@
       "bluegrass",
       "outlawcountry"
     ],
-    "updatedDate": 1686149474628
+    "updatedDate": 1693537727756
   },
   {
     "artistsYouHear": [
-      "Tom Petty",
-      "Coldplay",
-      "Red Hot Chili Peppers",
-      "U2",
-      "The Black Keys",
-      "David Bowie",
       "R.E.M.",
-      "Nathaniel Rateliff and the Night Sweats",
-      "Hozier",
+      "Tom Petty",
+      "The Lumineers",
+      "U2",
+      "Fleetwood Mac",
+      "The Black Keys",
+      "Florence + The Machine",
       "Pearl Jam.",
+      "Nathaniel Rateliff and the Night Sweats",
+      "David Bowie",
       "Kristine Stone",
       "Demos",
       "Jenny Eliscu",
@@ -36980,7 +37067,7 @@
       "4019",
       "thebridge"
     ],
-    "updatedDate": 1662649231578
+    "updatedDate": 1692925431385
   },
   {
     "artistsYouHear": [
@@ -36988,12 +37075,11 @@
       "The Beatles",
       "Bob Dylan",
       "David Bowie",
-      "Jethro Tull",
-      "The Kinks",
-      "Eagles",
-      "Moody Blues",
+      "Eric Clapton",
       "Led Zeppelin",
-      "Pink Floyd",
+      "Jethro Tull",
+      "Yes",
+      "Rush",
       "Megless Griffin",
       "Greg Roberson",
       "Jim Ladd",
@@ -37055,20 +37141,19 @@
       "4190",
       "9174"
     ],
-    "updatedDate": 1675409971461
+    "updatedDate": 1692943661266
   },
   {
     "artistsYouHear": [
-      "Stevie Wonder",
-      "Bachman-Turner Overdrive",
-      "KC & The Sunshine Band",
-      "Bee Gees",
-      "ABBA",
-      "Chicago",
-      "Earth Wind & Fire",
       "Elton John",
-      "Paul McCartney & Wings",
       "Eagles",
+      "Barry Manilow",
+      "ABBA",
+      "James Taylor",
+      "Bee Gees",
+      "Chicago",
+      "Doobie Brothers",
+      "Electric Light",
       "Magic Matt",
       "Jaybeau Jones ",
       "Ron Parker",
@@ -37133,7 +37218,7 @@
       "big80s",
       "4171"
     ],
-    "updatedDate": 1689692309247
+    "updatedDate": 1692942518332
   },
   {
     "artistsYouHear": [
