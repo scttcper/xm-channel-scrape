@@ -491,7 +491,8 @@
       "Camilo",
       "Shakira",
       "Maria Becerra",
-      "Sebastian Yatra"
+      "Sebastian Yatra",
+      "Piso21"
     ],
     "assetId": 1550762892350,
     "deliveryTypes": [
@@ -543,7 +544,7 @@
       "9191",
       "rumbon"
     ],
-    "updatedDate": 1693537492988
+    "updatedDate": 1694060793297
   },
   {
     "artistsYouHear": [
@@ -753,24 +754,24 @@
     "channelNotification": null,
     "contentId": "8241",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM14&cp_5=SiriusXM14&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM14&creative_id=NA_NA_DL-COM-live-SiriusXM14--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Yacht Rock Radio",
+    "displayName": "SiriusXM 14",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Yacht Rock Radio",
-    "mediumDescription": "Yacht Rock Radio",
-    "shortDescription": "Yacht Rock Radio",
+    "longDescription": "SiriusXM 14",
+    "mediumDescription": "SiriusXM 14",
+    "shortDescription": "SiriusXM 14",
     "siriusChannelNumber": 14,
     "siriusServiceId": 203,
     "xmServiceId": 21,
-    "vanityURL": "https://www.siriusxm.com/channels/The-Whitney-Channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-14",
     "xmChannelNumber": 14,
-    "primaryColor": "#2aace3",
-    "secondaryColor": "#003a5d",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/yacht-radio/YachtRockRadio-127-500x400-N.svg",
+    "primaryColor": "#87ceeb",
+    "secondaryColor": "#4169e1",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -787,7 +788,7 @@
       "siriushits1",
       "starlite"
     ],
-    "updatedDate": 1685560599319
+    "updatedDate": 1694069246057
   },
   {
     "artistsYouHear": [
@@ -994,6 +995,14 @@
   },
   {
     "artistsYouHear": [
+      "Donna Summer",
+      "Bee Gees",
+      "Kool & The Gang",
+      "First Choice",
+      "Gloria Gaynor",
+      "Lime",
+      "Sylvester",
+      "Chic",
       "Danny Valentino",
       "Marc Benecke",
       "Myra Scheer"
@@ -1049,20 +1058,20 @@
       "thebeat",
       "9471"
     ],
-    "updatedDate": 1638475217450
+    "updatedDate": 1694057096788
   },
   {
     "artistsYouHear": [
-      "The Temptations",
-      "Tom Petty",
       "The Beatles",
-      "Nirvana",
-      "U2",
-      "Buddy Holly",
-      "Pink Floyd",
-      "The Doors",
-      "Rush",
-      "Kiss"
+      "Rolling Stones",
+      "Eric Clapton",
+      "Bruce Springsteen",
+      "Fleetwood Mac",
+      "The Who",
+      "Jackson 5",
+      "Jimi Hendrix Experience",
+      "Elvis Presley",
+      "U2"
     ],
     "assetId": 1550762883591,
     "deliveryTypes": [
@@ -1118,7 +1127,7 @@
       "gratefuldead",
       "soultown"
     ],
-    "updatedDate": 1662992144002
+    "updatedDate": 1694055945095
   },
   {
     "artistsYouHear": [
@@ -1252,16 +1261,15 @@
   },
   {
     "artistsYouHear": [
-      "J Balvin",
-      "Maluma",
-      "Bad Bunny",
       "Daddy Yankee",
+      "Peso Pluma",
       "Zion & Lennox",
-      "Nicky Jam",
-      "Farruko",
+      "Arcangel",
+      "El Alfa",
+      "Bad Bunny",
       "Ozuna",
-      "J Alvarez",
-      "Yandel"
+      "Anuel AA",
+      "Feid"
     ],
     "assetId": 1550762858959,
     "deliveryTypes": [
@@ -1311,7 +1319,7 @@
       "9339",
       "rumbon"
     ],
-    "updatedDate": 1631120757266
+    "updatedDate": 1694061073734
   },
   {
     "artistsYouHear": [
@@ -1633,14 +1641,14 @@
   },
   {
     "artistsYouHear": [
+      "Enanitos Verdes",
       "Juanes",
       "Maná",
       "Leon Larregui",
       "Diamante Electrico",
+      "Los Mesoneros",
       "Café Tacvba",
-      "Bomba",
-      "Estereo",
-      "La Santa Cecilia",
+      "Bomba Estereo",
       "Soda Stereo",
       "Los Fabulosos Cadillacs"
     ],
@@ -1692,7 +1700,7 @@
       "8225",
       "9186"
     ],
-    "updatedDate": 1631215023495
+    "updatedDate": 1694059209410
   },
   {
     "artistsYouHear": [
@@ -2621,25 +2629,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9401",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=BustaRhymesRadio&cp_5=BustaRhymesRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=BustaRhymesRadio&creative_id=NA_NA_DL-COM-live-BustaRhymesRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Busta Rhymes Radio",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition7&cp_5=SXMLimitedEdition7&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition7&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition7-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Beastie Boys Channel",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "With a career that spans across 4 decades, Busta Rhymes has never been afraid to push the boundaries of Hip-Hop through his distinct voice and word play. Busta Rhymes Radio features music and exclusive stories from the iconic rapper.",
-    "mediumDescription": "Music by and featuring Busta Rhymes and the stories behind them",
-    "shortDescription": "The Best of Busta Rhymes",
+    "longDescription": "All the legendary rhymes and body-movin’ beats, rarities, and concert recordings from throughout the genre-bending trio’s groundbreaking career, plus insight from Mike D and Ad Rock!",
+    "mediumDescription": "The Beastie Boys follow up their #1 selling book and movie with their own SiriusXM Channel!",
+    "shortDescription": "The music of Beastie Boys",
     "siriusChannelNumber": 507,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-7",
     "xmChannelNumber": 507,
-    "primaryColor": "#c0c0c0",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/bustarhymes-radio/BustaRhymesRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/bustarhymes-radio/BustaRhymesRadio-127-500x400-N.svg",
+    "primaryColor": "#0000ff",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -2655,7 +2663,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1690874233983
+    "updatedDate": 1694069988904
   },
   {
     "artistsYouHear": [],
@@ -3525,25 +3533,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9481",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=JonasBrothersTHECHANNEL&cp_5=JonasBrothersTHECHANNEL&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=JonasBrothersTHECHANNEL&creative_id=NA_NA_DL-COM-live-JonasBrothersTHECHANNEL--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "JonasBrothers THECHANNEL",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition1&cp_5=SXMLimitedEdition1&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition1&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition1-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 1",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Feel the energy as Nick, Joe & Kevin create THE CHANNEL! The GRAMMY® Award-nominated powerhouse trio feature a diverse variety of hand-picked influential faves that span decades while playing their skyscraping anthems spanning 5 albums. From Bee Gees to Carole King, Stevie Wonder, Fleetwood Mac, Daft Punk, Olivia Rodrigo, Prince and more! Hear THE JONAS BROTHERS as you’ve never heard them before with personal stories and insights behind the music as they celebrate all with THE CHANNEL on SiriusXM!",
-    "mediumDescription": "THE CHANNEL featuring diverse music variety chosen by THE JONAS BROTHERS with personal stories, electric energy and their hits!",
-    "shortDescription": "JonasBrothers THECHANNEL",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 501,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-1",
     "xmChannelNumber": 501,
-    "primaryColor": "#000000",
-    "secondaryColor": "#0000ff",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/jonasbrothersthechannel/JonasBrothersTheChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/jonasbrothersthechannel/JonasBrothersTheChannel-127-500x400-N.svg",
+    "primaryColor": "#87ceeb",
+    "secondaryColor": "#8fbc8f",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -3554,7 +3562,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1690819708002
+    "updatedDate": 1694069353181
   },
   {
     "artistsYouHear": [],
@@ -3884,7 +3892,18 @@
     "updatedDate": 1666619424062
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Drake",
+      "PartyNextDoor",
+      "Central Cee",
+      "SZA",
+      "Lil Baby",
+      "Skillibeng",
+      "Wizkid",
+      "Summer Walker",
+      "Burna Boy",
+      "21 Savage"
+    ],
     "assetId": 1550771586902,
     "deliveryTypes": [
       "ip",
@@ -3926,7 +3945,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1666619764678
+    "updatedDate": 1694058003866
   },
   {
     "artistsYouHear": [
@@ -4298,7 +4317,7 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": null,
-    "updatedDate": 1692934674356
+    "updatedDate": 1694068709706
   },
   {
     "artistsYouHear": [],
@@ -4314,25 +4333,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9545",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=EdSheeranChannel&cp_5=EdSheeranChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=EdSheeranChannel&creative_id=NA_NA_DL-COM-live-EdSheeranChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Ed Sheeran Channel",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition2&cp_5=SXMLimitedEdition2&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition2&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition2-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "SXM Limited Edition 2",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Making mathematics fun! Join GRAMMY® Award winning Ed Sheeran for a non-stop journey through the decade by numbers with Plus, Multiply, Divide, Equals and Subtract! Selling out venues across the nation, your ears sit front row to hear the ultimate Ed Sheeran mix with exclusive SiriusXM live performances to sing-along with including an intimate night at Stephen Talkhouse. Relax! No math test here, but make sure to catch this global super-star for a limited time on the Ed Sheeran Channel before it’s gone!",
-    "mediumDescription": "It all adds up with non-stop Ed Sheeran! Hear Plus, Multiply, Divide, Equals, Subtract and more with exclusive performances!",
-    "shortDescription": "Ed Sheeran Channel",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 502,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/Ed-Sheeran-Channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-02",
     "xmChannelNumber": 502,
-    "primaryColor": "#000000",
-    "secondaryColor": "#00578e",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ed-sheeran-channel/EdSheeranChannel-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ed-sheeran-channel/EdSheeranChannel-White.svg",
+    "primaryColor": "#87ceeb",
+    "secondaryColor": "#8fbc8f",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -4342,11 +4361,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": [
-      "coffeehouse",
-      "siriushits1"
-    ],
-    "updatedDate": 1692119813917
+    "relatedChannels": null,
+    "updatedDate": 1694069890303
   },
   {
     "artistsYouHear": [],
@@ -4394,7 +4410,9 @@
     "updatedDate": 1665424757531
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Bon Jovi"
+    ],
     "assetId": 1550823135104,
     "deliveryTypes": [
       "ip",
@@ -4436,7 +4454,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1666619672566
+    "updatedDate": 1694060073292
   },
   {
     "artistsYouHear": [],
@@ -4711,7 +4729,17 @@
     "updatedDate": 1666619734647
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Allman Brothers",
+      "Bruce Springsteen",
+      "Phish",
+      "Goose",
+      "Jack White",
+      "Greensky Bluegrass",
+      "Dead & Company",
+      "Pearl Jam",
+      "Widespread Panic"
+    ],
     "assetId": 1550833784494,
     "deliveryTypes": [
       "ip",
@@ -4752,7 +4780,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1646672519916
+    "updatedDate": 1694060357309
   },
   {
     "artistsYouHear": [
@@ -6248,14 +6276,15 @@
   {
     "artistsYouHear": [
       "NOFX",
-      "Blink 182",
+      "Pennywise",
       "Green Day",
+      "Blink 182",
       "Rancid",
       "Social Distortion",
-      "Pennywise",
       "Offspring",
       "Bad Religion",
-      "Rise Against"
+      "Rise Against",
+      "Against Me!"
     ],
     "assetId": 1550762858714,
     "deliveryTypes": [
@@ -6305,7 +6334,7 @@
       "howardstern100",
       "octane"
     ],
-    "updatedDate": 1692940636621
+    "updatedDate": 1694057526466
   },
   {
     "artistsYouHear": [
@@ -6529,15 +6558,16 @@
   },
   {
     "artistsYouHear": [
-      "Metallica",
       "Pantera",
       "Slayer",
+      "Metallica",
       "Lamb Of God",
       "Slipknot",
       "Machine Head",
-      "Soulfly",
       "Megadeth",
-      "Hatebreed",
+      "Spiritbox",
+      "Lorna Shore",
+      "Gojira",
       "Anthrax",
       "José Mangin",
       "Shawn Winkler",
@@ -6591,7 +6621,7 @@
       "octane",
       "buzzsaw"
     ],
-    "updatedDate": 1631683989615
+    "updatedDate": 1694058662232
   },
   {
     "artistsYouHear": [
@@ -6738,15 +6768,16 @@
   },
   {
     "artistsYouHear": [
-      "Rihanna",
+      "Chris Brown",
+      "Lil Baby",
+      "SZA",
       "Beyonce",
       "Drake",
-      "SZA",
-      "Miguel",
-      "Ty Dolla $ign",
-      "The Weeknd",
-      "Chris Brown",
-      "Logic",
+      "Doja Cat",
+      "Ice Spice",
+      "Latto",
+      "H.E.R.",
+      "Cardi B",
       "Mina SayWhat",
       "Swaggie Sie",
       "DJ Steel",
@@ -6809,7 +6840,7 @@
       "9472",
       "9471"
     ],
-    "updatedDate": 1636993636582
+    "updatedDate": 1694057339556
   },
   {
     "artistsYouHear": [
@@ -6883,16 +6914,17 @@
   },
   {
     "artistsYouHear": [
-      "Sade",
-      "Dave Koz",
-      "Brian Culbertson",
       "Boney James",
-      "Maysa",
-      "David Benoit",
-      "George Benson",
-      "Al Jarreau",
+      "Brian Culbertson",
+      "Rick Braun",
+      "Jonathan Butler",
+      "Keiko Matsui",
+      "Dave Koz",
       "Peter White",
       "Paul Hardcastle",
+      "Jeff Lorber",
+      "Gerald Albright",
+      "Nick Colionne",
       "Lily",
       "PJ Faulkner",
       "Talaya"
@@ -6952,7 +6984,7 @@
       "4202",
       "purejazz"
     ],
-    "updatedDate": 1641229494586
+    "updatedDate": 1694056413407
   },
   {
     "artistsYouHear": [
@@ -7168,16 +7200,17 @@
   },
   {
     "artistsYouHear": [
+      "Shinedown",
+      "I Prevail",
+      "Disturbed",
+      "Bring Me The Horizon",
       "Five Finger Death Punch",
       "Punch",
-      "Bring Me The Horizon",
-      "Disturbed",
-      "Papa Roach",
-      "Nothing More",
       "Falling In Reverse",
+      "Papa Roach",
       "Motionless In White",
-      "I Prevail",
       "Ice Nine Kills",
+      "Nothing More",
       "José Mangin",
       "Caity Babs",
       "Shannon Gunz",
@@ -7244,7 +7277,7 @@
       "faction",
       "4018"
     ],
-    "updatedDate": 1672977448775
+    "updatedDate": 1694057691364
   },
   {
     "artistsYouHear": [
@@ -7652,16 +7685,16 @@
   },
   {
     "artistsYouHear": [
-      "Shakira",
-      "J Balvin",
-      "Maluma",
-      "Bad Bunny",
-      "Daddy Yankee",
+      "Rauw Alejandro",
       "Prince Royce",
       "Marc Anthony",
+      "Bad Bunny",
       "Romeo Santos",
+      "Karol G",
+      "Christian Alicea",
       "Victor Manuelle",
       "Gilberto Santa Rosa",
+      "Feid",
       "Carlos Vives",
       "Johnny \"El Picoso\"",
       "Nelson Rodriguez",
@@ -7726,7 +7759,7 @@
       "9187",
       "9185"
     ],
-    "updatedDate": 1678175515754
+    "updatedDate": 1694060667452
   },
   {
     "artistsYouHear": [
@@ -8126,16 +8159,13 @@
   },
   {
     "artistsYouHear": [
-      "Beethoven",
-      "Joshua Bell",
-      "Boston Pops",
-      "New York Philharmonic",
+      "Mozart",
+      "John Williams",
       "Vivaldi",
-      "Cincinnati Pops",
-      "Copeland",
-      "George Gershwin",
-      "Lang Lang",
-      "Mozart"
+      "2Cellos",
+      "Beethoven",
+      "Bach",
+      "Yo-Yo Ma"
     ],
     "assetId": 1550762882665,
     "deliveryTypes": [
@@ -8183,7 +8213,7 @@
       "symphonyhall",
       "metropolitanopera"
     ],
-    "updatedDate": 1651588323678
+    "updatedDate": 1694059992621
   },
   {
     "artistsYouHear": [
@@ -8455,16 +8485,15 @@
   },
   {
     "artistsYouHear": [
-      "John Adams",
       "Beethoven",
+      "Mozart",
       "Bach",
-      "Joshua Bell",
-      "Brahms",
-      "Dvorak",
+      "Tchaikovsky",
       "Gustavo Dudamel",
+      "Chopin",
       "Haydn",
-      "Jennifer Higdon",
-      "Yuja Wang",
+      "John Williams",
+      "William Grant Still",
       "John Clare",
       "Vincent Caruso",
       "Preston Trombly",
@@ -8523,7 +8552,7 @@
       "siriuspops",
       "metropolitanopera"
     ],
-    "updatedDate": 1664402552596
+    "updatedDate": 1694059731263
   },
   {
     "artistsYouHear": [
