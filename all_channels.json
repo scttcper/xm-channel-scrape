@@ -9996,9 +9996,9 @@
     "genreIcon": null,
     "genreTitle": "Party",
     "genreVanityURL": null,
-    "longDescription": "Vacation",
-    "mediumDescription": "Vacation",
-    "shortDescription": "Vacation",
+    "longDescription": "A Beachy Island Music Vibe!",
+    "mediumDescription": "A Beachy Island Music Vibe!",
+    "shortDescription": "A Beachy Island Music Vibe!",
     "siriusChannelNumber": 1237,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -10019,6 +10019,51 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1694067841459
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550879247790,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4249",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=MexYZ&cp_5=MexYZ&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=MexYZ&creative_id=NA_NA_DL-COM-xtra-MexYZ-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "MexYZ",
+    "genre": "allxtra",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "All Xtra",
+    "genreVanityURL": null,
+    "longDescription": "The New Wave of Mexican Music",
+    "mediumDescription": "The New Wave of Mexican Music",
+    "shortDescription": "The New Wave of Mexican Music",
+    "siriusChannelNumber": 1239,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1239,
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/mexyz/MexYZ-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/mexyz/MexYZ-White.svg",
+    "explicitContentIndicator": "Yes",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1694067902712
   },
   {
     "artistsYouHear": [
@@ -10642,8 +10687,8 @@
     "genreIcon": null,
     "genreTitle": "Sports",
     "genreVanityURL": null,
-    "longDescription": "Christopher ‘Mad Dog’ Russo, Adam Schein, The Morning Men, Michelle Beadle and Cody Decker talk about the world of sports.",
-    "mediumDescription": "Christopher ‘Mad Dog’ Russo, Adam Schein, The Morning Men, Michelle Beadle and Cody Decker talk about the world of sports.",
+    "longDescription": "Christopher ‘Mad Dog’ Russo, Adam Schein, Michelle Beadle and The Morning Men with Mike Babchik talk about the world of sports.",
+    "mediumDescription": "Christopher ‘Mad Dog’ Russo, Adam Schein, Michelle Beadle and The Morning Men with Mike Babchik talk about the world of sports.",
     "shortDescription": "Mad Dog Russo, Morning Men",
     "siriusChannelNumber": 82,
     "siriusServiceId": 84,
@@ -10677,7 +10722,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1694018328344
+    "updatedDate": 1694098557991
   },
   {
     "artistsYouHear": [
@@ -25088,7 +25133,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9401",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition7&cp_5=SXMLimitedEdition7&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition7&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition7-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=BeastieBoysChannel&cp_5=BeastieBoysChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BeastieBoysChannel&creative_id=NA_NA_DL-COM-live-BeastieBoysChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Beastie Boys Channel",
     "genre": "hiphop",
     "genreLogo": null,
@@ -25103,10 +25148,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-7",
     "xmChannelNumber": 507,
-    "primaryColor": "#0000ff",
-    "secondaryColor": "#87ceeb",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
+    "primaryColor": "#de4d3e",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/beastie-boys-channel/BeastieBoysChannel-114-900x720-P.png",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/beastie-boys-channel/BeastieBoysChannel-115-900x720-N.png",
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -25122,7 +25167,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1694069988904
+    "updatedDate": 1694099857155
   },
   {
     "artistsYouHear": [],

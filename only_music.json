@@ -2629,7 +2629,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9401",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition7&cp_5=SXMLimitedEdition7&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition7&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition7-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=BeastieBoysChannel&cp_5=BeastieBoysChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BeastieBoysChannel&creative_id=NA_NA_DL-COM-live-BeastieBoysChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Beastie Boys Channel",
     "genre": "hiphop",
     "genreLogo": null,
@@ -2644,10 +2644,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-7",
     "xmChannelNumber": 507,
-    "primaryColor": "#0000ff",
-    "secondaryColor": "#87ceeb",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
+    "primaryColor": "#de4d3e",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/beastie-boys-channel/BeastieBoysChannel-114-900x720-P.png",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/beastie-boys-channel/BeastieBoysChannel-115-900x720-N.png",
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -2663,7 +2663,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1694069988904
+    "updatedDate": 1694099857155
   },
   {
     "artistsYouHear": [],
