@@ -11356,9 +11356,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_PKG_NS"
     ],
-    "relatedChannels": [
-      "8183"
-    ],
+    "relatedChannels": null,
     "updatedDate": 1631654707548
   },
   {
