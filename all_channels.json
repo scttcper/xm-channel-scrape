@@ -25120,9 +25120,8 @@
     "artistsYouHear": [],
     "assetId": 1550762881543,
     "deliveryTypes": [
-      "ip",
       "mobile",
-      "satellite"
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -25132,15 +25131,15 @@
     "channelNotification": null,
     "contentId": "9401",
     "deepLink": "https://smart.link/9ybogtc2jm2h7?cp_3=live&cp_4=BeastieBoysChannel&cp_5=BeastieBoysChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BeastieBoysChannel&creative_id=NA_NA_DL-COM-live-BeastieBoysChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Beastie Boys Channel",
+    "displayName": "SXM Limited Edition 7",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "All the legendary rhymes and body-movin’ beats, rarities, and concert recordings from throughout the genre-bending trio’s groundbreaking career, plus insight from Mike D and Ad Rock!",
-    "mediumDescription": "The Beastie Boys follow up their #1 selling book and movie with their own SiriusXM Channel!",
-    "shortDescription": "The music of Beastie Boys",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 507,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -25222,9 +25221,8 @@
     "artistsYouHear": [],
     "assetId": 1550762881711,
     "deliveryTypes": [
-      "satellite",
-      "ip",
-      "mobile"
+      "mobile",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
