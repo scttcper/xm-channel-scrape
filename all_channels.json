@@ -1035,7 +1035,7 @@
     "xmChannelNumber": 1089,
     "primaryColor": "#a1a19c",
     "secondaryColor": "#211920",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Top-Hits/BPMTopHits.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Top-Hits/BPMTopHits1.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Top-Hits/BPMTopHits-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -1047,7 +1047,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630095566844
+    "updatedDate": 1694720098936
   },
   {
     "artistsYouHear": [],
@@ -3305,7 +3305,7 @@
     "xmChannelNumber": 1091,
     "primaryColor": "#9baab3",
     "secondaryColor": "#284874",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Workout/BPMWorkout.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Workout/BPM WORKOUT.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Workout/BPMWorkout-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -3317,7 +3317,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630095583594
+    "updatedDate": 1694720178231
   },
   {
     "artistsYouHear": [],
@@ -4357,7 +4357,7 @@
     "xmChannelNumber": 1090,
     "primaryColor": "#e8d5c8",
     "secondaryColor": "#362c2b",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Discovery/BPMDiscovery.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Workout/BPM WORKOUT.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Discovery/BPMDiscovery-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
@@ -4369,7 +4369,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1630095543950
+    "updatedDate": 1694719909159
   },
   {
     "artistsYouHear": [],
@@ -17061,6 +17061,7 @@
       "El Alfa",
       "Bad Bunny",
       "Ozuna",
+      "Karol G",
       "Anuel AA",
       "Feid"
     ],
@@ -17112,7 +17113,7 @@
       "9339",
       "rumbon"
     ],
-    "updatedDate": 1694061073734
+    "updatedDate": 1694754250834
   },
   {
     "artistsYouHear": [
@@ -17435,15 +17436,15 @@
   {
     "artistsYouHear": [
       "Enanitos Verdes",
-      "Juanes",
-      "Maná",
-      "Leon Larregui",
-      "Diamante Electrico",
-      "Los Mesoneros",
-      "Café Tacvba",
-      "Bomba Estereo",
       "Soda Stereo",
-      "Los Fabulosos Cadillacs"
+      "Café Tacvba",
+      "Molotov",
+      "Maná",
+      "Mon Laferte",
+      "Panteón Rococó",
+      "Los Mesoneros",
+      "Bomba Estereo",
+      "Juanes"
     ],
     "assetId": 1550762861815,
     "deliveryTypes": [
@@ -17493,7 +17494,7 @@
       "8225",
       "9186"
     ],
-    "updatedDate": 1694059209410
+    "updatedDate": 1694753819711
   },
   {
     "artistsYouHear": [],
@@ -24481,8 +24482,8 @@
       "Aerosmith",
       "ZZ Top",
       "The Who",
-      "U2",
       "Boston",
+      "The Beatles",
       "Queen"
     ],
     "assetId": 1550762856424,
@@ -24541,7 +24542,7 @@
       "4127",
       "4006"
     ],
-    "updatedDate": 1693539503692
+    "updatedDate": 1694752936747
   },
   {
     "artistsYouHear": [
@@ -31104,13 +31105,14 @@
   {
     "artistsYouHear": [
       "Rosalia",
-      "Bizarrap",
+      "Yahritza y Su Esencia",
       "Shakira",
-      "Camilo",
+      "Feid",
       "Karol G",
-      "Sebastian Yatra",
+      "Peso Pluma",
       "Bad Bunny",
       "Becky G",
+      "Camilo",
       "Maluma",
       "Rauw Alejandro"
     ],
@@ -31165,7 +31167,7 @@
       "9492",
       "9185"
     ],
-    "updatedDate": 1690821851830
+    "updatedDate": 1694754620454
   },
   {
     "artistsYouHear": [],
@@ -32573,17 +32575,15 @@
   {
     "artistsYouHear": [
       "Led Zeppelin",
-      "Rolling Stones",
       "Beatles",
-      "The Who",
-      "Doors",
+      "Rolling Stones",
       "Eagles",
+      "The Who",
       "Creedence Clearwater Revival",
-      "The Doors",
-      "Elton John",
       "Pink Floyd",
       "Eric Clapton",
-      "David Bowie",
+      "The Doors",
+      "Elton John",
       "Dennis Elsas",
       "Megless Griffin",
       "Earle Bailey",
@@ -32645,7 +32645,7 @@
       "gratefuldead",
       "9174"
     ],
-    "updatedDate": 1693538851570
+    "updatedDate": 1694752471683
   },
   {
     "artistsYouHear": [
@@ -32891,12 +32891,11 @@
       "Taylor Swift",
       "Phoebe Bridgers",
       "Noah Kahan",
-      "Passenger",
       "Kacey Musgraves",
-      "Ed Sheeran",
-      "Joy Oladokun",
       "Vance Joy",
+      "Ed Sheeran",
       "Leon Bridges",
+      "Joy Oladokun",
       "The Lumineers"
     ],
     "assetId": 1550762890272,
@@ -32947,7 +32946,7 @@
       "thespectrum",
       "thebridge"
     ],
-    "updatedDate": 1693539242779
+    "updatedDate": 1694752711348
   },
   {
     "artistsYouHear": [
@@ -33712,11 +33711,10 @@
       "Metallica",
       "Lamb Of God",
       "Slipknot",
-      "Machine Head",
-      "Megadeth",
-      "Spiritbox",
-      "Lorna Shore",
       "Gojira",
+      "Spiritbox",
+      "Megadeth",
+      "Lorna Shore",
       "Anthrax",
       "José Mangin",
       "Shawn Winkler",
@@ -33770,7 +33768,7 @@
       "octane",
       "buzzsaw"
     ],
-    "updatedDate": 1694058662232
+    "updatedDate": 1694753515675
   },
   {
     "artistsYouHear": [
@@ -36479,10 +36477,12 @@
       "Peter Kater",
       "Steven Halpern",
       "Brian Eno",
+      "Enya",
+      "George Winston",
       "Paul Winter",
       "Tangerine Dream",
-      "Mark Isham",
       "Will Ackerman",
+      "Mark Isham",
       "David Arkenstone",
       "Kitaro"
     ],
@@ -36535,7 +36535,7 @@
       "jazzcafe",
       "symphonyhall"
     ],
-    "updatedDate": 1631539758043
+    "updatedDate": 1694753331136
   },
   {
     "artistsYouHear": [
@@ -36679,12 +36679,14 @@
       "Beethoven",
       "Mozart",
       "Bach",
+      "Brahms",
       "Tchaikovsky",
-      "Gustavo Dudamel",
-      "Chopin",
       "Haydn",
-      "John Williams",
+      "Chopin",
       "William Grant Still",
+      "Gustavo Dudamel",
+      "Florence Price",
+      "John Williams",
       "John Clare",
       "Vincent Caruso",
       "Preston Trombly",
@@ -36743,7 +36745,7 @@
       "siriuspops",
       "metropolitanopera"
     ],
-    "updatedDate": 1694059731263
+    "updatedDate": 1694754059459
   },
   {
     "artistsYouHear": [
