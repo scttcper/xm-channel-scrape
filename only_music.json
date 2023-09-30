@@ -2744,12 +2744,12 @@
     "siriusChannelNumber": 509,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-9+",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-09",
     "xmChannelNumber": 509,
     "primaryColor": "#87cefa",
     "secondaryColor": "#48d1cc",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-91/SiriusXM-Limited-Edition-9.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-91/SiriusXM-Limited-Edition-9-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -2765,7 +2765,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1695997934072
+    "updatedDate": 1696002345838
   },
   {
     "artistsYouHear": [
@@ -7561,7 +7561,8 @@
       "Kirsten",
       "Sara West",
       "Ryan Middledorf",
-      "Patrick McDonald"
+      "Patrick McDonald",
+      "Krystal King"
     ],
     "assetId": 1550762877968,
     "deliveryTypes": [
@@ -7613,7 +7614,7 @@
       "gratefuldead",
       "thebridge"
     ],
-    "updatedDate": 1695324199845
+    "updatedDate": 1696004716134
   },
   {
     "artistsYouHear": [
@@ -9011,11 +9012,12 @@
       "Doobie Brothers",
       "Electric Light",
       "Magic Matt",
-      "Jaybeau Jones ",
-      "Ron Parker",
-      "Casey Kasem",
       "Lisa Evans",
-      "Bobby Watman"
+      "Jaybeau Jones ",
+      "Bobby Watman",
+      "Ron Parker",
+      "Jonathan",
+      "Casey Kasem"
     ],
     "assetId": 1550762850934,
     "deliveryTypes": [
@@ -9074,7 +9076,7 @@
       "big80s",
       "4171"
     ],
-    "updatedDate": 1692942518332
+    "updatedDate": 1695997750823
   },
   {
     "artistsYouHear": [
