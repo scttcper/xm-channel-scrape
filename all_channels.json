@@ -9317,7 +9317,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "4232",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=KPop&cp_5=KPop&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=KPop&creative_id=NA_NA_DL-COM-live-KPop-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=SiriusXMKPop&cp_5=SiriusXMKPop&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMKPop&creative_id=NA_NA_DL-COM-xtra-SiriusXMKPop-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM K-Pop",
     "genre": "discovery",
     "genreLogo": null,
@@ -9344,7 +9344,7 @@
       "SIR_IP_SA"
     ],
     "relatedChannels": null,
-    "updatedDate": 1671204608662
+    "updatedDate": 1698676474793
   },
   {
     "artistsYouHear": [],
