@@ -4577,8 +4577,8 @@
     "xmChannelNumber": 1095,
     "primaryColor": "#4b1954",
     "secondaryColor": "#a8cf38",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/90schillax/90sChillax-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/90schillax/90sChillax-127-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/nashville-nation/NashvilleNation-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/nashville-nation/NashvilleNation-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -4589,7 +4589,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1661832204286
+    "updatedDate": 1698765328862
   },
   {
     "artistsYouHear": [],
@@ -16785,9 +16785,7 @@
       "Michael B",
       "Peter Mansbridge",
       "Marc Aflalo",
-      "Mitchell Whitfield",
-      "Bob McCown",
-      "John Shannon"
+      "Mitchell Whitfield"
     ],
     "assetId": 1550762855461,
     "deliveryTypes": [
@@ -16837,7 +16835,7 @@
       "cnbc",
       "cbcradioone"
     ],
-    "updatedDate": 1669824029820
+    "updatedDate": 1698764235800
   },
   {
     "artistsYouHear": [
