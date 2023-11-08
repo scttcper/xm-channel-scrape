@@ -1,5 +1,45 @@
 [
   {
+    "artistsYouHear": [],
+    "assetId": 1550773570205,
+    "deliveryTypes": [
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4138",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=KrishnaDasYogaRadio&cp_5=KrishnaDasYogaRadio&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=KrishnaDasYogaRadio&creative_id=NA_NA_DL-COM-xtra-KrishnaDasYogaRadio-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Krishna Das Yoga Radio",
+    "genre": "chill",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Cool Down",
+    "genreVanityURL": null,
+    "longDescription": "Chant/Sacred/Spiritual Music",
+    "mediumDescription": "Chant/Sacred/Spiritual Music",
+    "shortDescription": "Chant/Sacred/Spiritual Music",
+    "siriusChannelNumber": 1132,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/krishna-das-yoga-radio",
+    "xmChannelNumber": 1132,
+    "primaryColor": "#FF981E",
+    "secondaryColor": "#A61B1E",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/krishna-das-yoga-radio/Krishna-Das-logo-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/krishna-das-yoga-radio/Krishna-Das-logo-white.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1631214986362
+  },
+  {
     "artistsYouHear": [
       "Beatles",
       "Beach Boys",
@@ -34,7 +74,7 @@
     "displayName": "60s Gold",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "It started with the Twist and ended with Woodstock, all '60s hits from Motown and surf music to the British Invasion and folk rock. Hear The Beach Boys, Supremes, Rolling Stones, Aretha Franklin, Four Seasons, The Beatles and more!!",
@@ -64,10 +104,7 @@
     "relatedChannels": [
       "elvisradio",
       "siriusblues",
-      "4183",
       "siriusgold",
-      "4000",
-      "4112",
       "thevault",
       "radiomargaritaville",
       "soultown"
@@ -90,16 +127,15 @@
     ],
     "assetId": 1550762850202,
     "deliveryTypes": [
-      "satellite",
-      "ip",
-      "mobile"
+      "mobile",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>40s Junction</b> will be streaming on the SiriusXM app through the holidays.",
     "contentId": "8205",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=40sJunction&cp_5=40sJunction&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=40sJunction&creative_id=NA_NA_DL-COM-live-40sJunction-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "40s Junction",
@@ -111,11 +147,11 @@
     "longDescription": "This joint is jumpin'! The Swing Era lives on as you journey on the Savoy Express to the ‘40s Junction! A station humming with big bands, vocal stars, and classic melodies from the 1940s.  You’ll be in 'In The Mood,' to Jitterbug and Lindy Hop! Crooners serenade and harmony groups shine in jazzy orchestras that swing and sway. So, hey hep cats! 'Let’s Dance!'",
     "mediumDescription": "Board the Savoy Express with Big Bands, classic vocal stars and hits from the 1940s. Next stop, the '40s Junction!",
     "shortDescription": "40s Pop Hits/Big Bands",
-    "siriusChannelNumber": 71,
-    "siriusServiceId": 1,
-    "xmServiceId": 4,
+    "siriusChannelNumber": 296,
+    "siriusServiceId": null,
+    "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/40s-junction",
-    "xmChannelNumber": 71,
+    "xmChannelNumber": 296,
     "primaryColor": "#d2d4e9",
     "secondaryColor": "#32356b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/40s-Junction/40sJunction-4C.svg",
@@ -138,7 +174,7 @@
       "siriuslysinatra",
       "purejazz"
     ],
-    "updatedDate": 1692941835983
+    "updatedDate": 1699393894880
   },
   {
     "artistsYouHear": [
@@ -171,7 +207,7 @@
     "displayName": "'90s on 9",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "If it was “all that” in the 90s, it’s on 90s on 9. Get jiggy with the hottest 90s music: from grunge rock to boy bands, pop queens to hip-hop and R&B – with artists like Mariah Carey, Aerosmith, Alanis Morissette, Backstreet Boys, Britney Spears, TLC, Green Day, Boyz II Men and more. Hosted by legendary personalities Downtown Julie Brown & Spyder Harrison, singer/songwriter Lisa Loeb and Sugar Ray’s Mark McGrath.",
@@ -303,7 +339,7 @@
     "displayName": "Pop2K",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "It’s the hits from the 2000s that hit you right in the memories. Hear Justin Timberlake, Maroon 5, Nelly, Nickelback and all the songs you have a story about.",
@@ -427,7 +463,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Kids Place Live</b> (formerly ch. 78) is now on channel 134.",
     "contentId": "8216",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=KidsPlaceLive&cp_5=KidsPlaceLive&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=KidsPlaceLive&creative_id=NA_NA_DL-COM-live-KidsPlaceLive-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Kids Place Live",
@@ -439,11 +475,11 @@
     "longDescription": "Hear live hosts, laugh-out-loud calls with real kids, and the best in family-friendly music and entertainment. Kids Place Live allows your family to play with your radio!",
     "mediumDescription": "Family-friendly music, games, laughs and live shows for 24/7 kid-approved entertainment.",
     "shortDescription": "Kids' Music",
-    "siriusChannelNumber": 78,
+    "siriusChannelNumber": 134,
     "siriusServiceId": 77,
     "xmServiceId": 116,
     "vanityURL": "https://www.siriusxm.com/channels/kids-place-live",
-    "xmChannelNumber": 78,
+    "xmChannelNumber": 134,
     "primaryColor": "#f8f38d",
     "secondaryColor": "#005ead",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/Kids-Place-Live/KidPlace-4C.svg",
@@ -463,9 +499,10 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "9530",
       "laughbreak"
     ],
-    "updatedDate": 1647550567656
+    "updatedDate": 1698724929025
   },
   {
     "artistsYouHear": [
@@ -618,7 +655,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>The Groove</b> (formerly ch. 50) is now on channel 51.",
     "contentId": "8228",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheGroove&cp_5=TheGroove&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheGroove&creative_id=NA_NA_DL-COM-live-TheGroove-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "The Groove",
@@ -630,11 +667,11 @@
     "longDescription": "Get your groove on with Old School R&B. Hear the important artists from the '70s and '80s including Michael Jackson, Luther Vandross, Janet Jackson, EW&F, Isley Brothers, the Gap Band and more.",
     "mediumDescription": "Dance and Party grooves with Old School R&B from the '70s and '80s jams.",
     "shortDescription": "'70s/'80s R&B",
-    "siriusChannelNumber": 50,
+    "siriusChannelNumber": 51,
     "siriusServiceId": 62,
     "xmServiceId": 64,
     "vanityURL": "https://www.siriusxm.com/channels/the-groove",
-    "xmChannelNumber": 50,
+    "xmChannelNumber": 51,
     "primaryColor": "#9dd29c",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Groove/The_Groove.svg",
@@ -657,7 +694,7 @@
       "9471",
       "soultown"
     ],
-    "updatedDate": 1678303577057
+    "updatedDate": 1698723778775
   },
   {
     "artistsYouHear": [
@@ -743,7 +780,7 @@
     "displayName": "SiriusXM 14",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "SiriusXM 14",
@@ -918,6 +955,122 @@
     "updatedDate": 1692935091654
   },
   {
+    "artistsYouHear": [],
+    "assetId": 1550762861896,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9134",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=LatinVault&cp_5=LatinVault&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=LatinVault&creative_id=NA_NA_DL-COM-live-LatinVault--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Latin Vault",
+    "genre": "world",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Latino",
+    "genreVanityURL": null,
+    "longDescription": "Revisit the sounds and rich history of music pioneers from the 50’s, 60’s, 70’s, and early 80’s the decades that shaped the Latin music landscape as it is today.",
+    "mediumDescription": "Listen to the music pioneers who shaped the Latin music landscape as it is today.",
+    "shortDescription": "Latin Sounds of Yesterday",
+    "siriusChannelNumber": 155,
+    "siriusServiceId": null,
+    "xmServiceId": 215,
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-153",
+    "xmChannelNumber": 155,
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/latin-vault/LatinVault-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/latin-vault/LatinVault-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1699067970874
+  },
+  {
+    "artistsYouHear": [
+      "Shakira",
+      "Pitbull",
+      "Ricky Martin",
+      "Thalia",
+      "Maná",
+      "Laura Pausini"
+    ],
+    "assetId": 1550762857901,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": "<b>En Vivo</b> (formerly ch. 152) is now on channel 154.",
+    "contentId": "9135",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=EnVivo&cp_5=EnVivo&cp_6=TALK&cp_7=COM&cp_8=SXMCOM&site_id=EnVivo&creative_id=NA_NA_DL-COM-live-EnVivo-TALK-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "En Vivo",
+    "genre": "world",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Latino",
+    "genreVanityURL": null,
+    "longDescription": "Where music is born!  En Vivo is the official satellite radio channel of the Latin Grammys, bringing the best in live entertainment and new music.",
+    "mediumDescription": "Official channel of the Latin Grammys, with hits and live performances, from Ricky Martin, Pitbull, Shakira,Thalia.",
+    "shortDescription": "Where Music Is Born",
+    "siriusChannelNumber": 154,
+    "siriusServiceId": 73,
+    "xmServiceId": 27,
+    "vanityURL": "https://www.siriusxm.com/channels/en-vivo",
+    "xmChannelNumber": 154,
+    "primaryColor": "#f9c606",
+    "secondaryColor": "#87434d",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/En-Vivo/EnVivo-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/En-Vivo/EnVivo-White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
+    "relatedChannels": [
+      "siriushits1",
+      "8225",
+      "rumbon",
+      "9185"
+    ],
+    "updatedDate": 1698725800173
+  },
+  {
     "artistsYouHear": [
       "Jonathan Fishman ",
       "Ari Fink",
@@ -1072,7 +1225,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9174",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMRockHallRadio&cp_5=SXMRockHallRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMRockHallRadio&creative_id=NA_NA_DL-COM-live-SXMRockHallRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMRockHallRadio&cp_5=SiriusXMRockHallRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMRockHallRadio&creative_id=NA_NA_DL-COM-live-SiriusXMRockHallRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Rock and Roll Hall of Fame Radio",
     "genre": "rock",
     "genreLogo": null,
@@ -1085,12 +1238,12 @@
     "siriusChannelNumber": 310,
     "siriusServiceId": null,
     "xmServiceId": 285,
-    "vanityURL": "https://www.siriusxm.com/channels/rock-and-roll-hall-of-fame-radio",
+    "vanityURL": "https://www.siriusxm.com/channels/SiriusXM-Rock-Hall-Radio",
     "xmChannelNumber": 310,
     "primaryColor": "#d1d3d4",
     "secondaryColor": "#000101",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-and-Roll-Hall-of-Fame-Radio/RHOF-2016-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-and-Roll-Hall-of-Fame-Radio/RHOF-2016-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-and-Roll-Hall-of-Fame-Radio/RockAndRollHallOfFameRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-and-Roll-Hall-of-Fame-Radio/RockAndRollHallOfFameRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -1113,7 +1266,7 @@
       "gratefuldead",
       "soultown"
     ],
-    "updatedDate": 1694055945095
+    "updatedDate": 1699440494533
   },
   {
     "artistsYouHear": [
@@ -1129,45 +1282,42 @@
     ],
     "assetId": 1550762878750,
     "deliveryTypes": [
-      "ip",
       "mobile",
-      "satellite"
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>RockBar</b> is now a streaming-only channel.",
     "contentId": "9175",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RockBar313&cp_5=RockBar313&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=RockBar313&creative_id=NA_NA_DL-COM-live-RockBar313-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "RockBar 313",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RockBar&cp_5=RockBar&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=RockBar&creative_id=NA_NA_DL-COM-live-RockBar-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "RockBar",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "A non-stop rockin’ party with sing-a-long anthems from artists like AC/DC, Lynyrd Skynyrd, Van Halen, Nickelback, The Ramones, Aerosmith, Motley Crüe, Led Zeppelin and more.",
-    "mediumDescription": "A non-stop rockin’ party with sing-a-long anthems from artists like AC/DC, Lynyrd Skynyrd, Van Halen and more.",
-    "shortDescription": "Rock & Roll Jukebox Songs",
-    "siriusChannelNumber": 313,
+    "longDescription": "A hard rock music channel serving up tunes with a dive bar vibe. Raise a glass and the volume to top shelf rock on the rocks! AC/DC, Van Halen, Metallica, Aerosmith, Led Zeppelin, Nirvana, Linkin Park, Pearl Jam & more!",
+    "mediumDescription": "A hard rock music channel serving up tunes with a dive bar vibe. AC/DC, Van Halen, Led Zeppelin, Nirvana, Linkin Park & more!",
+    "shortDescription": "Top Shelf Hard Rock",
+    "siriusChannelNumber": 713,
     "siriusServiceId": null,
-    "xmServiceId": 258,
-    "vanityURL": "https://www.siriusxm.com/channels/rockbar-313",
-    "xmChannelNumber": 313,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/rockbar",
+    "xmChannelNumber": 713,
     "primaryColor": "#a4aa4d",
     "secondaryColor": "#33655b",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockbar-311/RockBar-313-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/rockbar-311/RockBar-313-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-Bar/RockBar-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-Bar/RockBar-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -1177,7 +1327,7 @@
       "octane",
       "buzzsaw"
     ],
-    "updatedDate": 1686149317775
+    "updatedDate": 1699019895015
   },
   {
     "artistsYouHear": [
@@ -1332,7 +1482,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Águila</b> (formerly ch. 322) is now on channel 153.",
     "contentId": "9186",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Aguila&cp_5=Aguila&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Aguila&creative_id=NA_NA_DL-COM-live-Aguila-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Águila",
@@ -1344,11 +1494,11 @@
     "longDescription": "Enjoy the passionately sung rancheras and accordion driven regional sounds of Mexico.  ¡Que Viva La Raza!\r\n\r\nDisfruta de rancheras apasionadas y música rítmica regional de México.  ¡Que viva la Raza!",
     "mediumDescription": "Banda, Norteño, Mariachi and all the sounds of traditional Mexican music.",
     "shortDescription": "Regional Mexican Music",
-    "siriusChannelNumber": 322,
+    "siriusChannelNumber": 153,
     "siriusServiceId": null,
     "xmServiceId": 333,
     "vanityURL": "https://www.siriusxm.com/channels/aguila",
-    "xmChannelNumber": 322,
+    "xmChannelNumber": 153,
     "primaryColor": "#49e889",
     "secondaryColor": "#770021",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/Aguila/Aguila-126-500x400-P.svg",
@@ -1368,7 +1518,7 @@
       "9191",
       "rumbon"
     ],
-    "updatedDate": 1682048685947
+    "updatedDate": 1698725752088
   },
   {
     "artistsYouHear": [
@@ -1717,7 +1867,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>SiriusXM Fly</b> (formerly ch. 47) is now on channel 50.",
     "contentId": "9339",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMFLY&cp_5=SiriusXMFLY&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMFLY&creative_id=NA_NA_DL-COM-live-SiriusXMFLY-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM FLY",
@@ -1729,11 +1879,11 @@
     "longDescription": "Your source for Hip-Hop and R&B from the '90s and 2000s, from Mary J. Blige & Outkast to Aaliyah & Jay-Z.",
     "mediumDescription": "Hip-Hop and R&B from the '90s & 2000s.",
     "shortDescription": "'90s & 2000s Hip-Hop/R&B - XL",
-    "siriusChannelNumber": 47,
+    "siriusChannelNumber": 50,
     "siriusServiceId": 164,
     "xmServiceId": 218,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-fly",
-    "xmChannelNumber": 47,
+    "xmChannelNumber": 50,
     "primaryColor": "#a7a9ac",
     "secondaryColor": "#3a1e5e",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/SiriusXM-Fly/Sirius_XM_Fly.svg",
@@ -1745,14 +1895,16 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
       "heartandsoul",
+      "hiphopnation",
       "hotjamz",
       "9471"
     ],
-    "updatedDate": 1687962456646
+    "updatedDate": 1698723716871
   },
   {
     "artistsYouHear": [
@@ -1825,21 +1977,22 @@
   },
   {
     "artistsYouHear": [
-      "Bing Crosby",
-      "Perry Como",
-      "Ella Fitzgerald",
-      "Frank Sinatra",
+      "Mariah Carey",
+      "Michael Bublé",
       "Dean Martin",
-      "Ray Conniff",
-      "Johnny Mathis",
-      "Nat “King” Cole\"",
-      "Andy Williams",
-      "Peggy Lee"
+      "Kelly Clarkson",
+      "Josh Groban",
+      "John Legend",
+      "Pentatonix",
+      "Brenda Lee",
+      "Train",
+      "Gwen Stefani"
     ],
-    "assetId": 1550762859942,
+    "assetId": 1550884565210,
     "deliveryTypes": [
-      "mobile",
-      "ip"
+      "ip",
+      "satellite",
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -1847,45 +2000,55 @@
     "categoryTitle": "Music",
     "categoryVanityURL": null,
     "channelNotification": null,
-    "contentId": "9342",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HolidayTraditions&cp_5=HolidayTraditions&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HolidayTraditions&creative_id=NA_NA_DL-COM-live-HolidayTraditions-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Holiday Traditions",
-    "genre": "pop",
+    "contentId": "9343",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Holly&cp_5=Holly&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Holly&creative_id=NA_NA_DL-COM-live-Holly-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Holly",
+    "genre": "Holiday",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
+    "genreIcon": null,
+    "genreTitle": "Holiday",
     "genreVanityURL": null,
-    "longDescription": "Traditional holiday recordings from the ‘40s through the ‘60s by artists such as Bing Crosby, Andy Williams, Ray Conniff and Nat \"King\" Cole.",
-    "mediumDescription": "Traditional holiday recordings from the '40s through the '60s.",
-    "shortDescription": "Traditional Holiday Music",
-    "siriusChannelNumber": 602,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/holiday-traditions",
-    "xmChannelNumber": 602,
-    "primaryColor": "#e6eab0",
-    "secondaryColor": "#940e12",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Traditions/HolidayTraditions-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Traditions/HolidayTraditions-WHITE.svg",
+    "longDescription": "Modern holiday hits featuring songs by Mariah Carey, Michael Bublé, Dean Martin, Kelly Clarkson, Pentatonix, Josh Groban, John Legend, Brenda Lee, Train, Gwen Stefani, and more.",
+    "mediumDescription": "Modern holiday hits.",
+    "shortDescription": "Modern holiday hits",
+    "siriusChannelNumber": 79,
+    "siriusServiceId": 58,
+    "xmServiceId": 50,
+    "vanityURL": "https://www.siriusxm.com/channels/holly",
+    "xmChannelNumber": 79,
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#32733b",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holly/Holly-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holly/Holly-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
     ],
-    "relatedChannels": null,
-    "updatedDate": 1692939791186
+    "relatedChannels": [
+      "9344",
+      "9342",
+      "9483",
+      "9351"
+    ],
+    "updatedDate": 1699392683592
   },
   {
     "artistsYouHear": [],
-    "assetId": 1550849860344,
+    "assetId": 1550884586541,
     "deliveryTypes": [
-      "mobile",
-      "satellite",
-      "ip"
+      "ip",
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -1893,37 +2056,208 @@
     "categoryTitle": "Music",
     "categoryVanityURL": null,
     "channelNotification": null,
-    "contentId": "9351",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBillyJoelChannel&cp_5=TheBillyJoelChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBillyJoelChannel&creative_id=NA_NA_DL-COM-live-TheBillyJoelChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Billy Joel Channel",
-    "genre": "pop",
+    "contentId": "9344",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HolidayPops&cp_5=HolidayPops&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HolidayPops&creative_id=NA_NA_DL-COM-live-HolidayPops-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Holiday Pops",
+    "genre": "Holiday",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Pop",
+    "genreTitle": "Holiday",
     "genreVanityURL": null,
-    "longDescription": "Billy Joel has written and performed songs that have touched a generation. Now, SiriusXM presents a limited-run channel dedicated to his music and his stories behind the songs. In addition, Billy will offer exclusive commentary on his writing process and the music that influenced it&hellip;along with track-by-track specials on three of his albums: Turnstiles, 52nd Street and Glass Houses.",
-    "mediumDescription": "Music from Billy Joel's career plus stories behind the songs and Billy's memories and anecdotes. Limited-run channel.",
-    "shortDescription": "Billy Joel&#39;s Music, 24/7",
-    "siriusChannelNumber": 105,
-    "siriusServiceId": 74,
-    "xmServiceId": 37,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
-    "xmChannelNumber": 105,
-    "primaryColor": "#d3d3d3",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-127-500x400-N.svg",
+    "longDescription": "Classical Christmas carols and holiday favorites performed by the greatest classical artists of all-time, including the Mormon Tabernacle Choir, Luciano Pavarotti, New York Philharmonic, King’s College Choir, Boston Pops and Thomas Hampson.",
+    "mediumDescription": "Classical Christmas carols and holiday favorites performed by the greatest classical artists of all-time.",
+    "shortDescription": "Classical Christmas Carols",
+    "siriusChannelNumber": 622,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/holiday-pops",
+    "xmChannelNumber": 622,
+    "primaryColor": "#77aad6",
+    "secondaryColor": "#5A5A5A",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/holiday-pops/HolidayPops-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/holiday-pops/HolidayPops-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
     ],
-    "relatedChannels": null,
-    "updatedDate": 1695965288165
+    "relatedChannels": [
+      "9342",
+      "9343",
+      "9483",
+      "9351"
+    ],
+    "updatedDate": 1699039277958
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550884565756,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9345",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=CountryChristmas&cp_5=CountryChristmas&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=CountryChristmas&creative_id=NA_NA_DL-COM-live-CountryChristmas-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Country Christmas",
+    "genre": "Holiday",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Holiday",
+    "genreVanityURL": null,
+    "longDescription": "All the generations of Country artists come together with both Classic and Contemporary Holiday songs from every generation of Country artists... including George Strait, Carrie Underwood and Willie Nelson.",
+    "mediumDescription": "A wide-ranging assortment of Country Christmas music, including George Strait, Carrie Underwood and Willie Nelson.",
+    "shortDescription": "Country Christmas Music",
+    "siriusChannelNumber": 606,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/country-christmas",
+    "xmChannelNumber": 606,
+    "primaryColor": "#8a2724",
+    "secondaryColor": "#395e35",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/country-christmas/CountryChristmas-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/country-christmas/CountryChristmas-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
+    "relatedChannels": [
+      "9342",
+      "9343",
+      "9483",
+      "9351"
+    ],
+    "updatedDate": 1699038796918
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550884566799,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9346",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HolidaySoul&cp_5=HolidaySoul&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HolidaySoul&creative_id=NA_NA_DL-COM-live-HolidaySoul-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Holiday Soul",
+    "genre": "Holiday",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Holiday",
+    "genreVanityURL": null,
+    "longDescription": "Classic soul and Motown holiday music from the 60's and 70's, along with R&B holiday music from the 80's and early 90's, including Aretha Franklin, Temptations, James Brown, Lou Rawls, Smokey Robinson, Dionne Warwick, The Jackson 5, The Four Tops, The Supremes, John Legend, Boyz II Men & many more!",
+    "mediumDescription": "Classic soul and Motown holiday music from the ‘60s and ‘70s, along with R&B holiday music from the '80s and early '90s.",
+    "shortDescription": "Soul/Motown/R&B Holiday",
+    "siriusChannelNumber": 612,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/holiday-soul",
+    "xmChannelNumber": 612,
+    "primaryColor": "#4a7d45",
+    "secondaryColor": "#db3832",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/holiday-soul/HolidaySoul-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/holiday-soul/HolidaySoul-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
+    "relatedChannels": [
+      "9342",
+      "9343",
+      "9612",
+      "9351"
+    ],
+    "updatedDate": 1699039005465
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550884567110,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9348",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Navidad&cp_5=Navidad&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Navidad&creative_id=NA_NA_DL-COM-live-Navidad-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Navidad",
+    "genre": "Holiday",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Holiday",
+    "genreVanityURL": null,
+    "longDescription": "Latin holiday music and traditional sounds, including Ricky Martin, Gloria Estefan, José Feliciano, Tito El Bambino, Marco Antonio Solís and Fania All-Stars.",
+    "mediumDescription": "Latin holiday music and traditional sounds.\r\n",
+    "shortDescription": "Latin Holiday Music",
+    "siriusChannelNumber": 626,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/navidad",
+    "xmChannelNumber": 626,
+    "primaryColor": "#a2b059",
+    "secondaryColor": "#c34232",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Navidad/Navidad.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Navidad/Navidad_K2_White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
+    "relatedChannels": [
+      "9342",
+      "9343",
+      "9483",
+      "9351"
+    ],
+    "updatedDate": 1699039090489
   },
   {
     "artistsYouHear": [],
@@ -1969,52 +2303,6 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1666619597561
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550850177919,
-    "deliveryTypes": [
-      "satellite",
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9353",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM104&cp_5=SiriusXM104&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM104&creative_id=NA_NA_DL-COM-live-SiriusXM104-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 104",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "SiriusXM 104",
-    "mediumDescription": "SiriusXM 104",
-    "shortDescription": "SiriusXM 104",
-    "siriusChannelNumber": 104,
-    "siriusServiceId": 58,
-    "xmServiceId": 50,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-104",
-    "xmChannelNumber": 104,
-    "primaryColor": "#d3d3d3",
-    "secondaryColor": "#87ceeb",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-126-500x400-P.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1690821519193
   },
   {
     "artistsYouHear": [
@@ -2160,7 +2448,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>KIDZ BOP Radio</b> (formerly ch. 79) is now on channel 135.",
     "contentId": "9366",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=KIDZBOPRadio&cp_5=KIDZBOPRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=KIDZBOPRadio&creative_id=NA_NA_DL-COM-live-KIDZBOPRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "KIDZ BOP Radio",
@@ -2172,11 +2460,11 @@
     "longDescription": "Today’s pop hits from the celebrated and trusted Kidz Bop series of music. Hear today’s biggest pop hits along with a mix of top contemporary pop music. This is a full channel of music - sung by kids - for pre-school and school-age kids.",
     "mediumDescription": "It’s all KIDZ BOP, all the time. Tune in for a 24/7 POP STAR Party hosted by the KIDZ BOP Kids, featuring today’s biggest hits.",
     "shortDescription": "Pop Hits Sung By Kids For Kids",
-    "siriusChannelNumber": 79,
+    "siriusChannelNumber": 135,
     "siriusServiceId": 97,
     "xmServiceId": 77,
     "vanityURL": "https://www.siriusxm.com/channels/kidz-bop-radio",
-    "xmChannelNumber": 79,
+    "xmChannelNumber": 135,
     "primaryColor": "#f9199e",
     "secondaryColor": "#20409a",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Family/KIDZ-BOP-Radio/KIDZ-BOP-RADIO_Vector.svg",
@@ -2194,10 +2482,75 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
+      "9530",
       "8216",
       "laughbreak"
     ],
-    "updatedDate": 1666620113054
+    "updatedDate": 1698724996582
+  },
+  {
+    "artistsYouHear": [
+      "Madonna",
+      "Salt-N-Pepa",
+      "Guns N’ Roses",
+      "Cameo",
+      "Vanilla Ice",
+      "Mötley Crüe",
+      "Whitney",
+      "Houston",
+      "Van Halen"
+    ],
+    "assetId": 1550762851015,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9373",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=80s90sPop&cp_5=80s90sPop&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=80s90sPop&creative_id=NA_NA_DL-COM-live-80s90sPop-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "80s/90s Pop",
+    "genre": "pop",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Pop",
+    "genreVanityURL": null,
+    "longDescription": "From the Madonna years, it’s time to party yo’ body!  This is pure energy.  Pure '80s & '90s party hits that will make you wanna do the Wild Thing!",
+    "mediumDescription": "Ya can’t touch this!  Essential party hits from the Awesome '80s & the Whassup! '90s…it’s Electric!",
+    "shortDescription": "'80s & '90s Party Hits",
+    "siriusChannelNumber": 705,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/80s-90s-party",
+    "xmChannelNumber": 705,
+    "primaryColor": "#90b33e",
+    "secondaryColor": "#b3006a",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/80s90sPOP/80s90Pop-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/80s90sPOP/80s90Pop-4C-OnK.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": [
+      "4042",
+      "4185",
+      "4110",
+      "firstwave",
+      "90salternative",
+      "4068",
+      "4057",
+      "big80s",
+      "4028",
+      "8206",
+      "4029",
+      "4118"
+    ],
+    "updatedDate": 1651107751742
   },
   {
     "artistsYouHear": [
@@ -2329,72 +2682,6 @@
   },
   {
     "artistsYouHear": [
-      "Beyonce",
-      "The Weekend",
-      "Britney Spears",
-      "Bruno Mars",
-      "Jennifer Lopez",
-      "Usher",
-      "Lady Gaga",
-      "Drake",
-      "Mariah Carey"
-    ],
-    "assetId": 1550762892259,
-    "deliveryTypes": [
-      "mobile",
-      "satellite",
-      "ip"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9389",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Venus303&cp_5=Venus303&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Venus303&creative_id=NA_NA_DL-COM-live-Venus303-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Venus 303",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "Rhythmic Pop Hits from the 2000s through today featuring Beyoncé, The Weeknd, Britney Spears, Bruno Mars, Jennifer Lopez, Usher, Lady Gaga, Drake, Mariah Carey, Pitbull, Nicki Minaj and more!",
-    "mediumDescription": "Rhythmic Pop Hits from the 2000s through today.",
-    "shortDescription": "Pop Music You Can Move To",
-    "siriusChannelNumber": 303,
-    "siriusServiceId": null,
-    "xmServiceId": 282,
-    "vanityURL": "https://www.siriusxm.com/channels/venus-303",
-    "xmChannelNumber": 303,
-    "primaryColor": "#b74e7e",
-    "secondaryColor": "#57447d",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Venus/Venus-303-solid-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Venus/Venus303-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "heartandsoul",
-      "9365",
-      "hotjamz",
-      "8208",
-      "9472",
-      "thebeat"
-    ],
-    "updatedDate": 1693537370579
-  },
-  {
-    "artistsYouHear": [
       "James Brown",
       "Ne-Yo",
       "Drake",
@@ -2442,7 +2729,8 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
       "hiphopnation",
@@ -2520,7 +2808,7 @@
     "channelNotification": null,
     "contentId": "9399",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RockvilleRadio&cp_5=RockvilleRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=RockvilleRadio&creative_id=NA_NA_DL-COM-live-RockvilleRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 5",
+    "displayName": "Limited Edition 5",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
@@ -2570,7 +2858,7 @@
     "channelNotification": null,
     "contentId": "9400",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMLimitedEdition6&cp_5=SiriusXMLimitedEdition6&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMLimitedEdition6&creative_id=NA_NA_DL-COM-live-SiriusXMLimitedEdition6-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20",
-    "displayName": "SXM Limited Edition 6",
+    "displayName": "Limited Edition 6",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
@@ -2620,7 +2908,7 @@
     "channelNotification": null,
     "contentId": "9401",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition7&cp_5=SXMLimitedEdition7&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition7&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition7-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 7",
+    "displayName": "Limited Edition 7",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
@@ -2671,7 +2959,7 @@
     "channelNotification": null,
     "contentId": "9402",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition8&cp_5=SXMLimitedEdition8&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition8&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition8-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 8",
+    "displayName": "Limited Edition 8",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
@@ -2710,8 +2998,9 @@
     "artistsYouHear": [],
     "assetId": 1550762881711,
     "deliveryTypes": [
-      "mobile",
-      "ip"
+      "satellite",
+      "ip",
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -2721,7 +3010,7 @@
     "channelNotification": null,
     "contentId": "9403",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition9&cp_5=SXMLimitedEdition9&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition9&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition9-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 9",
+    "displayName": "Limited Edition 9",
     "genre": "dance",
     "genreLogo": null,
     "genreIcon": null,
@@ -2785,7 +3074,7 @@
     "displayName": "Pitbull's Globalization",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Open format club DJs dropping the biggest hits from all genres around the world. From POP, to Hip-Hop, to Latin & Dance.",
@@ -2812,7 +3101,6 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "9389",
       "siriushits1",
       "9472",
       "thebeat"
@@ -2930,7 +3218,8 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
       "hairnation",
@@ -2943,7 +3232,7 @@
       "9175",
       "8230"
     ],
-    "updatedDate": 1676427695511
+    "updatedDate": 1699293696405
   },
   {
     "artistsYouHear": [
@@ -2975,7 +3264,7 @@
     "displayName": "Road Trip Radio",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Roll your windows down and turn the music up! A hand-selected mix of driving jams and singalongs as unpredictable as your journey. Hear all the music from the last 60 years sure to please everyone in the car!",
@@ -3215,7 +3504,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>PopRocks</b> (formerly ch. 12) is now on channel 6.",
     "contentId": "9450",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=PopRocks&cp_5=PopRocks&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=PopRocks&creative_id=NA_NA_DL-COM-live-PopRocks-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "PopRocks",
@@ -3227,11 +3516,11 @@
     "longDescription": "All the catchy rock songs from the 90s and 2000s that became big pop hits on one channel",
     "mediumDescription": "Rock songs that became pop hits from the 90s & 2000s",
     "shortDescription": "90s/2000s Pop & Rock Hits",
-    "siriusChannelNumber": 12,
-    "siriusServiceId": 34,
+    "siriusChannelNumber": 6,
+    "siriusServiceId": 6,
     "xmServiceId": 134,
     "vanityURL": "https://www.siriusxm.com/channels/poprocks",
-    "xmChannelNumber": 12,
+    "xmChannelNumber": 6,
     "primaryColor": "#fff200",
     "secondaryColor": "#2e3192",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/PopRocks/PopRocks.svg",
@@ -3257,7 +3546,7 @@
       "8208",
       "8206"
     ],
-    "updatedDate": 1678176110370
+    "updatedDate": 1698683029010
   },
   {
     "artistsYouHear": [
@@ -3372,7 +3661,8 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
       "hiphopnation",
@@ -3404,7 +3694,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Diplo's Revolution</b> (formerly ch. 52) is now on channel 53.",
     "contentId": "9472",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=DiplosRevolution&cp_5=DiplosRevolution&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=DiplosRevolution&creative_id=NA_NA_DL-COM-live-DiplosRevolution-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Diplo's Revolution",
@@ -3416,11 +3706,11 @@
     "longDescription": "Superstar tastemaker Diplo lets you inside his Global House Party. Discover the latest in dance music and exclusive edits/remixes.  You'll also get access to live DJ sets from festivals and events from around the world.",
     "mediumDescription": "Discover the latest in dance music and DJ mixes.",
     "shortDescription": "Diplo’s Global House Party",
-    "siriusChannelNumber": 52,
+    "siriusChannelNumber": 53,
     "siriusServiceId": 33,
     "xmServiceId": 80,
     "vanityURL": "https://www.siriusxm.com/channels/diplos-revolution",
-    "xmChannelNumber": 52,
+    "xmChannelNumber": 53,
     "primaryColor": "#BC4599",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/Diplo-Revolution/DiplosRevolution-4C-FILL.svg",
@@ -3437,12 +3727,11 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "9389",
       "hotjamz",
       "9406",
       "thebeat"
     ],
-    "updatedDate": 1692943171882
+    "updatedDate": 1698723928177
   },
   {
     "artistsYouHear": [
@@ -3522,25 +3811,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9481",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition1&cp_5=SXMLimitedEdition1&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition1&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition1-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 1",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=BillboardMusicAwards&cp_5=BillboardMusicAwards&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=BillboardMusicAwards&creative_id=NA_NA_DL-COM-live-BillboardMusicAwards--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Billboard Music Awards",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "A reimagined 2023 Billboard Music Awards will bring fans up close and personal with their favorite artists on Sunday, November 19. Delivering a fresh award show concept that will entertain with hours of music and exclusive content, including winner celebrations, behind-the-scenes moments, and performances created by the world’s biggest chart-topping artists. Winners are determined by year-end performance metrics on the Billboard charts, the ultimate authority of fan engagement with music.",
+    "mediumDescription": "Celebrating Billboard Music Awards Finalists and looking back at the past year’s No. 1s on the Billboard Charts.",
+    "shortDescription": "Billboard Music Awards",
     "siriusChannelNumber": 501,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-1",
+    "vanityURL": "https://www.siriusxm.com/channels/billboard-music-awards-channel",
     "xmChannelNumber": 501,
-    "primaryColor": "#87ceeb",
-    "secondaryColor": "#8fbc8f",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/billboard-music-awards-channel/BillboardMusicAwardsChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/billboard-music-awards-channel/BillboardMusicAwardsChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -3551,7 +3840,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1694069353181
+    "updatedDate": 1699296736942
   },
   {
     "artistsYouHear": [],
@@ -3568,7 +3857,7 @@
     "channelNotification": null,
     "contentId": "9482",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition12&cp_5=SXMLimitedEdition12&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition12&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition12-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM Limited Edition 12",
+    "displayName": "Limited Edition 12",
     "genre": "world",
     "genreLogo": null,
     "genreIcon": null,
@@ -3600,6 +3889,133 @@
   },
   {
     "artistsYouHear": [
+      "John Legend",
+      "Josh Groban",
+      "Jordin Sparks",
+      "Michael Bublé",
+      "Kelly Clarkson",
+      "Bing Crosby",
+      "Natalie Dessay"
+    ],
+    "assetId": 1550884412258,
+    "deliveryTypes": [
+      "satellite",
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9483",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HallmarkChannelRadio&cp_5=HallmarkChannelRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HallmarkChannelRadio&creative_id=NA_NA_DL-COM-live-HallmarkChannelRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Hallmark Channel Radio",
+    "genre": "Holiday",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Holiday",
+    "genreVanityURL": null,
+    "longDescription": "Hallmark Channel Radio is back for the holidays featuring timeless Christmas music and carols that celebrate the joy of the season. Hear the songs you love including music from this year’s Hallmark Channel Countdown to Christmas movies. Hallmark Channel Radio is the perfect way to embrace the wonder of the season with loved ones near & far. Listen all season long!",
+    "mediumDescription": "Celebrate the holidays with Hallmark Channel featuring timeless Christmas music and carols 24/7.",
+    "shortDescription": "Timeless Christmas Music",
+    "siriusChannelNumber": 107,
+    "siriusServiceId": 49,
+    "xmServiceId": 100,
+    "vanityURL": "https://www.siriusxm.com/channels/hallmark-channel-radio",
+    "xmChannelNumber": 107,
+    "primaryColor": "#397049",
+    "secondaryColor": "#ae3134",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/hallmark-radio/HallmarkChannelRadio-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/hallmark-radio/HallmarkChannelRadio-White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
+    "relatedChannels": [
+      "9342",
+      "9343",
+      "9489",
+      "9351"
+    ],
+    "updatedDate": 1699250985012
+  },
+  {
+    "artistsYouHear": [
+      "MercyMe",
+      "Amy Grant",
+      "For King & Country",
+      "Matthew West",
+      "Lauren Daigle",
+      "Michael W. Smith",
+      "Chris Tomlin",
+      "Sidewalk Prophets",
+      "Casting Crowns",
+      "Third Day"
+    ],
+    "assetId": 1550884566294,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9489",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ChristmasSpirit&cp_5=ChristmasSpirit&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=ChristmasSpirit&creative_id=NA_NA_DL-COM-live-ChristmasSpirit-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Christmas Spirit",
+    "genre": "Holiday",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Holiday",
+    "genreVanityURL": null,
+    "longDescription": "Christmas music and holiday favorites exclusively from contemporary Christian artists. Here, the reason for the season is not just remembered, He’s celebrated in song, commercial free!",
+    "mediumDescription": "Christmas music from contemporary Christian artists. Where the reason for the season is not just remembered, He’s celebrated!",
+    "shortDescription": "The true reason of the season!",
+    "siriusChannelNumber": 610,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/christmas-spirit",
+    "xmChannelNumber": 610,
+    "primaryColor": "#6eb9dc",
+    "secondaryColor": "#b52b34",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/christmas-spirit/ChristmasSpirit-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/christmas-spirit/ChristmasSpirit-White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
+    "relatedChannels": [
+      "9342",
+      "9343",
+      "9483",
+      "9351"
+    ],
+    "updatedDate": 1699250684802
+  },
+  {
+    "artistsYouHear": [
       "Post Malone",
       "Lil Baby",
       "Chris Brown",
@@ -3628,7 +4044,7 @@
     "displayName": "Pandora Now",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Pandora Now features Pandora’s most Thumbed Up & Streamed Pop, Hip-Hop & R&B from the past 2 years, as well as highly anticipated new releases and custom content from some of Pandora’s biggest artists.",
@@ -3650,7 +4066,8 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
       "thepulse",
@@ -3665,16 +4082,15 @@
     "artistsYouHear": [],
     "assetId": 1550764652691,
     "deliveryTypes": [
-      "ip",
-      "satellite",
-      "mobile"
+      "mobile",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>SoulCycle Radio</b> is now a streaming-only channel.",
     "contentId": "9500",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SoulCycleRadio&cp_5=SoulCycleRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SoulCycleRadio&creative_id=NA_NA_DL-COM-live-SoulCycleRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SoulCycle Radio",
@@ -3686,24 +4102,22 @@
     "longDescription": "There’s a reason we ride to the rhythm as a pack. At SoulCycle, music is what connects us,  moves us, and inspires us. So we designed this channel to deliver the same joy, motivation,  and heart-pumping beat you expect from us in class—and then some. Whether you’re in the  car, walking to work, or dancing in your bedroom, turn it up for a transformative  mind-body-soul experience.",
     "mediumDescription": "High-energy hits, instructor guided workouts, and motivating messages for your mind, body, and Soul.",
     "shortDescription": "Music to energize your soul",
-    "siriusChannelNumber": 304,
+    "siriusChannelNumber": 704,
     "siriusServiceId": null,
-    "xmServiceId": 334,
+    "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/soulcycle-radio",
-    "xmChannelNumber": 304,
+    "xmChannelNumber": 704,
     "primaryColor": "#fedb00",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/soulcycle/SoulCycleRadio-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/soulcycle/SoulCycleRadio-4C-WHITE-SML.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -3714,7 +4128,7 @@
       "9339",
       "thebeat"
     ],
-    "updatedDate": 1631539655344
+    "updatedDate": 1698727115823
   },
   {
     "artistsYouHear": [],
@@ -3931,7 +4345,8 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
     "updatedDate": 1694058003866
@@ -4110,23 +4525,23 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Disney Hits</b> (formerly ch. 302) is now on channel 133.",
     "contentId": "9530",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=DisneyHits&cp_5=DisneyHits&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=DisneyHits&creative_id=NA_NA_DL-COM-live-DisneyHits-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Disney Hits",
-    "genre": "pop",
+    "genre": "kids",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Pop",
+    "genreTitle": "Family",
     "genreVanityURL": null,
     "longDescription": "Disney Hits is the Happiest SiriusXM channel on Earth! All of your favorite Disney Music of all time on one channel. Featuring songs from Moana, Frozen, Lion King, Beauty and The Beast, High School Musical and many more. Plus, enjoy special magic themed hours and Be Our Guest that puts listeners and celebrities in charge!",
     "mediumDescription": "All of your favorite Disney songs, from all time on one channel. Disney Hits!",
     "shortDescription": "Wonderful World Of Disney Hits",
-    "siriusChannelNumber": 302,
+    "siriusChannelNumber": 133,
     "siriusServiceId": null,
     "xmServiceId": 299,
     "vanityURL": "https://www.siriusxm.com/channels/disney-hits",
-    "xmChannelNumber": 302,
+    "xmChannelNumber": 133,
     "primaryColor": "#77c0e7",
     "secondaryColor": "#23589f",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/disney-hits/Disney-Hits-4C.svg",
@@ -4144,7 +4559,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1692940447314
+    "updatedDate": 1698724868526
   },
   {
     "artistsYouHear": [],
@@ -4184,7 +4599,8 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
       "4144",
@@ -4219,7 +4635,7 @@
     "displayName": "Andy Cohen's Kiki Lounge",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Late night talk show host, Andy Cohen, invites you to his Kiki Lounge to discover songs you may not know from artists he loves. Hear a personally crafted mix of music from Andy that he loves to chill with – and party to. And every night’s a vibe with a different set from a DJ Andy loves.",
@@ -4282,7 +4698,7 @@
     "displayName": "TikTok Radio",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "The sounds and songs that redefine pop culture. An unpredictable journey through the musical world of TikTok where creators and personalities share trending sounds and the stories behind them. Expect music’s next generation of rising stars and whatever else the TikTok community is vibing to.",
@@ -4303,7 +4719,8 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
     "updatedDate": 1694068709706
@@ -4326,7 +4743,7 @@
     "displayName": "Ed Sheeran Channel",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Due to popular demand, it’s the return of the Ed Sheeran Channel! Join GRAMMY® Award winning Ed Sheeran for a non-stop journey through the decade by numbers with Plus, Multiply, Divide, Equals and Subtract with new releases including Autumn Variations. Hear fresh super-fan stories with exclusive performances including Ed’s historical night with SiriusXM at Stephen’s Talkhouse. Making mathematics fun again, sit front row to hear the ultimate mix to sing-along with for a limited time.",
@@ -4367,25 +4784,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9546",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition3&cp_5=SXMLimitedEdition3&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition3&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition3-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 3",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBeachBoysChannel&cp_5=TheBeachBoysChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBeachBoysChannel&creative_id=NA_NA_DL-COM-live-TheBeachBoysChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "The Beach Boys Channel",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "The Beach Boys Channel",
+    "mediumDescription": "The Beach Boys Channel",
+    "shortDescription": "The Beach Boys Channel",
     "siriusChannelNumber": 503,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-3",
     "xmChannelNumber": 503,
-    "primaryColor": "#008000",
-    "secondaryColor": "#0000cd",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3-White.svg",
+    "primaryColor": "#c54764",
+    "secondaryColor": "#cf6236",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channels/GoodVibrations21-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channels/GoodVibrations21-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -4396,7 +4813,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1665424757531
+    "updatedDate": 1699388987482
   },
   {
     "artistsYouHear": [
@@ -4459,25 +4876,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9548",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition10&cp_5=SXMLimitedEdition10&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition10&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition10-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 10",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=DollysRockstarRadio&cp_5=DollysRockstarRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=DollysRockstarRadio&creative_id=NA_NA_DL-COM-live-DollysRockstarRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Dolly's Rockstar Radio",
     "genre": "country",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "\"Global superstar Dolly Parton celebrates her new rock album “Rockstar” with Dolly’s\nRockstar Radio. Hear tracks from the new album, hits from her iconic catalog, and music\nfrom her friends and collaborators all handpicked by Dolly herself. Plus, stories from the\nmaking of “Rockstar” and more memories from her decades-long career.\"",
+    "mediumDescription": "\"Dolly Parton shares her new album “Rockstar” with you! Hits from her iconic catalog and\nher favorite music, handpicked by Dolly",
+    "shortDescription": "Rock out with Dolly Parton",
     "siriusChannelNumber": 510,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-10",
     "xmChannelNumber": 510,
     "primaryColor": "#87ceeb",
-    "secondaryColor": "#2e8b57",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-127-500x400-N.svg",
+    "secondaryColor": "#000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/dollys-rockstar-radio/DollysRockstarRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/dollys-rockstar-radio/DollysRockstarRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -4488,7 +4905,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1667245040055
+    "updatedDate": 1699397212808
   },
   {
     "artistsYouHear": [],
@@ -4505,7 +4922,7 @@
     "channelNotification": null,
     "contentId": "9549",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition11&cp_5=SXMLimitedEdition11&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition11&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition11-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SXM Limited Edition 11",
+    "displayName": "Limited Edition 11",
     "genre": "country",
     "genreLogo": null,
     "genreIcon": null,
@@ -5007,7 +5424,7 @@
     "displayName": "Pop Top 500",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Counting down the biggest Pop Hits from 2000 to today! Nonstop top pop from P!nk, Bruno Mars, Taylor Swift, Justin Bieber, Beyoncé, Harry Styles, Lady Gaga, Eminem, Adele, One Direction, Rihanna, Ed Sheeran, The Weeknd, Dua Lipa, Maroon 5, Olivia Rodrigo, Justin Timberlake, Miley Cyrus and more!",
@@ -5100,9 +5517,9 @@
     "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "From Grunge innovators Nirvana to Diva Mariah Carey, Boys bands Backstreet Boys to Girl Group Spice Girls, Alternative Rockers The Cranberries to Hip-Hip Pioneer Snoop Dogg, . New Jack Swing Bel Biv Devoe to R&B singers like Baby Face. No Doubt, Ace of Base, MC Hammer, they’re all here. It’s the definitive comprehensive list of the Top 500 ‘90s hits of all time!",
-    "mediumDescription": "From Grunge to Divas, Boy Bands and Girl Groups, Alternative to Hip Hop pioneers. It’s the Top 500 ‘90s hits of all time!",
-    "shortDescription": "TOP 500 ‘90S HITS OF ALL TIME",
+    "longDescription": "Counting down the top 500 most wicked-awesome 90s hits! From grunge to diva, from boy bands to girl groups, from dance pioneers to hip-hop legends – including hits from Boyz II Men, No Doubt, Backstreet Boys, Nirvana and more.",
+    "mediumDescription": "Counting down the hottest 500 songs from the 1990s.",
+    "shortDescription": "90s on 9 Top 500 Countdown",
     "siriusChannelNumber": 552,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -5260,7 +5677,8 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
     "updatedDate": 1656622361308
@@ -5320,6 +5738,58 @@
     "updatedDate": 1670437628943
   },
   {
+    "artistsYouHear": [],
+    "assetId": 1550884581873,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9591",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=MannheimSteamroller&cp_5=MannheimSteamroller&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=MannheimSteamroller&creative_id=NA_NA_DL-COM-live-MannheimSteamroller-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Mannheim Steamroller",
+    "genre": "Holiday",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Holiday",
+    "genreVanityURL": null,
+    "longDescription": "Celebrate the holidays with Chip Davis of Mannheim Steamroller featuring their signature blend of symphonic, new age and rock inspired Christmas music. Explore more than three decades of their majestic sounds plus Chip’s groundbreaking Fresh Aire music",
+    "mediumDescription": "Mannheim Steamroller takes holiday classics in a fun direction with their signature blend of symphonic, new age & rock sounds.",
+    "shortDescription": "A Mannheim Steamroller Christmas",
+    "siriusChannelNumber": 620,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/mannheim-steamroller",
+    "xmChannelNumber": 620,
+    "primaryColor": "#97bedf",
+    "secondaryColor": "#8b0000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/mannheim-steamroller/MannheimSteamroller-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/mannheim-steamroller/MannheimSteamroller-White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
+    "relatedChannels": [
+      "9342",
+      "9343",
+      "9483",
+      "9351"
+    ],
+    "updatedDate": 1699039161473
+  },
+  {
     "artistsYouHear": [
       "Rosalia",
       "Yahritza y Su Esencia",
@@ -5344,7 +5814,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Hits Uno</b> (formerly ch. 321) is now on channel 151.",
     "contentId": "9593",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HitsUno&cp_5=HitsUno&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=HitsUno&creative_id=NA_NA_DL-COM-live-HitsUno--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Hits Uno",
@@ -5356,11 +5826,11 @@
     "longDescription": "From the SiriusXM studios in Miami, your new home for today’s biggest Latin Pop hits from around the globe! From pop to reggaeton, dance to viral LatinX hits, somos los exitos!",
     "mediumDescription": "From the SiriusXM studios in Miami, your new home for today’s biggest Latin Pop hits from around the globe!",
     "shortDescription": "Today’s Latin Pop hits",
-    "siriusChannelNumber": 321,
+    "siriusChannelNumber": 151,
     "siriusServiceId": null,
     "xmServiceId": 332,
     "vanityURL": "https://www.siriusxm.com/channels/hits-uno",
-    "xmChannelNumber": 321,
+    "xmChannelNumber": 151,
     "primaryColor": "#da70d6",
     "secondaryColor": "#0000ff",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-126-500x400-P1.svg",
@@ -5371,11 +5841,11 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "9389",
       "9544",
       "siriushits1",
       "8208",
@@ -5384,7 +5854,7 @@
       "9492",
       "9185"
     ],
-    "updatedDate": 1694754620454
+    "updatedDate": 1698725655780
   },
   {
     "artistsYouHear": [
@@ -5465,7 +5935,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Moonbug Radio</b> (formerly ch. 307) is now on channel 136.",
     "contentId": "9600",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=MoonbugRadio&cp_5=MoonbugRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=MoonbugRadio&creative_id=NA_NA_DL-COM-live-MoonbugRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Moonbug Radio",
@@ -5477,11 +5947,11 @@
     "longDescription": "Whether dancing along to ‘The Wheels On The Bus’ with JJ and his CoComelon friends or belting out ‘The Excavator Song’ with Blippi is your jam, the Moonbug Channel guarantees hours of fun listening for the whole family. Tune in to laugh, learn and grow with the original music from these and other family-favorite Moonbug shows",
     "mediumDescription": "Sing along to music from your kids’ favorite shows such as CoComelon, Blippi and many more.",
     "shortDescription": "Laugh Learn Grow with Moonbug",
-    "siriusChannelNumber": 307,
+    "siriusChannelNumber": 136,
     "siriusServiceId": null,
     "xmServiceId": 262,
     "vanityURL": "https://www.siriusxm.com/channels/moonbug-radio",
-    "xmChannelNumber": 307,
+    "xmChannelNumber": 136,
     "primaryColor": "#c0c0c0",
     "secondaryColor": "#0000ff",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/family/MoonbugRadio-126-500x400-P.svg",
@@ -5493,8 +5963,10 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -5503,7 +5975,318 @@
       "9530",
       "8216"
     ],
-    "updatedDate": 1686125015180
+    "updatedDate": 1698725053053
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550883889091,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9608",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=KellyClarksonConnection&cp_5=KellyClarksonConnection&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=KellyClarksonConnection&creative_id=NA_NA_DL-COM-live-KellyClarksonConnection--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Kelly Clarkson Connection",
+    "genre": "pop",
+    "genreLogo": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "genreVanityURL": null,
+    "longDescription": "The Kelly Clarkson universe hits the airwaves with The Kelly Clarkson Connection! Make yourself comfortable in Kelly’s world – you’ll be surrounded by the music she loves, music she’s inspired by, and the stories behind the songs in Kelly’s two-decade long catalog of award-winning hits. Plus, lots of laughs when you hear from her band and inner circle and whole family. Experience the chemistry of The Kelly Clarkson Connection!",
+    "mediumDescription": "Make yourself comfortable in Kelly’s world with personal picks and stories behind the music plus special features!",
+    "shortDescription": "Kelly Clarkson Connection",
+    "siriusChannelNumber": 12,
+    "siriusServiceId": 4,
+    "xmServiceId": 135,
+    "vanityURL": "https://www.siriusxm.com/channels/the-kelly-clarkson-connection",
+    "xmChannelNumber": 12,
+    "primaryColor": "#8ea27b",
+    "secondaryColor": "#5b7060",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-kelly-clarkson-connection/KellyClarksonConnection-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-kelly-clarkson-connection/KellyClarksonConnection-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "thepulse",
+      "primecountry",
+      "siriushits1",
+      "8208",
+      "9340"
+    ],
+    "updatedDate": 1699317040422
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550884409098,
+    "deliveryTypes": [
+      "satellite",
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9609",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheFlow&cp_5=TheFlow&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=TheFlow&creative_id=NA_NA_DL-COM-live-TheFlow--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "The Flow",
+    "genre": "hiphop",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Hip-Hop/R&B",
+    "genreVanityURL": null,
+    "longDescription": "Remember how you felt the first time you heard Beyonce's first solo album? How about the chills that ran down your spine when you heard that CTRL album from SZA? If you do, then you'll be all about THE FLOW! It's all about those good R&B vibes from the 2000's and 2010's. The biggest hits in R&B since the turn of the millennium!",
+    "mediumDescription": "Hear R&B vibes from the 2000's and 2010's. From Usher to SZA, it's all the R&B hits since the turn of the millennium!",
+    "shortDescription": "R&B Hits from the 2000's",
+    "siriusChannelNumber": 48,
+    "siriusServiceId": 128,
+    "xmServiceId": 48,
+    "vanityURL": "https://www.siriusxm.com/channels/the-flow",
+    "xmChannelNumber": 48,
+    "primaryColor": "#78c7e4",
+    "secondaryColor": "#dd4f56",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-flow/TheFlow-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-flow/TheFlow-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "shade45",
+      "9524",
+      "hiphopnation",
+      "9339"
+    ],
+    "updatedDate": 1699314712548
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550883965004,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9610",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Flex2K&cp_5=Flex2K&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=Flex2K&creative_id=NA_NA_DL-COM-live-Flex2K--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Flex2K",
+    "genre": "hiphop",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Hip-Hop/R&B",
+    "genreVanityURL": null,
+    "longDescription": "The 2000’s marked a special time in Hip-Hop with classic albums such as “Get Rich or Die Trying,” the strong emergence of southern rap, and rise of superstars like Drake, Nicki Minaj, Kendrick Lamar, J. Cole and others. Hear it all on one dedicated channel, Flex2k.",
+    "mediumDescription": "Hip-Hop hits from the 2000’s and 2010’s 24/7, featuring some of the biggest names in rap.",
+    "shortDescription": "Hip-Hop Hits from the 2000’s",
+    "siriusChannelNumber": 49,
+    "siriusServiceId": 170,
+    "xmServiceId": 213,
+    "vanityURL": "https://www.siriusxm.com/channels/flex2K",
+    "xmChannelNumber": 49,
+    "primaryColor": "#d6f951",
+    "secondaryColor": "#000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/flex2k/Flex2K-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/flex2k/Flex2K-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": [
+      "shade45",
+      "hotjamz",
+      "9339",
+      "8228"
+    ],
+    "updatedDate": 1699314665100
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550884511785,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9611",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=Alt2K&cp_5=Alt2K&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=Alt2K&creative_id=NA_NA_DL-COM-xtra-Alt2K-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Alt 2K",
+    "genre": "rock",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Rock",
+    "genreVanityURL": null,
+    "longDescription": "2000s Alternative Rock",
+    "mediumDescription": "2000s Alternative Rock",
+    "shortDescription": "2000s Alternative Rock",
+    "siriusChannelNumber": 313,
+    "siriusServiceId": null,
+    "xmServiceId": 289,
+    "vanityURL": "https://www.siriusxm.com/channels/Alt-2K",
+    "xmChannelNumber": 313,
+    "primaryColor": "#90ee90",
+    "secondaryColor": "#4169e1",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/alt2k/Alt2K-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/alt2k/Alt2K-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1699019781893
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550883573900,
+    "deliveryTypes": [
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9612",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TransSiberianOrchRadio&cp_5=TransSiberianOrchRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=TransSiberianOrchRadio&creative_id=NA_NA_DL-COM-live-TransSiberianOrchRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Trans-Siberian Orchestra Radio",
+    "genre": "Holiday",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Holiday",
+    "genreVanityURL": null,
+    "longDescription": "‘Tis the season to rock with Trans-Siberian Orchestra! Dive into the realm where rock pushes classical boundaries, where holiday classics fuse with powerful electric guitars, and where a diverse array of vocals come together to create storytelling like no other. Hear the band’s iconic Christmas discography, exclusive concert recordings, original shows hosted by band members and much more!",
+    "mediumDescription": "Rock out this Christmas season with TSO! Hear their iconic discography, exclusive recordings and much more hosted by the band.",
+    "shortDescription": "Music of Trans-Siberian Orch",
+    "siriusChannelNumber": 621,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/trans-siberian-orchestra-radio",
+    "xmChannelNumber": 621,
+    "primaryColor": "#f2efb1",
+    "secondaryColor": "#000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/trans-siberian-orchestra-radio/TransSiberianOrchestraRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/trans-siberian-orchestra-radio/TransSiberianOrchestraRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_NS"
+    ],
+    "relatedChannels": [
+      "9342",
+      "9343",
+      "9483",
+      "9351"
+    ],
+    "updatedDate": 1699285386476
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550883866055,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9623",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=RadioMonaco&cp_5=RadioMonaco&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=RadioMonaco&creative_id=NA_NA_DL-COM-live-RadioMonaco--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Radio Monaco",
+    "genre": "dance",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Dance/Electronic",
+    "genreVanityURL": null,
+    "longDescription": "Take a dance music journey to Monte Carlo and hear DJ sets, music, celebrity news and hosts where the European party never ends. From F1 all-nighters to late night house music vibes, join the 24/7 party on the SiriusXM app.",
+    "mediumDescription": "Hear Music and DJs from the center of European Nightlife-Monte Carlo, Monaco.",
+    "shortDescription": "Global DJs & Music from Monaco",
+    "siriusChannelNumber": 340,
+    "siriusServiceId": null,
+    "xmServiceId": 265,
+    "vanityURL": "https://www.siriusxm.com/channels/radio-monaco",
+    "xmChannelNumber": 340,
+    "primaryColor": "#ff0000",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/radio-monaco/RadioMonaco-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/radio-monaco/RadioMonaco-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1699068305203
   },
   {
     "artistsYouHear": [
@@ -5605,7 +6388,7 @@
     "displayName": "'80s on 8",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "It's the Big '80s! The decade when greed was good, hair was high and everyone learned what a music video was. Prince, Wham!, Madonna, Michael Jackson, Cyndi Lauper and Journey! They're all here and so are the original MTV VJs.",
@@ -5872,7 +6655,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>SiriusXM Chill</b> (formerly ch. 53) is now on channel 55.",
     "contentId": "chill",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMChill&cp_5=SiriusXMChill&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMChill&creative_id=NA_NA_DL-COM-live-SiriusXMChill-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "SiriusXM Chill",
@@ -5884,11 +6667,11 @@
     "longDescription": "Downtempo electronic and deep house music. Relax to melodic sounds that make you feel poolside no matter where you are.",
     "mediumDescription": "Downtempo electronic and deep house music. Music that'll make you feel poolside.",
     "shortDescription": "Downtempo & Deep House",
-    "siriusChannelNumber": 53,
+    "siriusChannelNumber": 55,
     "siriusServiceId": 35,
     "xmServiceId": 84,
     "vanityURL": "https://www.siriusxm.com/channels/chill",
-    "xmChannelNumber": 53,
+    "xmChannelNumber": 55,
     "primaryColor": "#8dc63f",
     "secondaryColor": "#283891",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/SiriusXM-Chill/SiriusXMChill_SMPL_4C.svg",
@@ -5909,7 +6692,7 @@
       "leftofcenter",
       "9472"
     ],
-    "updatedDate": 1631216324281
+    "updatedDate": 1698723980414
   },
   {
     "artistsYouHear": [
@@ -6087,7 +6870,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>The Coffee House</b> (formerly ch. 6) is now on channel 17.",
     "contentId": "coffeehouse",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheCoffeeHouse&cp_5=TheCoffeeHouse&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheCoffeeHouse&creative_id=NA_NA_DL-COM-live-TheCoffeeHouse-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "The Coffee House",
@@ -6096,14 +6879,14 @@
     "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "A mix of fresh music vibes from various music styles designed for you to sit back, relax, and let go into a sonic world of cool. Featuring brand new tunes and hits from a wide array of artists like Billie Eilish, The Lumineers, Kacey Musgraves, Ed Sheeran, Leon Bridges & many more.",
-    "mediumDescription": "A mix of fresh music vibes from various music styles designed to put you in relaxation mode.",
-    "shortDescription": "Fresh Music Vibes",
-    "siriusChannelNumber": 6,
+    "longDescription": "A laid-back mix of acoustic and stripped down songs that invite you to settle in and unplug from the world outside. Relax to a diverse selection of hits, new discoveries and acoustic classics.",
+    "mediumDescription": "A laid-back mix of acoustic and stripped down songs.",
+    "shortDescription": "Acoustic, Stripped Down Songs",
+    "siriusChannelNumber": 17,
     "siriusServiceId": 30,
     "xmServiceId": 35,
     "vanityURL": "https://www.siriusxm.com/channels/the-coffee-house",
-    "xmChannelNumber": 6,
+    "xmChannelNumber": 17,
     "primaryColor": "#c99272",
     "secondaryColor": "#050041",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Coffeehouse/TheCoffeehouse-4C.svg",
@@ -6124,7 +6907,7 @@
       "thespectrum",
       "thebridge"
     ],
-    "updatedDate": 1694752711348
+    "updatedDate": 1698684586087
   },
   {
     "artistsYouHear": [
@@ -6144,7 +6927,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Elvis Radio</b> (formerly ch. 75) is now on channel 76.",
     "contentId": "elvisradio",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ElvisRadio&cp_5=ElvisRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=ElvisRadio&creative_id=NA_NA_DL-COM-live-ElvisRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Elvis Radio",
@@ -6156,11 +6939,11 @@
     "longDescription": "The only all Elvis all-the-time radio station, broadcasting live from Graceland. The early years, the classics, the comebacks, rarities, live tracks and basically everything Elvis ever recorded.",
     "mediumDescription": "From the early years to his comeback, it's all music from Elvis Presley.",
     "shortDescription": "Elvis 24/7 Live from Graceland",
-    "siriusChannelNumber": 75,
-    "siriusServiceId": 14,
-    "xmServiceId": 18,
+    "siriusChannelNumber": 76,
+    "siriusServiceId": 76,
+    "xmServiceId": 76,
     "vanityURL": "https://www.siriusxm.com/channels/elvis-radio",
-    "xmChannelNumber": 75,
+    "xmChannelNumber": 76,
     "primaryColor": "#000",
     "secondaryColor": "#c52126",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-4C1.svg",
@@ -6178,14 +6961,14 @@
     ],
     "relatedChannels": [
       "siriusgold",
-      "60svibrations",
       "theroadhouse",
+      "60svibrations",
       "estreetradio",
       "siriuslysinatra",
       "siriuslove",
       "siriusnascarradio"
     ],
-    "updatedDate": 1668635976500
+    "updatedDate": 1698724317494
   },
   {
     "artistsYouHear": [
@@ -6295,7 +7078,8 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
       "altnation",
@@ -6347,7 +7131,7 @@
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "Hear the first wave of Alternative and New Wave from the late ‘70s through the ‘80s. From early U2 and the Police to Depeche Mode and R.E.M..",
+    "longDescription": "The First Wave of alternative music, centered in the 1980s but including legendary artists and cult classics from the ‘70s through the early ‘90s.",
     "mediumDescription": "Classic Alternative & New Wave",
     "shortDescription": "Classic Alternative",
     "siriusChannelNumber": 33,
@@ -6372,12 +7156,8 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "4062",
-      "4074",
       "altnation",
-      "4131",
       "90salternative",
-      "4047",
       "classicrewind",
       "big80s"
     ],
@@ -6583,7 +7363,8 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
       "howardstern101",
@@ -6622,7 +7403,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Heart & Soul</b> (formerly ch. 48) is now on channel 47.",
     "contentId": "heartandsoul",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HeartSoul&cp_5=HeartSoul&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=HeartSoul&creative_id=NA_NA_DL-COM-live-HeartSoul-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Heart & Soul",
@@ -6634,11 +7415,11 @@
     "longDescription": "Adult R&B from yesterday and today from artists including Charlie Wilson, Mary J. Blige, Kem, Jill Scott, Toni Braxton and more.",
     "mediumDescription": "R&B from today and back in the day.",
     "shortDescription": "Adult R&B Hits",
-    "siriusChannelNumber": 48,
+    "siriusChannelNumber": 47,
     "siriusServiceId": 39,
     "xmServiceId": 62,
     "vanityURL": "https://www.siriusxm.com/channels/heart-soul",
-    "xmChannelNumber": 48,
+    "xmChannelNumber": 47,
     "primaryColor": "#f34780",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Heart-and-Soul/HeartandSoul_500x400.svg",
@@ -6662,7 +7443,7 @@
       "praise",
       "soultown"
     ],
-    "updatedDate": 1641545438892
+    "updatedDate": 1698723606017
   },
   {
     "artistsYouHear": [
@@ -6720,7 +7501,8 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
       "shade45",
@@ -7045,7 +7827,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Met Opera Radio</b> is now a streaming-only channel.",
     "contentId": "metropolitanopera",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=MetOperaRadio&cp_5=MetOperaRadio&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=MetOperaRadio&creative_id=NA_NA_DL-COM-live-MetOperaRadio-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Met Opera Radio",
@@ -7057,11 +7839,11 @@
     "longDescription": "Stay connected to the Met's rich past and exciting present. With Metropolitan Opera Radio you can listen, day and night, to up to four live broadcasts weekly during the season, as well as the finest performances ever recorded, including gems from the archives.",
     "mediumDescription": "Thrilling live performances from the Met, plus gems from the archives - commercial-free, around the clock.",
     "shortDescription": "Opera/Classical Voices",
-    "siriusChannelNumber": 355,
-    "siriusServiceId": 57,
-    "xmServiceId": 112,
+    "siriusChannelNumber": 744,
+    "siriusServiceId": null,
+    "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/metropolitan-opera-radio",
-    "xmChannelNumber": 355,
+    "xmChannelNumber": 744,
     "primaryColor": "#c3e9fc",
     "secondaryColor": "#0072ba",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/Met-Opera-Radio/Met-Opera-Ch-LUp.svg",
@@ -7080,7 +7862,7 @@
       "broadwaysbest",
       "symphonyhall"
     ],
-    "updatedDate": 1636139343013
+    "updatedDate": 1698727240581
   },
   {
     "artistsYouHear": [
@@ -7600,6 +8382,7 @@
     ],
     "assetId": 1550762890871,
     "deliveryTypes": [
+      "satellite",
       "ip",
       "mobile"
     ],
@@ -7608,10 +8391,10 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>The Joint</b> (formerly ch. 722) is now named <b>Shaggy's Boombastic Radio</b>.",
     "contentId": "reggaerhythms",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheJoint&cp_5=TheJoint&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheJoint&creative_id=NA_NA_DL-COM-live-TheJoint-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Joint",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=ShaggyBoombasticRadio&cp_5=ShaggyBoombasticRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=ShaggyBoombasticRadio&creative_id=NA_NA_DL-COM-live-ShaggyBoombasticRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Shaggy's Boombastic Radio",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
@@ -7619,16 +8402,16 @@
     "genreVanityURL": null,
     "longDescription": "Love Reggae? We're devoted to the sounds of Jamaica with music from artists including Bob Marley, UB40, Burning Spear, Jimmy Cliff, Chronixx and more.",
     "mediumDescription": "Reggae music from its roots to today.",
-    "shortDescription": "Reggae",
-    "siriusChannelNumber": 722,
-    "siriusServiceId": 32,
-    "xmServiceId": 101,
+    "shortDescription": "Shaggy's Boombastic Radio",
+    "siriusChannelNumber": 332,
+    "siriusServiceId": null,
+    "xmServiceId": 291,
     "vanityURL": "https://www.siriusxm.com/channels/the-joint",
-    "xmChannelNumber": 722,
-    "primaryColor": "#ffc20e",
+    "xmChannelNumber": 332,
+    "primaryColor": "#5fb058",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Joint/TheJoint_4C_7-15.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/The-Joint/TheJoint_White_424x248_K2.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/shaggy’s-boombastic-radio/ShaggysBoombasticRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/shaggy’s-boombastic-radio/ShaggysBoombasticRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -7644,7 +8427,7 @@
       "praise",
       "soultown"
     ],
-    "updatedDate": 1692818862683
+    "updatedDate": 1699315796041
   },
   {
     "artistsYouHear": [
@@ -7677,7 +8460,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Caliente</b> (formerly ch. 151) is now on channel 152.",
     "contentId": "rumbon",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Caliente&cp_5=Caliente&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Caliente&creative_id=NA_NA_DL-COM-live-Caliente-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Caliente",
@@ -7689,11 +8472,11 @@
     "longDescription": "Salsa, bachata, reggaeton and more! A red-hot Latin mix where the sounds of the Caribbean and the Americas collide. Where Latin music & culture meet!",
     "mediumDescription": "A red-hot mix of salsa, bachata, reggaeton and more!",
     "shortDescription": "Latin music & culture meet!",
-    "siriusChannelNumber": 151,
+    "siriusChannelNumber": 152,
     "siriusServiceId": 61,
     "xmServiceId": 94,
     "vanityURL": "https://www.siriusxm.com/channels/caliente",
-    "xmChannelNumber": 151,
+    "xmChannelNumber": 152,
     "primaryColor": "#ec5a30",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Latino/caliente/Caliente-4C-no-padding-2.png",
@@ -7722,7 +8505,7 @@
       "9187",
       "9185"
     ],
-    "updatedDate": 1694060667452
+    "updatedDate": 1699392788107
   },
   {
     "artistsYouHear": [
@@ -7778,7 +8561,8 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
       "hiphopnation",
@@ -7809,7 +8593,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>BB King's Bluesville</b> (formerly ch. 74) is now on channel 75.",
     "contentId": "siriusblues",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=BBKingsBluesville&cp_5=BBKingsBluesville&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BBKingsBluesville&creative_id=NA_NA_DL-COM-live-BBKingsBluesville-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "BB King's Bluesville",
@@ -7821,11 +8605,11 @@
     "longDescription": "B.B. King's channel for blues music from the past to the present: B.B. King, Stevie Ray Vaughan, Muddy Waters, Buddy Guy, Eric Clapton, Etta James, Robert Cray, Keb' Mo', Taj Mahal, John Lee Hooker and others.",
     "mediumDescription": "B.B. King's channel for authentic blues from the past to the present.",
     "shortDescription": "B.B. King's Blues Channel",
-    "siriusChannelNumber": 74,
+    "siriusChannelNumber": 75,
     "siriusServiceId": 53,
     "xmServiceId": 74,
     "vanityURL": "https://www.siriusxm.com/channels/bb-kings-bluesville",
-    "xmChannelNumber": 74,
+    "xmChannelNumber": 75,
     "primaryColor": "#cb9ac7",
     "secondaryColor": "#20778f",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/BB-King-Bluesville/BBKingBluesville.svg",
@@ -7850,7 +8634,7 @@
       "purejazz",
       "soultown"
     ],
-    "updatedDate": 1678948413996
+    "updatedDate": 1698724238304
   },
   {
     "artistsYouHear": [
@@ -7882,7 +8666,7 @@
     "displayName": "50s Gold",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Take a trip to the era that marked the birth of the first decade of rock 'n' roll. It's the '50s and beyond. The sound of happy days and drive-in nights with pop radio the way it used to be — from doo-wop and R&B to girl groups. Hear Elvis Presley, Connie Francis, Ricky Nelson, Jerry Lee Lewis, Buddy Holly, Everly Brothers, Little Richard and many more!",
@@ -7912,7 +8696,6 @@
     "relatedChannels": [
       "elvisradio",
       "60svibrations",
-      "4112",
       "siriuslysinatra",
       "purejazz",
       "soultown"
@@ -7956,7 +8739,7 @@
     "displayName": "SiriusXM Hits 1",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "From Pop to Hip-Hop, Rock, Dance, Country and R&B, HITS 1 plays Today’s Pop Hits! Featuring The Morning Mash Up, Mack & Jen Middays, Tony Fly & Symon Afternoons & Mikey Piff Evenings plus Spyder Harrison and the HITS 1 Weekend Countdown",
@@ -7994,7 +8777,7 @@
       "thebeat",
       "4094"
     ],
-    "updatedDate": 1693536275271
+    "updatedDate": 1698422865858
   },
   {
     "artistsYouHear": [
@@ -8205,27 +8988,27 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Soul Town</b> (formerly ch. 49) is now named <b>Smokey's Soul Town</b> and airs on channel 74.",
     "contentId": "soultown",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SoulTown&cp_5=SoulTown&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SoulTown&creative_id=NA_NA_DL-COM-live-SoulTown-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Soul Town",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SmokeysSoulTown&cp_5=SmokeysSoulTown&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SmokeysSoulTown&creative_id=NA_NA_DL-COM-live-SmokeysSoulTown--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Smokey's Soul Town",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "Hear all the great Motown and soul hits from legends including Marvin Gaye, Diana Ross & The Supremes, Barry White, Gladys Knight & The Pips, Al Green, Stevie Wonder and James Brown.",
-    "mediumDescription": "Classic soul and Motown music from the '60s and '70s.",
-    "shortDescription": "Classic Soul/Motown",
-    "siriusChannelNumber": 49,
+    "longDescription": "Classic Soul, R&B & Motown from the '60s and '70s live in Smokey's Soul Town! Throughout the day, Smokey shares stories from his career and picks some of his favorites from Hitsville and beyond. Plus hosted DJ shows from The Motown Museum in Detroit. Stevie, Aretha, Otis, Marvin, Jackie, Chaka, The Temptations, The Miracles, The Supremes, The Four Tops and all the Soul you can handle... 24/7 on Smokey's Soul Town!!",
+    "mediumDescription": "Classic Soul, R&B and Motown from the '60s and '70s with memories and comments from a living legend..Smokey Robinson!",
+    "shortDescription": "Classic R&B hosted by Smokey!",
+    "siriusChannelNumber": 74,
     "siriusServiceId": 40,
     "xmServiceId": 60,
-    "vanityURL": "https://www.siriusxm.com/channels/soul-town",
-    "xmChannelNumber": 49,
+    "vanityURL": "https://www.siriusxm.com/channels/smokeys-soul-town",
+    "xmChannelNumber": 74,
     "primaryColor": "#ffdb77",
     "secondaryColor": "#7c2683",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Soul-Town/SoulTown.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Soul-Town/SoulTown_White_K2.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/smokeys-soul-town/SmokeysSoulTown-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/smokeys-soul-town/SmokeysSoulTown-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
@@ -8245,7 +9028,7 @@
       "8238",
       "praise"
     ],
-    "updatedDate": 1639765144268
+    "updatedDate": 1699302453473
   },
   {
     "artistsYouHear": [
@@ -8366,7 +9149,6 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_BASIC",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
@@ -8479,7 +9261,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Symphony Hall</b> (formerly ch. 76) is now on channel 78.",
     "contentId": "symphonyhall",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SymphonyHall&cp_5=SymphonyHall&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SymphonyHall&creative_id=NA_NA_DL-COM-live-SymphonyHall-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Symphony Hall",
@@ -8491,11 +9273,11 @@
     "longDescription": "Classical music from yesterday and today performed by top orchestras, chamber music ensembles and instrumental soloists. Featuring Baroque and Beyond, Classics on Film, Living American, SiriusXM Presents the Philadelphia Orchestra, Vox Choral and The Chamber Music Society of Lincoln Center",
     "mediumDescription": "Classical music from yesterday and today performed by top orchestras, chamber music ensembles and instrumental soloists.",
     "shortDescription": "Classical Music for Everyone",
-    "siriusChannelNumber": 76,
+    "siriusChannelNumber": 78,
     "siriusServiceId": 56,
     "xmServiceId": 110,
     "vanityURL": "https://www.siriusxm.com/channels/symphony-hall",
-    "xmChannelNumber": 76,
+    "xmChannelNumber": 78,
     "primaryColor": "#c3e9fc",
     "secondaryColor": "#0072ba",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Classical/Symphony-Hall/Symphony-Hall.svg",
@@ -8520,7 +9302,7 @@
       "siriuspops",
       "metropolitanopera"
     ],
-    "updatedDate": 1694754059459
+    "updatedDate": 1698724382695
   },
   {
     "artistsYouHear": [
@@ -8553,7 +9335,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>BPM</b> (formerly ch. 51) is now on channel 52.",
     "contentId": "thebeat",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=BPM&cp_5=BPM&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=BPM&creative_id=NA_NA_DL-COM-live-BPM-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "BPM",
@@ -8565,11 +9347,11 @@
     "longDescription": "BPM plays the biggest artists in Dance/Electronic music like ILLENIUM, Marshmello, Alison Wonderland, Joel Corry, Above & Beyond and more. Plus, we’ll keep you up to date with what’s happening in clubs and festivals all over the world. Hear anything from house music, to future bass and everything in between.",
     "mediumDescription": "BPM plays the biggest artists in Dance/Electronic music like ILLENIUM, Marshmello, Alison Wonderland, Joel Corry and more.",
     "shortDescription": "The biggest Dance tracks",
-    "siriusChannelNumber": 51,
+    "siriusChannelNumber": 52,
     "siriusServiceId": 36,
     "xmServiceId": 81,
     "vanityURL": "https://www.siriusxm.com/bpm",
-    "xmChannelNumber": 51,
+    "xmChannelNumber": 52,
     "primaryColor": "#99cc65",
     "secondaryColor": "#365694",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/BPM/BPM-4C.svg",
@@ -8600,7 +9382,7 @@
       "9527",
       "9472"
     ],
-    "updatedDate": 1692942972722
+    "updatedDate": 1698723868691
   },
   {
     "artistsYouHear": [
@@ -8629,23 +9411,23 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>The Bridge</b> (formerly ch. 17) is now on channel 27.",
     "contentId": "thebridge",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBridge&cp_5=TheBridge&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBridge&creative_id=NA_NA_DL-COM-live-TheBridge-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "The Bridge",
-    "genre": "pop",
+    "genre": "rock",
     "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
+    "genreIcon": null,
+    "genreTitle": "Rock",
     "genreVanityURL": null,
     "longDescription": "Cross the bridge to the mellow side of classic rock and '70s folk rock. The Eagles, James Taylor, Fleetwood Mac, Simon & Garfunkel and more.",
     "mediumDescription": "Mellow classic rock and '70s folk rock.",
     "shortDescription": "Mellow Classic Rock",
-    "siriusChannelNumber": 17,
+    "siriusChannelNumber": 27,
     "siriusServiceId": 13,
     "xmServiceId": 25,
     "vanityURL": "https://www.siriusxm.com/channels/the-bridge",
-    "xmChannelNumber": 17,
+    "xmChannelNumber": 27,
     "primaryColor": "#ffd204",
     "secondaryColor": "#854b11",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/The-Bridge/The-Bridge.svg",
@@ -8669,7 +9451,7 @@
       "starlite",
       "siriuslove"
     ],
-    "updatedDate": 1631719821615
+    "updatedDate": 1698684671249
   },
   {
     "artistsYouHear": [
@@ -8706,7 +9488,7 @@
     "displayName": "The Pulse",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Hear pop music that keeps you occupied during your busy day. Songs you may know the words to even if you don’t have time to keep up with what’s going on around you. It’s YOUR pop on The Pulse.",
@@ -8736,7 +9518,6 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "9389",
       "9557",
       "coffeehouse",
       "9556",
@@ -8917,8 +9698,8 @@
     ],
     "assetId": 1550762857155,
     "deliveryTypes": [
-      "ip",
       "mobile",
+      "ip",
       "satellite"
     ],
     "availableToPackage": true,
@@ -8938,24 +9719,22 @@
     "longDescription": "Album cuts, forgotten gems and lesser played songs from some of Classic Rock’s most influential artists and essential albums with rare demos and live tracks.  Curated shows from SiriusXM Hosts Jim Ladd, Earle Bailey, Meg Griffin, Dusty Street, Joe Elliott, Early Times, Greg Roberson and Carol Miller. Rarities from Bob Dylan, Rolling Stones, Led Zeppelin, David Bowie, Beatles, Eagles, Jethro Tull, and more.",
     "mediumDescription": "Album cuts, forgotten gems and lesser played songs from some of Classic Rock’s most influential artists and essential albums.",
     "shortDescription": "Deep Classic Album Rock",
-    "siriusChannelNumber": 27,
-    "siriusServiceId": 17,
-    "xmServiceId": 40,
+    "siriusChannelNumber": 308,
+    "siriusServiceId": null,
+    "xmServiceId": 275,
     "vanityURL": "https://www.siriusxm.com/channels/deep-tracks",
-    "xmChannelNumber": 27,
+    "xmChannelNumber": 308,
     "primaryColor": "#00aeef",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Deep-Tracks/DeepTracks-4C.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Deep-Tracks/DeepTracks-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -8967,7 +9746,7 @@
       "gratefuldead",
       "9174"
     ],
-    "updatedDate": 1692943661266
+    "updatedDate": 1698878092750
   },
   {
     "artistsYouHear": [
@@ -9005,7 +9784,7 @@
     "displayName": "'70s on 7",
     "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
     "longDescription": "Slip on your bell bottoms and light a lava lamp!  It’s the Super ‘70s with DJs who boogie down and spin 45 rpm records.  Polyester outfits, pet rocks, CB radios and disco from a galaxy far, far away!  Far out, man!",
