@@ -10787,7 +10787,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8185",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMNHLNetworkRadio&cp_5=SXMNHLNetworkRadio&cp_6=SPORTS&cp_7=COM&cp_8=SXMCOM&site_id=SXMNHLNetworkRadio&creative_id=NA_NA_DL-COM-live-SXMNHLNetworkRadio-SPORTS-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=NHLNetworkRadio&cp_5=NHLNetworkRadio&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=NHLNetworkRadio&creative_id=NA_NA_DL-COM-live-NHLNetworkRadio--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "NHL Network Radio™",
     "genre": "sportstalk",
     "genreLogo": null,
@@ -10826,7 +10826,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1654101080531
+    "updatedDate": 1699477074582
   },
   {
     "artistsYouHear": [
@@ -17136,7 +17136,18 @@
     "updatedDate": 1698725110224
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Celia Cruz",
+      "Julio Iglesias",
+      "José José",
+      "Rocio Durcal",
+      "The Fania All-Stars",
+      "Camilo Cesto",
+      "El Gran Combo de Puerto Rico",
+      "Bebo Valdes",
+      "Beny More",
+      "Roberto Carlos"
+    ],
     "assetId": 1550762861896,
     "deliveryTypes": [
       "ip",
@@ -17185,13 +17196,13 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": null,
-    "updatedDate": 1699067970874
+    "updatedDate": 1699475361256
   },
   {
     "artistsYouHear": [
-      "Shakira",
-      "Pitbull",
       "Ricky Martin",
+      "Pitbull",
+      "Shakira",
       "Thalia",
       "Maná",
       "Laura Pausini"
@@ -17249,7 +17260,7 @@
       "rumbon",
       "9185"
     ],
-    "updatedDate": 1698725800173
+    "updatedDate": 1699472855349
   },
   {
     "artistsYouHear": [
@@ -19139,10 +19150,10 @@
     "artistsYouHear": [
       "Journey",
       "Bee Gees",
-      "Jose Jose",
+      "José José",
       "Juan Gabriel",
       "Roberto Carlos",
-      "Camilo Sesto",
+      "Camilo Cesto",
       "Julio Iglesias",
       "Rocio Durcal"
     ],
@@ -19267,7 +19278,7 @@
       "Willie Colón",
       "Hector Lavoe",
       "Ruben Blades",
-      "The Fania Allstars",
+      "The Fania All-Stars",
       "Cheo Feliciano",
       "Ismael Miranda",
       "Ray Barretto",
@@ -25710,7 +25721,7 @@
       "Dean Martin",
       "Ray Conniff",
       "Johnny Mathis",
-      "Nat “King” Cole\"",
+      "Nat 'King' Cole",
       "Andy Williams",
       "Peggy Lee"
     ],
@@ -25884,7 +25895,17 @@
     "updatedDate": 1699039277958
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "George Strait",
+      "Carrie Underwood",
+      "Brett Eldredge",
+      "Willie Nelson",
+      "Dolly Parton",
+      "Kenny Rogers",
+      "Blake Shelton",
+      "Reba McEntire",
+      "Randy Travis"
+    ],
     "assetId": 1550884565756,
     "deliveryTypes": [
       "ip",
@@ -25938,7 +25959,7 @@
       "9483",
       "9351"
     ],
-    "updatedDate": 1699038796918
+    "updatedDate": 1699475629937
   },
   {
     "artistsYouHear": [],
@@ -30954,7 +30975,18 @@
     "updatedDate": 1657039106452
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Beyonce",
+      "Drake",
+      "Lady Gaga",
+      "Zedd",
+      "Rihanna",
+      "Jay-Z",
+      "Cardi B",
+      "The Chainsmokers",
+      "Kanye West",
+      "Ariana Grande"
+    ],
     "assetId": 1550764652691,
     "deliveryTypes": [
       "mobile",
@@ -31003,7 +31035,7 @@
       "9339",
       "thebeat"
     ],
-    "updatedDate": 1698727115823
+    "updatedDate": 1699473220653
   },
   {
     "artistsYouHear": [],
@@ -34323,7 +34355,7 @@
       "octane",
       "9340"
     ],
-    "updatedDate": 1686056399369
+    "updatedDate": 1699472709360
   },
   {
     "artistsYouHear": [],
@@ -34748,7 +34780,17 @@
     "updatedDate": 1698849258725
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Usher",
+      "Beyonce",
+      "Drake",
+      "H.E.R.",
+      "Rihanna",
+      "Alicia Keys",
+      "Chris Brown",
+      "Khalid",
+      "The Weeknd"
+    ],
     "assetId": 1550884409098,
     "deliveryTypes": [
       "satellite",
@@ -34801,7 +34843,7 @@
       "hiphopnation",
       "9339"
     ],
-    "updatedDate": 1699314712548
+    "updatedDate": 1699473880027
   },
   {
     "artistsYouHear": [],
@@ -37993,7 +38035,7 @@
     "genreIcon": null,
     "genreTitle": "Comedy",
     "genreVanityURL": null,
-    "longDescription": "It's comedy for everybody on Pure Comedy. Check out profanity-free material from today's top comics like Jim Gaffigan and Jerry Seinfeld, as well as hilarious material from emerging and legendary comedians.",
+    "longDescription": "It's comedy for everybody on Pure Comedy! Check out profanity-free material from today's top comics like Jim Gaffigan and Nate Bargatze, as well as hilarious material from emerging and legendary comedians.",
     "mediumDescription": "Clean stand-up from top comics like Jim Gaffigan and Jerry Seinfeld as well as classics from Bob Newhart, Steven Wright, & more",
     "shortDescription": "Comedy For The Entire Family",
     "siriusChannelNumber": 98,
@@ -38645,6 +38687,16 @@
   },
   {
     "artistsYouHear": [
+      "Miles Davis",
+      "John Coltrane",
+      "Wynton Marsalis",
+      "Duke Ellington",
+      "Dizzy Gillespie",
+      "Christian McBride",
+      "McCoy Tyner",
+      "Art Blakey",
+      "Charlie Parker",
+      "Thelonious Monk",
       "Marcus Miller",
       "Mark Ruffin"
     ],
@@ -38699,7 +38751,7 @@
       "jazzcafe",
       "soultown"
     ],
-    "updatedDate": 1666200194325
+    "updatedDate": 1699473487915
   },
   {
     "artistsYouHear": [
@@ -39365,7 +39417,7 @@
       "thebeat",
       "4094"
     ],
-    "updatedDate": 1698422865858
+    "updatedDate": 1699466207135
   },
   {
     "artistsYouHear": [
@@ -40376,7 +40428,7 @@
     "siriusChannelNumber": 52,
     "siriusServiceId": 36,
     "xmServiceId": 81,
-    "vanityURL": "https://www.siriusxm.com/bpm",
+    "vanityURL": "https://www.siriusxm.com/channels/bpm",
     "xmChannelNumber": 52,
     "primaryColor": "#99cc65",
     "secondaryColor": "#365694",

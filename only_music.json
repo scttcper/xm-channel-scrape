@@ -955,7 +955,18 @@
     "updatedDate": 1692935091654
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Celia Cruz",
+      "Julio Iglesias",
+      "José José",
+      "Rocio Durcal",
+      "The Fania All-Stars",
+      "Camilo Cesto",
+      "El Gran Combo de Puerto Rico",
+      "Bebo Valdes",
+      "Beny More",
+      "Roberto Carlos"
+    ],
     "assetId": 1550762861896,
     "deliveryTypes": [
       "ip",
@@ -1004,13 +1015,13 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": null,
-    "updatedDate": 1699067970874
+    "updatedDate": 1699475361256
   },
   {
     "artistsYouHear": [
-      "Shakira",
-      "Pitbull",
       "Ricky Martin",
+      "Pitbull",
+      "Shakira",
       "Thalia",
       "Maná",
       "Laura Pausini"
@@ -1068,7 +1079,7 @@
       "rumbon",
       "9185"
     ],
-    "updatedDate": 1698725800173
+    "updatedDate": 1699472855349
   },
   {
     "artistsYouHear": [
@@ -1589,10 +1600,10 @@
     "artistsYouHear": [
       "Journey",
       "Bee Gees",
-      "Jose Jose",
+      "José José",
       "Juan Gabriel",
       "Roberto Carlos",
-      "Camilo Sesto",
+      "Camilo Cesto",
       "Julio Iglesias",
       "Rocio Durcal"
     ],
@@ -1717,7 +1728,7 @@
       "Willie Colón",
       "Hector Lavoe",
       "Ruben Blades",
-      "The Fania Allstars",
+      "The Fania All-Stars",
       "Cheo Feliciano",
       "Ismael Miranda",
       "Ray Barretto",
@@ -2096,7 +2107,17 @@
     "updatedDate": 1699039277958
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "George Strait",
+      "Carrie Underwood",
+      "Brett Eldredge",
+      "Willie Nelson",
+      "Dolly Parton",
+      "Kenny Rogers",
+      "Blake Shelton",
+      "Reba McEntire",
+      "Randy Travis"
+    ],
     "assetId": 1550884565756,
     "deliveryTypes": [
       "ip",
@@ -2150,7 +2171,7 @@
       "9483",
       "9351"
     ],
-    "updatedDate": 1699038796918
+    "updatedDate": 1699475629937
   },
   {
     "artistsYouHear": [],
@@ -4079,7 +4100,18 @@
     "updatedDate": 1692940952038
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Beyonce",
+      "Drake",
+      "Lady Gaga",
+      "Zedd",
+      "Rihanna",
+      "Jay-Z",
+      "Cardi B",
+      "The Chainsmokers",
+      "Kanye West",
+      "Ariana Grande"
+    ],
     "assetId": 1550764652691,
     "deliveryTypes": [
       "mobile",
@@ -4128,7 +4160,7 @@
       "9339",
       "thebeat"
     ],
-    "updatedDate": 1698727115823
+    "updatedDate": 1699473220653
   },
   {
     "artistsYouHear": [],
@@ -5920,7 +5952,7 @@
       "octane",
       "9340"
     ],
-    "updatedDate": 1686056399369
+    "updatedDate": 1699472709360
   },
   {
     "artistsYouHear": [],
@@ -6032,7 +6064,17 @@
     "updatedDate": 1699317040422
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Usher",
+      "Beyonce",
+      "Drake",
+      "H.E.R.",
+      "Rihanna",
+      "Alicia Keys",
+      "Chris Brown",
+      "Khalid",
+      "The Weeknd"
+    ],
     "assetId": 1550884409098,
     "deliveryTypes": [
       "satellite",
@@ -6085,7 +6127,7 @@
       "hiphopnation",
       "9339"
     ],
-    "updatedDate": 1699314712548
+    "updatedDate": 1699473880027
   },
   {
     "artistsYouHear": [],
@@ -8236,6 +8278,16 @@
   },
   {
     "artistsYouHear": [
+      "Miles Davis",
+      "John Coltrane",
+      "Wynton Marsalis",
+      "Duke Ellington",
+      "Dizzy Gillespie",
+      "Christian McBride",
+      "McCoy Tyner",
+      "Art Blakey",
+      "Charlie Parker",
+      "Thelonious Monk",
       "Marcus Miller",
       "Mark Ruffin"
     ],
@@ -8290,7 +8342,7 @@
       "jazzcafe",
       "soultown"
     ],
-    "updatedDate": 1666200194325
+    "updatedDate": 1699473487915
   },
   {
     "artistsYouHear": [
@@ -8777,7 +8829,7 @@
       "thebeat",
       "4094"
     ],
-    "updatedDate": 1698422865858
+    "updatedDate": 1699466207135
   },
   {
     "artistsYouHear": [
@@ -9350,7 +9402,7 @@
     "siriusChannelNumber": 52,
     "siriusServiceId": 36,
     "xmServiceId": 81,
-    "vanityURL": "https://www.siriusxm.com/bpm",
+    "vanityURL": "https://www.siriusxm.com/channels/bpm",
     "xmChannelNumber": 52,
     "primaryColor": "#99cc65",
     "secondaryColor": "#365694",
