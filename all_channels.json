@@ -6450,7 +6450,13 @@
     "updatedDate": 1631719635932
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Led Zeppelin",
+      "Rolling Stones",
+      "Pink Floyd",
+      "The Doors",
+      "The Police"
+    ],
     "assetId": 1550773907236,
     "deliveryTypes": [
       "mobile"
@@ -6491,7 +6497,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1631286040349
+    "updatedDate": 1699651967233
   },
   {
     "artistsYouHear": [],
@@ -8726,8 +8732,8 @@
     "xmChannelNumber": 1198,
     "primaryColor": "#b0b0b0",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Cinemagic/Cinemagic-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/Cinemagic/Cinemagic-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/cinemagicv1/Cinemagic-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/cinemagicv1/Cinemagic-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -8738,7 +8744,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1699567845914
+    "updatedDate": 1699645810776
   },
   {
     "artistsYouHear": [],
@@ -8761,9 +8767,9 @@
     "genreIcon": null,
     "genreTitle": "All Xtra",
     "genreVanityURL": null,
-    "longDescription": "Happy Radio",
-    "mediumDescription": "Happy Radio",
-    "shortDescription": "Happy Radio",
+    "longDescription": "Feel-Good Hits",
+    "mediumDescription": "Feel-Good Hits",
+    "shortDescription": "Feel-Good Hits",
     "siriusChannelNumber": 1199,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -8783,7 +8789,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1638860554123
+    "updatedDate": 1699646242402
   },
   {
     "artistsYouHear": [],
@@ -11390,47 +11396,6 @@
       "4070"
     ],
     "updatedDate": 1696344046565
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550870519909,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "8211",
-    "deepLink": "https://player.siriusxm.com",
-    "displayName": "Cinemagic",
-    "genre": "jazz",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Jazz/Standards/Classical",
-    "genreVanityURL": null,
-    "longDescription": "Cinemagic captures the movie experience via score music, soundtracks and film clips. It's also a destination for movie news and information, plus our interviews with composers and directors.",
-    "mediumDescription": "Escape into the movies.",
-    "shortDescription": "Movie Soundtracks and More",
-    "siriusChannelNumber": 750,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": null,
-    "xmChannelNumber": 750,
-    "primaryColor": null,
-    "secondaryColor": null,
-    "colorLogo": null,
-    "greyscaleLogo": null,
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1682956957308
   },
   {
     "artistsYouHear": [
@@ -15498,47 +15463,6 @@
   },
   {
     "artistsYouHear": [],
-    "assetId": 1550762854146,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "8358",
-    "deepLink": "https://player.siriusxm.com",
-    "displayName": "New Age",
-    "genre": "jazz",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Jazz/Standards/Classical",
-    "genreVanityURL": null,
-    "longDescription": "New Age",
-    "mediumDescription": "New Age",
-    "shortDescription": "New Age",
-    "siriusChannelNumber": 68,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": null,
-    "xmChannelNumber": 0,
-    "primaryColor": null,
-    "secondaryColor": null,
-    "colorLogo": null,
-    "greyscaleLogo": null,
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1555091318407
-  },
-  {
-    "artistsYouHear": [],
     "assetId": 1550762853842,
     "deliveryTypes": [
       "ip",
@@ -18016,60 +17940,6 @@
       "buzzsaw"
     ],
     "updatedDate": 1699019895015
-  },
-  {
-    "artistsYouHear": [
-      "Led Zeppelin",
-      "Rolling Stones",
-      "Pink Floyd",
-      "The Doors",
-      "The Police"
-    ],
-    "assetId": 1550762880542,
-    "deliveryTypes": [
-      "ip",
-      "mobile",
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9176",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=SiriusXMComesAlive&cp_5=SiriusXMComesAlive&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMComesAlive&creative_id=NA_NA_DL-COM-xtra-SiriusXMComesAlive-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM Comes Alive!",
-    "genre": "rock",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Rock",
-    "genreVanityURL": null,
-    "longDescription": "Hear live classic rock recordings seamlessly hand crafted, song by song. Even if you weren’t there, you can experience these magical moments 24/7 on one channel. Get your lighters out and get ready to rock as SiriusXM Comes Alive!",
-    "mediumDescription": "Hear live classic rock recordings seamlessly hand crafted, song by song.",
-    "shortDescription": "Live Classic Rock",
-    "siriusChannelNumber": 316,
-    "siriusServiceId": null,
-    "xmServiceId": 259,
-    "vanityURL": null,
-    "xmChannelNumber": 316,
-    "primaryColor": "#f4ed31",
-    "secondaryColor": "#7d0f0b",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Comes-Alive/SXMcomesAlive.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Comes-Alive/SXMComesAlive_White_424x248_K2.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF"
-    ],
-    "relatedChannels": [
-      "estreetradio",
-      "thevault",
-      "classicrewind",
-      "classicvinyl",
-      "gratefuldead"
-    ],
-    "updatedDate": 1634148220030
   },
   {
     "artistsYouHear": [
@@ -28388,47 +28258,6 @@
     "updatedDate": 1666725137536
   },
   {
-    "artistsYouHear": [],
-    "assetId": 1550762853386,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9444",
-    "deepLink": "",
-    "displayName": "Alt Rock",
-    "genre": "rock",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Rock",
-    "genreVanityURL": null,
-    "longDescription": "New Alt Rock",
-    "mediumDescription": "New Alt Rock",
-    "shortDescription": "New Alt Rock",
-    "siriusChannelNumber": 36,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": null,
-    "xmChannelNumber": 999,
-    "primaryColor": "#c3e9fc",
-    "secondaryColor": "#0072ba",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1571172275343
-  },
-  {
     "artistsYouHear": [
       "Emmanuel Acho",
       "Adam Alexander",
@@ -31503,47 +31332,6 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1630332831111
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550871633245,
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9551",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=HappyRadio&cp_5=HappyRadio&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=HappyRadio&creative_id=NA_NA_DL-COM-xtra-HappyRadio-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Happy Radio",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "A channel dedicated to making you smile 24/7 – playing nothing but hit music with feel-good vibes. Forget your troubles and turn up Happy Radio!",
-    "mediumDescription": "Feel-good hit music with a positive message",
-    "shortDescription": "Feel-Good Hits",
-    "siriusChannelNumber": 707,
-    "siriusServiceId": null,
-    "xmServiceId": null,
-    "vanityURL": null,
-    "xmChannelNumber": 707,
-    "primaryColor": "#c0c0c0",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/happy-radio/Happy-Radio-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/happy-radio/Happy-Radio-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1699540937770
   },
   {
     "artistsYouHear": [],
