@@ -39147,7 +39147,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>The Bridge</b> (formerly ch. 17) is now on channel 27.",
+    "channelNotification": "<b>The Bridge</b> (formerly ch. 17) is now on channel 27. Deep Tracks has moved to channel 308.",
     "contentId": "thebridge",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheBridge&cp_5=TheBridge&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheBridge&creative_id=NA_NA_DL-COM-live-TheBridge-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "The Bridge",
@@ -39187,7 +39187,7 @@
       "starlite",
       "siriuslove"
     ],
-    "updatedDate": 1698684671249
+    "updatedDate": 1699909516742
   },
   {
     "artistsYouHear": [
@@ -39511,7 +39511,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": null,
+    "channelNotification": "<b>Deep Tracks</b> (formerly ch. 27) is now on channel 308. <b>*May not be available in-vehicle on certain makes and models.</b>",
     "contentId": "thevault",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=DeepTracks&cp_5=DeepTracks&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=DeepTracks&creative_id=NA_NA_DL-COM-live-DeepTracks-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Deep Tracks",
@@ -39550,7 +39550,7 @@
       "gratefuldead",
       "9174"
     ],
-    "updatedDate": 1698878092750
+    "updatedDate": 1699907490188
   },
   {
     "artistsYouHear": [
