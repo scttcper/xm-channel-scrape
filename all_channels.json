@@ -10716,9 +10716,6 @@
       "Gail Bennington",
       "Jim Norton",
       "Jay Oakerson",
-      "Ben Kissel",
-      "Henry Zebrowski",
-      "Marcus Parks",
       "Eddie Trunk"
     ],
     "assetId": 1550762858794,
@@ -10768,7 +10765,7 @@
       "buzzsaw",
       "9580"
     ],
-    "updatedDate": 1690473173341
+    "updatedDate": 1699981405648
   },
   {
     "artistsYouHear": [
@@ -24688,22 +24685,27 @@
   },
   {
     "artistsYouHear": [
-      "Neil Barnett",
-      " Glenn Crooks",
-      "Charlie Davies",
       "Jason Davis",
       "Brian Dunseth",
-      "Danny Higginbotham",
       "Ray Hudson",
-      "Kristian Jack",
-      "Matt Lawrence",
+      "Lori Lindsey",
       "Rodney Marsh",
       "Tony Meola",
-      "Janusz Michallik",
+      "Heather O'Reilly",
       "Tom Rennie",
-      "Phil Schoen",
       "Tommy Smyth",
-      "Charlie Stillitano"
+      "Charlie Stillitano",
+      "Eric Wynalda",
+      " Glenn Crooks",
+      "Neil Barnett",
+      "Shannon Boxx",
+      "Jessica Charman",
+      "Keith Costigan",
+      "Danny Higginbotham",
+      "Janusz Michallik",
+      "Phil Schoen",
+      "Tyler Terens",
+      "Chris Wittyngham"
     ],
     "assetId": 1550762880715,
     "deliveryTypes": [
@@ -24725,8 +24727,8 @@
     "genreIcon": null,
     "genreTitle": "Sports",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM FC is dedicated entirely to the world's most popular sport, soccer.  The channel features an extensive schedule of live matches from the Premier League, Major League Soccer, UEFA Champions League and the FA Cup.  Plus, hear a daily lineup of soccer talk programming hosted by former players and coaches including Ray Hudson, Tony Meola, and Rodney Marsh.",
-    "mediumDescription": "SiriusXM FC is dedicated entirely to soccer, featuring live play-by-play and talk shows hosted by legends of the game. \r\n",
+    "longDescription": "SiriusXM FC is dedicated entirely to the world&#39;s most popular sport, soccer. The channel features an extensive schedule of live matches from the English Premier League, Major League Soccer, UEFA Champions League, NWSL, USL Championship, and the FA Cup. Plus, hear a daily lineup of soccer talk programming hosted by former players and coaches including Ray Hudson, Tony Meola, Rodney Marsh, and Eric Wynalda.",
+    "mediumDescription": "SiriusXM FC is dedicated entirely to soccer, featuring live play-by-play and talk shows hosted by legends of the game. ",
     "shortDescription": "Soccer Talk & Play-by-Play",
     "siriusChannelNumber": 157,
     "siriusServiceId": 88,
@@ -24760,7 +24762,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1631286181929
+    "updatedDate": 1699993157432
   },
   {
     "artistsYouHear": [
@@ -37596,7 +37598,7 @@
       "laughbreak",
       "9494"
     ],
-    "updatedDate": 1699296131608
+    "updatedDate": 1699982633112
   },
   {
     "artistsYouHear": [
