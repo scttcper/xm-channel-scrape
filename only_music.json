@@ -8052,7 +8052,6 @@
       "Big Sean",
       "Sway Calloway",
       "Gray Rizzy",
-      "Rude Jude",
       "Lord Sear"
     ],
     "assetId": 1550762879268,
@@ -8100,7 +8099,7 @@
       "hiphopnation",
       "9471"
     ],
-    "updatedDate": 1692941191485
+    "updatedDate": 1700239529705
   },
   {
     "artistsYouHear": [
@@ -9228,9 +9227,9 @@
     ],
     "assetId": 1550762857155,
     "deliveryTypes": [
-      "mobile",
+      "satellite",
       "ip",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -9265,6 +9264,7 @@
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -9274,6 +9274,7 @@
       "undergroundgarage",
       "classicrewind",
       "gratefuldead",
+      "4190",
       "9174"
     ],
     "updatedDate": 1699907490188
