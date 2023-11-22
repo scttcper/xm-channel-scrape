@@ -11174,10 +11174,8 @@
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -12112,58 +12110,6 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1631654707548
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550762861494,
-    "deliveryTypes": [
-      "ip",
-      "mobile",
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryIcon": null,
-    "categoryTitle": "Music",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "8241",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXM14&cp_5=SiriusXM14&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXM14&creative_id=NA_NA_DL-COM-live-SiriusXM14--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "SiriusXM 14",
-    "genre": "pop",
-    "genreLogo": null,
-    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
-    "genreVanityURL": null,
-    "longDescription": "SiriusXM 14",
-    "mediumDescription": "SiriusXM 14",
-    "shortDescription": "SiriusXM 14",
-    "siriusChannelNumber": 14,
-    "siriusServiceId": 203,
-    "xmServiceId": 21,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-14",
-    "xmChannelNumber": 14,
-    "primaryColor": "#87ceeb",
-    "secondaryColor": "#4169e1",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "thepulse",
-      "siriushits1",
-      "starlite"
-    ],
-    "updatedDate": 1694069246057
   },
   {
     "artistsYouHear": [
@@ -17924,7 +17870,6 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -25102,11 +25047,9 @@
     "packages": [
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_BASIC",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
@@ -26249,25 +26192,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9398",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=TheQueenChannel&cp_5=TheQueenChannel&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=TheQueenChannel&creative_id=NA_NA_DL-COM-live-TheQueenChannel-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "The Queen Channel",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition4&cp_5=SXMLimitedEdition4&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition4&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition4-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Limited Edition 4",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Rock",
     "genreVanityURL": null,
-    "longDescription": "As Queen + Adam Lambert reignite The Rhapsody Tour, take in the majestic musical world of Queen with insight from Brian May, Roger Taylor, the late Freddie Mercury and Adam Lambert. Dive deep into the vast archives of experimental, bold and undeniably Queen music on SiriusXM&#39;s Limited Engagement The Queen Channel. Hear iconic anthems and huge hits mixed with rare outtakes, live performances and a Quintessential Queen: Top 50 Songs listener-voted countdown.",
-    "mediumDescription": "Hear the majestic musical world of Queen with insight from Brian May, Roger Taylor, Adam Lambert and the late Freddie Mercury.",
-    "shortDescription": "The musical world of Queen",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 504,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-4",
     "xmChannelNumber": 504,
     "primaryColor": "#000",
-    "secondaryColor": "#511b35",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-queen-channel/QueenChannel-114-900x720-P.png",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/the-queen-channel/QueenChannel-115-900x720-N.png",
+    "secondaryColor": "#008b8b",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -26277,13 +26220,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": [
-      "9415",
-      "classicvinyl",
-      "classicrewind",
-      "9175"
-    ],
-    "updatedDate": 1697059913591
+    "relatedChannels": null,
+    "updatedDate": 1700588899902
   },
   {
     "artistsYouHear": [],
@@ -29454,25 +29392,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9481",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=BillboardMusicAwards&cp_5=BillboardMusicAwards&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=BillboardMusicAwards&creative_id=NA_NA_DL-COM-live-BillboardMusicAwards--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Billboard Music Awards",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition1&cp_5=SXMLimitedEdition1&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition1&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition1-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Limited Edition 1",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "A reimagined 2023 Billboard Music Awards will bring fans up close and personal with their favorite artists on Sunday, November 19. Delivering a fresh award show concept that will entertain with hours of music and exclusive content, including winner celebrations, behind-the-scenes moments, and performances created by the world’s biggest chart-topping artists. Winners are determined by year-end performance metrics on the Billboard charts, the ultimate authority of fan engagement with music.",
-    "mediumDescription": "Celebrating Billboard Music Awards Finalists and looking back at the past year’s No. 1s on the Billboard Charts.",
-    "shortDescription": "Billboard Music Awards",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 501,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/billboard-music-awards-channel",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-1",
     "xmChannelNumber": 501,
     "primaryColor": "#d3d3d3",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/billboard-music-awards-channel/BillboardMusicAwardsChannel-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/billboard-music-awards-channel/BillboardMusicAwardsChannel-127-500x400-N.svg",
+    "secondaryColor": "#4169e1",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-1/SiriusXM-Limited-Edition-1.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -29483,7 +29421,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1699296736942
+    "updatedDate": 1700588821463
   },
   {
     "artistsYouHear": [],
@@ -29937,7 +29875,6 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -31080,25 +31017,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9545",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=EdSheeranChannel&cp_5=EdSheeranChannel&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=EdSheeranChannel&creative_id=NA_NA_DL-COM-live-EdSheeranChannel--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Ed Sheeran Channel",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SXMLimitedEdition2&cp_5=SXMLimitedEdition2&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=SXMLimitedEdition2&creative_id=NA_NA_DL-COM-live-SXMLimitedEdition2-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Limited Edition 2",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Due to popular demand, it’s the return of the Ed Sheeran Channel! Join GRAMMY® Award winning Ed Sheeran for a non-stop journey through the decade by numbers with Plus, Multiply, Divide, Equals and Subtract with new releases including Autumn Variations. Hear fresh super-fan stories with exclusive performances including Ed’s historical night with SiriusXM at Stephen’s Talkhouse. Making mathematics fun again, sit front row to hear the ultimate mix to sing-along with for a limited time.",
-    "mediumDescription": "Encore return of the Ed Sheeran Channel! Featuring new releases, stories, fresh super-fan insights and exclusive performances.",
-    "shortDescription": "Ed Sheeran Channel",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 502,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-02",
+    "vanityURL": "https://www.siriusxm.com/siriusxm-limited-edition-02",
     "xmChannelNumber": 502,
     "primaryColor": "#7db3d2",
-    "secondaryColor": "#b85f35",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ed-sheeran-channel/EdSheeranChannel-4C.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/ed-sheeran-channel/EdSheeranChannel-White.svg",
+    "secondaryColor": "#008b8b",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -31109,7 +31046,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1697059465195
+    "updatedDate": 1700588797044
   },
   {
     "artistsYouHear": [],
@@ -33155,7 +33092,7 @@
     "genreIcon": null,
     "genreTitle": "Entertainment",
     "genreVanityURL": null,
-    "longDescription": "This is Jeff Lewis, 24/7. Hear archives from the past 5 years. The official Jeff Lewis Live After Show live with rotating hosts. Kick off the weekend with Chumps Happy Hour every Friday! Plus, exclusive content from your favorite guests and Chumps. It's great news for you, but a nightmare for our lawyers.",
+    "longDescription": "The Jeff Lewis Channel! Hear archives from the past 5 years, and the official Jeff Lewis Live After Show with rotating hosts. Plus, exclusive content from your favorite guests and Chumps. It's great news for you, but a nightmare for our lawyers.",
     "mediumDescription": "Jeff Lewis 24/7! Archives, After Show, exclusive content from guests & Chumps. Great for you, but a nightmare for our lawyers.",
     "shortDescription": "This is Jeff Lewis, 24/7",
     "siriusChannelNumber": 789,
@@ -33404,7 +33341,7 @@
     "channelNotification": null,
     "contentId": "9608",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=KellyClarksonConnection&cp_5=KellyClarksonConnection&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=KellyClarksonConnection&creative_id=NA_NA_DL-COM-live-KellyClarksonConnection--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Kelly Clarkson Connection",
+    "displayName": "KellyClarkson Connection",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
@@ -33479,7 +33416,7 @@
     "shortDescription": "R&B Hits from the 2000's",
     "siriusChannelNumber": 48,
     "siriusServiceId": 128,
-    "xmServiceId": 48,
+    "xmServiceId": 217,
     "vanityURL": "https://www.siriusxm.com/channels/the-flow",
     "xmChannelNumber": 48,
     "primaryColor": "#78c7e4",
@@ -33556,21 +33493,16 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
-    "relatedChannels": [
-      "shade45",
-      "hotjamz",
-      "9339",
-      "8228"
-    ],
+    "relatedChannels": null,
     "updatedDate": 1699314665100
   },
   {
     "artistsYouHear": [],
     "assetId": 1550884511785,
     "deliveryTypes": [
-      "ip",
+      "mobile",
       "satellite",
-      "mobile"
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -33614,6 +33546,7 @@
     "artistsYouHear": [],
     "assetId": 1550883573900,
     "deliveryTypes": [
+      "mobile",
       "ip"
     ],
     "availableToPackage": true,
@@ -33647,10 +33580,9 @@
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
-      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_PKG_NS"
@@ -33662,6 +33594,99 @@
       "9351"
     ],
     "updatedDate": 1699285386476
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550887302195,
+    "deliveryTypes": [
+      "satellite",
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "Holiday",
+    "categoryIcon": null,
+    "categoryTitle": "Holiday",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9613",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=HolidayswithTheTenors&cp_5=HolidayswithTheTenors&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=HolidayswithTheTenors&creative_id=NA_NA_DL-COM-live-HolidayswithTheTenors--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Holidays with The Tenors",
+    "genre": "Holiday",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Holiday",
+    "genreVanityURL": null,
+    "longDescription": "Hanukkah, Christmas, comedy and more; celebrate the Holidays with The Tenors! Listen as they tell stories about the songs on their new album, Christmas with The Tenors. Plus, they’ve got the best mix of music from friends like Michael Bublé, Jann Arden, and Bryan Adams. Pop, rock, country and classics, no matter how you celebrate we’ve got your soundtrack covered.",
+    "mediumDescription": "Celebrate the holidays with music from Bryan Adams, Paul McCartney, Michael Bublé, Sarah McLachlan and more.",
+    "shortDescription": "Holidays with The Tenors",
+    "siriusChannelNumber": 639,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": "https://www.siriusxm.com/channels/Holidays-with-The-Tenors",
+    "xmChannelNumber": 639,
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#800000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/holidays-with-the-tenors/HolidaysWithTheTenors-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/holidays-with-the-tenors/HolidaysWithTheTenors-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1700643464331
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550887854067,
+    "deliveryTypes": [
+      "satellite",
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9614",
+    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=LifewithJohnMayer&cp_5=LifewithJohnMayer&cp_6=&cp_7=COM&cp_8=SXMCOM&site_id=LifewithJohnMayer&creative_id=NA_NA_DL-COM-live-LifewithJohnMayer--SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "displayName": "Life with John Mayer",
+    "genre": "pop",
+    "genreLogo": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "genreVanityURL": null,
+    "longDescription": "A music experience hand-selected by John Mayer. The guitarist and songwriter personally delivers a radio station defined not by genre, but by the time of day, as well as the day of the week. Enter an ever-evolving world of music built from his classics, collaborations and never-before-heard material blended with the songs he loves. Don&rsquo;t just tune into SiriusXM. Tune into life... with John Mayer",
+    "mediumDescription": "Music for the moment hand-selected by John Mayer featuring exclusive songs, commentary and tracks from his collection.",
+    "shortDescription": "Life with John Mayer",
+    "siriusChannelNumber": 14,
+    "siriusServiceId": 67,
+    "xmServiceId": 21,
+    "vanityURL": "https://www.siriusxm.com/channels/Life-with-John-Mayer",
+    "xmChannelNumber": 14,
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#6495ed",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/life-with-john-mayer/LifeWithJohnMayer-126-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/life-with-john-mayer/LifeWithJohnMayer-127-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1700643369916
   },
   {
     "artistsYouHear": [],
@@ -34121,8 +34146,8 @@
     "xmChannelNumber": 340,
     "primaryColor": "#ff0000",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/radio-monaco/RadioMonaco-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/radio-monaco/RadioMonaco-127-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/radio-monaco/RadioMonaco-126-500x400-P1.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/radio-monaco/RadioMonaco-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -34133,7 +34158,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1699068305203
+    "updatedDate": 1700254744067
   },
   {
     "artistsYouHear": [
@@ -36677,7 +36702,12 @@
     "updatedDate": 1694056413407
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Jim Gaffigan",
+      "Brian Regan",
+      "Nate Barzgate",
+      "Maria Bramford"
+    ],
     "assetId": 1550762862061,
     "deliveryTypes": [
       "ip",
@@ -36700,7 +36730,7 @@
     "genreVanityURL": null,
     "longDescription": "It's comedy for everybody on Pure Comedy! Check out profanity-free material from today's top comics like Jim Gaffigan and Nate Bargatze, as well as hilarious material from emerging and legendary comedians.",
     "mediumDescription": "Clean stand-up from top comics like Jim Gaffigan and Jerry Seinfeld as well as classics from Bob Newhart, Steven Wright, & more",
-    "shortDescription": "Comedy For The Entire Family",
+    "shortDescription": "It's Comedy For Everyone",
     "siriusChannelNumber": 98,
     "siriusServiceId": 70,
     "xmServiceId": 151,
@@ -36730,7 +36760,7 @@
       "9408",
       "9494"
     ],
-    "updatedDate": 1699317141676
+    "updatedDate": 1700642911137
   },
   {
     "artistsYouHear": [
@@ -39541,6 +39571,7 @@
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
