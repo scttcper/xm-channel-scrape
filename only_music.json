@@ -5728,8 +5728,8 @@
     "xmServiceId": 21,
     "vanityURL": "https://www.siriusxm.com/channels/Life-with-John-Mayer",
     "xmChannelNumber": 14,
-    "primaryColor": "#ffffff",
-    "secondaryColor": "#6495ed",
+    "primaryColor": "#494069",
+    "secondaryColor": "#61c0d8",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/life-with-john-mayer/LifeWithJohnMayer-126-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/life-with-john-mayer/LifeWithJohnMayer-127-N.svg",
     "explicitContentIndicator": "No",
@@ -5744,7 +5744,7 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": null,
-    "updatedDate": 1700643369916
+    "updatedDate": 1701099998494
   },
   {
     "artistsYouHear": [],
