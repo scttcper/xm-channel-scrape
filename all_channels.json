@@ -39708,7 +39708,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Hear hand-picked favorites from Steven Van Zandt on Little Steven’s Coolest Songs in the World streaming on the SXM App.",
+    "channelNotification": "Hear hand-picked favorites from Steven Van Zandt on Little Steven’s Coolest Songs in the World streaming on the SiriusXM app.",
     "contentId": "undergroundgarage",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=UndergroundGarage&cp_5=UndergroundGarage&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=UndergroundGarage&creative_id=NA_NA_DL-COM-live-UndergroundGarage-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
     "displayName": "Underground Garage",
@@ -39748,6 +39748,6 @@
       "thevault",
       "outlawcountry"
     ],
-    "updatedDate": 1678948259062
+    "updatedDate": 1701269302236
   }
 ]
