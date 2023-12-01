@@ -158,7 +158,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/40s-Junction/40sJunction-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
@@ -2946,7 +2945,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Road-Trip-Radio/Road_Trip_Radio_1_color_wht_alt.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -4096,7 +4094,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/disney-hits/DisneyHits-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -9240,6 +9237,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Deep-Tracks/DeepTracks-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
