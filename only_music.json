@@ -2945,6 +2945,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Road-Trip-Radio/Road_Trip_Radio_1_color_wht_alt.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -4094,6 +4095,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/disney-hits/DisneyHits-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -7709,7 +7711,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Prime-Country/PrimeCountry_White_K2.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
@@ -8512,7 +8513,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/smokeys-soul-town/SmokeysSoulTown-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
@@ -8642,7 +8642,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/TheMessage_White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",

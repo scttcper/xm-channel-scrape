@@ -9744,8 +9744,9 @@
     "artistsYouHear": [],
     "assetId": 1550856653185,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -9777,8 +9778,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
@@ -9788,8 +9791,9 @@
     "artistsYouHear": [],
     "assetId": 1550860887852,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -9799,15 +9803,15 @@
     "channelNotification": null,
     "contentId": "4233",
     "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=xtra&cp_4=ForestDreams&cp_5=ForestDreams&cp_6=Music&cp_7=COM&cp_8=SXMCOM&site_id=ForestDreams&creative_id=NA_NA_DL-COM-xtra-ForestDreams-Music-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
-    "displayName": "Forest Dreams",
+    "displayName": "Forest Dream",
     "genre": "chill",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Cool Down",
     "genreVanityURL": null,
-    "longDescription": "Calming Sounds of Nature",
-    "mediumDescription": "Calming Sounds of Nature",
-    "shortDescription": "Calming Sounds of Nature",
+    "longDescription": "Forest Dream",
+    "mediumDescription": "Forest Dream",
+    "shortDescription": "Forest Dream",
     "siriusChannelNumber": 1223,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -9821,8 +9825,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -9833,8 +9839,9 @@
     "artistsYouHear": [],
     "assetId": 1550860895711,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -9866,8 +9873,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -9878,8 +9887,9 @@
     "artistsYouHear": [],
     "assetId": 1550860922011,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -9911,8 +9921,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -9923,7 +9935,9 @@
     "artistsYouHear": [],
     "assetId": 1550866803374,
     "deliveryTypes": [
-      "mobile"
+      "mobile",
+      "satellite",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -9955,8 +9969,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -9967,8 +9983,9 @@
     "artistsYouHear": [],
     "assetId": 1550869509602,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -10000,8 +10017,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -10012,8 +10031,9 @@
     "artistsYouHear": [],
     "assetId": 1550872793047,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -10045,8 +10065,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -10058,7 +10080,8 @@
     "assetId": 1550872813393,
     "deliveryTypes": [
       "mobile",
-      "ip"
+      "ip",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -10090,8 +10113,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -10102,8 +10127,9 @@
     "artistsYouHear": [],
     "assetId": 1550873154447,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -10135,8 +10161,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -10148,7 +10176,8 @@
     "assetId": 1550872918301,
     "deliveryTypes": [
       "mobile",
-      "ip"
+      "ip",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -10180,8 +10209,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -10192,8 +10223,9 @@
     "artistsYouHear": [],
     "assetId": 1550872834772,
     "deliveryTypes": [
+      "mobile",
       "ip",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -10225,8 +10257,10 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -10327,8 +10361,8 @@
     "artistsYouHear": [],
     "assetId": 1550874545385,
     "deliveryTypes": [
-      "ip",
-      "mobile"
+      "mobile",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -10371,8 +10405,8 @@
     "artistsYouHear": [],
     "assetId": 1550876594810,
     "deliveryTypes": [
-      "ip",
-      "mobile"
+      "mobile",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -10415,6 +10449,7 @@
     "artistsYouHear": [],
     "assetId": 1550879232751,
     "deliveryTypes": [
+      "mobile",
       "ip"
     ],
     "availableToPackage": true,
@@ -10431,9 +10466,9 @@
     "genreIcon": null,
     "genreTitle": "Party",
     "genreVanityURL": null,
-    "longDescription": "Vacation",
-    "mediumDescription": "Vacation",
-    "shortDescription": "Vacation",
+    "longDescription": "A Beachy Island Music Vibe!",
+    "mediumDescription": "A Beachy Island Music Vibe!",
+    "shortDescription": "A Beachy Island Music Vibe!",
     "siriusChannelNumber": 1237,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -10458,6 +10493,7 @@
     "artistsYouHear": [],
     "assetId": 1550879247790,
     "deliveryTypes": [
+      "mobile",
       "ip"
     ],
     "availableToPackage": true,
@@ -10489,12 +10525,9 @@
     "explicitContentIndicator": "Yes",
     "packages": [
       "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
     "updatedDate": 1694067902712
@@ -10695,8 +10728,8 @@
     "xmChannelNumber": 0,
     "primaryColor": "#c3e9fc",
     "secondaryColor": "#0072ba",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "colorLogo": null,
+    "greyscaleLogo": null,
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -12143,8 +12176,8 @@
     "xmChannelNumber": 769,
     "primaryColor": "#53abde",
     "secondaryColor": "#143a5a",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "colorLogo": null,
+    "greyscaleLogo": null,
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -15389,8 +15422,8 @@
     "xmChannelNumber": 0,
     "primaryColor": "#c3e9fc",
     "secondaryColor": "#0072ba",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "colorLogo": null,
+    "greyscaleLogo": null,
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -15430,8 +15463,8 @@
     "xmChannelNumber": 0,
     "primaryColor": "#c3e9fc",
     "secondaryColor": "#0072ba",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "colorLogo": null,
+    "greyscaleLogo": null,
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -24751,11 +24784,12 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Traditions/HolidayTraditions-WHITE.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -25098,6 +25132,7 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -27029,6 +27064,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/Road-Trip-Radio/Road_Trip_Radio_1_color_wht_alt.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -29574,10 +29610,13 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/christmas-spirit/ChristmasSpirit-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
@@ -30773,6 +30812,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/disney-hits/DisneyHits-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -32427,7 +32467,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/mixture-north/MixtapeNorth-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -32526,9 +32565,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/top-of-the-country-radio/TopOfTheCountry-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM"
     ],
@@ -34651,8 +34691,8 @@
     "xmChannelNumber": 134,
     "primaryColor": "#2aace3",
     "secondaryColor": "#003a5d",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "colorLogo": null,
+    "greyscaleLogo": null,
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -37348,7 +37388,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Prime-Country/PrimeCountry_White_K2.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
@@ -38294,7 +38333,6 @@
       "Brad Gillie",
       "Todd Gordon",
       "Jeff Hammond",
-      "Claire B. Lang",
       "Larry McReynolds",
       "Dave Moody",
       "Chocolate Myers",
@@ -38358,7 +38396,7 @@
       "8185",
       "8186"
     ],
-    "updatedDate": 1651114698610
+    "updatedDate": 1701877144072
   },
   {
     "artistsYouHear": [
@@ -38768,7 +38806,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/smokeys-soul-town/SmokeysSoulTown-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
@@ -38898,7 +38935,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/TheMessage_White.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
