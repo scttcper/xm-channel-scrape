@@ -38336,7 +38336,6 @@
       "Larry McReynolds",
       "Dave Moody",
       "Chocolate Myers",
-      "Mojo Nixon",
       "Pat Patterson",
       "Pete Pistone",
       "John Roberts",
@@ -38357,7 +38356,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "siriusnascarradio",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=SiriusXMNASCARRadio&cp_5=SiriusXMNASCARRadio&cp_6=SPORTS&cp_7=COM&cp_8=SXMCOM&site_id=SiriusXMNASCARRadio&creative_id=NA_NA_DL-COM-live-SiriusXMNASCARRadio-SPORTS-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.app.link/CBOED7e2nFb",
     "displayName": "SiriusXM NASCAR Radio",
     "genre": "sportstalk",
     "genreLogo": null,
@@ -38396,7 +38395,7 @@
       "8185",
       "8186"
     ],
-    "updatedDate": 1701877144072
+    "updatedDate": 1702394340952
   },
   {
     "artistsYouHear": [
@@ -38495,7 +38494,7 @@
       "Stacy Washington",
       "Sean Hannity",
       "Mark Levin",
-      "Jerome Hudson",
+      "Morgan Ortagus",
       "Matt Boyle",
       "Sonnie Johnson",
       "Joel Pollak"
