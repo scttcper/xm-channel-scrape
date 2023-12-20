@@ -10079,9 +10079,7 @@
     "artistsYouHear": [],
     "assetId": 1550872813393,
     "deliveryTypes": [
-      "mobile",
-      "ip",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -10121,7 +10119,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702315649238
+    "updatedDate": 1703003844038
   },
   {
     "artistsYouHear": [],
@@ -16150,7 +16148,10 @@
       "DJ Tituz",
       "DJ I Rock Jesus",
       "B-Plus",
-      "Meah Evans"
+      "Meah Evans",
+      "Korey \"XROSS\" Dean",
+      "Jamario Roberson",
+      "Treyus Rawls"
     ],
     "assetId": 1550762851562,
     "deliveryTypes": [
@@ -16206,7 +16207,7 @@
       "thecatholicchannel",
       "spirit"
     ],
-    "updatedDate": 1702323962130
+    "updatedDate": 1703021827833
   },
   {
     "artistsYouHear": [
@@ -26785,7 +26786,7 @@
       "siriusstars",
       "9405"
     ],
-    "updatedDate": 1702323948641
+    "updatedDate": 1703000678956
   },
   {
     "artistsYouHear": [],
@@ -35430,7 +35431,8 @@
       "Dr. Erich P. Voigt, MD",
       "Dr. Jonathan Whiteson, MD",
       "Dr. Michael Whitlow, MD",
-      "Dr. Steven Yang, MD"
+      "Dr. Steven Yang, MD",
+      "Rabia de Latour, MD"
     ],
     "assetId": 1550762857395,
     "deliveryTypes": [
@@ -35482,7 +35484,7 @@
     "relatedChannels": [
       "9592"
     ],
-    "updatedDate": 1702323951156
+    "updatedDate": 1703022430765
   },
   {
     "artistsYouHear": [
