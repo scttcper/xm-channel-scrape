@@ -88,14 +88,15 @@
     "assetId": 1550762850202,
     "deliveryTypes": [
       "mobile",
-      "ip"
+      "ip",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>40s Junction</b> will be streaming on the SiriusXM app through the holidays.",
+    "channelNotification": null,
     "contentId": "8205",
     "deepLink": "https://sxm.app.link/6rz19Ku2nFb",
     "displayName": "40s Junction",
@@ -107,11 +108,11 @@
     "longDescription": "This joint is jumpin'! The Swing Era lives on as you journey on the Savoy Express to the ‘40s Junction! A station humming with big bands, vocal stars, and classic melodies from the 1940s.  You’ll be in 'In The Mood,' to Jitterbug and Lindy Hop! Crooners serenade and harmony groups shine in jazzy orchestras that swing and sway. So, hey hep cats! 'Let’s Dance!'",
     "mediumDescription": "Board the Savoy Express with Big Bands, classic vocal stars and hits from the 1940s. Next stop, the '40s Junction!",
     "shortDescription": "40s Pop Hits/Big Bands",
-    "siriusChannelNumber": 296,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 71,
+    "siriusServiceId": 1,
+    "xmServiceId": 4,
     "vanityURL": "https://www.siriusxm.com/channels/40s-junction",
-    "xmChannelNumber": 296,
+    "xmChannelNumber": 71,
     "primaryColor": "#d2d4e9",
     "secondaryColor": "#32356b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/40s-Junction/40sJunction-4C.svg",
@@ -131,7 +132,7 @@
       "siriuslysinatra",
       "purejazz"
     ],
-    "updatedDate": 1702323976056
+    "updatedDate": 1703661734088
   },
   {
     "artistsYouHear": [
@@ -486,7 +487,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "8225",
-    "deepLink": "https://sxm.smart.link/cnrri3exq?cp_3=live&cp_4=Viva&cp_5=Viva&cp_6=MUSIC&cp_7=COM&cp_8=SXMCOM&site_id=Viva&creative_id=NA_NA_DL-COM-live-Viva-MUSIC-SXMCOM-PLAYINGMODULE-NA-COM-20200429-NA",
+    "deepLink": "https://sxm.app.link/DQOZnTA2nFb",
     "displayName": "Viva",
     "genre": "world",
     "genreLogo": null,
@@ -524,7 +525,7 @@
       "9191",
       "rumbon"
     ],
-    "updatedDate": 1694060793297
+    "updatedDate": 1702591532643
   },
   {
     "artistsYouHear": [
@@ -1888,6 +1889,54 @@
       "primecountry"
     ],
     "updatedDate": 1702323927686
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550849860344,
+    "deliveryTypes": [
+      "mobile",
+      "satellite",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9351",
+    "deepLink": "https://sxm.app.link/iSx0zFu2nFb",
+    "displayName": "SiriusXM 105",
+    "genre": "pop",
+    "genreLogo": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "genreVanityURL": null,
+    "longDescription": "SiriusXM 105",
+    "mediumDescription": "SiriusXM 105",
+    "shortDescription": "SiriusXM 105",
+    "siriusChannelNumber": 105,
+    "siriusServiceId": null,
+    "xmServiceId": 259,
+    "vanityURL": "https://www.siriusxm.com/channels/jolly-christmas",
+    "xmChannelNumber": 105,
+    "primaryColor": "#3a6f58",
+    "secondaryColor": "#c93f40",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/jolly-christmas/JollyChristmas-126-500x400-P1.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/jolly-christmas/JollyChristmas-127-500x400-N1.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1702323949603
   },
   {
     "artistsYouHear": [],
@@ -4228,15 +4277,15 @@
     "channelNotification": null,
     "contentId": "9546",
     "deepLink": "https://sxm.app.link/ZwTk2OA2nFb",
-    "displayName": "The Beach Boys Channel",
+    "displayName": "Limited Edition 3",
     "genre": "pop",
     "genreLogo": null,
     "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "The Beach Boys Channel",
-    "mediumDescription": "The Beach Boys Channel",
-    "shortDescription": "The Beach Boys Channel",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 503,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -4320,15 +4369,15 @@
     "channelNotification": null,
     "contentId": "9548",
     "deepLink": "https://sxm.app.link/aKJ4FPA2nFb",
-    "displayName": "Dolly's Rockstar Radio",
+    "displayName": "Limited Edition 10",
     "genre": "country",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Country",
     "genreVanityURL": null,
-    "longDescription": "\"Global superstar Dolly Parton celebrates her new rock album “Rockstar” with Dolly’s\nRockstar Radio. Hear tracks from the new album, hits from her iconic catalog, and music\nfrom her friends and collaborators all handpicked by Dolly herself. Plus, stories from the\nmaking of “Rockstar” and more memories from her decades-long career.\"",
-    "mediumDescription": "\"Dolly Parton shares her new album “Rockstar” with you! Hits from her iconic catalog and\nher favorite music, handpicked by Dolly",
-    "shortDescription": "Rock out with Dolly Parton",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, her favorite music, handpicked by Dolly",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 510,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -5378,6 +5427,53 @@
   },
   {
     "artistsYouHear": [],
+    "assetId": 1550892390001,
+    "deliveryTypes": [
+      "ip",
+      "satellite",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9607",
+    "deepLink": "ad0ab172-202f-c05b-c7b9-597be600541f",
+    "displayName": "Green Day Radio",
+    "genre": "rock",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Rock",
+    "genreVanityURL": null,
+    "longDescription": "Green Day brings three decades of groundbreaking punk exploration and innovation to their very own SiriusXM channel to celebrate the release of their new album Saviors. Hear Billie Joe, Mike Dirnt and Tré Cool share exclusive stories and insight into their biggest tracks, brand new music and artists that have inspired them at every level of their legendary career!",
+    "mediumDescription": "Green Day brings three decades of groundbreaking music to their SiriusXM channel to mark the release of their new album Saviors.",
+    "shortDescription": "Green Day's music & insights",
+    "siriusChannelNumber": 107,
+    "siriusServiceId": 49,
+    "xmServiceId": 100,
+    "vanityURL": "https://www.siriusxm.com/channels/SiriusXM107",
+    "xmChannelNumber": 107,
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#32cd32",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/green-day/GreenDayRadio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/green-day/GreenDayRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1703665040613
+  },
+  {
+    "artistsYouHear": [],
     "assetId": 1550883889091,
     "deliveryTypes": [
       "ip",
@@ -5615,9 +5711,9 @@
     "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "A music experience hand-selected by John Mayer. The guitarist and songwriter personally delivers a radio station defined not by genre, but by the time of day, as well as the day of the week. Enter an ever-evolving world of music built from his classics, collaborations and never-before-heard material blended with the songs he loves. Don&rsquo;t just tune into SiriusXM. Tune into life... with John Mayer",
+    "longDescription": "A music experience hand-selected by John Mayer. The guitarist and songwriter finally realizes his dream of a radio station defined not by genre, but by the time of day, as well as the day of the week. Enter an ever-evolving world of music built from his classics, collaborations and never-before-heard material blended with the songs he loves. Don’t just tune into SiriusXM. Tune into life... with John Mayer.",
     "mediumDescription": "Music for the moment hand-selected by John Mayer featuring exclusive songs, commentary and tracks from his collection.",
-    "shortDescription": "Life with John Mayer",
+    "shortDescription": "Your Personal Soundtrack",
     "siriusChannelNumber": 14,
     "siriusServiceId": 67,
     "xmServiceId": 21,
@@ -5639,7 +5735,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702323906331
+    "updatedDate": 1703665383303
   },
   {
     "artistsYouHear": [],
@@ -7577,14 +7673,15 @@
     "assetId": 1550762877640,
     "deliveryTypes": [
       "mobile",
-      "ip"
+      "ip",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Prime Country</b> (formerly ch. 58) is now airing on channel 294",
+    "channelNotification": "<b>Prime Country</b> is now airing on channel 58",
     "contentId": "primecountry",
     "deepLink": "https://sxm.app.link/S1cn0Ku2nFb",
     "displayName": "Prime Country",
@@ -7596,11 +7693,11 @@
     "longDescription": "This is where country music from the '80s and '90s lives. Garth Brooks, Reba McEntire, George Strait, Shania Twain, Alan Jackson, and Randy Travis all play here.",
     "mediumDescription": "Country hits from the '80s and '90s.",
     "shortDescription": "‘80s/'90s Country Hits",
-    "siriusChannelNumber": 294,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 58,
+    "siriusServiceId": 42,
+    "xmServiceId": 17,
     "vanityURL": "https://www.siriusxm.com/channels/prime-country",
-    "xmChannelNumber": 294,
+    "xmChannelNumber": 58,
     "primaryColor": "#fffde9",
     "secondaryColor": "#004a7b",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/Prime-Country/Prime-Country.svg",
@@ -7622,7 +7719,7 @@
       "big80s",
       "classicrewind"
     ],
-    "updatedDate": 1702323975124
+    "updatedDate": 1703607090760
   },
   {
     "artistsYouHear": [
@@ -7680,6 +7777,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -8379,14 +8477,15 @@
     "assetId": 1550762883868,
     "deliveryTypes": [
       "mobile",
-      "ip"
+      "ip",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Soul Town</b> (formerly ch. 74) is now named <b>Smokey's Soul Town</b> and airs on channel 292.",
+    "channelNotification": "<b>Soul Town</b> now named <b>Smokey's Soul Town</b>, airs on channel 74.",
     "contentId": "soultown",
     "deepLink": "https://sxm.app.link/DyPYUKu2nFb",
     "displayName": "Smokey's Soul Town",
@@ -8398,11 +8497,11 @@
     "longDescription": "Classic Soul, R&B & Motown from the '60s and '70s live in Smokey's Soul Town! Throughout the day, Smokey shares stories from his career and picks some of his favorites from Hitsville and beyond. Plus hosted DJ shows from The Motown Museum in Detroit. Stevie, Aretha, Otis, Marvin, Jackie, Chaka, The Temptations, The Miracles, The Supremes, The Four Tops and all the Soul you can handle... 24/7 on Smokey's Soul Town!!",
     "mediumDescription": "Classic Soul, R&B and Motown from the '60s and '70s with memories and comments from a living legend..Smokey Robinson!",
     "shortDescription": "Classic R&B hosted by Smokey!",
-    "siriusChannelNumber": 292,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 74,
+    "siriusServiceId": 40,
+    "xmServiceId": 60,
     "vanityURL": "https://www.siriusxm.com/channels/smokeys-soul-town",
-    "xmChannelNumber": 292,
+    "xmChannelNumber": 74,
     "primaryColor": "#ffdb77",
     "secondaryColor": "#7c2683",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/smokeys-soul-town/SmokeysSoulTown-126-500x400-P.svg",
@@ -8423,7 +8522,7 @@
       "8238",
       "praise"
     ],
-    "updatedDate": 1702323974816
+    "updatedDate": 1703661490528
   },
   {
     "artistsYouHear": [
@@ -8508,14 +8607,15 @@
     "assetId": 1550762891041,
     "deliveryTypes": [
       "mobile",
-      "ip"
+      "ip",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>The Message</b> (formerly ch. 63) is now airing on channel 295",
+    "channelNotification": "<b>The Message</b> (formerly ch. 295) is now airing on channel 63",
     "contentId": "spirit",
     "deepLink": "https://sxm.app.link/Zeoc5Ku2nFb",
     "displayName": "The Message",
@@ -8527,11 +8627,11 @@
     "longDescription": "Pop and rock with a higher purpose. Contemporary Christian music delivered by compassionate hosts to encourage you and your family on your faith journey.",
     "mediumDescription": "The power and positive impact of today's popular Christian music.",
     "shortDescription": "Contemporary Christian",
-    "siriusChannelNumber": 295,
-    "siriusServiceId": null,
-    "xmServiceId": null,
+    "siriusChannelNumber": 63,
+    "siriusServiceId": 46,
+    "xmServiceId": 32,
     "vanityURL": "https://www.siriusxm.com/channels/the-message",
-    "xmChannelNumber": 295,
+    "xmChannelNumber": 63,
     "primaryColor": "#8dc63f",
     "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/The_Message.svg",
@@ -8550,7 +8650,7 @@
       "8229",
       "praise"
     ],
-    "updatedDate": 1702323975551
+    "updatedDate": 1703607132697
   },
   {
     "artistsYouHear": [
@@ -9123,6 +9223,7 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
