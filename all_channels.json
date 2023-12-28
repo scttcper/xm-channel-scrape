@@ -11842,8 +11842,7 @@
       "Omi Bell ",
       "Qasim Rashid",
       "Reecie Colbert",
-      "Dr. Rasad Richey",
-      "Heather B."
+      "Dr. Rasad Richey"
     ],
     "assetId": 1550762883498,
     "deliveryTypes": [
@@ -11865,7 +11864,7 @@
     "genreIcon": null,
     "genreTitle": "Politics/Issues",
     "genreVanityURL": null,
-    "longDescription": "Urban View features dynamic discourse from prominent Black voices on topics ranging from culture, politics, faith, justice, activism, and more. Join Joe Madison, Heather B., Clay Cane, Karen Hunter, Rev. Al Sharpton, and more.",
+    "longDescription": "Urban View features dynamic discourse from prominent Black voices on topics ranging from culture, politics, faith, justice, activism, and more. Join Joe Madison, Clay Cane, Karen Hunter, Rev. Al Sharpton, and more.",
     "mediumDescription": "Joe Madison, Heather B., Clay Cane and Karen Hunter put action behind their words making you part of the solution.",
     "shortDescription": "Talk that Empowers",
     "siriusChannelNumber": 126,
@@ -11901,7 +11900,7 @@
       "soultown",
       "9471"
     ],
-    "updatedDate": 1703095142814
+    "updatedDate": 1703695203395
   },
   {
     "artistsYouHear": [],
@@ -24595,7 +24594,7 @@
     "siriusChannelNumber": 622,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/holiday-pops",
+    "vanityURL": null,
     "xmChannelNumber": 622,
     "primaryColor": "#77aad6",
     "secondaryColor": "#5A5A5A",
@@ -24693,7 +24692,7 @@
     "siriusChannelNumber": 74,
     "siriusServiceId": 40,
     "xmServiceId": 60,
-    "vanityURL": "https://www.siriusxm.com/channels/holiday-soul",
+    "vanityURL": null,
     "xmChannelNumber": 74,
     "primaryColor": "#4a7d45",
     "secondaryColor": "#db3832",
@@ -24741,7 +24740,7 @@
     "siriusChannelNumber": 626,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/navidad",
+    "vanityURL": null,
     "xmChannelNumber": 626,
     "primaryColor": "#a2b059",
     "secondaryColor": "#c34232",
@@ -29087,7 +29086,7 @@
     "siriusChannelNumber": 63,
     "siriusServiceId": 46,
     "xmServiceId": 32,
-    "vanityURL": "https://www.siriusxm.com/channels/christmas-spirit",
+    "vanityURL": null,
     "xmChannelNumber": 63,
     "primaryColor": "#6eb9dc",
     "secondaryColor": "#b52b34",
@@ -30538,7 +30537,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9546",
-    "deepLink": "https://sxm.app.link/ZwTk2OA2nFb",
+    "deepLink": "https://sxm.app.link/AuzIBLagKFb",
     "displayName": "Limited Edition 3",
     "genre": "pop",
     "genreLogo": null,
@@ -30567,7 +30566,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702323993810
+    "updatedDate": 1703692300267
   },
   {
     "artistsYouHear": [
@@ -30630,7 +30629,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9548",
-    "deepLink": "https://sxm.app.link/aKJ4FPA2nFb",
+    "deepLink": "https://sxm.app.link/vjXGFLagKFb",
     "displayName": "Limited Edition 10",
     "genre": "country",
     "genreLogo": null,
@@ -30659,7 +30658,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702323996978
+    "updatedDate": 1703692335342
   },
   {
     "artistsYouHear": [],
@@ -30999,7 +30998,7 @@
     "siriusChannelNumber": 640,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/noel-incontournable",
+    "vanityURL": null,
     "xmChannelNumber": 640,
     "primaryColor": "#da3932",
     "secondaryColor": "#096c39",
@@ -32142,7 +32141,7 @@
     "siriusChannelNumber": 620,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/mannheim-steamroller",
+    "vanityURL": null,
     "xmChannelNumber": 620,
     "primaryColor": "#97bedf",
     "secondaryColor": "#8b0000",
@@ -32852,7 +32851,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9607",
-    "deepLink": "ad0ab172-202f-c05b-c7b9-597be600541f",
+    "deepLink": "https://sxm.app.link/8vU2QLagKFb",
     "displayName": "Green Day Radio",
     "genre": "rock",
     "genreLogo": null,
@@ -32882,7 +32881,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1703665040613
+    "updatedDate": 1703692403627
   },
   {
     "artistsYouHear": [],
@@ -33128,7 +33127,7 @@
     "siriusChannelNumber": 621,
     "siriusServiceId": null,
     "xmServiceId": null,
-    "vanityURL": "https://www.siriusxm.com/channels/trans-siberian-orchestra-radio",
+    "vanityURL": null,
     "xmChannelNumber": 621,
     "primaryColor": "#f2efb1",
     "secondaryColor": "#000",
