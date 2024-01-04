@@ -10972,7 +10972,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Kids Place Live</b> (formerly ch. 78) is now on channel 134.",
+    "channelNotification": null,
     "contentId": "8216",
     "deepLink": "https://sxm.app.link/mzYlTHu2nFb",
     "displayName": "Kids Place Live",
@@ -11011,7 +11011,7 @@
       "9530",
       "laughbreak"
     ],
-    "updatedDate": 1702332000105
+    "updatedDate": 1704308532967
   },
   {
     "artistsYouHear": [
@@ -11164,7 +11164,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>The Groove</b> (formerly ch. 50) is now on channel 51.",
+    "channelNotification": null,
     "contentId": "8228",
     "deepLink": "https://sxm.app.link/bd3jf4e2nFb",
     "displayName": "The Groove",
@@ -11203,7 +11203,7 @@
       "9471",
       "soultown"
     ],
-    "updatedDate": 1702354609676
+    "updatedDate": 1704308277772
   },
   {
     "artistsYouHear": [
@@ -11783,7 +11783,7 @@
     "categoryIcon": null,
     "categoryTitle": "Sports",
     "categoryVanityURL": null,
-    "channelNotification": "<b>SiriusXM INDYCAR Nation</b> (formerly ch. 160) is now on channel 218.",
+    "channelNotification": null,
     "contentId": "8256",
     "deepLink": "https://sxm.app.link/hSgLKKu2nFb",
     "displayName": "SiriusXM INDYCAR Nation",
@@ -11825,7 +11825,7 @@
       "8186",
       "siriusnascarradio"
     ],
-    "updatedDate": 1702323974098
+    "updatedDate": 1704308699628
   },
   {
     "artistsYouHear": [
@@ -15446,7 +15446,7 @@
     "categoryIcon": null,
     "categoryTitle": "",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Holy Culture Radio</b> (formerly ch. 154) is now on channel 140.",
+    "channelNotification": null,
     "contentId": "9133",
     "deepLink": "https://sxm.app.link/UAjG8Hu2nFb",
     "displayName": "Holy Culture Radio",
@@ -15489,7 +15489,7 @@
       "thecatholicchannel",
       "spirit"
     ],
-    "updatedDate": 1703021827833
+    "updatedDate": 1704308583692
   },
   {
     "artistsYouHear": [
@@ -15574,7 +15574,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>En Vivo</b> (formerly ch. 152) is now on channel 154.",
+    "channelNotification": null,
     "contentId": "9135",
     "deepLink": "https://sxm.app.link/SiS86Iu2nFb",
     "displayName": "En Vivo",
@@ -15616,7 +15616,7 @@
       "rumbon",
       "9185"
     ],
-    "updatedDate": 1702323967670
+    "updatedDate": 1704308682182
   },
   {
     "artistsYouHear": [
@@ -17153,7 +17153,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>RockBar</b> is now a streaming-only channel.",
+    "channelNotification": null,
     "contentId": "9175",
     "deepLink": "https://sxm.app.link/hGf8DRA2nFb",
     "displayName": "RockBar",
@@ -17189,7 +17189,7 @@
       "octane",
       "buzzsaw"
     ],
-    "updatedDate": 1702324005498
+    "updatedDate": 1704308854892
   },
   {
     "artistsYouHear": [
@@ -17343,7 +17343,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Águila</b> (formerly ch. 322) is now on channel 153.",
+    "channelNotification": null,
     "contentId": "9186",
     "deepLink": "https://sxm.app.link/PdiB2Iu2nFb",
     "displayName": "Águila",
@@ -17379,7 +17379,7 @@
       "9191",
       "rumbon"
     ],
-    "updatedDate": 1702323967238
+    "updatedDate": 1704308641382
   },
   {
     "artistsYouHear": [
@@ -23828,7 +23828,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>SiriusXM Fly</b> (formerly ch. 47) is now on channel 50.",
+    "channelNotification": null,
     "contentId": "9339",
     "deepLink": "https://sxm.app.link/87sMa4e2nFb",
     "displayName": "SiriusXM FLY",
@@ -23865,7 +23865,7 @@
       "hotjamz",
       "9471"
     ],
-    "updatedDate": 1702323924084
+    "updatedDate": 1704308261127
   },
   {
     "artistsYouHear": [
@@ -24183,6 +24183,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/country-christmas/CountryChristmas-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -24206,7 +24207,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9351",
-    "deepLink": "https://sxm.app.link/iSx0zFu2nFb",
+    "deepLink": "fdfed5ae-6fb9-338f-342b-e8a922970123",
     "displayName": "SiriusXM 105",
     "genre": "pop",
     "genreLogo": null,
@@ -24237,7 +24238,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702323949603
+    "updatedDate": 1704301878398
   },
   {
     "artistsYouHear": [],
@@ -24615,7 +24616,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>KIDZ BOP Radio</b> (formerly ch. 79) is now on channel 135.",
+    "channelNotification": null,
     "contentId": "9366",
     "deepLink": "https://sxm.app.link/tM9aYHu2nFb",
     "displayName": "KIDZ BOP Radio",
@@ -24653,7 +24654,7 @@
       "8216",
       "laughbreak"
     ],
-    "updatedDate": 1702323961405
+    "updatedDate": 1704308549354
   },
   {
     "artistsYouHear": [],
@@ -27369,7 +27370,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>PopRocks</b> (formerly ch. 12) is now on channel 6.",
+    "channelNotification": null,
     "contentId": "9450",
     "deepLink": "https://sxm.app.link/i21mg0e2nFb",
     "displayName": "PopRocks",
@@ -27411,7 +27412,7 @@
       "8208",
       "8206"
     ],
-    "updatedDate": 1702323902315
+    "updatedDate": 1704308144035
   },
   {
     "artistsYouHear": [],
@@ -28090,7 +28091,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Diplo's Revolution</b> (formerly ch. 52) is now on channel 53.",
+    "channelNotification": null,
     "contentId": "9472",
     "deepLink": "https://sxm.app.link/VFcfr4e2nFb",
     "displayName": "Diplo's Revolution",
@@ -28127,7 +28128,7 @@
       "9406",
       "thebeat"
     ],
-    "updatedDate": 1702354697615
+    "updatedDate": 1704308299864
   },
   {
     "artistsYouHear": [],
@@ -28679,7 +28680,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>SoulCycle Radio</b> is now a streaming-only channel.",
+    "channelNotification": null,
     "contentId": "9500",
     "deepLink": "https://sxm.app.link/xhzTaRA2nFb",
     "displayName": "SoulCycle Radio",
@@ -28716,7 +28717,7 @@
       "9339",
       "thebeat"
     ],
-    "updatedDate": 1702324003272
+    "updatedDate": 1704308775699
   },
   {
     "artistsYouHear": [],
@@ -28753,6 +28754,7 @@
     "greyscaleLogo": null,
     "explicitContentIndicator": "No",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -29558,7 +29560,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Disney Hits</b> (formerly ch. 302) is now on channel 133.",
+    "channelNotification": null,
     "contentId": "9530",
     "deepLink": "https://sxm.app.link/fmNwOHu2nFb",
     "displayName": "Disney Hits",
@@ -29592,7 +29594,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702323960903
+    "updatedDate": 1704307546952
   },
   {
     "artistsYouHear": [],
@@ -29860,7 +29862,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9546",
-    "deepLink": "https://sxm.app.link/AuzIBLagKFb",
+    "deepLink": "8fcd47c1-c56f-a906-871d-f8a6ca8d928d",
     "displayName": "Limited Edition 3",
     "genre": "pop",
     "genreLogo": null,
@@ -29889,7 +29891,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1703692300267
+    "updatedDate": 1704301943254
   },
   {
     "artistsYouHear": [
@@ -29952,7 +29954,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9548",
-    "deepLink": "https://sxm.app.link/vjXGFLagKFb",
+    "deepLink": "0362be32-e873-95f6-c282-2fcf7be86ab6",
     "displayName": "Limited Edition 10",
     "genre": "country",
     "genreLogo": null,
@@ -29981,7 +29983,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1703692335342
+    "updatedDate": 1704301911588
   },
   {
     "artistsYouHear": [],
@@ -31020,7 +31022,7 @@
     "categoryIcon": null,
     "categoryTitle": "Talk & Entertainment",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Team Coco Radio</b> (formerly ch. 106) is now named <b>Conan O'Brien Radio</b> and airs on channel 104.",
+    "channelNotification": null,
     "contentId": "9580",
     "deepLink": "  https://sxm.app.link/fNXsvFu2nFb",
     "displayName": "Conan O'Brien Radio",
@@ -31050,7 +31052,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1703665341119
+    "updatedDate": 1704307577603
   },
   {
     "artistsYouHear": [],
@@ -31472,7 +31474,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Hits Uno</b> (formerly ch. 321) is now on channel 151.",
+    "channelNotification": null,
     "contentId": "9593",
     "deepLink": "https://sxm.app.link/NbJNTIu2nFb",
     "displayName": "Hits Uno",
@@ -31512,7 +31514,7 @@
       "9492",
       "9185"
     ],
-    "updatedDate": 1702323966326
+    "updatedDate": 1704308662415
   },
   {
     "artistsYouHear": [],
@@ -31766,7 +31768,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Moonbug Radio</b> (formerly ch. 307) is now on channel 136.",
+    "channelNotification": null,
     "contentId": "9600",
     "deepLink": "https://sxm.app.link/RvJ83Hu2nFb",
     "displayName": "Moonbug Radio",
@@ -31806,7 +31808,7 @@
       "9530",
       "8216"
     ],
-    "updatedDate": 1702323961753
+    "updatedDate": 1704308565417
   },
   {
     "artistsYouHear": [
@@ -32080,7 +32082,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9607",
-    "deepLink": "https://sxm.app.link/8vU2QLagKFb",
+    "deepLink": "ad0ab172-202f-c05b-c7b9-597be600541f",
     "displayName": "Green Day Radio",
     "genre": "rock",
     "genreLogo": null,
@@ -32110,7 +32112,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1703692403627
+    "updatedDate": 1704301796651
   },
   {
     "artistsYouHear": [],
@@ -33134,7 +33136,7 @@
     "categoryIcon": null,
     "categoryTitle": "News & Issues",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Bloomberg Radio</b> (formerly ch. 119) is now on channel 121.",
+    "channelNotification": null,
     "contentId": "bloombergradio",
     "deepLink": "https://sxm.app.link/GqPLRGu2nFb",
     "displayName": "Bloomberg Radio",
@@ -33173,7 +33175,7 @@
       "cnn",
       "8367"
     ],
-    "updatedDate": 1702323955500
+    "updatedDate": 1704308512930
   },
   {
     "artistsYouHear": [
@@ -33563,7 +33565,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>SiriusXM Chill</b> (formerly ch. 53) is now on channel 55.",
+    "channelNotification": null,
     "contentId": "chill",
     "deepLink": "https://sxm.app.link/E5kqH4e2nFb",
     "displayName": "SiriusXM Chill",
@@ -33600,7 +33602,7 @@
       "leftofcenter",
       "9472"
     ],
-    "updatedDate": 1702323926686
+    "updatedDate": 1704308331088
   },
   {
     "artistsYouHear": [
@@ -34019,7 +34021,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>The Coffee House</b> (formerly ch. 6) is now on channel 17.",
+    "channelNotification": null,
     "contentId": "coffeehouse",
     "deepLink": "https://sxm.app.link/sbpqb1e2nFb",
     "displayName": "The Coffee House",
@@ -34056,7 +34058,7 @@
       "thespectrum",
       "thebridge"
     ],
-    "updatedDate": 1702323907745
+    "updatedDate": 1704308171105
   },
   {
     "artistsYouHear": [
@@ -34197,7 +34199,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Elvis Radio</b> (formerly ch. 75) is now on channel 76.",
+    "channelNotification": null,
     "contentId": "elvisradio",
     "deepLink": "https://sxm.app.link/M5jao6e2nFb",
     "displayName": "Elvis Radio",
@@ -34238,7 +34240,7 @@
       "siriuslove",
       "siriusnascarradio"
     ],
-    "updatedDate": 1702323936080
+    "updatedDate": 1704308426269
   },
   {
     "artistsYouHear": [
@@ -34906,7 +34908,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Heart & Soul</b> (formerly ch. 48) is now on channel 47.",
+    "channelNotification": null,
     "contentId": "heartandsoul",
     "deepLink": "https://sxm.app.link/lAJjU3e2nFb",
     "displayName": "Heart & Soul",
@@ -34946,7 +34948,7 @@
       "praise",
       "soultown"
     ],
-    "updatedDate": 1702323922818
+    "updatedDate": 1704308243726
   },
   {
     "artistsYouHear": [
@@ -35127,6 +35129,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/HowardStern/Howard-Stern-100/Howard_100_white_R1.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_ALLACCESS_FF"
@@ -35175,6 +35178,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/HowardStern/Howard-Stern-101/Howard_101_White_R1.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_ALLACCESS_FF"
@@ -35412,7 +35416,7 @@
     "categoryIcon": null,
     "categoryTitle": "Comedy",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Laugh USA</b> is now named <b>Pure Comedy</b>.",
+    "channelNotification": null,
     "contentId": "laughbreak",
     "deepLink": "https://sxm.app.link/dGPDn8e2nFb",
     "displayName": "Pure Comedy",
@@ -35453,7 +35457,7 @@
       "9408",
       "9494"
     ],
-    "updatedDate": 1702323946913
+    "updatedDate": 1704308461980
   },
   {
     "artistsYouHear": [
@@ -35552,7 +35556,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Met Opera Radio</b> is now a streaming-only channel.",
+    "channelNotification": null,
     "contentId": "metropolitanopera",
     "deepLink": "https://sxm.app.link/JqBRESA2nFb",
     "displayName": "Met Opera Radio",
@@ -35587,7 +35591,7 @@
       "broadwaysbest",
       "symphonyhall"
     ],
-    "updatedDate": 1702324009898
+    "updatedDate": 1704308843862
   },
   {
     "artistsYouHear": [
@@ -36023,7 +36027,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Prime Country</b> is now airing on channel 58",
+    "channelNotification": null,
     "contentId": "primecountry",
     "deepLink": "https://sxm.app.link/S1cn0Ku2nFb",
     "displayName": "Prime Country",
@@ -36061,7 +36065,7 @@
       "big80s",
       "classicrewind"
     ],
-    "updatedDate": 1703607090760
+    "updatedDate": 1704308358698
   },
   {
     "artistsYouHear": [
@@ -36278,7 +36282,7 @@
     "categoryIcon": null,
     "categoryTitle": "Comedy",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Raw Dog Comedy</b> is now named <b>Raw Comedy</b>.",
+    "channelNotification": null,
     "contentId": "rawdog",
     "deepLink": "https://sxm.app.link/se78SEu2nFb",
     "displayName": "Raw Comedy",
@@ -36315,7 +36319,7 @@
       "laughbreak",
       "9494"
     ],
-    "updatedDate": 1702323947318
+    "updatedDate": 1704308487968
   },
   {
     "artistsYouHear": [
@@ -36345,7 +36349,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>The Joint</b> (formerly ch. 722) is now named <b>Shaggy's Boombastic Radio</b>.",
+    "channelNotification": null,
     "contentId": "reggaerhythms",
     "deepLink": "https://sxm.app.link/pU9n1Lu2nFb",
     "displayName": "Shaggy's Boombastic Radio",
@@ -36381,7 +36385,7 @@
       "praise",
       "soultown"
     ],
-    "updatedDate": 1702323980664
+    "updatedDate": 1704308746785
   },
   {
     "artistsYouHear": [
@@ -36479,7 +36483,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Caliente</b> (formerly ch. 151) is now on channel 152.",
+    "channelNotification": null,
     "contentId": "rumbon",
     "deepLink": "https://sxm.app.link/M8H3XIu2nFb",
     "displayName": "Caliente",
@@ -36524,7 +36528,7 @@
       "9187",
       "9185"
     ],
-    "updatedDate": 1702323966745
+    "updatedDate": 1704308623177
   },
   {
     "artistsYouHear": [
@@ -36611,7 +36615,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>BB King's Bluesville</b> (formerly ch. 74) is now on channel 75.",
+    "channelNotification": null,
     "contentId": "siriusblues",
     "deepLink": "https://sxm.app.link/N8kUj6e2nFb",
     "displayName": "BB King's Bluesville",
@@ -36652,7 +36656,7 @@
       "purejazz",
       "soultown"
     ],
-    "updatedDate": 1702323935541
+    "updatedDate": 1704308410553
   },
   {
     "artistsYouHear": [
@@ -37435,7 +37439,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Soul Town</b> now named <b>Smokey's Soul Town</b>, airs on channel 74.",
+    "channelNotification": null,
     "contentId": "soultown",
     "deepLink": "https://sxm.app.link/DyPYUKu2nFb",
     "displayName": "Smokey's Soul Town",
@@ -37472,7 +37476,7 @@
       "8238",
       "praise"
     ],
-    "updatedDate": 1703661490528
+    "updatedDate": 1704308394920
   },
   {
     "artistsYouHear": [
@@ -37565,7 +37569,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>The Message</b> (formerly ch. 295) is now airing on channel 63",
+    "channelNotification": null,
     "contentId": "spirit",
     "deepLink": "https://sxm.app.link/Zeoc5Ku2nFb",
     "displayName": "The Message",
@@ -37600,7 +37604,7 @@
       "8229",
       "praise"
     ],
-    "updatedDate": 1703607132697
+    "updatedDate": 1704308374928
   },
   {
     "artistsYouHear": [
@@ -37701,7 +37705,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Symphony Hall</b> (formerly ch. 76) is now on channel 78.",
+    "channelNotification": null,
     "contentId": "symphonyhall",
     "deepLink": "https://sxm.app.link/M4RdB6e2nFb",
     "displayName": "Symphony Hall",
@@ -37742,7 +37746,7 @@
       "siriuspops",
       "metropolitanopera"
     ],
-    "updatedDate": 1702323936958
+    "updatedDate": 1704308441299
   },
   {
     "artistsYouHear": [
@@ -37774,7 +37778,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>BPM</b> (formerly ch. 51) is now on channel 52.",
+    "channelNotification": null,
     "contentId": "thebeat",
     "deepLink": "https://sxm.app.link/aa2zj4e2nFb",
     "displayName": "BPM",
@@ -37821,7 +37825,7 @@
       "9527",
       "9472"
     ],
-    "updatedDate": 1702323924763
+    "updatedDate": 1704308311334
   },
   {
     "artistsYouHear": [
@@ -37850,7 +37854,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>The Bridge</b> (formerly ch. 17) is now on channel 27. Deep Tracks has moved to channel 308.",
+    "channelNotification": null,
     "contentId": "thebridge",
     "deepLink": "https://sxm.app.link/r1yaa2e2nFb",
     "displayName": "The Bridge",
@@ -37890,7 +37894,7 @@
       "starlite",
       "siriuslove"
     ],
-    "updatedDate": 1702323913005
+    "updatedDate": 1704308228563
   },
   {
     "artistsYouHear": [
@@ -38213,7 +38217,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "<b>Deep Tracks</b> (formerly ch. 27) is now on channel 308. <b>*May not be available in-vehicle on certain makes and models.</b>",
+    "channelNotification": "*May not be available in-vehicle on certain makes and models.",
     "contentId": "thevault",
     "deepLink": "https://sxm.app.link/0dWfiLu2nFb",
     "displayName": "Deep Tracks",
@@ -38257,7 +38261,7 @@
       "4190",
       "9174"
     ],
-    "updatedDate": 1702323976954
+    "updatedDate": 1704308730359
   },
   {
     "artistsYouHear": [
@@ -38376,7 +38380,7 @@
     "categoryIcon": null,
     "categoryTitle": "Music",
     "categoryVanityURL": null,
-    "channelNotification": "Hear hand-picked favorites from Steven Van Zandt on Little Steven’s Coolest Songs in the World streaming on the SiriusXM app.",
+    "channelNotification": null,
     "contentId": "undergroundgarage",
     "deepLink": "https://sxm.app.link/RV5eD1e2nFb",
     "displayName": "Underground Garage",
@@ -38416,6 +38420,6 @@
       "thevault",
       "outlawcountry"
     ],
-    "updatedDate": 1702323909880
+    "updatedDate": 1704308196211
   }
 ]
