@@ -9962,6 +9962,7 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
@@ -10006,10 +10007,55 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
     "updatedDate": 1702315652552
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550892368102,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4252",
+    "deepLink": "85c34be6-edf0-c543-904b-33a9a178e488",
+    "displayName": "Carr-dio by Carrie",
+    "genre": "workout",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Workout",
+    "genreVanityURL": null,
+    "longDescription": "Work out with Carrie Underwood",
+    "mediumDescription": "Work out with Carrie Underwood",
+    "shortDescription": "Work out with Carrie Underwood",
+    "siriusChannelNumber": 1240,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1240,
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#da70d6",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/carr-dio-by-carrie/CarriesCarDio-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/carr-dio-by-carrie/CarriesCarDio-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1704301978309
   },
   {
     "artistsYouHear": [
@@ -10587,9 +10633,13 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -17367,7 +17417,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
@@ -24138,61 +24190,6 @@
     "updatedDate": 1702323937383
   },
   {
-    "artistsYouHear": [
-      "George Strait",
-      "Carrie Underwood",
-      "Brett Eldredge",
-      "Willie Nelson",
-      "Dolly Parton",
-      "Kenny Rogers",
-      "Blake Shelton",
-      "Reba McEntire",
-      "Randy Travis"
-    ],
-    "assetId": 1550884565756,
-    "deliveryTypes": [
-      "ip",
-      "satellite",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "Holiday",
-    "categoryIcon": null,
-    "categoryTitle": "Holiday",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9345",
-    "deepLink": "https://sxm.app.link/7Y4sW4e2nFb",
-    "displayName": "Country Christmas",
-    "genre": "Holiday",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Holiday",
-    "genreVanityURL": null,
-    "longDescription": "All the generations of Country artists come together with both Classic and Contemporary Holiday songs from every generation of Country artists... including George Strait, Carrie Underwood and Willie Nelson.",
-    "mediumDescription": "A wide-ranging assortment of Country Christmas music, including George Strait, Carrie Underwood and Willie Nelson.",
-    "shortDescription": "Country Christmas Music",
-    "siriusChannelNumber": 58,
-    "siriusServiceId": 42,
-    "xmServiceId": 17,
-    "vanityURL": "https://www.siriusxm.com/channels/country-christmas",
-    "xmChannelNumber": 58,
-    "primaryColor": "#8a2724",
-    "secondaryColor": "#395e35",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/country-christmas/CountryChristmas-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/programming-content/music/holiday/country-christmas/CountryChristmas-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_ALLACCESS_FF"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1702323928171
-  },
-  {
     "artistsYouHear": [],
     "assetId": 1550849860344,
     "deliveryTypes": [
@@ -24220,12 +24217,12 @@
     "siriusChannelNumber": 105,
     "siriusServiceId": null,
     "xmServiceId": 259,
-    "vanityURL": "https://www.siriusxm.com/channels/jolly-christmas",
+    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-105",
     "xmChannelNumber": 105,
-    "primaryColor": "#3a6f58",
-    "secondaryColor": "#c93f40",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/jolly-christmas/JollyChristmas-126-500x400-P1.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Holiday/jolly-christmas/JollyChristmas-127-500x400-N1.svg",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXM105-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXM105-4C-OnK.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24238,7 +24235,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1704301878398
+    "updatedDate": 1704400010601
   },
   {
     "artistsYouHear": [],
@@ -24284,6 +24281,53 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1702324004729
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550893160532,
+    "deliveryTypes": [
+      "satellite",
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "9353",
+    "deepLink": "b8c4de96-afd9-85ee-7e5f-95c2e380ab65",
+    "displayName": "SiriusXM 79",
+    "genre": "pop",
+    "genreLogo": null,
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "genreVanityURL": null,
+    "longDescription": "SiriusXM 79",
+    "mediumDescription": "SiriusXM 79",
+    "shortDescription": "SiriusXM 79",
+    "siriusChannelNumber": 79,
+    "siriusServiceId": 58,
+    "xmServiceId": 50,
+    "vanityURL": "https://www.siriusxm.com/channels/SiriusXM-79",
+    "xmChannelNumber": 79,
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1704301840134
   },
   {
     "artistsYouHear": [],
@@ -24375,7 +24419,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -25230,7 +25276,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -25374,7 +25422,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -25425,7 +25475,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -25476,7 +25528,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -25862,8 +25916,11 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
       "SIR_IP_SA",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_FF_SXM",
@@ -25887,7 +25944,7 @@
       "Rage Against The Machine",
       "Caity Babs",
       "Covino",
-      "Hardy",
+      "Mark Strigl",
       "Shannon Gunz"
     ],
     "assetId": 1550762883401,
@@ -25943,7 +26000,7 @@
       "9175",
       "8230"
     ],
-    "updatedDate": 1702323919740
+    "updatedDate": 1704384141269
   },
   {
     "artistsYouHear": [],
@@ -26118,6 +26175,7 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -26172,7 +26230,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -29731,7 +29791,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -29877,10 +29939,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-3",
     "xmChannelNumber": 503,
-    "primaryColor": "#c54764",
-    "secondaryColor": "#cf6236",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channels/GoodVibrations21-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channels/GoodVibrations21-127-500x400-N.svg",
+    "primaryColor": "#808080",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -29891,7 +29953,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1704301943254
+    "updatedDate": 1704402806201
   },
   {
     "artistsYouHear": [
@@ -29969,10 +30031,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-10",
     "xmChannelNumber": 510,
-    "primaryColor": "#87ceeb",
-    "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/dollys-rockstar-radio/DollysRockstarRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Country/dollys-rockstar-radio/DollysRockstarRadio-127-500x400-N.svg",
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#87ceeb",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -29983,7 +30045,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1704301911588
+    "updatedDate": 1704402835602
   },
   {
     "artistsYouHear": [],
@@ -30897,6 +30959,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -30945,6 +31008,7 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -30998,6 +31062,7 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
@@ -31053,49 +31118,6 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1704307577603
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550850177919,
-    "deliveryTypes": [
-      "ip",
-      "satellite",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "entertainment",
-    "categoryIcon": null,
-    "categoryTitle": "Talk & Entertainment",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "9580",
-    "deepLink": "https://sxm.app.link/fNXsvFu2nFb",
-    "displayName": "Conan O'Brien Radio",
-    "genre": "entertainment",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Entertainment",
-    "genreVanityURL": null,
-    "longDescription": "Conan O'Brien Radio on SiriusXM is home to Conan O’Brien’s brand of smart and silly comedy.  In addition to exclusive audio content, Team Coco Radio features audio from select Team Coco podcasts including Conan O’Brien Needs a Friend, Inside Conan and Conan O’Brien Needs a Fan.  The channel also airs the biggest interviews, funniest stand-up performances and other great moments from Conan’s iconic TBS show.",
-    "mediumDescription": "Conan O'Brien Radio on SiriusXM is home to Conan O’Brien’s brand of smart and silly comedy.",
-    "shortDescription": "Conan O'Brien Radio on SiriusXM",
-    "siriusChannelNumber": 104,
-    "siriusServiceId": 165,
-    "xmServiceId": 224,
-    "vanityURL": null,
-    "xmChannelNumber": 104,
-    "primaryColor": "#d3d3d3",
-    "secondaryColor": "#87ceeb",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-127-500x400-N.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-104/SiriusXM104-126-500x400-P.svg",
-    "explicitContentIndicator": "Yes",
-    "packages": [
-      "SIR_IP_SA_ESNTL",
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT"
-    ],
-    "relatedChannels": null,
-    "updatedDate": 1702590962196
   },
   {
     "artistsYouHear": [
@@ -31330,7 +31352,9 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/top-of-the-country-radio/TopOfTheCountry-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
@@ -31498,7 +31522,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
@@ -31738,6 +31764,7 @@
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -32082,7 +32109,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9607",
-    "deepLink": "ad0ab172-202f-c05b-c7b9-597be600541f",
+    "deepLink": "https://sxm.app.link/nZhrWLagKFb",
     "displayName": "Green Day Radio",
     "genre": "rock",
     "genreLogo": null,
@@ -32095,10 +32122,10 @@
     "siriusChannelNumber": 107,
     "siriusServiceId": 49,
     "xmServiceId": 100,
-    "vanityURL": "https://www.siriusxm.com/channels/SiriusXM107",
+    "vanityURL": "https://www.siriusxm.com/channels/SiriusXM-107",
     "xmChannelNumber": 107,
-    "primaryColor": "#c0c0c0",
-    "secondaryColor": "#32cd32",
+    "primaryColor": "#80af54",
+    "secondaryColor": "#000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/green-day/GreenDayRadio-126-500x400-P.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/green-day/GreenDayRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -32112,7 +32139,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1704301796651
+    "updatedDate": 1704405976844
   },
   {
     "artistsYouHear": [],
@@ -32322,7 +32349,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -32368,6 +32397,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -32891,7 +32923,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -33365,53 +33399,6 @@
       "big80s"
     ],
     "updatedDate": 1702323932817
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": 1550762879665,
-    "deliveryTypes": [
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "more",
-    "categoryIcon": null,
-    "categoryTitle": "",
-    "categoryVanityURL": null,
-    "channelNotification": null,
-    "contentId": "bstnpa",
-    "deepLink": "https://player.siriusxm.com",
-    "displayName": "SiriusXM 134",
-    "genre": "more",
-    "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "More",
-    "genreVanityURL": null,
-    "longDescription": "SiriusXM 134",
-    "mediumDescription": "SiriusXM 134",
-    "shortDescription": "SiriusXM 134",
-    "siriusChannelNumber": 134,
-    "siriusServiceId": 105,
-    "xmServiceId": 210,
-    "vanityURL": "https://www.siriusxm.com/channels/siriusxm-134",
-    "xmChannelNumber": 134,
-    "primaryColor": "#2aace3",
-    "secondaryColor": "#003a5d",
-    "colorLogo": null,
-    "greyscaleLogo": null,
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF"
-    ],
-    "relatedChannels": [
-      "cnn",
-      "howardstern101",
-      "foxnewschannel",
-      "howardstern100",
-      "siriushits1",
-      "purejazz"
-    ],
-    "updatedDate": 1677466754437
   },
   {
     "artistsYouHear": [
@@ -36051,9 +36038,12 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
@@ -36121,6 +36111,7 @@
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_BASIC",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
@@ -36373,7 +36364,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_FF_SXM",
@@ -37463,7 +37456,9 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
@@ -37593,10 +37588,11 @@
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
