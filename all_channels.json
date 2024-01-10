@@ -24506,8 +24506,8 @@
     "xmChannelNumber": 79,
     "primaryColor": "#d3d3d3",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -24520,7 +24520,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1704301840134
+    "updatedDate": 1704820933421
   },
   {
     "artistsYouHear": [],
@@ -35298,7 +35298,7 @@
     "genreIcon": null,
     "genreTitle": "Howard Stern",
     "genreVanityURL": null,
-    "longDescription": "The exclusive home of The Howard Stern Show. Hear Howard's in-depth interviews with the biggest celebrities, behind-the-scenes antics with the staff and memorable moments with the Wack Pack, phony phone calls, bits, games and much more. Then every day after The Howard Stern Show, hear the live Howard Stern Wrap-Up Show where celebrity super fans and callers gather to talk all things Howard Stern.",
+    "longDescription": "The exclusive home of The Howard Stern Show. Hear Howard&#39;s in-depth interviews with the biggest celebrities, his unique takes on current events, behind-the-scenes antics with the staff,&nbsp; phony phone calls, and much more.",
     "mediumDescription": "Home of the King of All Media, The Howard Stern Show features the best celebrity interviews, behind-the-scenes antics & more.",
     "shortDescription": "The Howard Stern Show–XL",
     "siriusChannelNumber": 100,
@@ -35315,7 +35315,6 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
@@ -35365,7 +35364,6 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
