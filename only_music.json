@@ -1013,7 +1013,7 @@
     "genreTitle": "Rock",
     "genreVanityURL": null,
     "longDescription": "SiriusXM takes you all the way inside the Phish universe, pairing their massive live archive, studio tracks, and the band’s musical influences with exclusive band member commentary. You’ll also hear specialty shows hosted by the band, complete concert broadcasts from the band’s tour stops, and plenty of surprises taboot.",
-    "mediumDescription": "Phish’s live archive, studio cuts, their musical influences, plus exclusive band member commentary and interviews.",
+    "mediumDescription": "Concerts, live tracks, and commentary from the band. The entire Phish multi-verse, including 'Ask Trey' with Trey Anastasio.",
     "shortDescription": "The Phish Universe On SiriusXM",
     "siriusChannelNumber": 29,
     "siriusServiceId": 66,
@@ -5541,24 +5541,24 @@
     "channelNotification": null,
     "contentId": "9607",
     "deepLink": "https://sxm.app.link/nZhrWLagKFb",
-    "displayName": "Green Day Radio",
-    "genre": "rock",
+    "displayName": "The GRAMMY Channel",
+    "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Rock",
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Green Day brings three decades of groundbreaking punk exploration and innovation to their very own SiriusXM channel to celebrate the release of their new album Saviors. Hear Billie Joe, Mike Dirnt and Tré Cool share exclusive stories and insight into their biggest tracks, brand new music and artists that have inspired them at every level of their legendary career!",
-    "mediumDescription": "Green Day brings three decades of groundbreaking music to their SiriusXM channel to mark the release of their new album Saviors.",
-    "shortDescription": "Green Day's music & insights",
+    "longDescription": "Celebrating the artists, albums and songs nominated for the 66th Annual GRAMMY Awards.",
+    "mediumDescription": "Celebrating the artists, albums and songs nominated for the 66th Annual GRAMMY Awards",
+    "shortDescription": "Celebrating the GRAMMY nominees",
     "siriusChannelNumber": 107,
     "siriusServiceId": 49,
     "xmServiceId": 100,
-    "vanityURL": "https://www.siriusxm.com/channels/SiriusXM-107",
+    "vanityURL": "https://www.siriusxm.com/channels/The-GRAMMY-Channel",
     "xmChannelNumber": 107,
-    "primaryColor": "#80af54",
+    "primaryColor": "#c0c0c0",
     "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/green-day/GreenDayRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/green-day/GreenDayRadio-127-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/the-grammy-channel/TheGrammyChannel-K.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/the-grammy-channel/TheGrammyChannel-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -5571,7 +5571,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1704405976844
+    "updatedDate": 1706066919725
   },
   {
     "artistsYouHear": [],
@@ -5760,7 +5760,7 @@
     "channelNotification": null,
     "contentId": "9611",
     "deepLink": "https://sxm.app.link/PNewHLu2nFb",
-    "displayName": "Alt 2K",
+    "displayName": "Alt2K",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
@@ -5791,7 +5791,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702323979117
+    "updatedDate": 1706082455008
   },
   {
     "artistsYouHear": [],

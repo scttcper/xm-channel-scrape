@@ -6317,8 +6317,8 @@
     "xmChannelNumber": 1146,
     "primaryColor": "#f6ea5b",
     "secondaryColor": "#731d15",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Comes-Alive/SXMcomesAlive.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Comes-Alive/SXMComesAlive_White_424x248_K2.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/siriusxm-comes-alive/SiriusXMComesAlive-4C.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/siriusxm-comes-alive/SiriusXMComesAlive-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -6330,7 +6330,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702315618609
+    "updatedDate": 1705947407511
   },
   {
     "artistsYouHear": [],
@@ -10190,6 +10190,52 @@
   },
   {
     "artistsYouHear": [],
+    "assetId": 1550896512823,
+    "deliveryTypes": [
+      "mobile",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4248",
+    "deepLink": "c522a00f-822c-c3c4-cc06-2fe4b8f3af16",
+    "displayName": "Hawaiian Vacation",
+    "genre": "party",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Party",
+    "genreVanityURL": null,
+    "longDescription": "A mix of Hawaiian-style music",
+    "mediumDescription": "A mix of Hawaiian-style music",
+    "shortDescription": "A mix of Hawaiian-style music",
+    "siriusChannelNumber": 1238,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1238,
+    "primaryColor": "#000000",
+    "secondaryColor": "#d3d3d3",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/hawaiian-vacation/HawaiianVacation-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/hawaiian-vacation/HawaiianVacation-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1705906214461
+  },
+  {
+    "artistsYouHear": [],
     "assetId": 1550879247790,
     "deliveryTypes": [
       "mobile",
@@ -10279,6 +10325,144 @@
     ],
     "relatedChannels": null,
     "updatedDate": 1704301978309
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550896306559,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4253",
+    "deepLink": "0dfe0e19-b5ad-5055-e82f-a8b3890ee888",
+    "displayName": "Lo-fi Café",
+    "genre": "chill",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Cool Down",
+    "genreVanityURL": null,
+    "longDescription": "Upbeat lo-fi",
+    "mediumDescription": "Upbeat lo-fi",
+    "shortDescription": "Upbeat lo-fi",
+    "siriusChannelNumber": 1241,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1241,
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/loficafe/LoFiCafe-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/loficafe/LoFiCafe-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1705906101995
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550896306843,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4254",
+    "deepLink": "578f0c9f-e73d-81d7-7143-a8728e0816e1",
+    "displayName": "Lo-Fi Sleep",
+    "genre": "chill",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Cool Down",
+    "genreVanityURL": null,
+    "longDescription": "Restful downtempo beats",
+    "mediumDescription": "Restful downtempo beats",
+    "shortDescription": "Restful downtempo beats",
+    "siriusChannelNumber": 1242,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1242,
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/lofisleep/LofiSleep-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/lofisleep/LofiSleep-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1705905935157
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550896307190,
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4255",
+    "deepLink": "2c1e8e80-4ae6-557d-08f1-4e2460ac6b2d",
+    "displayName": "Lo-fi Study",
+    "genre": "chill",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Cool Down",
+    "genreVanityURL": null,
+    "longDescription": "Midtempo lo-fi beats",
+    "mediumDescription": "Midtempo lo-fi beats",
+    "shortDescription": "Midtempo lo-fi beats",
+    "siriusChannelNumber": 1243,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1243,
+    "primaryColor": "#c0c0c0",
+    "secondaryColor": "#000000",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/lofistudy/LoFiStudy-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/lofistudy/LoFiStudy-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1705905950935
   },
   {
     "artistsYouHear": [
@@ -15726,7 +15910,7 @@
     "shortDescription": "Christian hip-hop music & talk",
     "siriusChannelNumber": 140,
     "siriusServiceId": 95,
-    "xmServiceId": 607,
+    "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/holy-culture-radio",
     "xmChannelNumber": 140,
     "primaryColor": "#ff0000",
@@ -15912,7 +16096,7 @@
     "genreTitle": "Rock",
     "genreVanityURL": null,
     "longDescription": "SiriusXM takes you all the way inside the Phish universe, pairing their massive live archive, studio tracks, and the band’s musical influences with exclusive band member commentary. You’ll also hear specialty shows hosted by the band, complete concert broadcasts from the band’s tour stops, and plenty of surprises taboot.",
-    "mediumDescription": "Phish’s live archive, studio cuts, their musical influences, plus exclusive band member commentary and interviews.",
+    "mediumDescription": "Concerts, live tracks, and commentary from the band. The entire Phish multi-verse, including 'Ask Trey' with Trey Anastasio.",
     "shortDescription": "The Phish Universe On SiriusXM",
     "siriusChannelNumber": 29,
     "siriusServiceId": 66,
@@ -31842,7 +32026,9 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "9596"
+    ],
     "updatedDate": 1702324044352
   },
   {
@@ -31885,7 +32071,9 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
-    "relatedChannels": null,
+    "relatedChannels": [
+      "9595"
+    ],
     "updatedDate": 1702324044669
   },
   {
@@ -32335,24 +32523,24 @@
     "channelNotification": null,
     "contentId": "9607",
     "deepLink": "https://sxm.app.link/nZhrWLagKFb",
-    "displayName": "Green Day Radio",
-    "genre": "rock",
+    "displayName": "The GRAMMY Channel",
+    "genre": "pop",
     "genreLogo": null,
-    "genreIcon": null,
-    "genreTitle": "Rock",
+    "genreIcon": "https://www.siriusxm.com/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
     "genreVanityURL": null,
-    "longDescription": "Green Day brings three decades of groundbreaking punk exploration and innovation to their very own SiriusXM channel to celebrate the release of their new album Saviors. Hear Billie Joe, Mike Dirnt and Tré Cool share exclusive stories and insight into their biggest tracks, brand new music and artists that have inspired them at every level of their legendary career!",
-    "mediumDescription": "Green Day brings three decades of groundbreaking music to their SiriusXM channel to mark the release of their new album Saviors.",
-    "shortDescription": "Green Day's music & insights",
+    "longDescription": "Celebrating the artists, albums and songs nominated for the 66th Annual GRAMMY Awards.",
+    "mediumDescription": "Celebrating the artists, albums and songs nominated for the 66th Annual GRAMMY Awards",
+    "shortDescription": "Celebrating the GRAMMY nominees",
     "siriusChannelNumber": 107,
     "siriusServiceId": 49,
     "xmServiceId": 100,
-    "vanityURL": "https://www.siriusxm.com/channels/SiriusXM-107",
+    "vanityURL": "https://www.siriusxm.com/channels/The-GRAMMY-Channel",
     "xmChannelNumber": 107,
-    "primaryColor": "#80af54",
+    "primaryColor": "#c0c0c0",
     "secondaryColor": "#000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/green-day/GreenDayRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/green-day/GreenDayRadio-127-500x400-N.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/the-grammy-channel/TheGrammyChannel-K.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/the-grammy-channel/TheGrammyChannel-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -32365,7 +32553,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1704405976844
+    "updatedDate": 1706066919725
   },
   {
     "artistsYouHear": [],
@@ -32554,7 +32742,7 @@
     "channelNotification": null,
     "contentId": "9611",
     "deepLink": "https://sxm.app.link/PNewHLu2nFb",
-    "displayName": "Alt 2K",
+    "displayName": "Alt2K",
     "genre": "rock",
     "genreLogo": null,
     "genreIcon": null,
@@ -32585,7 +32773,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702323979117
+    "updatedDate": 1706082455008
   },
   {
     "artistsYouHear": [],
@@ -35296,6 +35484,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
@@ -35345,6 +35534,7 @@
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": [
@@ -37556,25 +37746,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "siriusstars",
-    "deepLink": "https://sxm.app.link/0eFrUFu2nFb",
-    "displayName": "SiriusXM 109",
+    "deepLink": "813d656c-9af5-7f51-bb48-d724327d9289",
+    "displayName": "SiriusXM Stars",
     "genre": "entertainment",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Entertainment",
     "genreVanityURL": null,
-    "longDescription": "SiriusXM 109",
-    "mediumDescription": "SiriusXM 109",
-    "shortDescription": "SiriusXM 109",
+    "longDescription": "Hear SiriusXM’s biggest stars in intimate and revealing conversations about life and culture, share lifechanging advice, and real talk with friends. Culture and celebrity collide to bring you inside the life and style of Hollywood.",
+    "mediumDescription": "SiriusXM's biggest stars bring you inside the life and style of Hollywood.",
+    "shortDescription": "SiriusXM's biggest stars",
     "siriusChannelNumber": 109,
     "siriusServiceId": 57,
     "xmServiceId": 204,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-109",
     "xmChannelNumber": 109,
-    "primaryColor": "#000",
-    "secondaryColor": "#49a8cc",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-109/SiriusXM109-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/siriusxm-109/SiriusXM109-127-500x400-N.svg",
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#dfb884",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxmstars/SiriusXMStars-4C-OnK.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxmstars/SiriusXMStars-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -37584,7 +37774,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702323950753
+    "updatedDate": 1706067226342
   },
   {
     "artistsYouHear": [
