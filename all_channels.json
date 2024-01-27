@@ -10030,6 +10030,98 @@
   },
   {
     "artistsYouHear": [],
+    "assetId": 1550874545385,
+    "deliveryTypes": [
+      "mobile",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4245",
+    "deepLink": "https://sxm.app.link/VGwg2XW3nFb",
+    "displayName": "Classic Folk",
+    "genre": "allxtra",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "All Xtra",
+    "genreVanityURL": null,
+    "longDescription": "Folk music from the 50s to 70s",
+    "mediumDescription": "Folk music from the 50s to 70s",
+    "shortDescription": "Folk music from the 50s to 70s",
+    "siriusChannelNumber": 1235,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1235,
+    "primaryColor": "#000000",
+    "secondaryColor": "#d3d3d3",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/classic-folk/ClassicFolk-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/classic-folk/ClassicFolk-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1702315651386
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": 1550876594810,
+    "deliveryTypes": [
+      "mobile",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryIcon": null,
+    "categoryTitle": "Music",
+    "categoryVanityURL": null,
+    "channelNotification": null,
+    "contentId": "4246",
+    "deepLink": "https://sxm.app.link/QvUe6XW3nFb",
+    "displayName": "Zen",
+    "genre": "chill",
+    "genreLogo": null,
+    "genreIcon": null,
+    "genreTitle": "Cool Down",
+    "genreVanityURL": null,
+    "longDescription": "Music for meditation",
+    "mediumDescription": "Music for meditation",
+    "shortDescription": "Music for meditation",
+    "siriusChannelNumber": 1236,
+    "siriusServiceId": null,
+    "xmServiceId": null,
+    "vanityURL": null,
+    "xmChannelNumber": 1236,
+    "primaryColor": "#20b2aa",
+    "secondaryColor": "#48d1cc",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/zen/Zen-126-500x400-P.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/XtraChannels/zen/Zen-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_SIR_AUD_ALLACCESS",
+      "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_ALLACCESS_FF"
+    ],
+    "relatedChannels": null,
+    "updatedDate": 1702315651754
+  },
+  {
+    "artistsYouHear": [],
     "assetId": 1550879232751,
     "deliveryTypes": [
       "mobile",
@@ -13293,9 +13385,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsLeagueLogos/NHL.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_ALLACCESS_FF"
+      "SXM_SIR_AUD_ALLACCESS"
     ],
     "relatedChannels": [
       "siriusnflradio",
@@ -14573,9 +14663,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsLeagueLogos/NBA_White-NEG.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_ALLACCESS_FF"
+      "SXM_SIR_AUD_ALLACCESS"
     ],
     "relatedChannels": [
       "siriusnflradio",
