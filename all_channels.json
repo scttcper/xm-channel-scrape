@@ -29,8 +29,8 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channel/siriusxm-preview",
     "xmChannelNumber": 794,
-    "primaryColor": null,
-    "secondaryColor": null,
+    "primaryColor": "#c3e9fc",
+    "secondaryColor": "#0072ba",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/preview/sxm_preview/SXM_Preview-color.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/preview/sxm_preview/SXM_Preview-WHITE.svg",
     "explicitContentIndicator": "No",
@@ -46,7 +46,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702324019708
+    "updatedDate": 1706717635694
   },
   {
     "artistsYouHear": [],
@@ -32089,7 +32089,7 @@
     "vanityURL": "https://www.siriusxm.com/channels/The-GRAMMY-Channel",
     "xmChannelNumber": 107,
     "primaryColor": "#c0c0c0",
-    "secondaryColor": "#000",
+    "secondaryColor": "#000000",
     "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/the-grammy-channel/TheGrammyChannel-K.svg",
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/the-grammy-channel/TheGrammyChannel-white.svg",
     "explicitContentIndicator": "No",
@@ -32104,7 +32104,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1706066919725
+    "updatedDate": 1706718294424
   },
   {
     "artistsYouHear": [],
