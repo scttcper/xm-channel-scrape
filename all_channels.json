@@ -22065,8 +22065,10 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Ducks_Primary_-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22113,6 +22115,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22159,6 +22162,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22205,6 +22209,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22251,6 +22256,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22297,6 +22303,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22343,6 +22350,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22389,6 +22397,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22435,6 +22444,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22481,6 +22491,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22527,6 +22538,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22573,6 +22585,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22619,6 +22632,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22665,6 +22679,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22711,6 +22726,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22757,6 +22773,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22803,6 +22820,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22849,6 +22867,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22895,6 +22914,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22941,6 +22961,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -22987,6 +23008,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -23033,6 +23055,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -23079,6 +23102,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -23125,6 +23149,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -23171,6 +23196,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -23217,6 +23243,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -23263,6 +23290,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -23309,6 +23337,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -23355,6 +23384,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -25176,6 +25206,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -27536,6 +27567,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -30164,6 +30196,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
@@ -31302,6 +31335,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/top-of-the-country-radio/TopOfTheCountry-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -34921,10 +34955,8 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/HowardStern/Howard-Stern-100/Howard_100_white_R1.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
-      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SIR_IP_SA"
     ],
     "relatedChannels": [
       "altnation",
@@ -34970,10 +35002,8 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/HowardStern/Howard-Stern-101/Howard_101_White_R1.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
-      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
-      "SXM_SIR_AUD_EVT"
+      "SIR_IP_SA"
     ],
     "relatedChannels": [
       "rawdog",
