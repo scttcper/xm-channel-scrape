@@ -17233,26 +17233,15 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Rock/Rock-and-Roll-Hall-of-Fame-Radio/RockAndRollHallOfFameRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_ALLACCESS",
-      "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
-    "relatedChannels": [
-      "siriusblues",
-      "90salternative",
-      "estreetradio",
-      "thevault",
-      "classicrewind",
-      "classicvinyl",
-      "gratefuldead",
-      "soultown"
-    ],
+    "relatedChannels": null,
     "updatedDate": 1702323977904
   },
   {
@@ -22065,7 +22054,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Ducks_Primary_-white.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA",
       "SXM_SIR_AUD_EVT",
@@ -25443,26 +25431,26 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9401",
-    "deepLink": "https://sxm.app.link/NewJackSwingRadio",
-    "displayName": "New Jack Swing Radio",
+    "deepLink": "https://sxm.app.link/LimitedEdition7",
+    "displayName": "Limited Edition 7",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "In the late 80s, a new hip-hop/R&B hybrid sound emerged, created and perfected by producer Teddy Riley. Today, we celebrate the sound of new jack swing, and its innovative creator. Teddy Riley adds his unique commentary and stories, exclusively on this channel. You'll hear throwbacks from Bobby Brown, Michael Jackson, SWV, Blackstreet and more from this classic era of music.",
-    "mediumDescription": "'New jack swing took the culture by storm in the 80s and 90s. Producer Teddy Riley curates the hits that defined a generation.",
-    "shortDescription": "The sound of new jack swing",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 507,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/New-Jack-Swing-Radio",
     "xmChannelNumber": 507,
-    "primaryColor": "#c0c0c0",
-    "secondaryColor": "#dc143c",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/new-jack-swing-radio/TeddyRileyNJS-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Pop/new-jack-swing-radio/TeddyRileyNJS-127-500x400-N.svg",
-    "explicitContentIndicator": "Yes",
+    "primaryColor": "#87cefa",
+    "secondaryColor": "#32cd32",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
+    "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_PKG_MM",
@@ -25480,7 +25468,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1706892691133
+    "updatedDate": 1709132588277
   },
   {
     "artistsYouHear": [],
@@ -25497,25 +25485,25 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9402",
-    "deepLink": "https://sxm.app.link/ApolloTheaterChannel",
-    "displayName": "Apollo Theater Channel",
+    "deepLink": "https://sxm.app.link/LimitedEdition8",
+    "displayName": "Limited Edition 8",
     "genre": "hiphop",
     "genreLogo": null,
     "genreIcon": null,
     "genreTitle": "Hip-Hop/R&B",
     "genreVanityURL": null,
-    "longDescription": "From the early days of jazz, through decades of R&B and hip-hop, The Apollo Theater has been, and continues to be, a focal point of Black culture. Now, SiriusXM spotlights the music and artists that have influenced the iconic venue. The Apollo Theater Channel features artists who've performed at the Apollo, and those who've been inspired by the Apollo. You'll also hear classic performances from artists who've graced the incredible Apollo stage over the years.",
-    "mediumDescription": "'Music from the artists who've performed at, and been inspired by, the iconic Apollo Theater.",
-    "shortDescription": "Music inspired by The Apollo",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 508,
     "siriusServiceId": null,
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/the-Apollo-theater-Channel",
     "xmChannelNumber": 508,
-    "primaryColor": "#808080",
-    "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-apollo-theater-channel/TheApolloTheaterChannel-Black.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-apollo-theater-channel/TheApolloTheaterChannel-OnRed.svg",
+    "primaryColor": "#7fff00",
+    "secondaryColor": "#6495ed",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-8/SiriusXM-Limited-Edition-8.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-8/SiriusXM-Limited-Edition-8-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -25534,7 +25522,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1706892662343
+    "updatedDate": 1709133131992
   },
   {
     "artistsYouHear": [],
@@ -25551,7 +25539,7 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9403",
-    "deepLink": "https://sxm.app.link/gYmQxPA2nFb",
+    "deepLink": "https://sxm.app.link/USHERRADIO",
     "displayName": "USHER RADIO",
     "genre": "hiphop",
     "genreLogo": null,
@@ -25566,10 +25554,10 @@
     "xmServiceId": null,
     "vanityURL": "https://www.siriusxm.com/channels/siriusxm-limited-edition-09",
     "xmChannelNumber": 509,
-    "primaryColor": "#87cefa",
-    "secondaryColor": "#48d1cc",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/usher-radio/UsherRadio-126-500x400-P.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/usher-radio/UsherRadio-127-500x400-N.svg",
+    "primaryColor": "#8fbc8f",
+    "secondaryColor": "#87cefa",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -25588,7 +25576,7 @@
       "9472",
       "thebeat"
     ],
-    "updatedDate": 1707493434009
+    "updatedDate": 1709273564392
   },
   {
     "artistsYouHear": [],
@@ -25752,9 +25740,8 @@
       "estreetradio",
       "thevault",
       "undergroundgarage",
-      "classicrewind",
       "classicvinyl",
-      "9174"
+      "classicrewind"
     ],
     "updatedDate": 1702323914874
   },
@@ -30127,16 +30114,16 @@
     "categoryVanityURL": null,
     "channelNotification": null,
     "contentId": "9549",
-    "deepLink": "https://sxm.app.link/dPjCKPA2nFb",
-    "displayName": "Limited Edition 11",
-    "genre": "country",
+    "deepLink": "https://sxm.app.link/LatinasinMusic",
+    "displayName": "Latinas in Music",
+    "genre": "world",
     "genreLogo": null,
     "genreIcon": null,
-    "genreTitle": "Country",
+    "genreTitle": "Latino",
     "genreVanityURL": null,
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels.",
+    "longDescription": "Hear the trailblazing women who have not only contributed to but also dominated the Latin music scene for decades! Spanning many genres from pop, salsa, reggaeton, ballads and more, listen to the biggest hits and exclusives from the pioneers to the new wave of Latinas in music.",
+    "mediumDescription": "Salud to the ladies! The iconic Latinas in pop, reggaeton, ballads and more!",
+    "shortDescription": "Celebrating Latinas in music",
     "siriusChannelNumber": 511,
     "siriusServiceId": null,
     "xmServiceId": null,
@@ -30157,7 +30144,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1702323997387
+    "updatedDate": 1709133282605
   },
   {
     "artistsYouHear": [],
@@ -30710,8 +30697,7 @@
       "90salternative",
       "thespectrum",
       "8206",
-      "9450",
-      "9174"
+      "9450"
     ],
     "updatedDate": 1702323979877
   },
@@ -31335,7 +31321,6 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/Canadian/top-of-the-country-radio/TopOfTheCountry-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
-      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SHOWCASE",
       "SXM_SIR_AUD_FF",
@@ -33504,8 +33489,7 @@
       "classicvinyl",
       "big80s",
       "gratefuldead",
-      "buzzsaw",
-      "9174"
+      "buzzsaw"
     ],
     "updatedDate": 1702323911971
   },
@@ -34955,6 +34939,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/HowardStern/Howard-Stern-100/Howard_100_white_R1.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA"
     ],
@@ -35002,6 +34987,7 @@
     "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/HowardStern/Howard-Stern-101/Howard_101_White_R1.svg",
     "explicitContentIndicator": "Yes",
     "packages": [
+      "SIR_IP_SA_ESNTL",
       "SXM_SIR_AUD_ALLACCESS",
       "SIR_IP_SA"
     ],
@@ -38090,8 +38076,7 @@
       "thespectrum",
       "undergroundgarage",
       "classicrewind",
-      "gratefuldead",
-      "9174"
+      "gratefuldead"
     ],
     "updatedDate": 1704308730359
   },
