@@ -5533,12 +5533,12 @@
     "siriusChannelNumber": 107,
     "siriusServiceId": 49,
     "xmServiceId": 100,
-    "vanityURL": "https://www.siriusxm.com/channels/The-GRAMMY-Channel",
+    "vanityURL": "https://www.siriusxm.com/channels/SiriusXM-107",
     "xmChannelNumber": 107,
     "primaryColor": "#c0c0c0",
     "secondaryColor": "#000000",
-    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/the-grammy-channel/TheGrammyChannel-K.svg",
-    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/More/the-grammy-channel/TheGrammyChannel-white.svg",
+    "colorLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "https://www.siriusxm.com/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SIR_IP_SA_ESNTL",
@@ -5551,7 +5551,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF"
     ],
     "relatedChannels": null,
-    "updatedDate": 1706718294424
+    "updatedDate": 1709924564177
   },
   {
     "artistsYouHear": [],
