@@ -1792,7 +1792,6 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
@@ -2419,6 +2418,7 @@
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
+    "channelNotification": "Pitbull’s Globalization (formerly ch. 13) is now on ch. 3 through May 7. Pandora Now (formerly ch. 3) is on ch. 303.",
     "contentId": "9406",
     "deepLink": "https://sxm.app.link/9DTqO0e2nFb",
     "displayName": "Pitbull's Globalization",
@@ -2428,10 +2428,10 @@
     "longDescription": "Open format club DJs dropping the biggest hits from all genres around the world. From POP, to Hip-Hop, to Latin & Dance.",
     "mediumDescription": "A musical journey of Rhythm around the world. The biggest songs and the biggest DJs.",
     "shortDescription": "Worldwide rhythmic hits",
-    "siriusChannelNumber": 13,
+    "siriusChannelNumber": 3,
     "siriusServiceId": 59,
     "xmServiceId": 11,
-    "xmChannelNumber": 13,
+    "xmChannelNumber": 3,
     "primaryColor": "#009ed1",
     "secondaryColor": "#146499",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/Pitbull-Globalization/Pitbull-Globalization-4C.svg",
@@ -2450,9 +2450,9 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
+      "siriushits1",
       "9472",
-      "thebeat",
-      "siriushits1"
+      "thebeat"
     ]
   },
   {
@@ -3179,13 +3179,14 @@
     ],
     "assetId": "6vUtQ3eNP2n5ZoLwId8DMY",
     "deliveryTypes": [
-      "satellite",
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
+    "channelNotification": "Pandora Now (formerly ch. 3) is now on ch. 303.",
     "contentId": "9492",
     "deepLink": "https://sxm.app.link/TgTB1Ze2nFb",
     "displayName": "Pandora Now",
@@ -3195,10 +3196,9 @@
     "longDescription": "Pandora Now features Pandora’s most Thumbed Up & Streamed Pop, Hip-Hop & R&B from the past 2 years, as well as highly anticipated new releases and custom content from some of Pandora’s biggest artists.",
     "mediumDescription": "Pandora’s Most Thumbed Up & Streamed Pop, Hip-Hop & R&B.",
     "shortDescription": "Pandora’s most streamed tracks",
-    "siriusChannelNumber": 3,
-    "siriusServiceId": 166,
-    "xmServiceId": 113,
-    "xmChannelNumber": 3,
+    "siriusChannelNumber": 303,
+    "xmServiceId": 282,
+    "xmChannelNumber": 303,
     "primaryColor": "#db5aa5",
     "secondaryColor": "#49224a",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/pandora-now/PandoraNow-4C-COLOR.svg",
@@ -3211,15 +3211,14 @@
       "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
+      "SIR_IP_SHOWCASE"
     ],
     "relatedChannels": [
-      "thebeat",
-      "siriushits1",
       "thepulse",
+      "siriushits1",
+      "hiphopnation",
       "hotjamz",
-      "hiphopnation"
+      "thebeat"
     ]
   },
   {
@@ -5170,6 +5169,49 @@
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ]
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": "3zDry2A47erQZP1cYWjjMe",
+    "deliveryTypes": [
+      "ip",
+      "mobile",
+      "satellite"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "Channel 13 (Taylor's Version) will run from April 7 through May 5. Pitbull’s Globalization (formerly ch. 13) is on ch. 3.",
+    "contentId": "9624",
+    "deepLink": "https://sxm.app.link/Ch13TaylorsVersionSite",
+    "displayName": "Channel 13 (Taylor’s Version)",
+    "genre": "pop",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "longDescription": "All’s fair in love and poetry as SiriusXM launches a limited-time channel featuring only Taylor Swift music from her chart-topping 18-year career. Including all Taylor Versions, from the Vault tracks, live tracks, bonus tracks and more. Swiftie superfans will share their favorite moments, music and memories, all leading up to the release and celebration of her highly anticipated new album The Tortured Poets Department on April 19.",
+    "mediumDescription": "Channel dedicated to Taylor Swift’s music for a limited time",
+    "shortDescription": "Only Taylor Swift music",
+    "siriusChannelNumber": 13,
+    "siriusServiceId": 114,
+    "xmServiceId": 211,
+    "xmChannelNumber": 13,
+    "primaryColor": "#f0ecea",
+    "secondaryColor": "#48403f",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/channel-13/Channel13TaylorsVersion-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/channel-13/Channel13TaylorsVersion-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/channel-13",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
