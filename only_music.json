@@ -7468,9 +7468,9 @@
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "Take a trip to the era that marked the birth of the first decade of rock 'n' roll. It's the '50s and beyond. The sound of happy days and drive-in nights with pop radio the way it used to be — from doo-wop and R&B to girl groups. Hear Elvis Presley, Connie Francis, Ricky Nelson, Jerry Lee Lewis, Buddy Holly, Everly Brothers, Little Richard and many more!",
-    "mediumDescription": "The roots of rock 'n' roll. Chuck Berry, The Coasters, Connie Francis, Little Richard, Elvis Presley, The Platters.",
-    "shortDescription": "50s pop hits",
+    "longDescription": "Take a trip to the era of the new teenage craze of rock ‘n’ roll and the pre-rock songs Mom & Dad preferred. The sound of happy days and drive-in nights with pop radio the way it used to be — from crooners to street corner harmony.",
+    "mediumDescription": "The era of rock ‘n’ roll, crooners, & street corner harmony from artists like Chuck Berry, Nat King Cole, Johnny Mathis & more.",
+    "shortDescription": "50s pop, rock & doo-wop hits",
     "siriusChannelNumber": 72,
     "siriusServiceId": 6,
     "xmServiceId": 5,
@@ -7495,10 +7495,10 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
+      "purejazz",
+      "soultown",
       "elvisradio",
       "siriuslysinatra",
-      "soultown",
-      "purejazz",
       "60svibrations"
     ]
   },

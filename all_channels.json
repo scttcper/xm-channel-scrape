@@ -7832,6 +7832,37 @@
     ]
   },
   {
+    "artistsYouHear": [],
+    "assetId": "3ZhSAw4KJob0gzzukFYF8f",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "4256",
+    "displayName": "Latinas in music",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
+    "longDescription": "Celebrating Latinas in music",
+    "mediumDescription": "Celebrating Latinas in music",
+    "shortDescription": "Celebrating Latinas in music",
+    "siriusChannelNumber": 1244,
+    "xmChannelNumber": 1244,
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ]
+  },
+  {
     "artistsYouHear": [
       "Beatles",
       "Beach Boys",
@@ -20465,9 +20496,9 @@
     "genre": "entertainment",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Entertainment.svg",
     "genreTitle": "Entertainment",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Entertainment Now is the home for the best original on demand content in pop culture and entertainment. Entertainment Now features weekly recaps, deep dives, anniversary and holiday specials. Plus, Entertainment Now provides previews and guides for new TV shows, movies, music, and more! All shows are available exclusively on SiriusXM on demand.",
+    "mediumDescription": "Recaps, deep dives, and specials for all things pop culture and entertainment. Plus, previews and guides to upcoming shows, movi",
+    "shortDescription": "Pop culture recaps and specials",
     "siriusChannelNumber": 790,
     "xmChannelNumber": 790,
     "primaryColor": "#FDDA0D",
@@ -20486,11 +20517,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9356",
-      "cnnheadlinenews",
+      "thepulse",
       "siriushits1",
-      "siriusstars",
-      "thepulse"
+      "cnnheadlinenews",
+      "9356",
+      "siriusstars"
     ]
   },
   {
@@ -26773,6 +26804,39 @@
     ]
   },
   {
+    "artistsYouHear": [],
+    "assetId": "5dOQbY4MDZIFVy3UBNXJr7",
+    "deliveryTypes": [
+      "mobile",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "sports",
+    "categoryTitle": "Sports",
+    "contentId": "9631",
+    "deepLink": "https://sxm.app.link/SportsPlaybyPlay963",
+    "displayName": "Sports Play-by-Play 963",
+    "genre": "sportsplay",
+    "genreTitle": "Sports Play-by-Play",
+    "longDescription": "College sports PXP & more.",
+    "mediumDescription": "College sports PXP & more.",
+    "shortDescription": "College sports PXP & more",
+    "siriusChannelNumber": 963,
+    "xmChannelNumber": 963,
+    "primaryColor": "#121111",
+    "secondaryColor": "#3241b3",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/SportsPlayByPlay-generic-color.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/SportsPlayByPlay-generic-white.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/sports-play-by-play-963",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
+    ]
+  },
+  {
     "artistsYouHear": [
       "The Killers",
       "Twenty One Pilots",
@@ -30244,9 +30308,9 @@
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "Take a trip to the era that marked the birth of the first decade of rock 'n' roll. It's the '50s and beyond. The sound of happy days and drive-in nights with pop radio the way it used to be — from doo-wop and R&B to girl groups. Hear Elvis Presley, Connie Francis, Ricky Nelson, Jerry Lee Lewis, Buddy Holly, Everly Brothers, Little Richard and many more!",
-    "mediumDescription": "The roots of rock 'n' roll. Chuck Berry, The Coasters, Connie Francis, Little Richard, Elvis Presley, The Platters.",
-    "shortDescription": "50s pop hits",
+    "longDescription": "Take a trip to the era of the new teenage craze of rock ‘n’ roll and the pre-rock songs Mom & Dad preferred. The sound of happy days and drive-in nights with pop radio the way it used to be — from crooners to street corner harmony.",
+    "mediumDescription": "The era of rock ‘n’ roll, crooners, & street corner harmony from artists like Chuck Berry, Nat King Cole, Johnny Mathis & more.",
+    "shortDescription": "50s pop, rock & doo-wop hits",
     "siriusChannelNumber": 72,
     "siriusServiceId": 6,
     "xmServiceId": 5,
@@ -30271,10 +30335,10 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
+      "purejazz",
+      "soultown",
       "elvisradio",
       "siriuslysinatra",
-      "soultown",
-      "purejazz",
       "60svibrations"
     ]
   },
