@@ -8031,14 +8031,14 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
+      "8186",
       "8254",
       "8333",
       "8213",
-      "8368",
       "siriusnascarradio",
-      "siriusnflradio",
-      "8186"
+      "8368"
     ]
   },
   {
@@ -8084,8 +8084,8 @@
     "category": "sports",
     "categoryTitle": "Sports",
     "contentId": "8186",
-    "deepLink": "https://sxm.app.link/MastersRadioonSiriusXM",
-    "displayName": "Masters Radio on SiriusXM",
+    "deepLink": "https://sxm.app.link/SiriusXMPGATOURRadio",
+    "displayName": "SiriusXM PGA TOUR Radio",
     "genre": "sportstalk",
     "genreTitle": "Sports",
     "longDescription": "SiriusXM Masters Radio is your exclusive audio home for the Masters! Join Mike Tirico, and our team of experts for wall to wall coverage of every shot, scores, highlights, and player interviews with the biggest names in golf.",
@@ -8100,7 +8100,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXMPGATourRadio-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/SiriusXM-PGA-TOUR-Radio/SiriusXMPGATourRadio-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-masters",
+    "vanityURL": "/channels/siriusxm-pga-tour-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -8112,13 +8112,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "8254",
-      "espnradio",
+      "8185",
       "siriusnflradio",
+      "espnradio",
+      "8254",
       "8333",
       "8213",
       "siriusnascarradio",
-      "8185",
       "8368"
     ]
   },
@@ -9992,10 +9992,9 @@
     "displayName": "Big 12 Play-by-Play 199",
     "genre": "college",
     "genreTitle": "College Play-by-Play",
-    "longDescription": "Your home for live play-by-play of Big 12 sports, including football and men's basketball games.",
-    "mediumDescription": "Your home for live play-by-play of Big 12 sports, including football and men's basketball games.",
-    "shortDescription": "Live Big 12 Play-by-Play",
-    "siriusChannelNumber": 0,
+    "longDescription": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
+    "mediumDescription": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
+    "shortDescription": "Live Big 12 games",
     "xmServiceId": 180,
     "xmChannelNumber": 199,
     "primaryColor": "#a7a9ac",
@@ -10012,12 +10011,12 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
-      "siriussportsaction",
       "8213",
+      "siriussportsaction",
       "8368",
-      "8230",
-      "siriusnflradio"
+      "8230"
     ]
   },
   {
@@ -10034,10 +10033,9 @@
     "displayName": "Big 12 Play-by-Play 200",
     "genre": "college",
     "genreTitle": "College Play-by-Play",
-    "longDescription": "Your home for live play-by-play of Big 12 sports, including football and men's basketball games.",
-    "mediumDescription": "Your home for live play-by-play of Big 12 sports, including football and men's basketball games.",
-    "shortDescription": "Live Big 12 Play-by-Play",
-    "siriusChannelNumber": 0,
+    "longDescription": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
+    "mediumDescription": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
+    "shortDescription": "Live Big 12 games",
     "xmServiceId": 181,
     "xmChannelNumber": 200,
     "primaryColor": "#a7a9ac",
@@ -10054,12 +10052,12 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
-      "siriussportsaction",
       "8213",
+      "siriussportsaction",
       "8368",
-      "8230",
-      "siriusnflradio"
+      "8230"
     ]
   },
   {
@@ -10121,10 +10119,9 @@
     "displayName": "ACC Play-by-Play 193",
     "genre": "college",
     "genreTitle": "College Play-by-Play",
-    "longDescription": "Your home for live play-by-play of ACC sports, including football and men’s basketball games.",
-    "mediumDescription": "Your home for live play-by-play of ACC sports, including football and men’s basketball games.",
-    "shortDescription": "Live ACC Play-by-Play",
-    "siriusChannelNumber": 0,
+    "longDescription": "Your home for live play-by-play of ACC sports, including football and basketball games.",
+    "mediumDescription": "Your home for live play-by-play of ACC sports, including football and basketball games.",
+    "shortDescription": "Live ACC games",
     "xmServiceId": 183,
     "xmChannelNumber": 193,
     "primaryColor": "#a7a9ac",
@@ -10141,12 +10138,12 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
-      "siriussportsaction",
       "8213",
+      "siriussportsaction",
       "8368",
-      "8230",
-      "siriusnflradio"
+      "8230"
     ]
   },
   {
@@ -10163,10 +10160,9 @@
     "displayName": "ACC Play-by-Play 194",
     "genre": "college",
     "genreTitle": "College Play-by-Play",
-    "longDescription": "Your home for live play-by-play of ACC sports, including football and men’s basketball games.",
-    "mediumDescription": "Your home for live play-by-play of ACC sports, including football and men’s basketball games.",
-    "shortDescription": "Live ACC Play-by-Play",
-    "siriusChannelNumber": 0,
+    "longDescription": "Your home for live play-by-play of ACC sports, including football and basketball games.",
+    "mediumDescription": "Your home for live play-by-play of ACC sports, including football and basketball games.",
+    "shortDescription": "Live ACC games",
     "xmServiceId": 184,
     "xmChannelNumber": 194,
     "primaryColor": "#a7a9ac",
@@ -10183,12 +10179,12 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
-      "siriussportsaction",
       "8213",
+      "siriussportsaction",
       "8368",
-      "8230",
-      "siriusnflradio"
+      "8230"
     ]
   },
   {
@@ -10205,10 +10201,9 @@
     "displayName": "Big Ten Play-by-Play 195",
     "genre": "college",
     "genreTitle": "College Play-by-Play",
-    "longDescription": "Your home for live play-by-play of Big Ten sports, including football and men's basketball games.",
-    "mediumDescription": "Your home for live play-by-play of Big Ten sports, including football and men's basketball games.",
-    "shortDescription": "Live Big 10 Play-by-Play",
-    "siriusChannelNumber": 0,
+    "longDescription": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
+    "mediumDescription": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
+    "shortDescription": "Live Big Ten games",
     "xmServiceId": 185,
     "xmChannelNumber": 195,
     "primaryColor": "#a7a9ac",
@@ -10225,12 +10220,12 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
-      "siriussportsaction",
       "8213",
+      "siriussportsaction",
       "8368",
-      "8230",
-      "siriusnflradio"
+      "8230"
     ]
   },
   {
@@ -11550,10 +11545,9 @@
     "displayName": "Big Ten Play-by-Play 196",
     "genre": "college",
     "genreTitle": "College Play-by-Play",
-    "longDescription": "Your home for live play-by-play of Big Ten sports, including football and men's basketball games.",
-    "mediumDescription": "Your home for live play-by-play of Big Ten sports, including football and men's basketball games.",
-    "shortDescription": "Live Big 10 Play-by-Play",
-    "siriusChannelNumber": 0,
+    "longDescription": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
+    "mediumDescription": "Your home for live play-by-play of Big Ten sports, including football and basketball games.",
+    "shortDescription": "Live Big Ten games",
     "xmServiceId": 186,
     "xmChannelNumber": 196,
     "primaryColor": "#a7a9ac",
@@ -11570,12 +11564,12 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
-      "siriussportsaction",
       "8213",
+      "siriussportsaction",
       "8368",
-      "8230",
-      "siriusnflradio"
+      "8230"
     ]
   },
   {
@@ -14125,13 +14119,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "totally70s",
+      "rumbon",
+      "cnnespanol",
       "9189",
       "9187",
-      "cnnespanol",
-      "9188",
-      "rumbon",
-      "60svibrations"
+      "60svibrations",
+      "totally70s",
+      "9188"
     ]
   },
   {
@@ -20219,14 +20213,14 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9398",
-    "deepLink": "https://sxm.app.link/1ys8aPA2nFb",
-    "displayName": "Limited Edition 4",
+    "deepLink": "https://sxm.app.link/RockvilleRadio",
+    "displayName": "Rockville Radio",
     "genre": "rock",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
     "genreTitle": "Rock",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "The music, backstage interviews, live performances, and more from the Welcome To Rockville music festival.",
+    "mediumDescription": "Welcome to Rockville music festival.",
+    "shortDescription": "Rockville Music Festival",
     "siriusChannelNumber": 504,
     "xmChannelNumber": 504,
     "primaryColor": "#000",
@@ -20234,7 +20228,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-4",
+    "vanityURL": "/channels/rockville-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -20621,10 +20615,10 @@
     ],
     "relatedChannels": [
       "thevault",
+      "estreetradio",
       "classicvinyl",
       "classicrewind",
-      "undergroundgarage",
-      "estreetradio"
+      "undergroundgarage"
     ]
   },
   {
@@ -21135,9 +21129,9 @@
     "displayName": "Big 12 Play-by-Play 953",
     "genre": "college",
     "genreTitle": "College Play-by-Play",
-    "longDescription": "College Sports PXP & More",
-    "mediumDescription": "College Sports PXP & More",
-    "shortDescription": "College Sports PXP & More",
+    "longDescription": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
+    "mediumDescription": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
+    "shortDescription": "Live Big 12 games",
     "siriusChannelNumber": 953,
     "xmChannelNumber": 953,
     "primaryColor": "#dc143c",
@@ -21153,14 +21147,14 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
       "8254",
       "8333",
       "8213",
-      "siriussportsaction",
-      "8368",
       "siriusnascarradio",
-      "siriusnflradio"
+      "siriussportsaction",
+      "8368"
     ]
   },
   {
@@ -21178,9 +21172,9 @@
     "displayName": "Big 12 Play-by-Play 954",
     "genre": "college",
     "genreTitle": "College Play-by-Play",
-    "longDescription": "College Sports PXP & More",
-    "mediumDescription": "College Sports PXP & More",
-    "shortDescription": "College Sports PXP & More",
+    "longDescription": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
+    "mediumDescription": "Your home for live play-by-play of Big 12 sports, including football and basketball games.",
+    "shortDescription": "Live Big 12 games",
     "siriusChannelNumber": 954,
     "xmChannelNumber": 954,
     "primaryColor": "#dc143c",
@@ -21196,14 +21190,14 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
       "8254",
       "8333",
       "8213",
-      "siriussportsaction",
-      "8368",
       "siriusnascarradio",
-      "siriusnflradio"
+      "siriussportsaction",
+      "8368"
     ]
   },
   {
@@ -21221,9 +21215,9 @@
     "displayName": "ACC Play-by-Play 955",
     "genre": "college",
     "genreTitle": "College Play-by-Play",
-    "longDescription": "College Sports PXP & More",
-    "mediumDescription": "College Sports PXP & More",
-    "shortDescription": "College Sports PXP & More",
+    "longDescription": "Your home for live play-by-play of ACC sports, including football and basketball games.",
+    "mediumDescription": "Your home for live play-by-play of ACC sports, including football and basketball games.",
+    "shortDescription": "Live ACC games",
     "siriusChannelNumber": 955,
     "xmChannelNumber": 955,
     "primaryColor": "#696969",
@@ -21239,14 +21233,14 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
       "8254",
       "8333",
       "8213",
-      "siriussportsaction",
-      "8368",
       "siriusnascarradio",
-      "siriusnflradio"
+      "siriussportsaction",
+      "8368"
     ]
   },
   {
@@ -21264,9 +21258,9 @@
     "displayName": "ACC Play-by-Play 956",
     "genre": "college",
     "genreTitle": "College Play-by-Play",
-    "longDescription": "College Sports PXP & More",
-    "mediumDescription": "College Sports PXP & More",
-    "shortDescription": "College Sports PXP & More",
+    "longDescription": "Your home for live play-by-play of ACC sports, including football and basketball games.",
+    "mediumDescription": "Your home for live play-by-play of ACC sports, including football and basketball games.",
+    "shortDescription": "Live ACC games",
     "siriusChannelNumber": 956,
     "xmChannelNumber": 956,
     "primaryColor": "#696969",
@@ -21282,14 +21276,14 @@
       "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
+      "siriusnflradio",
       "espnradio",
       "8254",
       "8333",
       "8213",
-      "siriussportsaction",
-      "8368",
       "siriusnascarradio",
-      "siriusnflradio"
+      "siriussportsaction",
+      "8368"
     ]
   },
   {
@@ -21854,11 +21848,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
+      "big80s",
+      "totally70s",
       "thebridge",
       "9418",
-      "classicrewind",
-      "totally70s",
-      "big80s"
+      "classicrewind"
     ]
   },
   {
@@ -22382,8 +22376,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SIR_IP_SA"
+      "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
       "espnradio",
@@ -22971,14 +22964,14 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9481",
-    "deepLink": "https://sxm.app.link/linbIOA2nFb",
-    "displayName": "Limited Edition 1",
+    "deepLink": "https://sxm.app.link/TheCliveDavisChannel",
+    "displayName": "The Clive Davis Channel",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "The most celebrated music executive of the last 60 years, Clive Davis is responsible for the careers of artists as diverse as Janis Joplin, Barry Manilow, Whitney Houston & hundreds more. Clive Davis’ touch is on the charts and in our hearts. Now, in his own words, Clive tells the stories behind the hits on The Clive Davis Channel, only on SiriusXM! Stories not in his Netflix documentary or his autobiography are coupled with hundreds of songs from decades of his belief in great songs and great performers.",
+    "mediumDescription": "The Clive Davis Channel is a celebration of a life devoted to music. Clive takes us behind the songs, in his own words!",
+    "shortDescription": "A legend shares his stories",
     "siriusChannelNumber": 501,
     "xmChannelNumber": 501,
     "primaryColor": "#d3d3d3",
@@ -22986,7 +22979,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-1/SiriusXM-Limited-Edition-1.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-1",
+    "vanityURL": "/channels/the-clive-davis-channel",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -24900,10 +24893,10 @@
     ],
     "relatedChannels": [
       "8206",
-      "altnation",
-      "90salternative",
       "9450",
-      "thespectrum"
+      "90salternative",
+      "thespectrum",
+      "altnation"
     ]
   },
   {
@@ -26833,6 +26826,43 @@
     ]
   },
   {
+    "artistsYouHear": [],
+    "assetId": "5gl6oAIkbk7NoUecZlsbHS",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "entertainment",
+    "categoryTitle": "Talk & Entertainment",
+    "contentId": "9632",
+    "deepLink": "https://sxm.app.link/CrimeJunkieRadio",
+    "displayName": "Crime Junkie Radio",
+    "genre": "entertainment",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Entertainment.svg",
+    "genreTitle": "Entertainment",
+    "longDescription": "Crime Junkie Radio is your go-to for the most compelling, thought-provoking and elevated true crime, with gripping storytelling, exclusive interviews, and in-depth explorations. Join us as we unravel the mysteries that have kept you on the edge of your seat for over six years, in the first ever true crime channel on SiriusXM, Crime Junkie Radio – the ultimate destination for 24/7 true crime.",
+    "mediumDescription": "Crime Junkie Radio is your go-to for the most compelling, thought-provoking and elevated true crime.",
+    "shortDescription": "24/7 true crime",
+    "siriusChannelNumber": 788,
+    "xmChannelNumber": 788,
+    "primaryColor": "#780e95",
+    "secondaryColor": "#121212",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/crime-junkie-radio/CrimeJunkieRadio-RGB.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/crime-junkie-radio/CrimeJunkieRadio-White.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/crime-junkie-radio",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SXM_S_1"
+    ]
+  },
+  {
     "artistsYouHear": [
       "The Killers",
       "Twenty One Pilots",
@@ -27133,12 +27163,12 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "laughbreak",
+      "roaddogtrucking",
       "newcountry",
-      "9503",
       "rawdog",
+      "laughbreak",
       "9494",
-      "roaddogtrucking"
+      "9503"
     ]
   },
   {
@@ -27505,13 +27535,13 @@
     ],
     "relatedChannels": [
       "buzzsaw",
-      "hairnation",
       "gratefuldead",
-      "big80s",
-      "4085",
-      "4134",
       "estreetradio",
-      "classicvinyl"
+      "4134",
+      "4085",
+      "classicvinyl",
+      "hairnation",
+      "big80s"
     ]
   },
   {
@@ -27574,12 +27604,12 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "classicrewind",
-      "thevault",
-      "thespectrum",
       "undergroundgarage",
-      "gratefuldead",
+      "thevault",
       "estreetradio",
+      "gratefuldead",
+      "classicrewind",
+      "thespectrum",
       "4189"
     ]
   },
@@ -27643,9 +27673,9 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "bloombergradio",
       "8367",
-      "cnn"
+      "cnn",
+      "bloombergradio"
     ]
   },
   {
@@ -28030,13 +28060,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "60svibrations",
       "siriusgold",
       "siriusnascarradio",
+      "siriuslove",
+      "estreetradio",
       "siriuslysinatra",
       "theroadhouse",
-      "siriuslove",
-      "estreetradio"
+      "60svibrations"
     ]
   },
   {
@@ -28143,14 +28173,14 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "8254",
       "8186",
       "8185",
       "siriusnflradio",
-      "siriusnascarradio",
-      "8368",
+      "8254",
       "8333",
-      "8213"
+      "8213",
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -28743,10 +28773,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9469",
+      "shade45",
       "9471",
       "hotjamz",
-      "shade45"
+      "9469"
     ]
   },
   {
@@ -28859,8 +28889,8 @@
     "relatedChannels": [
       "howardstern101",
       "classicvinyl",
-      "rawdog",
-      "altnation"
+      "altnation",
+      "rawdog"
     ]
   },
   {
@@ -28900,9 +28930,9 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "rawdog",
       "howardstern100",
-      "classicvinyl"
+      "classicvinyl",
+      "rawdog"
     ]
   },
   {
@@ -29612,8 +29642,8 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "8229",
-      "spirit"
+      "spirit",
+      "8229"
     ]
   },
   {
@@ -29904,10 +29934,10 @@
     ],
     "relatedChannels": [
       "totally70s",
-      "gratefuldead",
       "thebridge",
-      "reggaerhythms",
-      "thespectrum"
+      "gratefuldead",
+      "thespectrum",
+      "reggaerhythms"
     ]
   },
   {
@@ -30080,9 +30110,9 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "laughbreak",
+      "doctorradio",
       "rawdog",
-      "doctorradio"
+      "laughbreak"
     ]
   },
   {
@@ -30148,14 +30178,14 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "8225",
-      "9189",
-      "9187",
-      "9191",
+      "9188",
       "9185",
+      "9189",
       "9190",
-      "4103",
-      "9188"
+      "8225",
+      "9191",
+      "9187",
+      "4103"
     ]
   },
   {
@@ -30727,13 +30757,13 @@
     ],
     "relatedChannels": [
       "espnradio",
-      "8254",
-      "8213",
-      "8333",
-      "8368",
-      "siriusnascarradio",
+      "8186",
       "8185",
-      "8186"
+      "8254",
+      "8333",
+      "8213",
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -31115,9 +31145,9 @@
     ],
     "assetId": "2vKWSKfBmcApG6IcBprjKT",
     "deliveryTypes": [
+      "satellite",
       "ip",
-      "mobile",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -31488,9 +31518,9 @@
     ],
     "relatedChannels": [
       "praise",
+      "spirit",
       "9392",
       "ewtnglobal",
-      "spirit",
       "8307"
     ]
   },
@@ -31906,11 +31936,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "siriuslysinatra",
       "thevault",
-      "60svibrations",
+      "estreetradio",
       "outlawcountry",
-      "estreetradio"
+      "siriuslysinatra",
+      "60svibrations"
     ]
   }
 ]

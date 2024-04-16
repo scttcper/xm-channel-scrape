@@ -1478,13 +1478,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "totally70s",
+      "rumbon",
+      "cnnespanol",
       "9189",
       "9187",
-      "cnnespanol",
-      "9188",
-      "rumbon",
-      "60svibrations"
+      "60svibrations",
+      "totally70s",
+      "9188"
     ]
   },
   {
@@ -2140,14 +2140,14 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9398",
-    "deepLink": "https://sxm.app.link/1ys8aPA2nFb",
-    "displayName": "Limited Edition 4",
+    "deepLink": "https://sxm.app.link/RockvilleRadio",
+    "displayName": "Rockville Radio",
     "genre": "rock",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
     "genreTitle": "Rock",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "The music, backstage interviews, live performances, and more from the Welcome To Rockville music festival.",
+    "mediumDescription": "Welcome to Rockville music festival.",
+    "shortDescription": "Rockville Music Festival",
     "siriusChannelNumber": 504,
     "xmChannelNumber": 504,
     "primaryColor": "#000",
@@ -2155,7 +2155,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-4",
+    "vanityURL": "/channels/rockville-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2498,10 +2498,10 @@
     ],
     "relatedChannels": [
       "thevault",
+      "estreetradio",
       "classicvinyl",
       "classicrewind",
-      "undergroundgarage",
-      "estreetradio"
+      "undergroundgarage"
     ]
   },
   {
@@ -3099,14 +3099,14 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9481",
-    "deepLink": "https://sxm.app.link/linbIOA2nFb",
-    "displayName": "Limited Edition 1",
+    "deepLink": "https://sxm.app.link/TheCliveDavisChannel",
+    "displayName": "The Clive Davis Channel",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "The most celebrated music executive of the last 60 years, Clive Davis is responsible for the careers of artists as diverse as Janis Joplin, Barry Manilow, Whitney Houston & hundreds more. Clive Davis’ touch is on the charts and in our hearts. Now, in his own words, Clive tells the stories behind the hits on The Clive Davis Channel, only on SiriusXM! Stories not in his Netflix documentary or his autobiography are coupled with hundreds of songs from decades of his belief in great songs and great performers.",
+    "mediumDescription": "The Clive Davis Channel is a celebration of a life devoted to music. Clive takes us behind the songs, in his own words!",
+    "shortDescription": "A legend shares his stories",
     "siriusChannelNumber": 501,
     "xmChannelNumber": 501,
     "primaryColor": "#d3d3d3",
@@ -3114,7 +3114,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-1/SiriusXM-Limited-Edition-1.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-1",
+    "vanityURL": "/channels/the-clive-davis-channel",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4342,10 +4342,10 @@
     ],
     "relatedChannels": [
       "8206",
-      "altnation",
-      "90salternative",
       "9450",
-      "thespectrum"
+      "90salternative",
+      "thespectrum",
+      "altnation"
     ]
   },
   {
@@ -5696,13 +5696,13 @@
     ],
     "relatedChannels": [
       "buzzsaw",
-      "hairnation",
       "gratefuldead",
-      "big80s",
-      "4085",
-      "4134",
       "estreetradio",
-      "classicvinyl"
+      "4134",
+      "4085",
+      "classicvinyl",
+      "hairnation",
+      "big80s"
     ]
   },
   {
@@ -5765,12 +5765,12 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "classicrewind",
-      "thevault",
-      "thespectrum",
       "undergroundgarage",
-      "gratefuldead",
+      "thevault",
       "estreetradio",
+      "gratefuldead",
+      "classicrewind",
+      "thespectrum",
       "4189"
     ]
   },
@@ -5879,13 +5879,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "60svibrations",
       "siriusgold",
       "siriusnascarradio",
+      "siriuslove",
+      "estreetradio",
       "siriuslysinatra",
       "theroadhouse",
-      "siriuslove",
-      "estreetradio"
+      "60svibrations"
     ]
   },
   {
@@ -6381,10 +6381,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9469",
+      "shade45",
       "9471",
       "hotjamz",
-      "shade45"
+      "9469"
     ]
   },
   {
@@ -6988,8 +6988,8 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "8229",
-      "spirit"
+      "spirit",
+      "8229"
     ]
   },
   {
@@ -7180,10 +7180,10 @@
     ],
     "relatedChannels": [
       "totally70s",
-      "gratefuldead",
       "thebridge",
-      "reggaerhythms",
-      "thespectrum"
+      "gratefuldead",
+      "thespectrum",
+      "reggaerhythms"
     ]
   },
   {
@@ -7312,14 +7312,14 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "8225",
-      "9189",
-      "9187",
-      "9191",
+      "9188",
       "9185",
+      "9189",
       "9190",
-      "4103",
-      "9188"
+      "8225",
+      "9191",
+      "9187",
+      "4103"
     ]
   },
   {
@@ -7883,9 +7883,9 @@
     ],
     "assetId": "2vKWSKfBmcApG6IcBprjKT",
     "deliveryTypes": [
+      "satellite",
       "ip",
-      "mobile",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -8610,11 +8610,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "siriuslysinatra",
       "thevault",
-      "60svibrations",
+      "estreetradio",
       "outlawcountry",
-      "estreetradio"
+      "siriuslysinatra",
+      "60svibrations"
     ]
   }
 ]
