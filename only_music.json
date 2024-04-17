@@ -2152,8 +2152,8 @@
     "xmChannelNumber": 504,
     "primaryColor": "#000",
     "secondaryColor": "#008b8b",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4-White.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/rockville-radio/RockvilleRadio-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/rockville-road/RockvilleRadio-White.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/rockville-radio",
     "packages": [
@@ -3110,9 +3110,9 @@
     "siriusChannelNumber": 501,
     "xmChannelNumber": 501,
     "primaryColor": "#d3d3d3",
-    "secondaryColor": "#4169e1",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-1/SiriusXM-Limited-Edition-1.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
+    "secondaryColor": "#1a1919",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/clive-davis-radio/TheCliveDavisChannel-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/clive-davis-radio/TheCliveDavisChannel-White.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/the-clive-davis-channel",
     "packages": [
