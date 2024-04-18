@@ -7842,6 +7842,7 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "4256",
+    "deepLink": "https://sxm.app.link/LatinasinMusic",
     "displayName": "Latinas in music",
     "genre": "allxtra",
     "genreTitle": "All Xtra",
@@ -7850,6 +7851,10 @@
     "shortDescription": "Celebrating Latinas in music",
     "siriusChannelNumber": 1244,
     "xmChannelNumber": 1244,
+    "primaryColor": "#e9e2e2",
+    "secondaryColor": "#0d0d0d",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/latinas-in-music/LatinasInMusic-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/latinas-in-music/LatinasInMusic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -19313,6 +19318,45 @@
   },
   {
     "artistsYouHear": [],
+    "assetId": "1IvQaojR9zCkZtXDJZKbY3",
+    "deliveryTypes": [
+      "mobile",
+      "satellite",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "9351",
+    "deepLink": "https://sxm.app.link/iSx0zFu2nFb",
+    "displayName": "SiriusXM 105",
+    "genre": "pop",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "longDescription": "SiriusXM 105",
+    "mediumDescription": "SiriusXM 105",
+    "shortDescription": "SiriusXM 105",
+    "siriusChannelNumber": 105,
+    "xmServiceId": 259,
+    "xmChannelNumber": 105,
+    "primaryColor": "#f1e9e9",
+    "secondaryColor": "#121212",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/siriusxm-105",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE"
+    ]
+  },
+  {
+    "artistsYouHear": [],
     "assetId": "htYTr2jtIGlbliO0hu7kB",
     "deliveryTypes": [
       "ip",
@@ -22334,61 +22378,6 @@
   },
   {
     "artistsYouHear": [
-      "Charles Arbuckle",
-      "Roxy Bernstein",
-      "Max Browne",
-      "Jon Crispin",
-      "Sean Farnham",
-      "Guy Haberman",
-      "Evan Moore",
-      "Kirk Morrison",
-      "Adam Rittenberg",
-      "Yogi Roth",
-      "Geoff Schwartz",
-      "Mike Yam"
-    ],
-    "assetId": "j0B3En7BCgmqamSgoSoao",
-    "deliveryTypes": [
-      "satellite",
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "sports",
-    "categoryTitle": "Sports",
-    "contentId": "9457",
-    "deepLink": "https://sxm.app.link/NxmMOMu2nFb",
-    "displayName": "SiriusXM Pac-12 Radio",
-    "genre": "sportstalk",
-    "genreTitle": "Sports",
-    "longDescription": "Your home for Pac-12 sports talk & live play-by-play, including football, basketball and more.",
-    "mediumDescription": "Your home for Pac-12 sports talk & live play-by-play, including football, basketball and more.",
-    "shortDescription": "24/7 Pac-12 Talk & Play-by-Play",
-    "siriusChannelNumber": 373,
-    "xmServiceId": 322,
-    "xmChannelNumber": 373,
-    "primaryColor": "#a7a9ac",
-    "secondaryColor": "#293969",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/Pac12-Radio/Pac12Radio-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/Pac12-Radio/Pac12Radio-white.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-pac-12-radio",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
-    ],
-    "relatedChannels": [
-      "espnradio",
-      "siriussportsaction",
-      "8213",
-      "8368",
-      "8230",
-      "siriusnflradio"
-    ]
-  },
-  {
-    "artistsYouHear": [
       "Pat Bradley",
       "Peter Burns",
       "Chris Childers ",
@@ -23110,7 +23099,6 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
@@ -26364,7 +26352,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_NS"
     ]
   },
   {
@@ -26397,7 +26386,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_NS"
     ]
   },
   {

@@ -1721,6 +1721,45 @@
   },
   {
     "artistsYouHear": [],
+    "assetId": "1IvQaojR9zCkZtXDJZKbY3",
+    "deliveryTypes": [
+      "mobile",
+      "satellite",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "9351",
+    "deepLink": "https://sxm.app.link/iSx0zFu2nFb",
+    "displayName": "SiriusXM 105",
+    "genre": "pop",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "longDescription": "SiriusXM 105",
+    "mediumDescription": "SiriusXM 105",
+    "shortDescription": "SiriusXM 105",
+    "siriusChannelNumber": 105,
+    "xmServiceId": 259,
+    "xmChannelNumber": 105,
+    "primaryColor": "#f1e9e9",
+    "secondaryColor": "#121212",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/siriusxm-105",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE"
+    ]
+  },
+  {
+    "artistsYouHear": [],
     "assetId": "htYTr2jtIGlbliO0hu7kB",
     "deliveryTypes": [
       "ip",
@@ -3208,7 +3247,6 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
