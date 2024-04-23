@@ -26814,7 +26814,9 @@
     ]
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Ashley Flowers"
+    ],
     "assetId": "5gl6oAIkbk7NoUecZlsbHS",
     "deliveryTypes": [
       "ip",
