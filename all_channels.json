@@ -7981,10 +7981,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9408",
+      "rawdog",
       "buzzsaw",
-      "9503",
-      "rawdog"
+      "9408",
+      "9503"
     ]
   },
   {
@@ -8090,12 +8090,12 @@
     "categoryTitle": "Sports",
     "contentId": "8186",
     "deepLink": "https://sxm.app.link/SiriusXMPGATOURRadio",
-    "displayName": "Masters Radio",
+    "displayName": "SiriusXM PGA TOUR Radio",
     "genre": "sportstalk",
     "genreTitle": "Sports",
-    "longDescription": "SiriusXM PGA TOUR Radio is home to the most comprehensive coverage in golf with news, tournament scores, and highlights from the PGA TOUR, Champions TOUR, Korn Ferry TOUR, & LPGA TOUR.",
-    "mediumDescription": "Live PGA TOUR® Coverage & Golf Talk",
-    "shortDescription": "24/7 Golf Talk & Play-by-Play",
+    "longDescription": "SiriusXM Masters Radio is your exclusive audio home for the Masters! Join Mike Tirico, and our team of experts for wall to wall coverage of every shot, scores, highlights, and player interviews with the biggest names in golf.",
+    "mediumDescription": "Live tournament coverage & golf talk.",
+    "shortDescription": "24/7 golf talk & play-by-play",
     "siriusChannelNumber": 92,
     "siriusServiceId": 131,
     "xmServiceId": 146,
@@ -8117,12 +8117,12 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
+      "8213",
+      "8254",
+      "8333",
       "espnradio",
       "siriusnflradio",
       "8185",
-      "8254",
-      "8333",
-      "8213",
       "siriusnascarradio",
       "8368"
     ]
@@ -8442,14 +8442,14 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "espnradio",
       "8254",
+      "8333",
       "8186",
-      "8185",
+      "espnradio",
       "siriusnflradio",
+      "8185",
       "siriusnascarradio",
-      "8368",
-      "8333"
+      "8368"
     ]
   },
   {
@@ -8943,8 +8943,8 @@
     "genre": "political",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Politics.svg",
     "genreTitle": "Politics/Issues",
-    "longDescription": "Urban View features dynamic discourse from prominent Black voices on topics ranging from culture, politics, faith, justice, activism, and more. Join Heather B., Clay Cane, Karen Hunter, Rev. Al Sharpton, and more.",
-    "mediumDescription": "Heather B., Clay Cane and Karen Hunter put action behind their words making you part of the solution.",
+    "longDescription": "Urban View features dynamic discourse from prominent Black voices on topics ranging from culture, politics, faith, justice, activism, and more. Join Joe Madison, Heather B., Clay Cane, Karen Hunter, Rev. Al Sharpton, and more.",
+    "mediumDescription": "Joe Madison, Heather B., Clay Cane and Karen Hunter put action behind their words making you part of the solution.",
     "shortDescription": "Talk that empowers",
     "siriusChannelNumber": 126,
     "siriusServiceId": 117,
@@ -8972,14 +8972,14 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "siriusleft",
-      "9471",
-      "heartandsoul",
-      "doctorradio",
-      "9469",
-      "9129",
+      "siriusstars",
       "soultown",
-      "siriusstars"
+      "heartandsoul",
+      "siriusleft",
+      "doctorradio",
+      "9129",
+      "9471",
+      "9469"
     ]
   },
   {
@@ -9085,8 +9085,8 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "leftofcenter",
-      "altnation"
+      "altnation",
+      "leftofcenter"
     ]
   },
   {
@@ -9137,11 +9137,11 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "leftofcenter",
-      "energie2",
       "8244",
+      "altnation",
+      "leftofcenter",
       "9504",
-      "altnation"
+      "energie2"
     ]
   },
   {
@@ -9186,12 +9186,12 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "siriusnascarradio",
-      "8230",
-      "8185",
+      "8333",
       "siriusnflradio",
+      "8185",
+      "siriusnascarradio",
       "9385",
-      "8333"
+      "8230"
     ]
   },
   {
@@ -9239,17 +9239,14 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9423",
-      "9426",
-      "9427",
-      "espnradio",
       "8333",
+      "8186",
       "8213",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -9290,15 +9287,15 @@
       "SIR_IP_SA"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
+      "8213",
       "8254",
       "8333",
-      "8213",
-      "8185",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
-      "8186"
+      "8185",
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -9343,11 +9340,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9408",
       "rawdog",
       "laughbreak",
       "9494",
       "bluecollarcomedy",
+      "9408",
       "9469",
       "9503"
     ]
@@ -10958,9 +10955,9 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
+      "spirit",
       "praise",
-      "8229",
-      "spirit"
+      "8229"
     ]
   },
   {
@@ -19332,7 +19329,7 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9351",
-    "deepLink": "https://sxm.app.link/iSx0zFu2nFb",
+    "deepLink": "https://sxm.app.link/SiriusXM105",
     "displayName": "SiriusXM 105",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
@@ -19345,8 +19342,8 @@
     "xmChannelNumber": 105,
     "primaryColor": "#f1e9e9",
     "secondaryColor": "#121212",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-105/SiriusXM105-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-105/SiriusXM105-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/siriusxm-105",
     "packages": [
@@ -19409,14 +19406,14 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9353",
-    "deepLink": "https://www.siriusxm.com/player/channel-linear/entity/b8c4de96-afd9-85ee-7e5f-95c2e380ab65?intcmp=IWTG_NA_www:Home_ListentoTheBillyJoelChannel",
-    "displayName": "SiriusXM 79",
+    "deepLink": "https://sxm.app.link/GoodVibrationsTheBeachBoysChannel",
+    "displayName": "Good Vibrations: The Beach Boys Channel",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "SiriusXM 79",
-    "mediumDescription": "SiriusXM 79",
-    "shortDescription": "SiriusXM 79",
+    "longDescription": "Playing sun-drenched songs from every phase of the group's decades-spanning career! It's all on Good Vibrations: The Beach Boys Channel! From their early songs about sand, surf, girls and cars into the psychedelic period filled with rich experimentation, The Beach Boys have grown up with American pop music and have brought California's coastline to the world. Their biggest hits plus hard-to-find rarities combine for a trip to the beach....without leaving home!",
+    "mediumDescription": "Sun-drenched songs from The Beach Boys' decade-spanning career with sand & surf songs, girls & cars and psychedelic grooves.",
+    "shortDescription": "The music of The Beach Boys",
     "siriusChannelNumber": 79,
     "siriusServiceId": 58,
     "xmServiceId": 50,
@@ -19426,7 +19423,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-79",
+    "vanityURL": "/channels/the-beach-boys-channel",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -20301,22 +20298,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9399",
-    "deepLink": "https://sxm.app.link/VampireWeekendRadio",
-    "displayName": "Vampire Weekend Radio",
+    "deepLink": "https://sxm.app.link/SiriusXMLimitedEdition5",
+    "displayName": "Limited Edition 5",
     "genre": "rock",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
     "genreTitle": "Rock",
-    "longDescription": "Nearly two decades of Vampire Weekend’s adventurous indie sounds and a personal intro to their new album Only God Was Above Us. Hear the stories behind their songs, archival SiriusXM Sessions performances, and music and artists that inspire them.",
-    "mediumDescription": "Nearly two decades of Vampire Weekend’s adventurous indie sounds and a personal intro to their new album Only God Was Above Us.",
-    "shortDescription": "Vampire Weekend music and more",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 505,
     "xmChannelNumber": 505,
-    "primaryColor": "#dcdbdb",
-    "secondaryColor": "#0d0d0d",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/vampire-radio/VampireWeekendRadio-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/vampire-radio/VampireWeekendRadio-127-500x400-N.svg",
+    "primaryColor": "#121212",
+    "secondaryColor": "#729f1d",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/vampire-weekend-radio",
+    "vanityURL": "/channels/siriusxm-limited-edition-5",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -20328,10 +20325,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
+      "thebeat",
       "9145",
       "chill",
-      "9472",
-      "thebeat"
+      "9472"
     ]
   },
   {
@@ -20583,7 +20580,6 @@
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
-    "channelNotification": "Pitbull’s Globalization (formerly ch. 13) is now on ch. 3 through May 7. Pandora Now (formerly ch. 3) is on ch. 303.",
     "contentId": "9406",
     "deepLink": "https://sxm.app.link/9DTqO0e2nFb",
     "displayName": "Pitbull's Globalization",
@@ -20593,10 +20589,10 @@
     "longDescription": "Open format club DJs dropping the biggest hits from all genres around the world. From POP, to Hip-Hop, to Latin & Dance.",
     "mediumDescription": "A musical journey of Rhythm around the world. The biggest songs and the biggest DJs.",
     "shortDescription": "Worldwide rhythmic hits",
-    "siriusChannelNumber": 3,
+    "siriusChannelNumber": 13,
     "siriusServiceId": 59,
     "xmServiceId": 11,
-    "xmChannelNumber": 3,
+    "xmChannelNumber": 13,
     "primaryColor": "#009ed1",
     "secondaryColor": "#146499",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/Pitbull-Globalization/Pitbull-Globalization-4C.svg",
@@ -20616,8 +20612,8 @@
     ],
     "relatedChannels": [
       "siriushits1",
-      "9472",
-      "thebeat"
+      "thebeat",
+      "9472"
     ]
   },
   {
@@ -22787,8 +22783,8 @@
     "category": "sports",
     "categoryTitle": "Sports",
     "contentId": "9473",
-    "deepLink": "https://sxm.app.link/zCYPvJu2nFb",
-    "displayName": "CBS Sports Radio",
+    "deepLink": "https://sxm.app.link/InfinitySportsNetwork",
+    "displayName": "Infinity Sports Network",
     "genre": "sportstalk",
     "genreTitle": "Sports",
     "longDescription": "Home of The Jim Rome Show along with Maggie & Perloff, The DA Show, and Zach Gelb plus top games from a variety of sports!",
@@ -22800,10 +22796,10 @@
     "xmChannelNumber": 158,
     "primaryColor": "#d1d3d4",
     "secondaryColor": "#093a5c",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/CBS-Sports/CBSSports-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/CBS-Sports/CBSSports-white.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/CBS-Sports/InfinitySportsNetwork-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/CBS-Sports/InfinitySportsNetwork-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/cbs-sports-radio",
+    "vanityURL": "/channel/infinity-sports-network",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -22815,12 +22811,12 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "siriusnflradio",
-      "8368",
-      "siriussportsaction",
-      "8333",
       "8213",
-      "espnradio"
+      "espnradio",
+      "siriusnflradio",
+      "8333",
+      "siriussportsaction",
+      "8368"
     ]
   },
   {
@@ -22964,22 +22960,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9481",
-    "deepLink": "https://sxm.app.link/TheCliveDavisChannel",
-    "displayName": "The Clive Davis Channel",
+    "deepLink": "https://sxm.app.link/SiriusXMLimitedEdition1",
+    "displayName": "Limited Edition 1",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "The most celebrated music executive of the last 60 years, Clive Davis is responsible for the careers of artists as diverse as Janis Joplin, Barry Manilow, Whitney Houston & hundreds more. Clive Davis’ touch is on the charts and in our hearts. Now, in his own words, Clive tells the stories behind the hits on The Clive Davis Channel, only on SiriusXM! Stories not in his Netflix documentary or his autobiography are coupled with hundreds of songs from decades of his belief in great songs and great performers.",
-    "mediumDescription": "The Clive Davis Channel is a celebration of a life devoted to music. Clive takes us behind the songs, in his own words!",
-    "shortDescription": "A legend shares his stories",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 501,
     "xmChannelNumber": 501,
     "primaryColor": "#d3d3d3",
-    "secondaryColor": "#1a1919",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/clive-davis-radio/TheCliveDavisChannel-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/clive-davis-radio/TheCliveDavisChannel-White.svg",
+    "secondaryColor": "#0b59d5",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-1/SiriusXM-Limited-Edition-1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/the-clive-davis-channel",
+    "vanityURL": "/channels/siriusxm-limited-edition-1",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -23762,8 +23758,8 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "4147",
-      "4148"
+      "4148",
+      "4147"
     ]
   },
   {
@@ -24237,13 +24233,13 @@
     "categoryTitle": "Music",
     "contentId": "9545",
     "deepLink": "https://sxm.app.link/rsxgROA2nFb",
-    "displayName": "Limited Edition 2",
+    "displayName": "AAPI Now",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Hear the voices of Asian American and Pacific Islander artists that are trailblazing a movement. You'll hear music from UMI, Conan Gray, H.E.R., and so many more. Listen to the stories about their journeys as we celebrate Asian American Pacific Islander Heritage Month on SiriusXM.",
+    "mediumDescription": "Explore powerful Asian American and Pacific Islander voices.",
+    "shortDescription": "Asian & Pacific Island music",
     "siriusChannelNumber": 502,
     "xmChannelNumber": 502,
     "primaryColor": "#7db3d2",
@@ -24251,7 +24247,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/siriusxm-limited-edition-02",
+    "vanityURL": "/channels/aapi-now",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -24392,22 +24388,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9549",
-    "deepLink": "https://sxm.app.link/LatinasinMusic",
-    "displayName": "Limited Edition 11",
-    "genre": "country",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Country.svg",
-    "genreTitle": "Country",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, her favorite music, handpicked by Dolly",
-    "shortDescription": "Home for limited-run channels",
+    "deepLink": "https://sxm.app.link/MarcAnthonyMUEVENSERadio",
+    "displayName": "Marc Anthony MUEVENSE",
+    "genre": "world",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Latino.svg",
+    "genreTitle": "Latino",
+    "longDescription": "Only once a generation can a voice conquer global stages as well as the big screen - Marc Anthony, singer, songwriter, actor is the most successful tropical Latin artist in history. Now, hear the salsa icon host his very own channel with stories and insight on his career. Explore three decades of music, from his timeless classics to his brand-new album, MUEVENSE, plus music from his influences and favorite artists.",
+    "mediumDescription": "Marc Anthony shares his insights behind his biggest songs and his new album MUEVENSE.",
+    "shortDescription": "Marc shares his hits and more",
     "siriusChannelNumber": 511,
     "xmChannelNumber": 511,
-    "primaryColor": "#2fa270",
-    "secondaryColor": "#2c60b5",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-11/SiriusXM-Limited-Edition-11.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-11/SiriusXM-Limited-Edition-11-White.svg",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#121212",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/marcanthony-muevenseradio/MarcAnthonyMuevenseRadio-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/marcanthony-muevenseradio/MarcAnthonyMuevenseRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/limited-edition-11",
+    "vanityURL": "/channels/marc-anthony",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -24659,53 +24655,6 @@
       "siriusnflradio",
       "8185",
       "8186"
-    ]
-  },
-  {
-    "artistsYouHear": [
-      "Allman Brothers",
-      "Bruce Springsteen",
-      "Phish",
-      "Goose",
-      "Jack White",
-      "Greensky Bluegrass",
-      "Dead & Company",
-      "Pearl Jam",
-      "Widespread Panic"
-    ],
-    "assetId": "3Zu4011XP078wsoXcfZonx",
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "contentId": "9563",
-    "deepLink": "https://sxm.app.link/JzZaTRA2nFb",
-    "displayName": "Nugs.net Radio",
-    "genre": "rock",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
-    "genreTitle": "Rock",
-    "longDescription": "New live music from around the country, complete concerts each week, and comprehensive coverage of the world's biggest touring acts.",
-    "mediumDescription": "Recent live music from the world's biggest touring acts.",
-    "shortDescription": "Recent live music",
-    "siriusChannelNumber": 716,
-    "xmChannelNumber": 716,
-    "primaryColor": "#EF0404",
-    "secondaryColor": "#000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/nug-net-radio/Nugs.netRadio-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/nug-net-radio/Nugs.netRadio-White.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/nugs-net-radio",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SXM_S_1"
     ]
   },
   {
@@ -25564,15 +25513,15 @@
     "genreTitle": "Latino",
     "longDescription": "From the SiriusXM studios in Miami, your new home for today’s biggest Latin Pop hits from around the globe! From pop to reggaeton, dance to viral LatinX hits, somos los exitos!",
     "mediumDescription": "From the SiriusXM studios in Miami, your new home for today’s biggest Latin Pop hits from around the globe!",
-    "shortDescription": "Today’s Latin pop hits",
+    "shortDescription": "Today's Latin pop hits XL",
     "siriusChannelNumber": 151,
     "xmServiceId": 332,
     "xmChannelNumber": 151,
     "primaryColor": "#da70d6",
     "secondaryColor": "#0000ff",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-126-500x400-P1.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-127-500x400-N1.svg",
-    "explicitContentIndicator": "No",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-126-500x400-P2.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/hits-uno/HitsUno-127-500x400-N2.svg",
+    "explicitContentIndicator": "Yes",
     "vanityURL": "/channels/hits-uno",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -25588,13 +25537,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9185",
-      "9544",
-      "8208",
-      "siriushits1",
       "9406",
+      "siriushits1",
+      "8208",
+      "9544",
+      "rumbon",
       "9492",
-      "rumbon"
+      "9185"
     ]
   },
   {
@@ -26726,26 +26675,26 @@
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
-    "channelNotification": "Channel 13 (Taylor's Version) will run from April 7 through May 5. Pitbull’s Globalization (formerly ch. 13) is on ch. 3.",
+    "channelNotification": "Billie Eilish Radio will run from May 10 through June 5. Pandora Now (formerly ch. 3) is on ch. 303.",
     "contentId": "9624",
-    "deepLink": "https://sxm.app.link/Ch13TaylorsVersionSite",
-    "displayName": "Channel 13 (Taylor’s Version)",
+    "deepLink": "https://sxm.app.link/BillieEilishRadio",
+    "displayName": "Billie Eilish Radio",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "All’s fair in love and poetry as SiriusXM launches a limited-time channel featuring only Taylor Swift music from her chart-topping 18-year career. Including all Taylor Versions, from the Vault tracks, live tracks, bonus tracks and more. Swiftie superfans will share their favorite moments, music and memories, all leading up to the release and celebration of her highly anticipated new album The Tortured Poets Department on April 19.",
-    "mediumDescription": "Channel dedicated to Taylor Swift’s music for a limited time",
-    "shortDescription": "Only Taylor Swift music",
-    "siriusChannelNumber": 13,
-    "siriusServiceId": 114,
+    "longDescription": "Get closer to the unparalleled creativity and music of Billie Eilish on her very own SiriusXM Channel, Billie Eilish Radio.",
+    "mediumDescription": "Billie Eilish's music and more.",
+    "shortDescription": "Billie Eilish music & more XL",
+    "siriusChannelNumber": 3,
+    "siriusServiceId": 166,
     "xmServiceId": 211,
-    "xmChannelNumber": 13,
+    "xmChannelNumber": 3,
     "primaryColor": "#f0ecea",
     "secondaryColor": "#48403f",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/channel-13/Channel13TaylorsVersion-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/channel-13/Channel13TaylorsVersion-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/channel-13",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/billie-eilishradio/BillieEilishRadio-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/billie-eilishradio/BillieEilishRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
+    "vanityURL": "/channels/billie-eilish-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -26927,11 +26876,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "90salternative",
+      "leftofcenter",
+      "thespectrum",
       "octane",
       "8370",
-      "leftofcenter",
-      "thespectrum"
+      "90salternative"
     ]
   },
   {
@@ -27053,11 +27002,11 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "classicvinyl",
-      "classicrewind",
       "totally70s",
+      "thepulse",
       "firstwave",
-      "thepulse"
+      "classicvinyl",
+      "classicrewind"
     ]
   },
   {
@@ -27125,9 +27074,9 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "8367",
+      "cnbc",
       "cnn",
-      "cnbc"
+      "8367"
     ]
   },
   {
@@ -27297,11 +27246,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "totally70s",
-      "60svibrations",
-      "siriuslysinatra",
       "big80s",
-      "siriusstars"
+      "totally70s",
+      "siriusstars",
+      "siriuslysinatra",
+      "60svibrations"
     ]
   },
   {
@@ -27476,8 +27425,8 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9472",
-      "leftofcenter"
+      "leftofcenter",
+      "9472"
     ]
   },
   {
@@ -28238,10 +28187,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "classicrewind",
+      "thespectrum",
       "classicvinyl",
       "thevault",
-      "thespectrum",
+      "classicrewind",
       "undergroundgarage"
     ]
   },
@@ -28293,9 +28242,9 @@
     ],
     "relatedChannels": [
       "spirit",
-      "thecatholicchannel",
+      "8307",
       "praise",
-      "8307"
+      "thecatholicchannel"
     ]
   },
   {
@@ -28348,11 +28297,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "shade45",
-      "rawdog",
       "octane",
+      "altnation",
       "howardstern100",
-      "altnation"
+      "rawdog",
+      "shade45"
     ]
   },
   {
@@ -28417,9 +28366,9 @@
     ],
     "relatedChannels": [
       "big80s",
+      "altnation",
       "classicrewind",
-      "90salternative",
-      "altnation"
+      "90salternative"
     ]
   },
   {
@@ -28522,11 +28471,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "bluegrass",
       "classicvinyl",
-      "thevault",
       "jamon",
-      "purejazz"
+      "thevault",
+      "purejazz",
+      "bluegrass"
     ]
   },
   {
@@ -28589,15 +28538,15 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "classicrewind",
-      "8206",
-      "buzzsaw",
       "octane",
       "big80s",
-      "4097",
-      "4085",
+      "classicrewind",
+      "4158",
+      "buzzsaw",
+      "8206",
       "4136",
-      "4158"
+      "4097",
+      "4085"
     ]
   },
   {
@@ -28656,10 +28605,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "howardstern101",
-      "buzzsaw",
       "octane",
-      "howardstern100"
+      "howardstern101",
+      "howardstern100",
+      "buzzsaw"
     ]
   },
   {
@@ -28725,8 +28674,8 @@
     ],
     "relatedChannels": [
       "8238",
-      "praise",
-      "soultown"
+      "soultown",
+      "praise"
     ]
   },
   {
@@ -29187,12 +29136,12 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "8216",
       "rawdog",
       "9494",
+      "bluecollarcomedy",
       "9408",
-      "9503",
-      "bluecollarcomedy"
+      "8216",
+      "9503"
     ]
   },
   {
@@ -29258,9 +29207,9 @@
     "relatedChannels": [
       "firstwave",
       "thespectrum",
-      "undergroundgarage",
+      "altnation",
       "8207",
-      "altnation"
+      "undergroundgarage"
     ]
   },
   {
@@ -29513,19 +29462,19 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "90salternative",
-      "hardattack",
+      "altnation",
       "howardstern101",
-      "faction",
+      "howardstern100",
       "rawdog",
+      "faction",
+      "hardattack",
       "buzzsaw",
       "4018",
-      "4099",
-      "4166",
+      "90salternative",
+      "4220",
       "4193",
-      "howardstern100",
-      "altnation",
-      "4220"
+      "4166",
+      "4099"
     ]
   },
   {
@@ -29590,8 +29539,8 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "theroadhouse",
-      "thespectrum"
+      "thespectrum",
+      "theroadhouse"
     ]
   },
   {
@@ -29992,12 +29941,12 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
+      "laughbreak",
+      "9494",
       "bluecollarcomedy",
       "9408",
-      "laughbreak",
       "9469",
-      "9503",
-      "9494"
+      "9503"
     ]
   },
   {
@@ -30443,13 +30392,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "thebeat",
-      "hotjamz",
-      "4067",
-      "4015",
-      "4094",
       "thepulse",
-      "4164"
+      "thebeat",
+      "4015",
+      "hotjamz",
+      "4164",
+      "4094",
+      "4067"
     ]
   },
   {
@@ -30505,10 +30454,10 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "9409",
       "cnn",
+      "8367",
       "indietalk",
-      "8367"
+      "9409"
     ]
   },
   {
@@ -30619,10 +30568,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "purejazz",
-      "jazzcafe",
       "broadwaysbest",
-      "siriusgold"
+      "siriusgold",
+      "jazzcafe",
+      "purejazz"
     ]
   },
   {
@@ -31028,9 +30977,9 @@
     ],
     "assetId": "1qUQzIxrw6YCi3O5bVzcLA",
     "deliveryTypes": [
+      "satellite",
       "ip",
-      "mobile",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -31069,9 +31018,9 @@
     ],
     "relatedChannels": [
       "heartandsoul",
+      "totally70s",
       "8238",
-      "praise",
-      "totally70s"
+      "praise"
     ]
   },
   {
@@ -31253,13 +31202,13 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "classicrewind",
-      "8206",
-      "totally70s",
       "big80s",
+      "totally70s",
       "soultown",
-      "coffeehouse",
-      "thebridge"
+      "classicrewind",
+      "thebridge",
+      "8206",
+      "coffeehouse"
     ]
   },
   {
@@ -31591,13 +31540,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "coffeehouse",
-      "starlite",
-      "9556",
       "siriushits1",
-      "9450",
+      "starlite",
       "8208",
-      "9557"
+      "9556",
+      "9557",
+      "9450",
+      "coffeehouse"
     ]
   },
   {
@@ -31731,10 +31680,10 @@
     ],
     "relatedChannels": [
       "thepulse",
-      "coffeehouse",
-      "thebridge",
       "jamon",
       "radiomargaritaville",
+      "thebridge",
+      "coffeehouse",
       "4096",
       "4019",
       "4136"
@@ -31751,13 +31700,11 @@
       "Jethro Tull",
       "Yes",
       "Rush",
-      "Megless Griffin",
       "Greg Roberson",
-      "Jim Ladd",
       "Joe Elliott",
-      "Dusty Street",
       "Carol Miller",
-      "Earle Bailey"
+      "Earle Bailey",
+      "Early Times"
     ],
     "assetId": "t5XGf6Q7aLoG1bWmlmZPm",
     "deliveryTypes": [
@@ -31870,10 +31817,10 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
+      "big80s",
       "classicvinyl",
       "classicrewind",
-      "60svibrations",
-      "big80s"
+      "60svibrations"
     ]
   },
   {
