@@ -19419,10 +19419,10 @@
     "siriusServiceId": 58,
     "xmServiceId": 50,
     "xmChannelNumber": 79,
-    "primaryColor": "#d3d3d3",
-    "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "primaryColor": "#d06237",
+    "secondaryColor": "#c34663",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channel/GoodVibrations21-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channel/GoodVibrations21-4C-OnK.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/the-beach-boys-channel",
     "packages": [
@@ -19433,6 +19433,11 @@
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
+    ],
+    "relatedChannels": [
+      "60svibrations",
+      "9415",
+      "9378"
     ]
   },
   {
@@ -20309,8 +20314,8 @@
     "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 505,
     "xmChannelNumber": 505,
-    "primaryColor": "#121212",
-    "secondaryColor": "#729f1d",
+    "primaryColor": "#8bbe56",
+    "secondaryColor": "#26608b",
     "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5-White.svg",
     "explicitContentIndicator": "No",
@@ -24244,10 +24249,10 @@
     "shortDescription": "Asian & Pacific Island music",
     "siriusChannelNumber": 502,
     "xmChannelNumber": 502,
-    "primaryColor": "#7db3d2",
-    "secondaryColor": "#008b8b",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
+    "primaryColor": "#ddbb3f",
+    "secondaryColor": "#7d92ab",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/aapi-now/AAPINow-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/aapi-now/AAPINow-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/aapi-now",
     "packages": [
@@ -24259,6 +24264,12 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
+    ],
+    "relatedChannels": [
+      "9526",
+      "siriushits1",
+      "9530",
+      "9351"
     ]
   },
   {
@@ -24400,7 +24411,7 @@
     "shortDescription": "Marc shares his hits and more",
     "siriusChannelNumber": 511,
     "xmChannelNumber": 511,
-    "primaryColor": "#ffffff",
+    "primaryColor": "#a9462f",
     "secondaryColor": "#121212",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/marcanthony-muevenseradio/MarcAnthonyMuevenseRadio-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/marcanthony-muevenseradio/MarcAnthonyMuevenseRadio-127-500x400-N.svg",
@@ -24415,6 +24426,12 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
+    ],
+    "relatedChannels": [
+      "9593",
+      "rumbon",
+      "9186",
+      "9134"
     ]
   },
   {
@@ -26691,8 +26708,8 @@
     "siriusServiceId": 166,
     "xmServiceId": 211,
     "xmChannelNumber": 3,
-    "primaryColor": "#f0ecea",
-    "secondaryColor": "#48403f",
+    "primaryColor": "#1e4e74",
+    "secondaryColor": "#0b1218",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/billie-eilishradio/BillieEilishRadio-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/billie-eilishradio/BillieEilishRadio-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
@@ -26707,6 +26724,12 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
+    ],
+    "relatedChannels": [
+      "altnation",
+      "siriushits1",
+      "9544",
+      "coffeehouse"
     ]
   },
   {
