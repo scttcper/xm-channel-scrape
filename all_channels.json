@@ -8093,9 +8093,9 @@
     "displayName": "SiriusXM PGA TOUR Radio",
     "genre": "sportstalk",
     "genreTitle": "Sports",
-    "longDescription": "SiriusXM Masters Radio is your exclusive audio home for the Masters! Join Mike Tirico, and our team of experts for wall to wall coverage of every shot, scores, highlights, and player interviews with the biggest names in golf.",
-    "mediumDescription": "Live tournament coverage & golf talk.",
-    "shortDescription": "24/7 golf talk & play-by-play",
+    "longDescription": "SiriusXM PGA TOUR Radio is home to the most comprehensive coverage in golf with news, tournament scores, and highlights from the PGA TOUR, Champions TOUR, Korn Ferry TOUR, & LPGA TOUR.",
+    "mediumDescription": "Live PGA TOUR® Coverage & Golf Talk",
+    "shortDescription": "24/7 Golf talk & Play-by-Play",
     "siriusChannelNumber": 92,
     "siriusServiceId": 131,
     "xmServiceId": 146,
@@ -8117,8 +8117,8 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "8213",
       "8254",
+      "8213",
       "8333",
       "espnradio",
       "siriusnflradio",
