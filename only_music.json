@@ -4798,7 +4798,7 @@
     "siriusServiceId": 135,
     "xmServiceId": 136,
     "xmChannelNumber": 60,
-    "primaryColor": "#221e1f",
+    "primaryColor": "#551030",
     "secondaryColor": "#d93574",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/carriescountry/CarriesCountry-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/carriescountry/CarriesCountry-127-500x400-N.svg",
@@ -5267,8 +5267,8 @@
     "shortDescription": "Carrie’s faith-based favorites",
     "siriusChannelNumber": 739,
     "xmChannelNumber": 739,
-    "primaryColor": "#e2a2a2",
-    "secondaryColor": "#0f0f0f",
+    "primaryColor": "#d93574",
+    "secondaryColor": "#551030",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Christian/saviorsundaydaily/SaviorSundayDaily-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Christian/saviorsundaydaily/SaviorSundayDaily-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -5282,6 +5282,10 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
+    ],
+    "relatedChannels": [
+      "9599",
+      "4252"
     ]
   },
   {
