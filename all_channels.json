@@ -7868,6 +7868,78 @@
     ]
   },
   {
+    "artistsYouHear": [],
+    "assetId": "5H9pPtHwcuy4uSPjPNDahI",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "4257",
+    "deepLink": "https://sxm.app.link/LesTubes80-90",
+    "displayName": "Les Tubes 80 90",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
+    "longDescription": "French 80s/90s pop-rock hits",
+    "mediumDescription": "French 80s/90s pop-rock hits",
+    "shortDescription": "French 80s/90s pop-rock hits",
+    "siriusChannelNumber": 1245,
+    "xmChannelNumber": 1245,
+    "primaryColor": "#bab5b5",
+    "secondaryColor": "#100f0f",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/More/Canadian/les-tubes-80s-90s/LesTubes80s90s-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/More/Canadian/les-tubes-80s-90s/LesTubes_Logo_White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ]
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": "1bnRrIDrsD7PncRt1sbIWF",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "4258",
+    "deepLink": "https://sxm.app.link/ChairmansLounge",
+    "displayName": "Siriusly Sinatra Presents The Chairman's Lounge",
+    "genre": "fifties_sixties",
+    "genreTitle": "The 50s & 60s Decades",
+    "longDescription": "Hip hangout with Sinatra",
+    "mediumDescription": "Hip hangout with Sinatra",
+    "shortDescription": "Hip hangout with Sinatra",
+    "siriusChannelNumber": 1246,
+    "xmChannelNumber": 1246,
+    "primaryColor": "#c7bcbc",
+    "secondaryColor": "#0f0f0f",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/thechairmanslounge/TheChairmansLounge-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/thechairmanslounge/TheChairmansLounge-White.svg",
+    "explicitContentIndicator": "No",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ]
+  },
+  {
     "artistsYouHear": [
       "Beatles",
       "Beach Boys",
@@ -8768,10 +8840,10 @@
     "longDescription": "Bill Gaither’s Enlighten is devoted to Southern Gospel music, featuring the genre's favorite quartets, trios and soloists, as well as the most popular songs from both today and over the past 50 years. Included among the dozens of artists you'll hear regularly are Bill Gaither, Booth Brothers, Gold City, Brian Free & Assurance, Karen Peck & New River, Greater Vision, Whisnants, Talleys, Perrys, and Ernie Haase & Signature Sound.",
     "mediumDescription": "North America's southern gospel music station.",
     "shortDescription": "Southern gospel",
-    "siriusChannelNumber": 65,
+    "siriusChannelNumber": 150,
     "siriusServiceId": 47,
     "xmServiceId": 31,
-    "xmChannelNumber": 65,
+    "xmChannelNumber": 150,
     "primaryColor": "#ffc20e",
     "secondaryColor": "#000000",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Christian/enLighten/BillGaithersEnlighten-126-500x400-P.svg",
@@ -8791,10 +8863,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "8215",
-      "bluegrass",
+      "spirit",
       "elvisradio",
-      "spirit"
+      "8215",
+      "bluegrass"
     ]
   },
   {
@@ -9138,10 +9210,9 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "8244",
-      "altnation",
       "leftofcenter",
-      "9504",
+      "altnation",
+      "8244",
       "energie2"
     ]
   },
@@ -13720,10 +13791,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "buzzsaw",
+      "octane",
       "classicvinyl",
       "classicrewind",
-      "octane"
+      "buzzsaw"
     ]
   },
   {
@@ -19920,11 +19991,11 @@
     "relatedChannels": [
       "9175",
       "firstwave",
+      "hairnation",
       "classicvinyl",
       "classicrewind",
-      "hairnation",
-      "4073",
-      "4082"
+      "4082",
+      "4073"
     ]
   },
   {
@@ -20264,22 +20335,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9398",
-    "deepLink": "https://sxm.app.link/RockvilleRadio",
-    "displayName": "Rockville Radio",
+    "deepLink": "https://sxm.app.link/LimitedEdition4",
+    "displayName": "Limited Edition 4",
     "genre": "rock",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
     "genreTitle": "Rock",
-    "longDescription": "The music, backstage interviews, live performances, and more from the Welcome To Rockville music festival.",
-    "mediumDescription": "Welcome to Rockville music festival.",
-    "shortDescription": "Rockville Music Festival",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 504,
     "xmChannelNumber": 504,
     "primaryColor": "#000",
-    "secondaryColor": "#008b8b",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/rockville-radio/RockvilleRadio-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/rockville-road/RockvilleRadio-White.svg",
+    "secondaryColor": "#067f0e",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-4/SiriusXM-Limited-Edition-4-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/rockville-radio",
+    "vanityURL": "/channels/siriusxm-limited-edition-4",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -20331,9 +20402,9 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
+      "chill",
       "thebeat",
       "9145",
-      "chill",
       "9472"
     ]
   },
@@ -20375,9 +20446,9 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
+      "chill",
       "thebeat",
-      "9472",
-      "chill"
+      "9472"
     ]
   },
   {
@@ -21122,31 +21193,32 @@
     ],
     "assetId": "8DNljRw0a4DqufcuwTSc0",
     "deliveryTypes": [
-      "mobile",
+      "ip",
       "satellite",
-      "ip"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9420",
     "deepLink": "https://sxm.app.link/BnSRxLu2nFb",
-    "displayName": "Yacht Rock 311",
-    "genre": "rock",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
-    "genreTitle": "Rock",
+    "displayName": "Yacht Rock Radio",
+    "genre": "pop",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
     "longDescription": "Yacht Rock Radio celebrates the smooth-sailing soft rock from the late '70s and early '80s. You’ll hear artists like Michael McDonald, Christopher Cross, Steely Dan and other titans of smooth music. It's the kind of rock that doesn’t rock the boat!",
     "mediumDescription": "Smooth-sailing soft rock from the late '70s and early '80s. It's the kind of rock that doesn't rock the boat!",
     "shortDescription": "70s/80s smooth-sailing soft rock",
-    "siriusChannelNumber": 311,
-    "xmServiceId": 268,
-    "xmChannelNumber": 311,
+    "siriusChannelNumber": 17,
+    "siriusServiceId": 68,
+    "xmServiceId": 40,
+    "xmChannelNumber": 17,
     "primaryColor": "#00aaad",
     "secondaryColor": "#007c91",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/yacht-rock-311/Yacht-Rock-311-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/yacht-rock-311/Yacht-Rock-311-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/Yacht-Rock-Radio/Yacht-Rock-Radio_Small-Use_4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/Yacht-Rock-Radio/Yacht-Rock-Radio_Small-Use_1C.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/yacht-rock-311",
+    "vanityURL": "/channels/yacht-rock-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -21160,11 +21232,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "thebridge",
-      "9418",
-      "classicrewind",
       "totally70s",
-      "big80s"
+      "big80s",
+      "classicrewind",
+      "thebridge",
+      "9418"
     ]
   },
   {
@@ -21773,7 +21845,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 389,
     "xmServiceId": 316,
     "xmChannelNumber": 389,
     "primaryColor": "#c3e9fc",
@@ -22658,11 +22729,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "leftofcenter",
       "firstwave",
-      "undergroundgarage",
+      "leftofcenter",
+      "altnation",
       "8307",
-      "altnation"
+      "undergroundgarage"
     ]
   },
   {
@@ -23375,49 +23446,6 @@
       "laughbreak",
       "rawdog",
       "9408"
-    ]
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": "56y1ayQXLFoxQ5mgx30sHc",
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "more",
-    "categoryTitle": "",
-    "contentId": "9504",
-    "deepLink": "https://sxm.app.link/Jm8aWSA2nFb",
-    "displayName": "Les Tubes 80-90",
-    "genre": "canadian",
-    "genreTitle": "Canadian",
-    "longDescription": "On Les Tubes 80s/90s, you’ll hear the biggest Francophone pop-rock hits from the 80s and 90s including music from Francis Cabrel, Céline Dion, Offenbach, Daniel Bélanger, Diane Dufresne and more.",
-    "mediumDescription": "The biggest Francophone pop-rock hits from the 80’s and 90’s including Francis Cabrel and Céline Dion.",
-    "shortDescription": "French 80s/90s pop-rock hits",
-    "siriusChannelNumber": 756,
-    "xmChannelNumber": 756,
-    "primaryColor": "#addff8",
-    "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/More/Canadian/les-tubes-80s-90s/LesTubes80s90s-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/More/Canadian/les-tubes-80s-90s/LesTubes_Logo_White.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/les-tubes-80-90",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "relatedChannels": [
-      "big80s",
-      "8206",
-      "8246",
-      "energie2"
     ]
   },
   {
@@ -24284,21 +24312,21 @@
     "categoryTitle": "Music",
     "contentId": "9546",
     "deepLink": "https://sxm.app.link/LimitedEdition3",
-    "displayName": "Limited Edition 3",
+    "displayName": "Billie Eilish Radio",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Get closer to the unparalleled creativity and music of Billie Eilish on her very own SiriusXM Channel, Billie Eilish Radio.",
+    "mediumDescription": "Billie Eilish's music and more.",
+    "shortDescription": "Billie Eilish music & more XL",
     "siriusChannelNumber": 503,
     "xmChannelNumber": 503,
     "primaryColor": "#808080",
     "secondaryColor": "#1b3588",
     "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3-White.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-3",
+    "explicitContentIndicator": "Yes",
+    "vanityURL": "/channels/billie-eilish-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -26036,24 +26064,24 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9607",
-    "deepLink": "https://sxm.app.link/nZhrWLagKFb",
-    "displayName": "SiriusXM 107",
-    "genre": "pop",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
-    "longDescription": "SiriusXM 107",
-    "mediumDescription": "SiriusXM 107",
-    "shortDescription": "SiriusXM 107",
-    "siriusChannelNumber": 107,
+    "deepLink": "https://sxm.app.link/ChrisStapletonRadio",
+    "displayName": "Chris Stapleton Radio",
+    "genre": "country",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Country.svg",
+    "genreTitle": "Country",
+    "longDescription": "Get closer to one of the most original and authentic artists today - singer, songwriter, and musician, Chris Stapleton. Listen as he shares music spanning his entire career, and the stories behind those songs. Chris Stapleton Radio is the home to the Kings and Queens of Country, Rock, Soul, and more - curated by Chris and his band, The Honchos.",
+    "mediumDescription": "Kings & Queens of Country, Rock, Soul, and more from the GRAMMY Award-winning singer, songwriter & musician Chris Stapleton.",
+    "shortDescription": "Chris Stapleton's channel",
+    "siriusChannelNumber": 63,
     "siriusServiceId": 49,
     "xmServiceId": 100,
-    "xmChannelNumber": 107,
-    "primaryColor": "#c0c0c0",
-    "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "xmChannelNumber": 63,
+    "primaryColor": "#e37d38",
+    "secondaryColor": "#663319",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/chris-stapleton-radio/ChrisStapleton-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-107",
+    "vanityURL": "/channels/chris-stapleton-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -26063,6 +26091,15 @@
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
+    ],
+    "relatedChannels": [
+      "thespectrum",
+      "soultown",
+      "outlawcountry",
+      "9407",
+      "9614",
+      "newcountry",
+      "bluegrass"
     ]
   },
   {
@@ -26150,8 +26187,8 @@
     "xmChannelNumber": 48,
     "primaryColor": "#78c7e4",
     "secondaryColor": "#dd4f56",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-flow/TheFlow-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-flow/TheFlow-White.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-flow/TheFlow-126-500x400-P1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/the-flow/TheFlow-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/the-flow",
     "packages": [
@@ -26685,55 +26722,6 @@
   },
   {
     "artistsYouHear": [],
-    "assetId": "3zDry2A47erQZP1cYWjjMe",
-    "deliveryTypes": [
-      "ip",
-      "mobile",
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "channelNotification": "Billie Eilish Radio will run from May 10 through June 5. Pandora Now (formerly ch. 3) is on ch. 303.",
-    "contentId": "9624",
-    "deepLink": "https://sxm.app.link/BillieEilishRadio",
-    "displayName": "Billie Eilish Radio",
-    "genre": "pop",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
-    "longDescription": "Get closer to the unparalleled creativity and music of Billie Eilish on her very own SiriusXM Channel, Billie Eilish Radio.",
-    "mediumDescription": "Billie Eilish's music and more.",
-    "shortDescription": "Billie Eilish music & more XL",
-    "siriusChannelNumber": 3,
-    "siriusServiceId": 166,
-    "xmServiceId": 211,
-    "xmChannelNumber": 3,
-    "primaryColor": "#1e4e74",
-    "secondaryColor": "#0b1218",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/billie-eilishradio/BillieEilishRadio-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/billie-eilishradio/BillieEilishRadio-127-500x400-N.svg",
-    "explicitContentIndicator": "Yes",
-    "vanityURL": "/channels/billie-eilish-radio",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "relatedChannels": [
-      "altnation",
-      "siriushits1",
-      "9544",
-      "coffeehouse"
-    ]
-  },
-  {
-    "artistsYouHear": [],
     "assetId": "1d0yP1oNXZMoH77vzH8foK",
     "deliveryTypes": [
       "ip",
@@ -26844,6 +26832,44 @@
       "SXM_SIR_AUD_EVT",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SXM_S_1"
+    ]
+  },
+  {
+    "artistsYouHear": [],
+    "assetId": "4vRCQNX82Ys5m77wp2IHza",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "9633",
+    "deepLink": "https://sxm.app.link/AviciiRadio",
+    "displayName": "Avicii Radio",
+    "genre": "dance",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Dance.svg",
+    "genreTitle": "Dance/Electronic",
+    "longDescription": "Avicii, aka Tim Bergling has touched many during his career in Dance/Electronic Music. He also has inspired many and is someone who shaped what the genre is today. This channel represents his legacy, his talent, and the love his family, friends and fans have for him. Hear Avicii hits, remixes, unreleased songs, songs by his friends, and his influences. We will always remember Avicii and the lives that he has touched. Gone too soon, but his music lives on forever. Music For a Better Day.",
+    "mediumDescription": "Hear Avicii hits, remixes, unreleased songs, songs by his friends, and more. Gone too soon, but his music lives on forever.",
+    "shortDescription": "Music for a better day",
+    "siriusChannelNumber": 737,
+    "xmChannelNumber": 737,
+    "primaryColor": "#a2a0a0",
+    "secondaryColor": "#080808",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/avicii-radio/AviciiRadio-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/avicii-radio/AviciiRadio-White.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/avicii-radio",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
@@ -27853,10 +27879,10 @@
     "longDescription": "A laid-back mix of acoustic and stripped down songs that invite you to settle in and unplug from the world outside. Relax to a diverse selection of hits, new discoveries and acoustic classics.",
     "mediumDescription": "A laid-back mix of acoustic and stripped down songs.",
     "shortDescription": "Acoustic, stripped down songs",
-    "siriusChannelNumber": 17,
+    "siriusChannelNumber": 3,
     "siriusServiceId": 30,
     "xmServiceId": 35,
-    "xmChannelNumber": 17,
+    "xmChannelNumber": 3,
     "primaryColor": "#c99272",
     "secondaryColor": "#050041",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Coffeehouse/TheCoffeehouse-4C.svg",
@@ -27877,8 +27903,8 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "thebridge",
-      "thespectrum"
+      "thespectrum",
+      "thebridge"
     ]
   },
   {
@@ -28033,7 +28059,7 @@
     "primaryColor": "#000",
     "secondaryColor": "#c52126",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-4C1.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-White.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/Elvis-Radio/ElvisRadio-WHITE.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/elvis-radio",
     "packages": [
@@ -28101,7 +28127,6 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9504",
       "8246"
     ]
   },
@@ -28871,7 +28896,6 @@
     "vanityURL": "/channels/howard-100",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -28914,7 +28938,6 @@
     "vanityURL": "/channels/howard-101",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -30916,7 +30939,7 @@
     "categoryTitle": "Sports",
     "contentId": "siriussportsaction",
     "deepLink": "https://sxm.app.link/i2JR76e2nFb",
-    "displayName": "SiriusXM College Sports Radio",
+    "displayName": "SXM College Sports Radio",
     "genre": "sportstalk",
     "genreTitle": "Sports",
     "longDescription": "SiriusXM College Sports Radio features the most comprehensive, 24/7 college sports talk and play-by-play. Hear the top experts in college sports including Danny Kanell, Dusty Dvoracek, Rick Neuheisel and EJ Manuel. Hear the best live play-by-play, including college football bowl games and Playoffs, NCAA Men’s Basketball Tournament plus coverage of college baseball, softball, women’s basketball, hockey and more.",
@@ -30945,12 +30968,12 @@
     ],
     "relatedChannels": [
       "8213",
+      "siriusnflradio",
+      "9459",
       "9455",
       "9456",
-      "9459",
-      "9385",
-      "siriusnflradio",
-      "9458"
+      "9458",
+      "9385"
     ]
   },
   {
@@ -31147,10 +31170,10 @@
     "longDescription": "Pop and rock with a higher purpose. Contemporary Christian music delivered by compassionate hosts to encourage you and your family on your faith journey.",
     "mediumDescription": "The power and positive impact of today's popular Christian music.",
     "shortDescription": "Contemporary Christian",
-    "siriusChannelNumber": 63,
+    "siriusChannelNumber": 65,
     "siriusServiceId": 46,
     "xmServiceId": 32,
-    "xmChannelNumber": 63,
+    "xmChannelNumber": 65,
     "primaryColor": "#8dc63f",
     "secondaryColor": "#000000",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/The_Message.svg",
@@ -31778,11 +31801,12 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "classicrewind",
-      "thespectrum",
-      "undergroundgarage",
+      "estreetradio",
       "gratefuldead",
-      "estreetradio"
+      "thespectrum",
+      "classicrewind",
+      "undergroundgarage",
+      "4190"
     ]
   },
   {
