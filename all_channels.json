@@ -26053,7 +26053,17 @@
     ]
   },
   {
-    "artistsYouHear": [],
+    "artistsYouHear": [
+      "Chris Stapleton",
+      "Tom Petty",
+      "George Jones",
+      "Lainey Wilson",
+      "Miranda Lambert",
+      "Tyler Childers",
+      "Bob Dylan",
+      "John Prine",
+      "Mavis Staples"
+    ],
     "assetId": "6TNpqPfmUKojdwnpW543Jj",
     "deliveryTypes": [
       "mobile",
