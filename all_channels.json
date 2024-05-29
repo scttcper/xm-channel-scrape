@@ -4790,47 +4790,6 @@
     ]
   },
   {
-    "artistsYouHear": [
-      "Led Zeppelin",
-      "Rolling Stones",
-      "Pink Floyd",
-      "The Doors",
-      "The Police"
-    ],
-    "assetId": "5SMQrV9ssYFxYkBctHJMpv",
-    "deliveryTypes": [
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "contentId": "4152",
-    "deepLink": "https://sxm.app.link/CdU850S3nFb",
-    "displayName": "SiriusXM Comes Alive!",
-    "genre": "allxtra",
-    "genreTitle": "All Xtra",
-    "longDescription": "Live classic rock",
-    "mediumDescription": "Live classic rock",
-    "shortDescription": "Live classic rock",
-    "siriusChannelNumber": 1146,
-    "xmChannelNumber": 1146,
-    "primaryColor": "#f6ea5b",
-    "secondaryColor": "#731d15",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Comes-Alive/SXMcomesAlive.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Comes-Alive/SXMComesAlive_White_424x248_K2.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ]
-  },
-  {
     "artistsYouHear": [],
     "assetId": "5EekKQnOUa4mzXN7nrYxzv",
     "deliveryTypes": [
@@ -7248,42 +7207,6 @@
     "secondaryColor": "#000000",
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/indie-1-0/Indie10-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/indie-1-0/Indie10-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ]
-  },
-  {
-    "artistsYouHear": [],
-    "assetId": "3vWldTQ0DpECxzPP4E8iaZ",
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "contentId": "4238",
-    "deepLink": "https://sxm.app.link/kB3kvXW3nFb",
-    "displayName": "70s/80s Pop",
-    "genre": "party",
-    "genreTitle": "Party",
-    "longDescription": "70s & 80s super party hits",
-    "mediumDescription": "70s & 80s super party hits",
-    "shortDescription": "70s & 80s super party hits",
-    "siriusChannelNumber": 1228,
-    "xmChannelNumber": 1228,
-    "primaryColor": "#8fbc8f",
-    "secondaryColor": "#696969",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s80spop/70s80sPop-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-80s/70s80sPop-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -10151,7 +10074,6 @@
     "longDescription": "Live play-by-play of sports.",
     "mediumDescription": "Live play-by-play of sports.",
     "shortDescription": "Sports Play-by-Play",
-    "siriusChannelNumber": 201,
     "xmServiceId": 182,
     "xmChannelNumber": 201,
     "primaryColor": "#c3e9fc",
@@ -10168,15 +10090,15 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10319,7 +10241,6 @@
     "longDescription": "SEC Football & Basketball.  Your SEC Sports Connnection, Wherever You Are.",
     "mediumDescription": "SEC Football & Basketball.  Your SEC Sports Connnection, Wherever You Are.",
     "shortDescription": "Live SEC Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 139,
     "xmChannelNumber": 190,
     "primaryColor": "#a7a9ac",
@@ -10336,23 +10257,22 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
     "artistsYouHear": [],
     "assetId": "2P3GUJWEBQMMMieDyJTo5e",
     "deliveryTypes": [
-      "satellite",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "sports",
@@ -10365,7 +10285,6 @@
     "longDescription": "SEC Football & Basketball.  Your SEC Sports Connnection, Wherever You Are.",
     "mediumDescription": "SEC Football & Basketball.  Your SEC Sports Connnection, Wherever You Are.",
     "shortDescription": "Live SEC Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 200,
     "xmChannelNumber": 191,
     "primaryColor": "#a7a9ac",
@@ -10382,15 +10301,15 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10410,7 +10329,6 @@
     "longDescription": "SEC Football & Basketball.  Your SEC Sports Connnection, Wherever You Are.",
     "mediumDescription": "SEC Football & Basketball.  Your SEC Sports Connnection, Wherever You Are.",
     "shortDescription": "Live SEC Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 201,
     "xmChannelNumber": 192,
     "primaryColor": "#a7a9ac",
@@ -10427,15 +10345,15 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10455,7 +10373,6 @@
     "longDescription": "Live play-by-play of sports.",
     "mediumDescription": "Live play-by-play of sports.",
     "shortDescription": "Sports Play-by-Play",
-    "siriusChannelNumber": 203,
     "xmServiceId": 203,
     "xmChannelNumber": 203,
     "primaryColor": "#c3e9fc",
@@ -10472,15 +10389,15 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10500,7 +10417,6 @@
     "longDescription": "Every Team.  Everywhere.  The Satellite Radio Home of the NHL®.",
     "mediumDescription": "Every Team.  Everywhere.  The Satellite Radio Home of the NHL®.",
     "shortDescription": "Live NHL® Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 105,
     "xmChannelNumber": 219,
     "primaryColor": "#a7a9ac",
@@ -10513,15 +10429,15 @@
       "SXM_SIR_AUD_ALLACCESS"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10541,7 +10457,6 @@
     "longDescription": "Every Team.  Everywhere.  The Satellite Radio Home of the NHL®.",
     "mediumDescription": "Every Team.  Everywhere.  The Satellite Radio Home of the NHL®.",
     "shortDescription": "Live NHL® Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 106,
     "xmChannelNumber": 220,
     "primaryColor": "#a7a9ac",
@@ -10556,15 +10471,15 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10584,7 +10499,6 @@
     "longDescription": "Every Team.  Everywhere.  The Satellite Radio Home of the NHL®.",
     "mediumDescription": "Every Team.  Everywhere.  The Satellite Radio Home of the NHL®.",
     "shortDescription": "Live NHL® Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 107,
     "xmChannelNumber": 221,
     "primaryColor": "#a7a9ac",
@@ -10599,15 +10513,15 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10627,7 +10541,6 @@
     "longDescription": "Every Team.  Everywhere.  The Satellite Radio Home of the NHL®.",
     "mediumDescription": "Every Team.  Everywhere.  The Satellite Radio Home of the NHL®.",
     "shortDescription": "Live NHL® Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 108,
     "xmChannelNumber": 222,
     "primaryColor": "#a7a9ac",
@@ -10642,15 +10555,15 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10670,7 +10583,6 @@
     "longDescription": "Every Team.  Everywhere.  The Satellite Radio Home of the NHL®.",
     "mediumDescription": "Every Team.  Everywhere.  The Satellite Radio Home of the NHL®.",
     "shortDescription": "Live NHL® Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 109,
     "xmChannelNumber": 223,
     "primaryColor": "#a7a9ac",
@@ -10685,15 +10597,15 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10713,7 +10625,6 @@
     "longDescription": "Live play-by-play of sports.",
     "mediumDescription": "Live play-by-play of sports.",
     "shortDescription": "Sports Play-by-Play",
-    "siriusChannelNumber": 202,
     "xmServiceId": 98,
     "xmChannelNumber": 202,
     "primaryColor": "#c3e9fc",
@@ -10730,15 +10641,15 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10758,7 +10669,6 @@
     "longDescription": "Live NBA play-by-play all season long.",
     "mediumDescription": "Live NBA play-by-play all season long.",
     "shortDescription": "Live NBA Play-by-Play",
-    "siriusChannelNumber": 212,
     "xmServiceId": 157,
     "xmChannelNumber": 212,
     "primaryColor": "#da1a32",
@@ -10773,15 +10683,15 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10801,7 +10711,6 @@
     "longDescription": "Live NBA play-by-play all season long.",
     "mediumDescription": "Live NBA play-by-play all season long.",
     "shortDescription": "Live NBA Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 103,
     "xmChannelNumber": 213,
     "primaryColor": "#da1a32",
@@ -10816,15 +10725,15 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10844,7 +10753,6 @@
     "longDescription": "Live NBA play-by-play all season long.",
     "mediumDescription": "Live NBA play-by-play all season long.",
     "shortDescription": "Live NBA Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 2,
     "xmChannelNumber": 214,
     "primaryColor": "#da1a32",
@@ -10859,15 +10767,15 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10887,7 +10795,6 @@
     "longDescription": "Live NBA play-by-play all season long.",
     "mediumDescription": "Live NBA play-by-play all season long.",
     "shortDescription": "Live NBA Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 164,
     "xmChannelNumber": 215,
     "primaryColor": "#da1a32",
@@ -10902,15 +10809,15 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -10930,7 +10837,6 @@
     "longDescription": "Live NBA play-by-play all season long.",
     "mediumDescription": "Live NBA play-by-play all season long.",
     "shortDescription": "Live NBA Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 119,
     "xmChannelNumber": 216,
     "primaryColor": "#da1a32",
@@ -10945,15 +10851,15 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -11049,7 +10955,6 @@
     "longDescription": "Live play-by-play of sports.",
     "mediumDescription": "Live play-by-play of sports.",
     "shortDescription": "Sports Play-by-Play",
-    "siriusChannelNumber": 207,
     "xmServiceId": 19,
     "xmChannelNumber": 207,
     "primaryColor": "#c3e9fc",
@@ -11066,15 +10971,15 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -11094,7 +10999,6 @@
     "longDescription": "Live play-by-play of sports",
     "mediumDescription": "Live play-by-play of sports",
     "shortDescription": "Sports Play-by-Play",
-    "siriusChannelNumber": 206,
     "xmServiceId": 227,
     "xmChannelNumber": 206,
     "primaryColor": "#c3e9fc",
@@ -11111,15 +11015,15 @@
       "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
-      "8333",
       "8213",
-      "8368",
-      "siriusnascarradio",
+      "8333",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -11139,7 +11043,6 @@
     "longDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "mediumDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "shortDescription": "Home for every NFL game",
-    "siriusChannelNumber": 0,
     "xmServiceId": 56,
     "xmChannelNumber": 225,
     "primaryColor": "#da2128",
@@ -11154,12 +11057,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
       "siriussportsaction",
-      "8213",
-      "8368",
       "8230",
-      "siriusnflradio"
+      "8213",
+      "espnradio",
+      "siriusnflradio",
+      "8368"
     ]
   },
   {
@@ -11179,7 +11082,6 @@
     "longDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "mediumDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "shortDescription": "Home for every NFL game",
-    "siriusChannelNumber": 0,
     "xmServiceId": 57,
     "xmChannelNumber": 226,
     "primaryColor": "#da2128",
@@ -11194,12 +11096,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
       "siriussportsaction",
-      "8213",
-      "8368",
       "8230",
-      "siriusnflradio"
+      "8213",
+      "espnradio",
+      "siriusnflradio",
+      "8368"
     ]
   },
   {
@@ -11219,7 +11121,6 @@
     "longDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "mediumDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "shortDescription": "Home for every NFL game",
-    "siriusChannelNumber": 0,
     "xmServiceId": 58,
     "xmChannelNumber": 227,
     "primaryColor": "#da2128",
@@ -11234,12 +11135,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
       "siriussportsaction",
-      "8213",
-      "8368",
       "8230",
-      "siriusnflradio"
+      "8213",
+      "espnradio",
+      "siriusnflradio",
+      "8368"
     ]
   },
   {
@@ -11259,7 +11160,6 @@
     "longDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "mediumDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "shortDescription": "Home for every NFL game",
-    "siriusChannelNumber": 0,
     "xmServiceId": 59,
     "xmChannelNumber": 228,
     "primaryColor": "#da2128",
@@ -11274,12 +11174,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
       "siriussportsaction",
-      "8213",
-      "8368",
       "8230",
-      "siriusnflradio"
+      "8213",
+      "espnradio",
+      "siriusnflradio",
+      "8368"
     ]
   },
   {
@@ -11299,7 +11199,6 @@
     "longDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "mediumDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "shortDescription": "Home for every NFL game",
-    "siriusChannelNumber": 0,
     "xmServiceId": 76,
     "xmChannelNumber": 229,
     "primaryColor": "#da2128",
@@ -11314,12 +11213,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
       "siriussportsaction",
-      "8213",
-      "8368",
       "8230",
-      "siriusnflradio"
+      "8213",
+      "espnradio",
+      "siriusnflradio",
+      "8368"
     ]
   },
   {
@@ -11339,7 +11238,6 @@
     "longDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "mediumDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "shortDescription": "Home for every NFL game",
-    "siriusChannelNumber": 0,
     "xmServiceId": 79,
     "xmChannelNumber": 230,
     "primaryColor": "#da2128",
@@ -11354,12 +11252,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
       "siriussportsaction",
-      "8213",
-      "8368",
       "8230",
-      "siriusnflradio"
+      "8213",
+      "espnradio",
+      "siriusnflradio",
+      "8368"
     ]
   },
   {
@@ -11379,7 +11277,6 @@
     "longDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "mediumDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "shortDescription": "Home for every NFL game",
-    "siriusChannelNumber": 0,
     "xmServiceId": 85,
     "xmChannelNumber": 231,
     "primaryColor": "#da2128",
@@ -11394,12 +11291,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
       "siriussportsaction",
-      "8213",
-      "8368",
       "8230",
-      "siriusnflradio"
+      "8213",
+      "espnradio",
+      "siriusnflradio",
+      "8368"
     ]
   },
   {
@@ -11419,7 +11316,6 @@
     "longDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "mediumDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "shortDescription": "Home for every NFL game",
-    "siriusChannelNumber": 0,
     "xmServiceId": 86,
     "xmChannelNumber": 232,
     "primaryColor": "#da2128",
@@ -11434,12 +11330,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
       "siriussportsaction",
-      "8213",
-      "8368",
       "8230",
-      "siriusnflradio"
+      "8213",
+      "espnradio",
+      "siriusnflradio",
+      "8368"
     ]
   },
   {
@@ -11459,7 +11355,6 @@
     "longDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "mediumDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "shortDescription": "Home for every NFL game",
-    "siriusChannelNumber": 0,
     "xmServiceId": 90,
     "xmChannelNumber": 233,
     "primaryColor": "#da2128",
@@ -11474,12 +11369,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "espnradio",
       "siriussportsaction",
-      "8213",
-      "8368",
       "8230",
-      "siriusnflradio"
+      "8213",
+      "espnradio",
+      "siriusnflradio",
+      "8368"
     ]
   },
   {
@@ -11499,7 +11394,6 @@
     "longDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "mediumDescription": "SiriusXM offers live play-by-play of the home and away team broadcasts of every NFL regular season and playoff game.",
     "shortDescription": "Home for every NFL game",
-    "siriusChannelNumber": 0,
     "xmServiceId": 96,
     "xmChannelNumber": 234,
     "primaryColor": "#da2128",
@@ -11514,12 +11408,12 @@
       "SXM_SIR_AUD_FF_SXM"
     ],
     "relatedChannels": [
-      "8254",
       "siriussportsaction",
-      "8213",
-      "8368",
       "8230",
-      "siriusnflradio"
+      "8254",
+      "8213",
+      "siriusnflradio",
+      "8368"
     ]
   },
   {
@@ -11581,7 +11475,6 @@
     "longDescription": "Play-by-play coverage of the NFL, NASCAR, college sports and more.",
     "mediumDescription": "Play-by-play coverage of the NFL, NASCAR, college sports and more.",
     "shortDescription": "NFL, NASCAR, college sports and more",
-    "siriusChannelNumber": 0,
     "xmServiceId": 171,
     "xmChannelNumber": 217,
     "primaryColor": "#da1a32",
@@ -11594,15 +11487,15 @@
       "SXM_SIR_AUD_ALLACCESS"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
       "8213",
       "8333",
-      "8368",
-      "siriusnascarradio",
+      "espnradio",
       "siriusnflradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -12010,8 +11903,7 @@
     "artistsYouHear": [],
     "assetId": "HKFhQRxnETuiDT3NI3Y1x",
     "deliveryTypes": [
-      "satellite",
-      "mobile"
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "entertainment",
@@ -12025,7 +11917,6 @@
     "longDescription": "",
     "mediumDescription": "XM Preview",
     "shortDescription": "XM Preview",
-    "siriusChannelNumber": 0,
     "xmServiceId": 1,
     "xmChannelNumber": 1,
     "primaryColor": "#c3e9fc",
@@ -21557,7 +21448,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 380,
     "xmServiceId": 306,
     "xmChannelNumber": 380,
     "primaryColor": "#c3e9fc",
@@ -21589,7 +21479,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 381,
     "xmServiceId": 307,
     "xmChannelNumber": 381,
     "primaryColor": "#c3e9fc",
@@ -21621,7 +21510,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 382,
     "xmServiceId": 308,
     "xmChannelNumber": 382,
     "primaryColor": "#c3e9fc",
@@ -21653,7 +21541,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 383,
     "xmServiceId": 309,
     "xmChannelNumber": 383,
     "primaryColor": "#c3e9fc",
@@ -21685,7 +21572,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 384,
     "xmServiceId": 310,
     "xmChannelNumber": 384,
     "primaryColor": "#c3e9fc",
@@ -21717,7 +21603,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 385,
     "xmServiceId": 312,
     "xmChannelNumber": 385,
     "primaryColor": "#c3e9fc",
@@ -21749,7 +21634,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 386,
     "xmServiceId": 313,
     "xmChannelNumber": 386,
     "primaryColor": "#c3e9fc",
@@ -21781,7 +21665,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 387,
     "xmServiceId": 314,
     "xmChannelNumber": 387,
     "primaryColor": "#c3e9fc",
@@ -21813,7 +21696,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 388,
     "xmServiceId": 315,
     "xmChannelNumber": 388,
     "primaryColor": "#c3e9fc",
@@ -21876,7 +21758,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 317,
     "xmChannelNumber": 390,
     "primaryColor": "#c3e9fc",
@@ -21908,7 +21789,6 @@
     "longDescription": "Sports play by play",
     "mediumDescription": "Sports play by play",
     "shortDescription": "Sports play by play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 318,
     "xmChannelNumber": 391,
     "primaryColor": "#c3e9fc",
@@ -22972,7 +22852,6 @@
     "longDescription": "Live play-by-play of sports",
     "mediumDescription": "Live play-by-play of sports",
     "shortDescription": "Sports Play-by-Play",
-    "siriusChannelNumber": 0,
     "xmServiceId": 297,
     "xmChannelNumber": 392,
     "primaryColor": "#c3e9fc",
@@ -26438,7 +26317,6 @@
     "shortDescription": "Sports Play-by-Play",
     "siriusChannelNumber": 137,
     "siriusServiceId": 179,
-    "xmChannelNumber": 137,
     "primaryColor": "#ffffff",
     "secondaryColor": "#2e8b57",
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/College-Play-by-Play/sportspxp137/SiriusXMPbP137-126-500x400-P.svg",
@@ -26454,14 +26332,14 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
-      "8333",
       "8213",
-      "8368",
-      "siriusnascarradio",
+      "8333",
+      "espnradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -26483,7 +26361,6 @@
     "shortDescription": "Sports Play-by-Play",
     "siriusChannelNumber": 138,
     "siriusServiceId": 180,
-    "xmChannelNumber": 138,
     "primaryColor": "#ffffff",
     "secondaryColor": "#228b22",
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/College-Play-by-Play/sportspxp138/SiriusXMPbP138-126-500x400-P.svg",
@@ -26499,14 +26376,14 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
-      "8333",
       "8213",
-      "8368",
-      "siriusnascarradio",
+      "8333",
+      "espnradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -26528,7 +26405,6 @@
     "shortDescription": "Sports Play-by-Play",
     "siriusChannelNumber": 139,
     "siriusServiceId": 181,
-    "xmChannelNumber": 139,
     "primaryColor": "#d3d3d3",
     "secondaryColor": "#2e8b57",
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/College-Play-by-Play/sportspxp139/SiriusXMPbP139-126-500x400-P.svg",
@@ -26544,14 +26420,14 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
-      "8333",
       "8213",
-      "8368",
-      "siriusnascarradio",
+      "8333",
+      "espnradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -26571,8 +26447,8 @@
     "longDescription": "Live play-by-play of sports",
     "mediumDescription": "Live play-by-play of sports",
     "shortDescription": "Sports Play-by-Play",
+    "siriusChannelNumber": 160,
     "siriusServiceId": 182,
-    "xmChannelNumber": 160,
     "primaryColor": "#87cefa",
     "secondaryColor": "#2e8b57",
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/College-Play-by-Play/sportspxp160/SiriusXMPbP160-126-500x400-P.svg",
@@ -26589,13 +26465,13 @@
     ],
     "relatedChannels": [
       "8254",
+      "8213",
       "ewtnglobal",
       "8333",
-      "8213",
-      "8368",
-      "siriusnascarradio",
       "siriusnflradio",
-      "8185"
+      "8185",
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -26617,7 +26493,6 @@
     "shortDescription": "Sports Play-by-Play",
     "siriusChannelNumber": 161,
     "siriusServiceId": 183,
-    "xmChannelNumber": 161,
     "primaryColor": "#ffffff",
     "secondaryColor": "#228b22",
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/College-Play-by-Play/sportspxp161/SiriusXMPbP161-126-500x400-P.svg",
@@ -26633,14 +26508,14 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
-      "8333",
       "8213",
-      "8368",
-      "siriusnascarradio",
+      "8333",
+      "espnradio",
       "8185",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -26662,7 +26537,6 @@
     "shortDescription": "Sports Play-by-Play",
     "siriusChannelNumber": 162,
     "siriusServiceId": 184,
-    "xmChannelNumber": 162,
     "primaryColor": "#d3d3d3",
     "secondaryColor": "#228b22",
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/College-Play-by-Play/sportspxp162/SiriusXMPbP162-126-500x400-P.svg",
@@ -26678,14 +26552,14 @@
       "SXM_SIR_AUD_PKG_NS"
     ],
     "relatedChannels": [
-      "espnradio",
+      "8186",
       "8254",
-      "8333",
       "8213",
-      "8368",
-      "siriusnascarradio",
+      "8333",
+      "espnradio",
       "siriusnflradio",
-      "8186"
+      "siriusnascarradio",
+      "8368"
     ]
   },
   {
@@ -30949,7 +30823,7 @@
     "categoryTitle": "Sports",
     "contentId": "siriussportsaction",
     "deepLink": "https://sxm.app.link/i2JR76e2nFb",
-    "displayName": "SXM College Sports Radio",
+    "displayName": "SiriusXM College Sports Radio",
     "genre": "sportstalk",
     "genreTitle": "Sports",
     "longDescription": "SiriusXM College Sports Radio features the most comprehensive, 24/7 college sports talk and play-by-play. Hear the top experts in college sports including Danny Kanell, Dusty Dvoracek, Rick Neuheisel and EJ Manuel. Hear the best live play-by-play, including college football bowl games and Playoffs, NCAA Men’s Basketball Tournament plus coverage of college baseball, softball, women’s basketball, hockey and more.",
