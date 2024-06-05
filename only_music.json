@@ -475,11 +475,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "siriushits1",
-      "9191",
-      "cnnespanol",
       "9188",
-      "rumbon"
+      "siriushits1",
+      "rumbon",
+      "cnnespanol",
+      "9191"
     ]
   },
   {
@@ -902,10 +902,10 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "relatedChannels": [
-      "rumbon",
-      "siriushits1",
+      "9185",
       "8225",
-      "9185"
+      "siriushits1",
+      "rumbon"
     ]
   },
   {
@@ -1191,10 +1191,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9190",
-      "shade45",
-      "9339",
       "8225",
+      "9339",
+      "shade45",
+      "9190",
       "rumbon"
     ]
   },
@@ -1225,7 +1225,7 @@
     "genre": "world",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Latino.svg",
     "genreTitle": "Latino",
-    "longDescription": "Enjoy the passionately sung rancheras and accordion driven regional sounds of Mexico.  ¡Que Viva La Raza!\n\r\nDisfruta de rancheras apasionadas y música rítmica regional de México.  ¡Que viva la Raza!",
+    "longDescription": "Enjoy the passionately sung rancheras and accordion driven regional sounds of Mexico.  ¡Que Viva La Raza!\r\n\r\nDisfruta de rancheras apasionadas y música rítmica regional de México.  ¡Que viva la Raza!",
     "mediumDescription": "Banda, Norteño, Mariachi and all the sounds of traditional Mexican music.",
     "shortDescription": "Regional Mexican music",
     "siriusChannelNumber": 153,
@@ -1251,9 +1251,9 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
+      "rumbon",
       "8225",
-      "9191",
-      "rumbon"
+      "9191"
     ]
   },
   {
@@ -1306,13 +1306,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9191",
-      "siriushits1",
       "8225",
-      "starlite",
-      "siriuslove",
       "9188",
-      "rumbon"
+      "siriushits1",
+      "starlite",
+      "rumbon",
+      "siriuslove",
+      "9191"
     ]
   },
   {
@@ -1340,7 +1340,7 @@
     "genre": "world",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Latino.svg",
     "genreTitle": "Latino",
-    "longDescription": "A nostalgic love trip from the '50s to the '80s, featuring classic romantic songs and ballads in both Spanish and English.\r\n\nUn viaje nostálgico y romántico desde los años 50 hasta los 80, con canciones y baladas en español e inglés.",
+    "longDescription": "A nostalgic love trip from the '50s to the '80s, featuring classic romantic songs and ballads in both Spanish and English.\r\n\r\nUn viaje nostálgico y romántico desde los años 50 hasta los 80, con canciones y baladas en español e inglés.",
     "mediumDescription": "Relive the classics from unforgettable artists in Spanish and English.",
     "shortDescription": "Ballads in Spanish & English",
     "siriusChannelNumber": 762,
@@ -1363,14 +1363,14 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "60svibrations",
       "totally70s",
-      "rumbon",
-      "cnnespanol",
-      "9187",
-      "9189",
       "9190",
-      "8225"
+      "rumbon",
+      "9189",
+      "cnnespanol",
+      "8225",
+      "9187",
+      "60svibrations"
     ]
   },
   {
@@ -1421,11 +1421,11 @@
     ],
     "relatedChannels": [
       "9187",
-      "cnnespanol",
-      "9190",
-      "purejazz",
       "9188",
-      "rumbon"
+      "9190",
+      "rumbon",
+      "cnnespanol",
+      "purejazz"
     ]
   },
   {
@@ -1479,13 +1479,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "rumbon",
-      "cnnespanol",
       "9189",
       "9187",
-      "60svibrations",
+      "9188",
       "totally70s",
-      "9188"
+      "rumbon",
+      "cnnespanol",
+      "60svibrations"
     ]
   },
   {
@@ -1538,11 +1538,11 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "9186",
       "9190",
       "8225",
-      "9413",
-      "90salternative"
+      "9186",
+      "90salternative",
+      "9413"
     ]
   },
   {
@@ -1811,24 +1811,24 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9353",
-    "deepLink": "https://sxm.app.link/GoodVibrationsTheBeachBoysChannel",
-    "displayName": "Good Vibrations: The Beach Boys Channel",
+    "deepLink": "https://sxm.app.link/SiriusXM79",
+    "displayName": "SiriusXM 79",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "Playing sun-drenched songs from every phase of the group's decades-spanning career! It's all on Good Vibrations: The Beach Boys Channel! From their early songs about sand, surf, girls and cars into the psychedelic period filled with rich experimentation, The Beach Boys have grown up with American pop music and have brought California's coastline to the world. Their biggest hits plus hard-to-find rarities combine for a trip to the beach....without leaving home!",
-    "mediumDescription": "Sun-drenched songs from The Beach Boys' decade-spanning career with sand & surf songs, girls & cars and psychedelic grooves.",
-    "shortDescription": "The music of The Beach Boys",
+    "longDescription": "SiriusXM 79",
+    "mediumDescription": "SiriusXM 79",
+    "shortDescription": "SiriusXM 79",
     "siriusChannelNumber": 79,
     "siriusServiceId": 58,
     "xmServiceId": 50,
     "xmChannelNumber": 79,
-    "primaryColor": "#d06237",
-    "secondaryColor": "#c34663",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channel/GoodVibrations21-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channel/GoodVibrations21-4C-OnK.svg",
+    "primaryColor": "#bdb7b7",
+    "secondaryColor": "#121212",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/the-beach-boys-channel",
+    "vanityURL": "/channels/siriusxm-79",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1837,11 +1837,6 @@
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
-    ],
-    "relatedChannels": [
-      "60svibrations",
-      "9415",
-      "9378"
     ]
   },
   {
@@ -2272,22 +2267,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9400",
-    "deepLink": "https://sxm.app.link/VkPmjPA2nFb",
-    "displayName": "Limited Edition 6",
-    "genre": "rock",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
-    "genreTitle": "Rock",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "deepLink": "https://sxm.app.link/NewEditionRadio",
+    "displayName": "New Edition Radio",
+    "genre": "hiphop",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Hip_Hop.svg",
+    "genreTitle": "Hip-Hop/R&B",
+    "longDescription": "Since they exploded on the scene in the mid 80s, New Edition spawned multiple hits and inspired many boy bands that followed. Whether as a group, or as solo artists, New Edition continues to be an iconic force in R&B/pop!",
+    "mediumDescription": "Hear hits and album cuts from legendary boy band, New Edition, from their hits as a group - to their solo successes!",
+    "shortDescription": "Hits from New Edition",
     "siriusChannelNumber": 506,
     "xmChannelNumber": 506,
-    "primaryColor": "#7fff00",
-    "secondaryColor": "#87ceeb",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-115-900x720.png",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-114-900x720.png",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-6",
+    "primaryColor": "#f9f5f5",
+    "secondaryColor": "#121212",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/neweditionradio/NewEditionRadio-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/neweditionradio/NewEditionRadio-White.svg",
+    "explicitContentIndicator": "Yes",
+    "vanityURL": "/channels/new-edition-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2316,22 +2311,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9401",
-    "deepLink": "https://sxm.app.link/LimitedEdition7",
-    "displayName": "Limited Edition 7",
+    "deepLink": "https://sxm.app.link/NotoriusRadio",
+    "displayName": "Notorious Radio",
     "genre": "hiphop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Hip_Hop.svg",
     "genreTitle": "Hip-Hop/R&B",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Brooklyn-born Christopher Wallace changed hip-hop forever when he burst onto the rap scene in the early 90s. As The Notorious B.I.G., he utilized his laid-back lyrical delivery to tell tales of celebration & strife. Now, to celebrate the 30th anniversary of his debut album Ready To Die, Notorious Radio features his entire catalog, along with music inspired by the late rap legend. Hear other artists & luminaries pay tribute to Biggie, who Rolling Stone calls 'The greatest rapper that ever lived'!",
+    "mediumDescription": "Music from and inspired by The Notorious B.I.G.",
+    "shortDescription": "Music from Notorious B.I.G. XL",
     "siriusChannelNumber": 507,
     "xmChannelNumber": 507,
-    "primaryColor": "#2addea",
-    "secondaryColor": "#1aea74",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-7/SiriusXM-Limited-Edition-7-White.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-7",
+    "primaryColor": "#d8cfcf",
+    "secondaryColor": "#141414",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/notorious-radio/NotoriousRadio-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/notorious-radio/NotoriousRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
+    "vanityURL": "/channels/notorious-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2345,10 +2340,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "thebeat",
-      "9472",
       "chill",
-      "9145"
+      "thebeat",
+      "9145",
+      "9472"
     ]
   },
   {
@@ -2363,22 +2358,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9402",
-    "deepLink": "https://sxm.app.link/LimitedEdition8",
-    "displayName": "Limited Edition 8",
+    "deepLink": "https://sxm.app.link/BlackMusicForever",
+    "displayName": "Black Music Forever",
     "genre": "hiphop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Hip_Hop.svg",
     "genreTitle": "Hip-Hop/R&B",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Hear the tracks that currently move The Culture - and discover the music that's on the come-up, all here! If it's hip-hop and R&B that's currently trending, or emerging afropop and Caribbean vibes - hear it all on Black Music Forever!",
+    "mediumDescription": "Hear the latest hip-hop and R&B from today's hitmakers and discover who's got next in the culture!",
+    "shortDescription": "Hip-hop and R&B now & next XL",
     "siriusChannelNumber": 508,
     "xmChannelNumber": 508,
-    "primaryColor": "#ede8e8",
-    "secondaryColor": "#0cd1d4",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-8/SiriusXM-Limited-Edition-8.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-8/SiriusXM-Limited-Edition-8-White.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-8",
+    "primaryColor": "#e5ef4d",
+    "secondaryColor": "#0a0a0a",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/black-music-forever-radio/BlackMusicForever-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/black-music-forever-radio/BlackMusicForever-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
+    "vanityURL": "/channels/black-music-forever",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2392,10 +2387,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "thebeat",
-      "9472",
       "chill",
-      "9145"
+      "thebeat",
+      "9145",
+      "9472"
     ]
   },
   {
@@ -3335,6 +3330,47 @@
   },
   {
     "artistsYouHear": [],
+    "assetId": "56wopPBo4clW3nJl7CYP6X",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "9502",
+    "deepLink": "https://sxm.app.link/SiriusXMKPop",
+    "displayName": "SiriusXM K-Pop",
+    "genre": "pop",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "longDescription": "Hits from K-Pop's biggest groups and top idols plus the most anticipated comebacks and important debuts.",
+    "mediumDescription": "Hits from K-Pop's biggest groups and top idols plus the most anticipated comebacks and important debuts.",
+    "shortDescription": "K-Pop hits XL",
+    "siriusChannelNumber": 705,
+    "xmChannelNumber": 705,
+    "primaryColor": "#e46cd4",
+    "secondaryColor": "#121212",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-k-pop/SiriusXMKPop-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/siriusxm-k-pop/SiriusXMKPop-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
+    "vanityURL": "/channels/siriusxm-k-pop",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE"
+    ],
+    "relatedChannels": [
+      "siriushits1",
+      "leftofcenter",
+      "hiphopnation",
+      "hotjamz"
+    ]
+  },
+  {
+    "artistsYouHear": [],
     "assetId": "6CIwlUrMOEzFottl0qsRfe",
     "deliveryTypes": [
       "satellite",
@@ -3866,22 +3902,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9545",
-    "deepLink": "https://sxm.app.link/rsxgROA2nFb",
-    "displayName": "AAPI Now",
+    "deepLink": "https://sxm.app.link/LimitedEdition2",
+    "displayName": "Limited Edition 2",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "Hear the voices of Asian American and Pacific Islander artists that are trailblazing a movement. You'll hear music from UMI, Conan Gray, H.E.R., and so many more. Listen to the stories about their journeys as we celebrate Asian American Pacific Islander Heritage Month on SiriusXM.",
-    "mediumDescription": "Explore powerful Asian American and Pacific Islander voices.",
-    "shortDescription": "Asian & Pacific Island music",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 502,
     "xmChannelNumber": 502,
-    "primaryColor": "#ddbb3f",
-    "secondaryColor": "#7d92ab",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/aapi-now/AAPINow-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/aapi-now/AAPINow-127-500x400-N.svg",
+    "primaryColor": "#3864bc",
+    "secondaryColor": "#13ae4a",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/aapi-now",
+    "vanityURL": "/channels/siriusxm-limited-edition-2",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3891,12 +3927,6 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
-    ],
-    "relatedChannels": [
-      "9526",
-      "siriushits1",
-      "9530",
-      "9351"
     ]
   },
   {
@@ -3911,21 +3941,21 @@
     "categoryTitle": "Music",
     "contentId": "9546",
     "deepLink": "https://sxm.app.link/LimitedEdition3",
-    "displayName": "Billie Eilish Radio",
+    "displayName": "Limited Edition 3",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "Get closer to the unparalleled creativity and music of Billie Eilish on her very own SiriusXM Channel, Billie Eilish Radio.",
-    "mediumDescription": "Billie Eilish's music and more.",
-    "shortDescription": "Billie Eilish music & more XL",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 503,
     "xmChannelNumber": 503,
     "primaryColor": "#808080",
     "secondaryColor": "#1b3588",
     "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-3/SiriusXM-Limited-Edition-3-White.svg",
-    "explicitContentIndicator": "Yes",
-    "vanityURL": "/channels/billie-eilish-radio",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/siriusxm-limited-edition-3",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3990,22 +4020,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9548",
-    "deepLink": "https://sxm.app.link/aKJ4FPA2nFb",
-    "displayName": "Limited Edition 10",
+    "deepLink": "\thttps://sxm.app.link/CountryPride",
+    "displayName": "Country Pride",
     "genre": "country",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Country.svg",
     "genreTitle": "Country",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, her favorite music, handpicked by Dolly",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Celebrate Pride Month with Country Pride - because y'all means all! Trailblazers in the LGBTQIA+ country community meet the newest class of rising stars from pop country to Western twang. Plus: music from icons and allies like Dolly, Kacey, Reba & more.",
+    "mediumDescription": "A Pride Month pop-up spotlighting LGBTQIA+ artists and allies in country music.",
+    "shortDescription": "Pride Month goes country!",
     "siriusChannelNumber": 510,
     "xmChannelNumber": 510,
-    "primaryColor": "#c0c0c0",
-    "secondaryColor": "#87ceeb",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-127-500x400-N.svg",
+    "primaryColor": "#bc3b24",
+    "secondaryColor": "#1a1919",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/country-pride/CountryPride-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/country-pride/CountryPride-4C-OnK.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-10",
+    "vanityURL": "/channels/country-pride",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4029,13 +4059,13 @@
     "categoryTitle": "Music",
     "contentId": "9549",
     "deepLink": "https://sxm.app.link/MarcAnthonyMUEVENSERadio",
-    "displayName": "Marc Anthony MUEVENSE",
+    "displayName": "Limited Edition 11",
     "genre": "world",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Latino.svg",
     "genreTitle": "Latino",
-    "longDescription": "Only once a generation can a voice conquer global stages as well as the big screen - Marc Anthony, singer, songwriter, actor is the most successful tropical Latin artist in history. Now, hear the salsa icon host his very own channel with stories and insight on his career. Explore three decades of music, from his timeless classics to his brand-new album, MUEVENSE, plus music from his influences and favorite artists.",
-    "mediumDescription": "Marc Anthony shares his insights behind his biggest songs and his new album MUEVENSE.",
-    "shortDescription": "Marc shares his hits and more",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 511,
     "xmChannelNumber": 511,
     "primaryColor": "#a9462f",
@@ -4043,7 +4073,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/marcanthony-muevenseradio/MarcAnthonyMuevenseRadio-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/marcanthony-muevenseradio/MarcAnthonyMuevenseRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/marc-anthony",
+    "vanityURL": "/channels/siriusxm-limited-edition-11",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4053,12 +4083,6 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
-    ],
-    "relatedChannels": [
-      "9593",
-      "rumbon",
-      "9186",
-      "9134"
     ]
   },
   {
@@ -7668,10 +7692,10 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "siriuslysinatra",
-      "8215",
+      "thepulse",
       "big80s",
-      "thepulse"
+      "siriuslysinatra",
+      "8215"
     ]
   },
   {
