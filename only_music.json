@@ -2417,8 +2417,8 @@
     "xmChannelNumber": 509,
     "primaryColor": "#5dc936",
     "secondaryColor": "#4de7ea",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9-White.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-9/SiriusXM-Limited-Edition-9-White.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/limited-edition-9",
     "packages": [
@@ -6815,7 +6815,7 @@
     "genre": "country",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Country.svg",
     "genreTitle": "Country",
-    "longDescription": "Discover the next generation of country superstars on The Highway – where breakthrough Highway Finds meet brand new music from country’s biggest hitmakers. Hosted weekdays by Buzz Brainard, Ashley Till, and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
+    "longDescription": "Discover the next generation of country superstars on The Highway - where breakthrough Highway Finds meet brand new music from country's biggest hitmakers. Hosted weekdays by Cody Alan, Macie Banks, Ashley Till, Buzz Brainard, and Ania Hammar from the heart of Broadway in downtown Nashville, Tennessee.",
     "mediumDescription": "Discover the next generation of country superstars - where Highway Finds meet brand new music from country’s biggest hitmakers.",
     "shortDescription": "Country’s next generation",
     "siriusChannelNumber": 56,
@@ -6845,14 +6845,14 @@
     ],
     "relatedChannels": [
       "siriushits1",
-      "9418",
-      "9544",
-      "primecountry",
       "9340",
+      "9544",
       "4020",
-      "4095",
+      "9418",
+      "primecountry",
+      "4169",
       "4156",
-      "4169"
+      "4095"
     ]
   },
   {
