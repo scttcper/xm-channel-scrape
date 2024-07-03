@@ -64,6 +64,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/60s-70s/60s70s.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/60s-70s/60s70s-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -99,6 +100,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-80s/70s80s.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-80s/70s80s-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -134,6 +136,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-80s-90s/70s80s90s.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-80s-90s/70s80s90s-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -167,6 +170,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-90s/80s90s.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-90s/80s90s_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -202,6 +206,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-90s-2Ks/80s90s2Ks.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-90s-2Ks/80s90s2K-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -235,6 +240,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-2Ks/90s2Ks.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-2Ks/90s2Ks-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -270,6 +276,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/rockwall/Rockwall-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/rockwall/Rockwall-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -305,6 +312,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Country-Classics-Mix/CountryClassicsMix.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Country-Classics-Mix/CountryClassicsMix-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -340,6 +348,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/cross-country/CrossCountry-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/cross-country/CrossCountry-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -375,6 +384,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/hip-hop-new-and-classic/Hip-Hop-New-And-Classic-4C.png",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/hip-hop-new-and-classic/Hip-Hop-New-And-Classic-4C-OnK.eps",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -398,9 +408,9 @@
     "displayName": "Nitro",
     "genre": "mash",
     "genreTitle": "Music Mash",
-    "longDescription": "New & elassic hard rock mash-up",
-    "mediumDescription": "New & elassic hard rock mash-up",
-    "shortDescription": "New & elassic hard rock mash-up",
+    "longDescription": "New & classic hard rock",
+    "mediumDescription": "New & classic hard rock",
+    "shortDescription": "New & classic hard rock",
     "siriusChannelNumber": 1049,
     "xmChannelNumber": 1049,
     "primaryColor": "#d8df99",
@@ -408,6 +418,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/nitro/Nitro-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/nitro/Nitro-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -441,6 +452,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-Rock-and-HipHop/90sRockAndHipHop.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-Rock-and-HipHop/90sRockAndHipHop_-white.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -474,6 +486,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Country-And-Pop-Classics/CountryAndPopClassics.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Country-And-Pop-Classics/CountryAndPopClassics_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -509,6 +522,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop-HipHop-Country/PopHipHopCountry.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop-HipHop-Country/PopHipHopCountry_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -544,6 +558,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Hits-1-Top-Hits/Hits1TopHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Hits-1-Top-Hits/Hits1TopHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -579,6 +594,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pulse-Top-Hits/PulseTopHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pulse-Top-Hits/PulseTopHits-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -614,6 +630,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Alt-Nation-Top-Hits/AltNationTopHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Alt-Nation-Top-Hits/AltNationTopHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -649,6 +666,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Octane-Top-Hits/OctaneTopHits-12-160x86-P.png",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Octane-Top-Hits/OctaneTopHits-11-80x231-N.png",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -684,6 +702,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Spectrum-Top-Hits/SpectrumTopHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Spectrum-Top-Hits/SpectrumTopHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -719,6 +738,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Highway-Top-Hits/HighwayTopHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Highway-Top-Hits/HighwayTopHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -754,6 +774,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/heat-top-hits/TheHeatTopHits-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/heat-top-hits/TheHeatTopHits-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -789,6 +810,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/HipHopNation-Top-Hits/HipHopNationTopHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/HipHopNation-Top-Hits/HipHopNationTopHits-white.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -822,6 +844,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Top-Hits/BPMTopHits1.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Top-Hits/BPMTopHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -857,6 +880,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-On-7-Dance-RnB/70sOn7DanceRnB.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-On-7-Dance-RnB/70sOn7DanceRnB-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -892,6 +916,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-On-7-Rock/70sOn7Rock.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-On-7-Rock/70sOn7Rock-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -927,6 +952,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Love-70s-Hits/Love70sHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Love-70s-Hits/Love70sHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -962,6 +988,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-Rock/80sOn8Rock.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-Rock/80sOn8Rock-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -997,6 +1024,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-Dance/80sOn8Dance.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-Dance/80sOn8Dance-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1032,6 +1060,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Prime-Country-80s-Hits/PrimeCountry80sHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Prime-Country-80s-Hits/PrimeCountry80sHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1067,6 +1096,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-on-9-Rock/90sOn9Rock.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-on-9-Rock/90sOn9Rock-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1102,6 +1132,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-On-9-Dance/90sOn9Dance.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-On-9-Dance/90sOn9Dance-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1137,6 +1168,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-on-9-Hip-Hop-RnB/90sOn9HipHopRnB.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-on-9-Hip-Hop-RnB/90sOn9HipHopRnB-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1172,6 +1204,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Fly-90s-Hip-Hop/Fly90sHipHop.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Fly-90s-Hip-Hop/Fly90sHipHop-white.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -1205,6 +1238,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Fly-2K-Hip-Hop/Fly2KHipHop.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Fly-2K-Hip-Hop/Fly2KHipHop-white.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -1238,6 +1272,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-Dance-Hits/Pop2KDanceHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-Dance-Hits/Pop2KDanceHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1273,6 +1308,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-Rock-Hits/Pop2KRockHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-Rock-Hits/Pop2KRockHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1308,6 +1344,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-HipHop-Hits/Pop2KHipHopHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-HipHop-Hits/Pop2KHipHopHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1343,6 +1380,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/heat-2k-hits/TheHeat2KHits-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/heat-2k-hits/TheHeat2KHits-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1378,6 +1416,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-Top-100/80sOn8Top100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-Top-100/80sOn8Top100-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1413,6 +1452,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-On-9-Top-100/90sOn9Top100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-On-9-Top-100/90sOn9Top100-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1448,6 +1488,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-Top-100/Pop2KTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-Top-100/Pop2KTop100-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1483,6 +1524,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Vinyl-Top-100/ClassicVinylTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Vinyl-Top-100/ClassicVinylTop100-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1518,6 +1560,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Rewind-Top-100/ClassicRewindTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Rewind-Top-100/ClassicRewindTop100-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1553,6 +1596,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/1st-Wave-Top-100/1stWaveTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/1st-Wave-Top-100/1stWaveTop100-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1588,6 +1632,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Lithium-Top-100/LithiumTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Lithium-Top-100/LithiumTop100-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1623,6 +1668,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Hair-Nation-Top-100/HairNationTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Hair-Nation-Top-100/HairNationTop100-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1658,6 +1704,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Turbo-Top-100/TurboTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Turbo-Top-100/TurboTop100-OnK.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -1691,6 +1738,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Fly-Top-100/FlyTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Fly-Top-100/FlyTop100-white.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -1724,6 +1772,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Joint-Top-100/JointTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Joint-Top-100/JointTop100-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1759,6 +1808,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Y2Kountry-Top-100/Y2KountryTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Y2Kountry-Top-100/Y2KountryTop100-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1794,6 +1844,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Prime-Country-Top-100/PrimeCountryTop100.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Prime-Country-Top-100/PrimeCountryTop100-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1829,6 +1880,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Country-and-Pop-Party/CountryAndPopParty.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Country-and-Pop-Party/CountryAndPopParty_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1864,6 +1916,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-Party/80sOn8Party.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-Party/80sOn8Party-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1899,6 +1952,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-on-9-Party/90sOn9Party.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-on-9-Party/90sOn9Party-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1934,6 +1988,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-Party/Pop2KParty.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-Party/Pop2KParty-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -1969,6 +2024,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Turbo-Party/TurboParty.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Turbo-Party/TurboParty-OnK.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -2002,6 +2058,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Hair-Nation-Party/HairNationParty.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Hair-Nation-Party/HairNationParty-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2037,6 +2094,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/1st-Wave-Party/1stWaveParty.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/1st-Wave-Party/1stWaveParty-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2072,6 +2130,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Y2Kountry-Party/Y2KountryParty.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Y2Kountry-Party/Y2KountryParty-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2107,6 +2166,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Prime-Country-Party/PrimeCountryParty.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Prime-Country-Party/PrimeCountryParty-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2142,6 +2202,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Fly-Party/FlyParty.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Fly-Party/FlyParty-white.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -2175,6 +2236,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Salsa-Party/SalsaParty.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Salsa-Party/SalsaParty-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2210,6 +2272,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Hits-1-Workout/Hits1Workout.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Hits-1-Workout/Hits1Workout-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2245,6 +2308,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-Workout/80sOn8Workout.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-Workout/80sOn8Workout-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2280,6 +2344,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-on-9-Workout/90sOn9Workout.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-on-9-Workout/90sOn9Workout-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2315,6 +2380,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-Workout/Pop2KWorkout.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Pop2K-Workout/Pop2KWorkout-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2350,6 +2416,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Turbo-Workout/TurboWorkout.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Turbo-Workout/TurboWorkout-OnK.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -2383,6 +2450,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Lithium-Workout/LithiumWorkout.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Lithium-Workout/LithiumWorkout-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2418,6 +2486,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-rock-workout/ClassicRockWorkout.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-rock-workout/ClassicRockWorkout-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2453,6 +2522,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/1st-Wave-Workout/1stWaveWorkout.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/1st-Wave-Workout/1stWaveWorkout-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2488,6 +2558,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/heat-workout/TheHeatWorkout-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/heat-workout/TheHeatWorkout-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2523,6 +2594,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Hip-Hop-Nation-Workout/HipHopNationWorkout.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Hip-Hop-Nation-Workout/HipHopNationWorkout-white.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -2556,6 +2628,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Fly-Workout/FlyWorkout.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Fly-Workout/FlyWorkout-white.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -2589,6 +2662,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Workout/BPM WORKOUT.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Workout/BPMWorkout-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2624,6 +2698,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Prom-Radio/PromRadio.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Prom-Radio/PromRadio-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2659,6 +2734,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Wedding-Party/WeddingParty.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Wedding-Party/WeddingParty-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2694,6 +2770,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Tailgating-Anthems/TailgatingAnthems.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Tailgating-Anthems/TailgatingAnthems_OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2729,6 +2806,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classicrockbbq/ClassicRockBBQ.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classicrockbbq/ClassicRockBBQ-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2764,6 +2842,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Todays-Country-BBQ/Todays-Country-BBQ.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Todays-Country-BBQ/TodaysCountryBBQ-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2799,6 +2878,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Rocking-Country-BBQ/RockingCountryBBQ.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Rocking-Country-BBQ/RockingCountryBBQ-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2834,6 +2914,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Hip-Hop-BBQ/ClassicHipHopBBQ.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Classic-Hip-Hop-BBQ/ClassicHipHopBBQ-white.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -2867,6 +2948,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Chill-Instrumental/ChillInstrumental.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Chill-Instrumental/ChillInstrumental-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2902,6 +2984,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Spa-Instrumental/SpaInstrumental.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Spa-Instrumental/SpaInstrumental-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2937,6 +3020,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Watercolors-Instrumental/WatercolorsInstrumental.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Watercolors-Instrumental/WatercolorsInstrumental-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -2972,6 +3056,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Joint-Reggae-Vibes/JointReggaeVibes.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Joint-Reggae-Vibes/JointReggaeVibes-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3007,6 +3092,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Elevations-Pop/ElevationsPop.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Elevations-Pop/ElevationsPop_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3042,6 +3128,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Yoga/Yoga.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Yoga/Yoga-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3077,6 +3164,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Chillhop/Chillhop.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Chillhop/Chillhop-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3112,6 +3200,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Country-n-Chill/CountryNChill.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Country-n-Chill/CountryNChill-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3147,6 +3236,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/hits-1-hitbound/Hits-1-Hitbound-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/hits-1-hitbound/Hits-1-Hitbound-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3182,6 +3272,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/highway-on-the-horizon/Highway-On-The-Horizon-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/highway-on-the-horizon/Highway-On-The-Horizon-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3217,6 +3308,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Spectrum-Discovery/SpectrumDiscovery.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Spectrum-Discovery/SpectrumDiscovery-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3252,6 +3344,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/SXMU-Discovery/SXMUDiscovery.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/SXMU-Discovery/SXMUDiscovery-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3287,6 +3380,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/alt-nation-advanced-placement/Alt-Nation-Advanced-Placement-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/alt-nation-advanced-placement/Alt-Nation-Advanced-Placement-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3322,6 +3416,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-test-drive/Octane-Test-Drive-Color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-test-drive/Octane-Test-Drive-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3357,6 +3452,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/heat-discovery/TheHeatDiscovery-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/heat-discovery/TheHeatDiscovery-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3392,6 +3488,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/HipHopNation-Discovery/HipHopNationDiscovery.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/HipHopNation-Discovery/HipHopNationDiscovery-white.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -3425,6 +3522,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Workout/BPM WORKOUT.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/BPM-Discovery/BPMDiscovery-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3460,6 +3558,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Caliente-Discovery/CalienteDiscovery.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Caliente-Discovery/CalienteDiscovery-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3495,6 +3594,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Alt-RnB/AltRnB.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Alt-RnB/AltRnB_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3530,6 +3630,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/New-Music-Mash/NewMusicMash.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/New-Music-Mash/NewMusicMash-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3565,6 +3666,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/2KsToNowPopHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/2KsToNowPopHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3600,6 +3702,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/nashville-nation/NashvilleNation-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/nashville-nation/NashvilleNation-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3635,6 +3738,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/90s2KsPopHipHopRnB.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/90s2KsPopHipHopRnB-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3669,6 +3773,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/80sToNowAltRock.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/80sToNowAltRock-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3704,6 +3809,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/PopAndDanceMix.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/PopAndDanceMix-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3739,6 +3845,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/50s60sPopHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/50s60sPopHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3774,6 +3881,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/2010sHardRockHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/2010sHardRockHits-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3809,6 +3917,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/2010sCountryHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/2010sCountryHits-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3844,6 +3953,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/2010sHipHopRnBHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/2010sHipHopRnBHits-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3879,6 +3989,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80schillpill/80sChillpill-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80schillpill/80sChillpill-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3914,6 +4025,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90schillax/90sChillax-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90schillax/90sChillax-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3949,6 +4061,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/2KsMellowHits.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/new-xtra-channels/2KsMellowHits-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -3984,6 +4097,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/Velvet/Velvet.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/Velvet/Velvet-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4019,6 +4133,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/coffee-house-classics/CoffeeHouseClassics-127-500x400-N.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/coffee-house-classics/CoffeeHouseClassics-126-500x400-P.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4054,6 +4169,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tom-morello-happy-hour/Tom-Morello-Happy-Hour-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tom-morello-happy-hour/Tom-Morello-Happy-Hour-White.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -4087,6 +4203,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tom-morello-riffs-rhymes-rebellion/Tom-Morello-Riffs-Rhymes-Rebellion-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tom-morello-riffs-rhymes-rebellion/Tom-Morello-Riffs-Rhymes-Rebellion-White.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -4120,6 +4237,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tom-morello-battle-hymns/Tom-Morello-Battle-Hyms-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tom-morello-battle-hymns/Tom-Morello-Battle-Hyms-White.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -4153,6 +4271,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/1st-wave-deep-cuts/1st-Wave-Deep-Cuts-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/1st-wave-deep-cuts/1st-Wave-Deep-Cuts-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4188,6 +4307,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/broadway-classics/Broadway-Classics-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/broadway-classics/Broadway-Classics-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4223,6 +4343,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/coffee-house-discovery/Coffee-House-Discovery-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/coffee-house-discovery/Coffee-House-Discovery-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4258,6 +4379,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-chill/Classic-Chill-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-chill/Classic-Chill-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4293,6 +4415,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/queens-of-pop/Queens-Of-Pop-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/queens-of-pop/Queens-Of-Pop-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4328,6 +4451,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/spectrum-of-hip-hop/Spectrum-Of-Hip-Hop-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/spectrum-of-hip-hop/Spectrum-Of-Hip-Hop-White.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -4361,6 +4485,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lithium-deep-cuts/Lithium-Deep-Cuts-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lithium-deep-cuts/Lithium-Deep-Cuts-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4396,6 +4521,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-rnb-jams/90s-RnB-Jams-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-rnb-jams/90s-RnB-Jams-White.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -4429,6 +4555,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/boy-bands/Boy-Bands-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/boy-bands/Boy-Bands-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4464,6 +4591,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Covers-Channel/The-Covers-Channel-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/The-Covers-Channel/The-Covers-Channel_White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4499,6 +4627,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/dead-tracks/DeadTracks-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/dead-tracks/DeadTracks-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4535,6 +4664,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/dead-archive/DeadArchive-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/dead-archive/DeadArchive-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4570,6 +4700,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-b-sides/LLCoolJsRTBBSides-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-b-sides/LLCoolJsRTBBSides-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -4603,6 +4734,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/LLCoolJsRTBCleanVersions-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/LLCoolJsRTBCleanVersions-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4638,6 +4770,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/bob-marley-tuff-beats/Bob-Marley-Tuff-Beats-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/bob-marley-tuff-beats/Bob-Marley-Tuff-Beats-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4673,6 +4806,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/bob-marley-tuff-soca/Bob-Marley-Tuff-Soca-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/bob-marley-tuff-soca/Bob-Marley-Tuff-Soca-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4708,6 +4842,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lithium-icons/Lithium-Icons-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lithium-icons/Lithium-Icons-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4743,6 +4878,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lithium-stripped/Lithium-Stripped-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lithium-stripped/Lithium-Stripped-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4778,6 +4914,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/the-big-easy/TheBigEasy-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/the-big-easy/TheBigEasy-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4813,6 +4950,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/viva-90s-2ks-hits/Viva-90s-2Ks-Hits-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/viva-90s-2ks-hits/Viva-90s-2ks-Hits-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4848,6 +4986,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tropix/Tropix-RGB.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tropix/Tropix-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4883,6 +5022,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/y’allternative/Yallternative-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/y’allternative/Yallternative-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4920,6 +5060,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/celebrate/Celebrate-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/celebrate/Celebrate-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4955,6 +5096,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/queens-of-hip-hop/QueensOfHipHop-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/queens-of-hip-hop/QueensOfHipHop-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -4990,6 +5132,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/women-of-country/WomenOfCountry-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/women-of-country/WomenOfCountry-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5025,6 +5168,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/women-of-rock/WomenOfRock-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/women-of-rock/WomenOfRock-126-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5061,6 +5205,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-on-9-just-music/90son9JustMusic-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-on-9-just-music/90son9JustMusic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5097,6 +5242,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/alt-nation-just-music/AltNationJustMusic-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/alt-nation-just-music/AltNationJustMusic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5133,6 +5279,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/bpm-just-music/BPMJustMusic-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/bpm-just-music/BPMJustMusic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5169,6 +5316,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/hits-1-just-music/SXMHits1JustMusic-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/hits-1-just-music/SXMHits1JustMusic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5205,6 +5353,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lithium-just-music/Lithium-Just-Music-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lithium-just-music/Lithium-Just-Music-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5241,6 +5390,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-just-music/OctaneJustMusic-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-just-music/OctaneJustMusic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5277,6 +5427,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/pop2k-just-music/Pop2KJustMusic-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/pop2k-just-music/Pop2KJustMusic-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5313,6 +5464,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/heat-just-music/TheHeatJustMusic-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/heat-just-music/TheHeatJustMusic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5349,6 +5501,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/highway-just-music/TheHighwayJustMusic-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/highway-just-music/TheHighwayJustMusic-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5385,6 +5538,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/the-pulse-just-music/The-Pulse-Just-Music-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/the-pulse-just-music/The-Pulse-Just-Music-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5421,6 +5575,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/acoustic-guitar-instrumentals/AcousticGuitarInstrumentals-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/acoustic-guitar-instrumentals/AcousticGuitarInstrumentals-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5457,6 +5612,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/piano-instrumentals/PianoInstrumentals-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/piano-instrumentals/PianoInstrumentals-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5493,6 +5649,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/soothe/Soothe-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/soothe/Soothe-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5529,6 +5686,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/strings/Strings-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/strings/Strings-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5565,6 +5723,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/surf-instrumentals/SurfInstrumentals-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/surf-instrumentals/SurfInstrumentals-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5601,6 +5760,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tranquil/Tranquil-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tranquil/Tranquil-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5637,6 +5797,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/60s-gold-just-music/60sGoldJustMusic-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/60s-gold-just-music/60sGoldJustMusic-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5673,6 +5834,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-on-7-just-music/70sOn7JustMusic-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-on-7-just-music/70sOn7JustMusic-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5709,6 +5871,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-deep-cuts/80sOn8DeepCuts-4C-OnK.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-on-8-deep-cuts/80sOn8DeepCuts-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5745,6 +5908,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-rewind-deep-cuts/Classic-Rewind-Deep-Cuts-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-rewind-deep-cuts/Classic-Rewind-Deep-Cuts-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5781,6 +5945,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-rewind-just-music/ClassicRewindJustMusic-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-rewind-just-music/ClassicRewindJustMusic-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5817,6 +5982,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-vinyl-just-music/Classic-Vinyl-Just-Music-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-vinyl-just-music/Classic-Vinyl-Just-Music-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5853,6 +6019,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/deep-tracks-just-music/DeepTracksJustMusic-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/deep-tracks-just-music/DeepTracksJustMusic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5889,6 +6056,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/fly-deep-cuts/FLYDeepCuts-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/fly-deep-cuts/FLYDeepCuts-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5925,6 +6093,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/hair-nation-deep-cuts/HairNationDeepCuts-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/hair-nation-deep-cuts/HairNationDeepCuts-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5961,6 +6130,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-deep-cuts/OctaneDeepcuts-4C-OnK.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-deep-cuts/OctaneDeepcuts-4C.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -5997,6 +6167,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ozzy's-boneyard-deep-cuts/OzzysBoneyardDeepcuts-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ozzy's-boneyard-deep-cuts/OzzysBoneyardDeepcuts-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6033,6 +6204,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/prime-country-deep-cuts/PrimeCountryDeepCuts-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/prime-country-deep-cuts/PrimeCountryDeepCuts-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6069,6 +6241,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/prime-country-deep-cuts/PrimeCountryJustMusic-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/prime-country-deep-cuts/PrimeCountryJustMusic-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6105,6 +6278,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/real-jazz-just-music/RealJazzJustMusic-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/real-jazz-just-music/RealJazzJustMusic-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6141,6 +6315,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/soul-town-just-music/Soul-Town-Just-Music-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/soul-town-just-music/Soul-Town-Just-Music-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6177,6 +6352,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/symphony-hall-just-music/SymphonyHallJustMusic-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/symphony-hall-just-music/SymphonyHallJustMusic-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6213,6 +6389,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/turbo-deep-cuts/TurboDeepCuts-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/turbo-deep-cuts/TurboDeepCuts-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6249,6 +6426,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/watercolors-just-music/WaterColorsJustMusic-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/watercolors-just-music/WaterColorsJustMusic-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6285,6 +6463,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/yacht-rock-deep-cuts/YachtRockDeepCuts-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/yacht-rock-deep-cuts/YachtRockDeepCuts-4C-OnK.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6321,6 +6500,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/cinemagicv1/Cinemagic-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/cinemagicv1/Cinemagic-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6357,6 +6537,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/happy-radio/Happy-Radio-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/happy-radio/Happy-Radio-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6393,6 +6574,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/guitar-greats/GuitarGreats-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/guitar-greats/GuitarGreats-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6429,6 +6611,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/alegria/Alegria-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/alegria/Alegria-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6465,6 +6648,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/feel-good-hip-hop-and-r-b/FeelGoodHipHopRnB-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/feel-good-hip-hop-and-r-b/FeelGoodHipHopRnB-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6499,6 +6683,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/happy-country/HappyCountry-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/happy-country/HappyCountry-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6535,6 +6720,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/happy-dance/HappyDance-114-900x720-P.png",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/happy-dance/HappyDance-115-900x720-N.png",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6571,6 +6757,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/happy-oldies/HappyOldies-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/happy-oldies/HappyOldies-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6605,6 +6792,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/happy-rock/HappyRock-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/happy-rock/HappyRock-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6639,6 +6827,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tom-morello-one-man-revolution/TomMorelloOneManRevolution-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tom-morello-one-man-revolution/TomMorelloOneManRevolution-White.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -6671,6 +6860,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tom-morello-world-wide-rebel-radio/TomMorelloWWRR-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/tom-morello-world-wide-rebel-radio/TomMorelloWWRR-White.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -6705,6 +6895,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/More/the-sleep-channel/TheSleepChannel-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/More/the-sleep-channel/TheSleepChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6741,6 +6932,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/the-pop-off/ThePopOff-RGB-OnK.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/the-pop-off/ThePopOff-White.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6777,6 +6969,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-workout/OctaneWorkout-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-workout/OctaneWorkout-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6813,6 +7006,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/perfectly-frank/PerfectlyFrank-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/perfectly-frank/PerfectlyFrank-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6849,6 +7043,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/foundsounds/FoundSounds-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/foundsounds/FoundSounds-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6885,6 +7080,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/soft-spoken/SoftSpoken-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/soft-spoken/SoftSpoken-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6921,6 +7117,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/freestyle-dance/FreestyleDance-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/freestyle-dance/FreestyleDance-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6957,6 +7154,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/doll-house/Dollhouse-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/doll-house/Dollhouse-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -6993,6 +7191,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/mom-jeans/MomJeans-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/mom-jeans/MomJeans-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7029,6 +7228,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/forestdreams/ForestDreams-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/forestdreams/ForestDreams-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7065,6 +7265,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/nightnoise/NightNoise-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/nightnoise/NightNoise-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7101,6 +7302,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/rainfallradio/RainfallRadio-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/rainfallradio/RainfallRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7138,6 +7340,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/women-of-dance/WomenOfDance-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/women-of-dance/WomenOfDance-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7174,6 +7377,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/indie-1-0/Indie10-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/indie-1-0/Indie10-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7209,6 +7413,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-90s/80s90sPop-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/80s-90s/80s90sPop-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7245,6 +7450,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/carolina-shag/CarolinaShagRadio-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/carolina-shag/CarolinaShagRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7282,6 +7488,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/elevations/Elevations-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/elevations/Elevations-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7318,6 +7525,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/theemoproject/TheEmoProject-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/theemoproject/TheEmoProject-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7355,6 +7563,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/onederland/ONEderland-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/onederland/ONEderland-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7391,6 +7600,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/queens-of-r-b/QueensOfRnB-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/queens-of-r-b/QueensOfRnB-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7427,6 +7637,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-folk/ClassicFolk-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/classic-folk/ClassicFolk-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7463,6 +7674,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/zen/Zen-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/zen/Zen-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7498,6 +7710,7 @@
     "secondaryColor": "#87ceeb",
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/vacation/Vacation-4C.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7532,6 +7745,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/hawaiian-vacation/HawaiianVacation-126-500x400-P1.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/hawaiian-vacation/HawaiianVacation-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7567,6 +7781,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/mexyz/MexYZ-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/mexyz/MexYZ-White.svg",
     "explicitContentIndicator": "Yes",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7602,6 +7817,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/carr-dio-by-carrie/CarriesCarDio-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/carr-dio-by-carrie/CarriesCarDio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7638,6 +7854,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/loficafe/LofiCafe-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/loficafe/LoFiCafe-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7673,6 +7890,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lofisleep/LoFiSleep-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lofisleep/LoFiSleep-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7709,6 +7927,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lofistudy/LoFiStudy-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lofistudy/LoFiStudy-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7745,6 +7964,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/latinas-in-music/LatinasInMusic-126-500x400-P1.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Latino/latinas-in-music/LatinasInMusic-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7781,6 +8001,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/More/Canadian/les-tubes-80s-90s/LesTubes80s90s-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/More/Canadian/les-tubes-80s-90s/LesTubes_Logo_White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7817,6 +8038,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/thechairmanslounge/TheChairmansLounge-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/thechairmanslounge/TheChairmansLounge-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7853,6 +8075,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/summer-sleep/SummerSleep-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/summer-sleep/SummerSleep-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7860,7 +8083,8 @@
       "SXM_SIR_AUD_EVT",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE"
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
     ]
   },
   {
@@ -7888,6 +8112,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/sounds-of-ibiza/SoundsOfIbiza-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/sounds-of-ibiza/SoundsOfIbiza-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7895,7 +8120,8 @@
       "SXM_SIR_AUD_EVT",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE"
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
     ]
   },
   {
@@ -7923,6 +8149,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/yacht-soul/YachtSoul-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/yacht-soul/YachtSoul-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -7930,7 +8157,8 @@
       "SXM_SIR_AUD_EVT",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE"
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
     ]
   },
   {
@@ -9569,6 +9797,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-PxP-Generic/MLB_Play-by-Play.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-PxP-Generic/MLB_Play-by-Play-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -12657,6 +12886,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/car-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/car-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/arizona-cardinals",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -12696,6 +12926,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/fal-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/fal-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/atlanta-falcons",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -12735,6 +12966,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/rav-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/rav-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/baltimore-ravens",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -12774,6 +13006,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/bil-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/bil-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/buffalo-bills",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -12813,6 +13046,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/panthers-mark-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/panthers-mark-1C-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/carolina-panthers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -12852,6 +13086,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/bea-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/bea-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/chicago-bears",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -12891,6 +13126,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/ben-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/ben-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/cincinnati-bengals",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -12930,6 +13166,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/clevelandbrowns/ClevelandBrowns-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/clevelandbrowns/ClevelandBrowns-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/cleveland-browns",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -12969,6 +13206,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/cow-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/cow-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/dallas-cowboys",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13008,6 +13246,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/denverbroncos/DenverBroncos-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/denverbroncos/DenverBroncos-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/denver-broncos",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13047,6 +13286,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/lio-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/lio-mark-1-web.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/detroit-lions",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13086,6 +13326,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/pac-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/pac-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/green-bay-packers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13125,6 +13366,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/houstontexans/HoustonTexans-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/houstontexans/HoustonTexans-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/houston-texans",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13164,6 +13406,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/col-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/col-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/indianapolis-colts",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13203,6 +13446,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/jag-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/jag-mark-1-1cl-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/jacksonville-jaguars",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
@@ -13240,6 +13484,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/chi-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/chi-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/kansas-city-chiefs",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13279,6 +13524,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/dol-mark-1-WEB.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/dol-mark-1-One-clr-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/miami-dolphins",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13318,6 +13564,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/vik-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/vik-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/minnesota-vikings",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13357,6 +13604,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/pat-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/pat-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/new-england-patriots",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13396,6 +13644,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/sai-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/sai-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/new-orleans-saints",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13435,6 +13684,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/gia-mark-1a-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/gia-mark-1a-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/new-york-giants",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13474,6 +13724,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/nyjets/NYJets-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/nyjets/NYJets-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/new-york-jets",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13513,6 +13764,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/rai-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/rai-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/las-vegas-raiders",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13552,6 +13804,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/eag-mkltp-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/eag-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/philadelphia-eagles",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13591,6 +13844,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/steel-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/steel-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/pittsburgh-steelers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -13630,6 +13884,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/cha-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/cha-mkltp-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/los-angeles-chargers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -14168,15 +14423,16 @@
   },
   {
     "artistsYouHear": [
-      "Enanitos Verdes",
       "Soda Stereo",
       "Café Tacvba",
-      "Molotov",
       "Maná",
-      "Mon Laferte",
-      "Panteón Rococó",
       "Los Mesoneros",
-      "Bomba Estereo",
+      "Panteón Rococó",
+      " Diamante Eléctrico",
+      "Hombres G",
+      "Heroes del Silencio",
+      " Aterciopelados",
+      " Esteman",
       "Juanes"
     ],
     "assetId": "2gOTsxc7H1GvjKSMxxzmab",
@@ -14248,6 +14504,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/sea-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/sea-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/seattle-seahawks",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -14287,6 +14544,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/for-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/for-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/san-francisco-49ers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -14326,6 +14584,7 @@
     "colorLogo": "/content/dam/sxm-com/logos/sports/nfl/Rams_mark_1_lt-bkgrd_RGB-2021.svg",
     "greyscaleLogo": "/content/dam/sxm-com/logos/sports/nfl/Rams_mark_1_1cl-roy_white2021.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/los-angeles-rams",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -14365,6 +14624,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/Bucs-mark-1-WEB.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/Bucs-mark-1-1clr-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/tampa-bay-buccaneers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -14404,6 +14664,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/titan-mark-1-web.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NFL-Teams-SVG/titan-mark-1-one_cl_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/tennessee-titans",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -14443,6 +14704,7 @@
     "colorLogo": "/content/dam/sxm-com/logos/sports/nfl/WashingtonCommanders-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/logos/sports/nfl/WashingtonCommanders-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nfl/washington-commanders",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15292,6 +15554,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/arizonadiamondbacks/ArizonaDiamondbacks-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/arizonadiamondbacks/ArizonaDiamondbacks-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/arizona-diamondbacks",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15330,6 +15593,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/AtlantaBraves-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/AtlantaBraves-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/atlanta-braves",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15368,6 +15632,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/BaltimoreOrioles-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/BaltimoreOrioles-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/baltimore-orioles",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15406,6 +15671,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/BostonRedSox-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/BostonRedSox-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/boston-red-sox",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15444,6 +15710,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/ChicagoCubs-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/ChicagoCubs-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/chicago-cubs",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15482,6 +15749,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/ChicagoWhiteSox-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/ChicagoWhiteSox-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/chicago-white-sox",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15520,6 +15788,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/CincinnatiReds-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/CincinnatiReds-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/cincinnati-reds",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15558,6 +15827,7 @@
     "colorLogo": "/content/dam/sxm-com/logos/sports/mlb/ClevelandGuardians-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/logos/sports/mlb/ClevelandGuardians-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/cleveland-guardians",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15596,6 +15866,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/ColoradoRockies-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/ColoradoRockies-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/colorado-rockies",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15634,6 +15905,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/DetroitTigers-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/DetroitTigers-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/detroit-tigers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15672,6 +15944,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/HoustonAstros-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/HoustonAstros-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/houston-astros",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15710,6 +15983,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/KansasCityRoyals-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/KansasCityRoyals-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/kansas-city-royals",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15748,6 +16022,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/LosAngelesAngels-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/LosAngelesAngels-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/los-angeles-angels",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15786,6 +16061,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/LosAngelesDodgers-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/LosAngelesDodgers-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/los-angeles-dodgers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15824,6 +16100,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/MiamiMarlins-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/MiamiMarlins-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/miami-marlins",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15862,6 +16139,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/MilwaukeeBrewers-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/MilwaukeeBrewers-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/milwaukee-brewers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15900,6 +16178,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/minnesotatwins/MinnesotaTwins-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/minnesotatwins/MinnesotaTwins-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/minnesota-twins",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15938,6 +16217,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/NewYorkMets-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/NewYorkMets-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/new-york-mets",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -15976,6 +16256,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/NewYorkYankees-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/NewYorkYankees-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/new-york-yankees",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16014,6 +16295,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/OaklandAthletics-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/OaklandAthletics-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/oakland-athletics",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16052,6 +16334,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/PhiladelphiaPhillies-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/PhiladelphiaPhillies-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/philadelphia-phillies",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16090,6 +16373,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/PittsburghPirates-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/PittsburghPirates-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/pittsburgh-pirates",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16128,6 +16412,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/SanDiegoPadres-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/SanDiegoPadres-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/san-diego-padres",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16166,6 +16451,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/SanFranciscoGiants-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/SanFranciscoGiants-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/san-francisco-giants",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16204,6 +16490,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/SeattleMariners-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/SeattleMariners-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/seattle-mariners",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16242,6 +16529,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/StLouisCardinals-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/StLouisCardinals-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/st-louis-cardinals",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16280,6 +16568,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/TampaBayRays-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/TampaBayRays-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/tampa-bay-rays",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16318,6 +16607,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/texasrangers/TexasRangers-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/texasrangers/TexasRangers-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/texas-rangers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16356,6 +16646,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/TorontoBlueJays-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/TorontoBlueJays-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/toronto-blue-jays",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16394,6 +16685,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/WashingtonNationals-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-MLB-Teams-SVG/WashingtonNationals-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/mlb/washington-nationals",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16508,6 +16800,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/AHawks_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/AHawks_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/atlanta-hawks",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16544,6 +16837,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/BklynNets_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/BklynNets_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/brooklyn-nets",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16580,6 +16874,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/BCeltics_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/BCeltics_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/boston-celtics",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16616,6 +16911,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/CHornets_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/CHornets_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/charlotte-hornets",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16652,6 +16948,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/CBulls_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/CBulls_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/chicago-bulls",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16688,6 +16985,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/CCavaliers_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/CCavaliers_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/cleveland-cavaliers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16724,6 +17022,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/DMavericks_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/DMavericks_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/dallas-mavericks",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16760,6 +17059,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/DNuggets_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/DNuggets_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/denver-nuggets",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16796,6 +17096,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/DPistons_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/DPistons_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/detroit-pistons",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16832,6 +17133,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/GSWarriors_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/GSWarriors_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/golden-state-warriors",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16868,6 +17170,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/HRockets_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/HRockets_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/houston-rockets",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16904,6 +17207,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/IPacers_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/IPacers_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/indiana-pacers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16940,6 +17244,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/LAClippers_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/LAClippers_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/los-angeles-clippers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16976,6 +17281,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/LALakers_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/LALakers_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/los-angeles-lakers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17012,6 +17318,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/MGrizzlies_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/MGrizzlies_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/memphis-grizzlies",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17048,6 +17355,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/MHeat_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/MHeat_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/miami-heat",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17084,6 +17392,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/MBucks_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/MBucks_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/milwaukee-bucks",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17120,6 +17429,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/MTimberwolves_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/MTimberwolves_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/minnesota-timberwolves",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17156,6 +17466,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/NOPelicans_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/NOPelicans_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/new-orleans-pelicans",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17192,6 +17503,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/NYKnicks_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/NYKnicks_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/new-york-knicks",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17228,6 +17540,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/OKCThunder_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/OKCThunder_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/oklahoma-city-thunder",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17264,6 +17577,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/OMagic_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/OMagic_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/orlando-magic",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17300,6 +17614,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/P76ers_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/P76ers_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/philadelphia-76ers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17336,6 +17651,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/PSuns_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/PSuns_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/phoenix-suns",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17372,6 +17688,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/PTrailBlazers_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/PTrailBlazers_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/portland-trail-blazers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17408,6 +17725,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/SASpurs_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/SASpurs_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/san-antonio-spurs",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17444,6 +17762,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/SKings_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/SKings_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/sacramento-kings",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17480,6 +17799,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/TRaptors_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/TRaptors_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/toronto-raptors",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17516,6 +17836,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/UJazz_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/UJazz_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/utah-jazz",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17552,6 +17873,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/WWizards_Primary_Icon_rgb.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/WWizards_Primary_Icon_white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nba/washington-wizards",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17584,6 +17906,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Ducks_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Ducks_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/anaheim-ducks",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17620,6 +17943,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Bruins_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Bruins_Primary_-white-svg.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/boston-bruins",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17656,6 +17980,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Sabres_Primary_052715.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Sabres_Primary_052715_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/buffalo-sabres",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17692,6 +18017,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Hurricanes_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Hurricanes_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/carolina-hurricanes",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17728,6 +18054,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_BlueJackets_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_BlueJackets_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/columbus-blue-jackets",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17764,6 +18091,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Flames_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Flames_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/calgary-flames",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17800,6 +18128,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_BlackHawks_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_BlackHawks_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/chicago-blackhawks",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17836,6 +18165,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Avalanche_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Avalanche_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/colorado-avalanche",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17872,6 +18202,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Stars_Primary_Logo.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Stars_Primary_Logo_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/dallas-stars",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17908,6 +18239,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_RedWings_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_RedWings_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/detroit-red-wings",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17944,6 +18276,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/ED-Oilers-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/ED-Oilers-4C-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/edmonton-oilers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17980,6 +18313,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Panthers_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Panthers_Primary_4C_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/florida-panthers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18016,6 +18350,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Kings_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Kings_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/los-angeles-kings",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18052,6 +18387,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Wild_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Wild_Primary_-white-svg.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/minnesota-wild",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18088,6 +18424,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Canadiens_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Canadiens_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/montreal-canadiens",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18124,6 +18461,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Devils_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Devils_Primary_-white-svg.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/new-jersey-devils",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18160,6 +18498,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Predators_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Predators_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/nashville-predators",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18196,6 +18535,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Islanders_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Islanders_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/new-york-islanders",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18232,6 +18572,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Rangers_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Rangers_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/new-york-rangers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18268,6 +18609,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Senators_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Senators_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/ottawa-senators",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18304,6 +18646,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Flyers_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Flyers_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/philadelphia-flyers",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18340,6 +18683,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_2016_Penguins_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_2016_Penguins_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/pittsburgh-penguins",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18376,6 +18720,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Sharks_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Sharks_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/san-jose-sharks",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18412,6 +18757,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Blues_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Blues_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/st-louis-blues",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18448,6 +18794,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Lightning_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Lightning_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/tampa-bay-lightning",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18484,6 +18831,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_MapleLeafs_Logos_012816.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_MapleLeafs_Logos_012816_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/toronto-maple-leafs",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18520,6 +18868,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Canucks_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Canucks_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/vancouver-canucks",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18556,6 +18905,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Capitals_Primary_031416.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Capitals_Primary_031416_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/washington-capitals",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -18592,6 +18942,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Jets_Primary.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/NHL_Jets_Primary_-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/winnipeg-jets",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -20212,6 +20563,7 @@
     "colorLogo": "/content/dam/sxm-com/logos/sports/nhl/NHL-ArizonaCoyotes-Logo-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/logos/sports/nhl/NHL-ArizonaCoyotes-Logo-White.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/arizona-coyotes",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -22250,6 +22602,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/LV-GoldenKnights-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/LV-GoldenKnights-4C-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/vegas-golden-knights",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -23093,10 +23446,10 @@
   {
     "artistsYouHear": [
       "Post Malone",
-      "Lil Baby",
+      "Sexyy Red",
       "Chris Brown",
+      "Teddy Swims",
       "Dua Lipa",
-      "Latto",
       "Nicki Minaj",
       "Drake",
       "Ed Sheeran",
@@ -23106,9 +23459,9 @@
     ],
     "assetId": "6vUtQ3eNP2n5ZoLwId8DMY",
     "deliveryTypes": [
+      "satellite",
       "ip",
-      "mobile",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -23120,9 +23473,9 @@
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "Pandora Now features Pandora’s most Thumbed Up & Streamed Pop, Hip-Hop & R&B from the past 2 years, as well as highly anticipated new releases and custom content from some of Pandora’s biggest artists.",
-    "mediumDescription": "Pandora’s Most Thumbed Up & Streamed Pop, Hip-Hop & R&B.",
-    "shortDescription": "Pandora’s most streamed tracks",
+    "longDescription": "Pandora Now features Pandora's most thumbed up & streamed pop, hip-hop and R&B from the past 2 years, as well as highly anticipated new releases and custom content from some of Pandora's biggest artists.",
+    "mediumDescription": "Pandora's most thumbed up & streamed pop, hip-hop and R&B.",
+    "shortDescription": "Pandora's most streamed songs",
     "siriusChannelNumber": 303,
     "xmServiceId": 282,
     "xmChannelNumber": 303,
@@ -23140,11 +23493,11 @@
       "SIR_IP_SHOWCASE"
     ],
     "relatedChannels": [
-      "thepulse",
       "siriushits1",
+      "thepulse",
       "hiphopnation",
-      "hotjamz",
-      "thebeat"
+      "thebeat",
+      "hotjamz"
     ]
   },
   {
@@ -24466,6 +24819,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/SeattleKraken-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NHL-Teams-SVG/SeattleKraken-127-500x400-N.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/seattle-kraken",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -24664,6 +25018,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/SportsPlayByPlay-generic-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/SportsPlayByPlay-generic-white.svg",
     "explicitContentIndicator": "No",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -30428,67 +30783,6 @@
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
-    ],
-    "relatedChannels": [
-      "thepulse",
-      "thebeat",
-      "4015",
-      "hotjamz",
-      "4164",
-      "4094",
-      "4067"
-    ]
-  },
-  {
-    "artistsYouHear": [
-      "Taylor Swift",
-      "Harry Styles",
-      "Dua Lipa",
-      "Ed Sheeran",
-      "Olivia Rodrigo",
-      "The Weeknd",
-      "Miley Cyrus",
-      "Jonas Brothers",
-      "SZA",
-      "Nicole",
-      "Stanley T",
-      "Ryan Sampson"
-    ],
-    "assetId": "gmskPm2VGsYgtwtcC9Vzu",
-    "deliveryTypes": [
-      "satellite",
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "contentId": "siriushits1",
-    "deepLink": "https://sxm.app.link/DNvdWZe2nFb",
-    "displayName": "SiriusXM Hits 1",
-    "genre": "pop",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
-    "longDescription": "From Pop to Hip-Hop, Rock, Dance, Country and R&B, HITS 1 plays Today’s Pop Hits! Featuring The Morning Mash Up, Mack & Jen Middays, Tony Fly & Symon Afternoons & Mikey Piff Evenings plus Spyder Harrison and the HITS 1 Weekend Countdown",
-    "mediumDescription": "Today's Pop Hits with The Morning Mash Up, Mack & Jen Middays, Tony & Symon Afternoons & Mikey Piff Evenings",
-    "shortDescription": "Today's pop hits",
-    "siriusChannelNumber": 2,
-    "siriusServiceId": 2,
-    "xmServiceId": 13,
-    "xmChannelNumber": 2,
-    "primaryColor": "#ec008c",
-    "secondaryColor": "#1b3588",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Hits-1/SiriusXM_Hits1.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Hits-1/SiriusXM_Hits1_1C_White.svg",
-    "explicitContentIndicator": "No",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE"
     ],
     "relatedChannels": [
       "thepulse",
