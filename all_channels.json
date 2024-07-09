@@ -7391,6 +7391,43 @@
   },
   {
     "artistsYouHear": [],
+    "assetId": "3vWldTQ0DpECxzPP4E8iaZ",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "4238",
+    "deepLink": "https://sxm.app.link/kB3kvXW3nFb",
+    "displayName": "70s/80s Pop",
+    "genre": "party",
+    "genreTitle": "Party",
+    "longDescription": "70s & 80s super party hits",
+    "mediumDescription": "70s & 80s super party hits",
+    "shortDescription": "70s & 80s super party hits",
+    "siriusChannelNumber": 1228,
+    "xmChannelNumber": 1228,
+    "primaryColor": "#8fbc8f",
+    "secondaryColor": "#696969",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s80spop/70s80sPop-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/70s-80s/70s80sPop-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ]
+  },
+  {
+    "artistsYouHear": [],
     "assetId": "3iXLfps4nYlK0iC76Q8Sqg",
     "deliveryTypes": [
       "mobile"
@@ -9147,14 +9184,14 @@
     ],
     "relatedChannels": [
       "8368",
-      "8213",
-      "espnradio",
-      "8254",
       "8186",
       "8185",
-      "siriusnflradio",
       "siriusnascarradio",
-      "8333"
+      "8213",
+      "8333",
+      "siriusnflradio",
+      "espnradio",
+      "8254"
     ]
   },
   {
@@ -15250,8 +15287,8 @@
     "xmChannelNumber": 960,
     "primaryColor": "#ffd700",
     "secondaryColor": "#005581",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/sec-play-by-play-963/SECPxP963-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/sec-play-by-play-963/SECPxP963-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/sports963/SiriusXMPbP963-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/sports963/SiriusXMPbP963-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/sec-963",
     "packages": [
@@ -19790,7 +19827,7 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9353",
-    "deepLink": "https://sxm.app.link/SiriusXM79",
+    "deepLink": "https://sxm.app.link/DP062586OEMSArdMrSAr",
     "displayName": "The Billy Joel Channel",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
@@ -19804,8 +19841,8 @@
     "xmChannelNumber": 79,
     "primaryColor": "#bdb7b7",
     "secondaryColor": "#121212",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/the-billy-joel-channel",
     "packages": [
@@ -20727,7 +20764,7 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9400",
-    "deepLink": "https://sxm.app.link/NewEditionRadio",
+    "deepLink": "https://sxm.app.link/LimitedEdition6",
     "displayName": "Limited Edition 6",
     "genre": "rock",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
@@ -20737,10 +20774,10 @@
     "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 506,
     "xmChannelNumber": 506,
-    "primaryColor": "#f9f5f5",
-    "secondaryColor": "#121212",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/neweditionradio/NewEditionRadio-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/neweditionradio/NewEditionRadio-White.svg",
+    "primaryColor": "#8cbc54",
+    "secondaryColor": "#255c90",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-6/SiriusXMLimitedEdition6-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/siriusxm-limited-edition-6",
     "packages": [
@@ -23600,13 +23637,13 @@
       "SXM_S_1"
     ],
     "relatedChannels": [
-      "laughbreak",
-      "9469",
-      "rawdog",
+      "bluecollarcomedy",
       "8184",
       "9408",
+      "rawdog",
+      "laughbreak",
       "9356",
-      "bluecollarcomedy"
+      "9469"
     ]
   },
   {
