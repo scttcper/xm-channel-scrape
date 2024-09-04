@@ -23431,7 +23431,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/SportsPlayByPlay-generic-color.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/SportsPlayByPlay-generic-white.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "",
+    "vanityURL": "/channels/sports-play-by-play-205",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
