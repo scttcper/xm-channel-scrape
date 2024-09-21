@@ -16975,9 +16975,9 @@
     "siriusChannelNumber": 908,
     "xmChannelNumber": 908,
     "primaryColor": "#da1a32",
-    "secondaryColor": "#00438c",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/UJazz_Primary_Icon_rgb.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/UJazz_Primary_Icon_white.svg",
+    "secondaryColor": "#707070",
+    "colorLogo": "/content/dam/sxm-com/logos/sports/nba/UJazz_Primary_Icon_rgb.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/logos/sports/nba/UJazz_Primary_Icon_rgb.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/sports/nba/utah-jazz",
     "packages": [
