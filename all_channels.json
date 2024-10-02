@@ -8076,6 +8076,7 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "4267",
+    "deepLink": "https://sxm.app.link/DadRock",
     "displayName": "Dad Rock",
     "genre": "allxtra",
     "genreTitle": "All Xtra",
@@ -8183,8 +8184,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -8949,6 +8952,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SXM_SIR_AUD_BASIC",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
@@ -11585,9 +11589,11 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -13278,6 +13284,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
@@ -18967,9 +18974,11 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -19156,6 +19165,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_BASIC",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
@@ -19207,8 +19217,10 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
@@ -19383,8 +19395,10 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -19538,7 +19552,7 @@
     "categoryTitle": "Music",
     "contentId": "9398",
     "deepLink": "https://sxm.app.link/ColdplayRadio",
-    "displayName": "Coldplay Radio",
+    "displayName": "Limited Edition 4",
     "genre": "rock",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
     "genreTitle": "Rock",
@@ -20003,8 +20017,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -20048,8 +20064,10 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -21183,11 +21201,13 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SXM_SIR_AUD_BASIC",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1",
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
@@ -21318,6 +21338,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -22559,6 +22580,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_BASIC",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
@@ -23132,8 +23154,8 @@
     "shortDescription": "From country boy Luke Bryan",
     "siriusChannelNumber": 510,
     "xmChannelNumber": 510,
-    "primaryColor": "#8cbc54",
-    "secondaryColor": "#255c90",
+    "primaryColor": "#c9ae93",
+    "secondaryColor": "#000000",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/luke-bryan's-country-boy-radio/LukeBryanCountryBoyRadio-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/luke-bryan's-country-boy-radio/LukeBryanCountryBoyRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
@@ -23869,8 +23891,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
@@ -25292,7 +25316,7 @@
     "categoryTitle": "Music",
     "contentId": "9624",
     "deepLink": "https://sxm.app.link/ColdplayRadio",
-    "displayName": "SiriusXM 17",
+    "displayName": "Coldplay Radio",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
@@ -25761,11 +25785,13 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SXM_SIR_AUD_BASIC",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1",
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
@@ -26202,9 +26228,11 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -26248,9 +26276,11 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -26335,9 +26365,11 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -26808,8 +26840,10 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -27224,6 +27258,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
@@ -27770,6 +27805,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -28107,9 +28143,11 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -28403,6 +28441,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SXM_SIR_AUD_BASIC",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
@@ -28642,6 +28681,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SXM_SIR_AUD_BASIC",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
@@ -28779,8 +28819,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
