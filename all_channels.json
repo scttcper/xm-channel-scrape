@@ -9376,7 +9376,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9417,7 +9418,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9458,7 +9460,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9498,7 +9501,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9539,7 +9543,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9580,7 +9585,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9621,7 +9627,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9662,7 +9669,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9703,7 +9711,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9744,7 +9753,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9785,7 +9795,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9826,7 +9837,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9867,7 +9879,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9908,7 +9921,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9951,7 +9965,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "siriusnflradio",
@@ -9991,7 +10006,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "siriusnflradio",
@@ -10154,7 +10170,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "siriusnflradio",
@@ -10194,7 +10211,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "8186",
@@ -10237,7 +10255,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "8186",
@@ -10280,7 +10299,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "8186",
@@ -10362,7 +10382,8 @@
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/nhl-play-by-play-219",
     "packages": [
-      "SXM_SIR_AUD_ALLACCESS"
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -10403,7 +10424,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -10444,7 +10466,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -10485,7 +10508,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -10526,7 +10550,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -10610,7 +10635,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -10651,7 +10677,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -10692,7 +10719,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -10733,7 +10761,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -10774,7 +10803,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -10952,7 +10982,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -10990,7 +11021,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11028,7 +11060,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11066,7 +11099,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11104,7 +11138,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11142,7 +11177,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11180,7 +11216,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11218,7 +11255,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11256,7 +11294,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11294,7 +11333,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11332,7 +11372,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "siriusnascarradio",
@@ -11371,7 +11412,8 @@
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/nba-play-by-play-217",
     "packages": [
-      "SXM_SIR_AUD_ALLACCESS"
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT"
     ],
     "relatedChannels": [
       "8186",
@@ -11414,7 +11456,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "siriusnflradio",
@@ -11454,7 +11497,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -11494,7 +11538,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -12268,6 +12313,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12308,6 +12354,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12348,6 +12395,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12388,6 +12436,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12428,6 +12477,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12468,6 +12518,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12508,6 +12559,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12548,6 +12600,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12588,6 +12641,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12628,6 +12682,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12668,6 +12723,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12708,6 +12764,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12748,6 +12805,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12788,6 +12846,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12826,6 +12885,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12866,6 +12926,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12906,6 +12967,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12946,6 +13008,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -12986,6 +13049,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13026,6 +13090,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13066,6 +13131,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13106,6 +13172,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13146,6 +13213,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13186,6 +13254,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13226,6 +13295,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13266,6 +13336,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13770,6 +13841,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13810,6 +13882,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13850,6 +13923,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13890,6 +13964,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13930,6 +14005,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -13970,6 +14046,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -14385,7 +14462,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "8254",
@@ -14428,7 +14506,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -14471,7 +14550,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -14514,7 +14594,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "8254",
@@ -14814,6 +14895,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -14853,6 +14936,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -14892,6 +14977,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -14931,6 +15018,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -14970,7 +15059,10 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SIR_IP_SA"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -15008,7 +15100,10 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SIR_IP_SA"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -15046,6 +15141,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15085,6 +15182,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15124,6 +15223,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15163,6 +15264,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15202,6 +15305,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15241,6 +15346,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15280,6 +15387,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15319,6 +15428,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15358,7 +15469,10 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SIR_IP_SA"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -15396,6 +15510,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15435,6 +15551,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15474,6 +15592,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15513,6 +15633,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15552,7 +15674,10 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SIR_IP_SA"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -15590,6 +15715,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15629,6 +15756,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15668,6 +15797,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15707,6 +15838,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15746,6 +15879,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15785,7 +15920,10 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SIR_IP_SA"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -15823,6 +15961,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15862,6 +16002,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15901,6 +16043,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -15940,6 +16084,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -16055,6 +16201,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16093,6 +16240,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16131,6 +16279,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16169,6 +16318,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16207,6 +16357,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16245,6 +16396,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16283,6 +16435,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16321,6 +16474,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16359,6 +16513,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16397,6 +16552,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16435,6 +16591,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16473,6 +16630,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16511,6 +16669,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16549,6 +16708,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16587,6 +16747,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16625,6 +16786,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16663,6 +16825,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16701,6 +16864,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16739,6 +16903,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16777,6 +16942,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16815,6 +16981,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16853,6 +17020,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16891,6 +17059,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16929,6 +17098,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -16967,6 +17137,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17005,6 +17176,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17043,6 +17215,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17081,6 +17254,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17119,6 +17293,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17157,6 +17332,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17191,6 +17367,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17229,6 +17406,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17267,6 +17445,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17305,6 +17484,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17343,6 +17523,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17381,6 +17562,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17419,6 +17601,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17457,8 +17640,10 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
-      "SIR_IP_SA"
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "8213",
@@ -17494,6 +17679,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17532,6 +17718,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17570,6 +17757,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17608,6 +17796,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17646,6 +17835,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17684,6 +17874,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17722,6 +17913,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17760,6 +17952,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17798,6 +17991,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17836,6 +18030,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17874,6 +18069,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17912,6 +18108,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17950,6 +18147,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -17988,6 +18186,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -18026,6 +18225,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -18064,6 +18264,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -18102,6 +18303,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -18140,6 +18342,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -18178,6 +18381,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -18216,6 +18420,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -18254,6 +18459,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -19699,6 +19905,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -20606,7 +20813,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "siriusnflradio",
@@ -20649,7 +20857,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "siriusnflradio",
@@ -20778,7 +20987,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -20821,7 +21031,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -20864,7 +21075,8 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "8254",
@@ -20904,7 +21116,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -20934,7 +21147,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -20964,7 +21178,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -20994,7 +21209,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -21024,7 +21240,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -21054,7 +21271,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -21084,7 +21302,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -21114,7 +21333,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -21144,7 +21364,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -21174,7 +21395,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -21204,7 +21426,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -21234,7 +21457,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -21515,6 +21739,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -21600,7 +21825,9 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SIR_IP_SA"
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -21642,7 +21869,9 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SIR_IP_SA"
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -21683,7 +21912,9 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SIR_IP_SA"
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -21728,7 +21959,9 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SIR_IP_SA"
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL"
     ],
     "relatedChannels": [
       "espnradio",
@@ -22083,7 +22316,8 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM"
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT"
     ]
   },
   {
@@ -23457,6 +23691,7 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
@@ -24485,6 +24720,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ]
@@ -24518,6 +24754,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -24554,6 +24792,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -27403,6 +27643,7 @@
     "vanityURL": "/channels/howard-100",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -27444,6 +27685,7 @@
     "vanityURL": "/channels/howard-101",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
