@@ -28,6 +28,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -63,6 +64,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -98,8 +100,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL"
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE"
     ]
   },
   {
@@ -131,6 +135,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -166,8 +171,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL"
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE"
     ]
   },
   {
@@ -199,6 +206,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -234,6 +242,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -269,6 +278,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -304,6 +314,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -370,6 +381,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -438,6 +450,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -473,6 +486,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -508,6 +522,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -543,6 +558,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -578,6 +594,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -613,6 +630,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -648,6 +666,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -786,6 +805,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -821,6 +841,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -856,6 +877,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -891,6 +913,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -926,6 +949,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -961,6 +985,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -996,6 +1021,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1031,6 +1057,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1066,6 +1093,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1101,6 +1129,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1134,6 +1163,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1167,6 +1197,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1202,6 +1233,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1237,6 +1269,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1272,6 +1305,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1342,6 +1376,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1377,6 +1412,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1412,6 +1448,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1447,6 +1484,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1482,6 +1520,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1517,6 +1556,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1552,6 +1592,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1620,6 +1661,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1653,6 +1695,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1688,6 +1731,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1723,6 +1767,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1758,6 +1803,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1793,6 +1839,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1828,6 +1875,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1863,6 +1911,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1898,6 +1947,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -1931,6 +1981,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2001,6 +2052,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2036,6 +2088,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2071,6 +2124,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2104,6 +2158,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2139,6 +2194,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2209,6 +2265,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2244,6 +2301,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2279,6 +2337,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2312,6 +2371,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2347,6 +2407,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2382,6 +2443,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2417,6 +2479,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2518,6 +2581,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2553,6 +2617,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2588,6 +2653,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2623,6 +2689,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2658,6 +2725,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2693,6 +2761,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2728,6 +2797,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2763,6 +2833,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2796,6 +2867,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2831,6 +2903,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2866,6 +2939,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2901,6 +2975,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2936,6 +3011,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -2971,6 +3047,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3181,6 +3258,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3216,6 +3294,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3251,6 +3330,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3286,6 +3366,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3389,6 +3470,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3424,6 +3506,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3459,6 +3542,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3494,6 +3578,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3529,6 +3614,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3564,6 +3650,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3599,6 +3686,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
@@ -3633,6 +3721,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3668,6 +3757,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3703,6 +3793,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3738,6 +3829,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3773,6 +3865,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3808,6 +3901,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3843,6 +3937,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3878,6 +3973,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3913,6 +4009,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3948,6 +4045,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -3983,6 +4081,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4016,6 +4115,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4049,6 +4149,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4082,6 +4183,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4117,6 +4219,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4152,6 +4255,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4187,6 +4291,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4222,6 +4327,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4257,6 +4363,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4325,6 +4432,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4393,6 +4501,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4428,6 +4537,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4463,6 +4573,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4499,6 +4610,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4602,6 +4714,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4637,6 +4750,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4672,6 +4786,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4707,6 +4822,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4742,6 +4858,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4777,6 +4894,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4812,6 +4930,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4847,6 +4966,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4884,6 +5004,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4919,6 +5040,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4954,6 +5076,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -4989,6 +5112,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5025,6 +5149,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5061,6 +5186,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5097,6 +5223,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5169,6 +5296,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5205,6 +5333,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5241,6 +5370,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5349,6 +5479,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5385,6 +5516,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5421,6 +5553,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5457,6 +5590,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5493,6 +5627,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5529,6 +5664,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5565,6 +5701,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5601,6 +5738,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5637,6 +5775,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5673,6 +5812,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5709,6 +5849,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5745,6 +5886,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5781,6 +5923,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5853,6 +5996,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5925,6 +6069,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5961,6 +6106,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -5997,6 +6143,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6033,6 +6180,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6069,6 +6217,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6105,6 +6254,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6141,6 +6291,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6177,6 +6328,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6213,6 +6365,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6393,6 +6546,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6429,6 +6583,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6601,6 +6756,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6633,6 +6789,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6669,6 +6826,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6705,6 +6863,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6741,6 +6900,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6777,6 +6937,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6813,6 +6974,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6849,6 +7011,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6885,6 +7048,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6921,6 +7085,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6957,6 +7122,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -6993,6 +7159,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7029,6 +7196,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7065,6 +7233,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7102,6 +7271,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7138,6 +7308,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7174,6 +7345,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7209,6 +7381,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7245,6 +7418,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7282,6 +7456,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7318,6 +7493,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7355,6 +7531,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7391,6 +7568,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7427,6 +7605,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7463,6 +7642,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7498,6 +7678,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
@@ -7532,6 +7713,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
@@ -7567,6 +7749,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
@@ -7602,6 +7785,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7638,6 +7822,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
@@ -7673,6 +7858,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7709,6 +7895,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7745,6 +7932,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7781,6 +7969,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7817,6 +8006,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7853,6 +8043,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7889,6 +8080,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7925,6 +8117,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -7960,6 +8153,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
@@ -7994,6 +8188,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
@@ -8028,6 +8223,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
@@ -8062,6 +8258,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
@@ -9291,8 +9488,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -9377,7 +9576,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9419,7 +9619,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9461,7 +9662,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9502,7 +9704,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9544,7 +9747,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9586,7 +9790,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9628,7 +9833,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9670,7 +9876,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9712,7 +9919,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9754,7 +9962,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9796,7 +10005,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9838,7 +10048,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9880,7 +10091,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -9922,7 +10134,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "espnradio",
@@ -10383,7 +10596,8 @@
     "vanityURL": "/channels/nhl-play-by-play-219",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -10425,7 +10639,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -10467,7 +10682,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -10509,7 +10725,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -10551,7 +10768,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -10636,7 +10854,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -10678,7 +10897,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -10720,7 +10940,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -10762,7 +10983,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -10804,7 +11026,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -10983,7 +11206,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11022,7 +11246,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11061,7 +11286,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11100,7 +11326,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11139,7 +11366,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11178,7 +11406,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11217,7 +11446,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11256,7 +11486,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11334,7 +11565,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "siriussportsaction",
@@ -11373,7 +11605,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "siriusnascarradio",
@@ -11413,7 +11646,8 @@
     "vanityURL": "/channels/nba-play-by-play-217",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ],
     "relatedChannels": [
       "8186",
@@ -11725,6 +11959,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -12218,6 +12453,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -13517,6 +13753,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
@@ -13609,6 +13846,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
@@ -13656,6 +13894,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
@@ -13704,6 +13943,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
@@ -13750,6 +13990,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
@@ -13797,6 +14038,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
@@ -19181,6 +19423,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
@@ -19257,6 +19500,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE"
@@ -19294,8 +19538,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -19716,6 +19962,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -19944,6 +20191,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -20029,6 +20277,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -20072,6 +20321,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -20252,8 +20502,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -20299,6 +20551,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -20345,6 +20598,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -20390,8 +20644,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -20728,6 +20984,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -21117,7 +21374,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21148,7 +21406,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21179,7 +21438,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21210,7 +21470,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21241,7 +21502,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21272,7 +21534,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21303,7 +21566,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21334,7 +21598,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21365,7 +21630,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21396,7 +21662,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21427,7 +21694,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21458,7 +21726,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -21492,8 +21761,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -21540,11 +21811,13 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SXM_SIR_AUD_BASIC",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1",
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
@@ -21594,6 +21867,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -21826,6 +22100,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -21870,6 +22145,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -21913,6 +22189,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -21960,6 +22237,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL"
     ],
@@ -22185,6 +22463,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -22317,7 +22596,8 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF"
     ]
   },
   {
@@ -22354,8 +22634,10 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
@@ -22390,6 +22672,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -22427,6 +22710,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -22463,6 +22747,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -22593,8 +22878,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -22680,8 +22967,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -22761,8 +23050,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -22808,6 +23099,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -22858,6 +23150,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23088,6 +23381,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23130,6 +23424,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23206,6 +23501,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23243,6 +23539,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23280,6 +23577,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23356,6 +23654,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23391,8 +23690,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
@@ -23469,6 +23770,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23506,6 +23808,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23543,6 +23846,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23582,6 +23886,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23619,6 +23924,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23656,6 +23962,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23912,6 +24219,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -23956,8 +24264,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -24000,6 +24310,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -24040,8 +24351,10 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -24083,6 +24396,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -24120,6 +24434,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -24157,6 +24472,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -24194,6 +24510,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -24273,6 +24590,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -24310,6 +24628,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -24386,8 +24705,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
@@ -24587,6 +24908,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -24634,8 +24956,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
@@ -24871,6 +25195,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -24966,8 +25291,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
@@ -25220,6 +25547,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -25403,6 +25731,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -25807,6 +26136,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -25844,6 +26174,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -25918,8 +26249,10 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
@@ -25954,6 +26287,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -26025,8 +26359,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ]
   },
@@ -26061,6 +26397,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
@@ -26304,8 +26641,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -26790,6 +27129,7 @@
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
@@ -26979,6 +27319,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -27118,6 +27459,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -27356,6 +27698,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -27644,8 +27987,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -27686,8 +28031,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -27881,10 +28228,12 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_BASIC",
       "SXM_SIR_AUD_ALLACCESS_BASIC",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1",
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
@@ -28476,6 +28825,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -28521,8 +28871,10 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "relatedChannels": [
@@ -28715,6 +29067,7 @@
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
@@ -29009,6 +29362,7 @@
       "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
       "SIR_IP_SHOWCASE",
