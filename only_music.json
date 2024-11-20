@@ -10793,6 +10793,7 @@
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
+    "channelNotification": "This channel may not be available in all vehicles but can be accessed through the SiriusXM app.",
     "contentId": "9351",
     "deepLink": "https://sxm.app.link/HallmarkChannel",
     "displayName": "Hallmark Radio",
