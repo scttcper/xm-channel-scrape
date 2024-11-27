@@ -5243,7 +5243,9 @@
   {
     "assetId": "3evSkdDuR60MSC70GK5WTk",
     "deliveryTypes": [
-      "mobile"
+      "mobile",
+      "satellite",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -9300,8 +9302,6 @@
   {
     "assetId": "7zDf177WR3Guth3dYt4HL4",
     "deliveryTypes": [
-      "satellite",
-      "ip",
       "mobile"
     ],
     "availableToPackage": true,
@@ -28854,7 +28854,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/ce/cefe58dd8f3c02ede4da31328b648a55_1717186081.jpeg?width={width}&height={height}&type={type}",
+      "url": "/aem/20/2085478408d768d552b0d8ca106eab7a_1732667090.jpeg?width={width}&height={height}&type={type}",
       "format": "image",
       "altText": "",
       "filetype": ""
