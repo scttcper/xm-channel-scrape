@@ -23646,8 +23646,8 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "Holiday",
-    "categoryTitle": "Holiday",
+    "category": "music",
+    "categoryTitle": "Music",
     "contentId": "9348",
     "deepLink": "https://sxm.app.link/Navidad",
     "displayName": "Navidad",
@@ -31204,8 +31204,8 @@
       "mobile"
     ],
     "availableToPackage": true,
-    "category": "Holiday",
-    "categoryTitle": "Holiday",
+    "category": "music",
+    "categoryTitle": "Music",
     "contentId": "9613",
     "deepLink": "https://sxm.app.link/HolidayswithJessiFriends",
     "displayName": "Holidays with Jessi & Friends",
@@ -31682,8 +31682,8 @@
       "satellite"
     ],
     "availableToPackage": true,
-    "category": "Holiday",
-    "categoryTitle": "Holiday",
+    "category": "music",
+    "categoryTitle": "Music",
     "contentId": "9624",
     "deepLink": "https://sxm.app.link/JimmyFallonsHolidaySeasoningRadio",
     "displayName": "Jimmy Fallon's Holiday Seasoning Radio",

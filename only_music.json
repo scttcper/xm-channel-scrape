@@ -12381,6 +12381,53 @@
     }
   },
   {
+    "assetId": "HGM2SziqpTcGamwUzV6Hj",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "9348",
+    "deepLink": "https://sxm.app.link/Navidad",
+    "displayName": "Navidad",
+    "genre": "Holiday",
+    "genreTitle": "Holiday",
+    "longDescription": "Latin holiday music and traditional sounds, including Ricky Martin, Gloria Estefan, José Feliciano, Tito El Bambino, Marco Antonio Solís and Fania All-Stars.",
+    "mediumDescription": "Latin holiday music and traditional sounds.",
+    "shortDescription": "Latin holiday music",
+    "siriusChannelNumber": 626,
+    "xmServiceId": 272,
+    "xmChannelNumber": 626,
+    "primaryColor": "#e6eab0",
+    "secondaryColor": "#940e12",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Navidad/Navidad.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Navidad/Navidad_K2_White.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/navidad",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
+      "SXM_SIR_AUD_PKG_NS",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/aem/bd/bd36c638cc47785179d3f880e9277212_1729717012.jpeg?width={width}&height={height}&type={type}",
+      "format": "image",
+      "altText": "",
+      "filetype": ""
+    }
+  },
+  {
     "assetId": "1IvQaojR9zCkZtXDJZKbY3",
     "deliveryTypes": [
       "mobile",
@@ -16172,6 +16219,52 @@
     }
   },
   {
+    "assetId": "1g35O3KFMTge2GtBpoPQc4",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "9613",
+    "deepLink": "https://sxm.app.link/HolidayswithJessiFriends",
+    "displayName": "Holidays with Jessi & Friends",
+    "genre": "Holiday",
+    "genreTitle": "Holiday",
+    "longDescription": "Celebrate the holidays with Jessi Cruickshank and friends as they bring you a festive mix of comedy, stories, and music. Join them as they share heartwarming holiday traditions, favorite recipes, and more. Plus, enjoy the ultimate holiday playlist with hits from Michael Bublé, Mariah Carey, Kelly Clarkson, and a mix of pop, rock, country, and classics. Whatever your celebration, we've got your soundtrack covered.",
+    "mediumDescription": "Celebrate the holidays with music from Michael Bublé, Mariah Carey, Kelly Clarkson, Celine Dion & more.",
+    "shortDescription": "Music & festive fun!",
+    "siriusChannelNumber": 639,
+    "xmChannelNumber": 639,
+    "primaryColor": "#ebe5e5",
+    "secondaryColor": "#080808",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/holidayswithjessiandfriends/HolidaysWithJessiAndFriends-Black.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/holidayswithjessiandfriends/HolidaysWithJessiAndFriends-White.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/holidays-with-jessi-friends",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
+      "SXM_SIR_AUD_PKG_MM",
+      "SXM_SIR_AUD_PKG_NS",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/aem/05/05ae58083ccbf89985f24f3febf89fe5_1730402020.jpeg?width={width}&height={height}&type={type}",
+      "format": "image",
+      "altText": "",
+      "filetype": ""
+    }
+  },
+  {
     "assetId": "4gZvsqsZ5ipVy1FNAWOIqd",
     "deliveryTypes": [
       "ip",
@@ -16265,6 +16358,52 @@
     "exclusiveContent": false,
     "web_2_0_image": {
       "url": "/aem/f4/f4f4089dd38e96c94df2258a19879d64_1699419916.jpeg?width={width}&height={height}&type={type}",
+      "format": "image",
+      "altText": "",
+      "filetype": ""
+    }
+  },
+  {
+    "assetId": "5p0OLRYg1auKsyxD0ez841",
+    "deliveryTypes": [
+      "mobile",
+      "ip",
+      "satellite"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "9624",
+    "deepLink": "https://sxm.app.link/JimmyFallonsHolidaySeasoningRadio",
+    "displayName": "Jimmy Fallon's Holiday Seasoning Radio",
+    "genre": "Holiday",
+    "genreTitle": "Holiday",
+    "longDescription": "Celebrate the holiday season by listening to a mix of classic holiday songs personally picked by Jimmy Fallon as well as funny stories, behind the scenes interviews with famous friends and holiday dedications to fans around the world. This channel will also give us a rare and intimate look into the making of Jimmy Fallon's new comedy album, Holiday Seasoning, featuring the Jonas Brothers, the Roots, Justin Timberlake, Ariana Grande, Megan Thee Stallion, Meghan Trainor, Dolly Parton and more!",
+    "mediumDescription": "Holiday Seasoning Radio features music from Jimmy Fallon, Jonas Brothers, Justin Timberlake, Ariana Grande, and more!",
+    "shortDescription": "Jimmy Fallon's holiday picks",
+    "siriusChannelNumber": 17,
+    "xmServiceId": 211,
+    "xmChannelNumber": 17,
+    "primaryColor": "#4d8f54",
+    "secondaryColor": "#d65058",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/jimmyfallonholidayseasoningradio/JimmyFallonHolidaySeasoningRadio-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/jimmyfallonholidayseasoningradio/JimmyFallonHolidaySeasoningRadio-White.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/fallon-holiday-seasoning",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/aem/52/52779e437543eefe578bf557b715f467_1730567911.png?width={width}&height={height}&type={type}",
       "format": "image",
       "altText": "",
       "filetype": ""
