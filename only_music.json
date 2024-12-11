@@ -5246,7 +5246,6 @@
     "assetId": "3evSkdDuR60MSC70GK5WTk",
     "deliveryTypes": [
       "mobile",
-      "satellite",
       "ip"
     ],
     "availableToPackage": true,
@@ -6211,8 +6210,7 @@
     "assetId": "41x2Dw9Vu9FrQb33DPM7n4",
     "deliveryTypes": [
       "ip",
-      "mobile",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -9079,7 +9077,6 @@
   {
     "assetId": "3GuunzBRCmk9IyeDh48ySi",
     "deliveryTypes": [
-      "satellite",
       "ip",
       "mobile"
     ],
@@ -9393,7 +9390,6 @@
   {
     "assetId": "Zuo8ux4QAtJfdAzr8cX5e",
     "deliveryTypes": [
-      "satellite",
       "ip",
       "mobile"
     ],
@@ -12941,8 +12937,7 @@
     "assetId": "3F7olqo71sooSOSoZPMxkB",
     "deliveryTypes": [
       "ip",
-      "mobile",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -13092,8 +13087,7 @@
     "assetId": "5YgKEpNaRnZBln15L9n2bj",
     "deliveryTypes": [
       "ip",
-      "mobile",
-      "satellite"
+      "mobile"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -13146,8 +13140,7 @@
     "assetId": "7q9ILDxv1COk3OWEy2UlQ9",
     "deliveryTypes": [
       "mobile",
-      "ip",
-      "satellite"
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -13199,7 +13192,6 @@
   {
     "assetId": "7G2VVC09gV7qpdERdzqVgr",
     "deliveryTypes": [
-      "satellite",
       "ip",
       "mobile"
     ],
@@ -15246,7 +15238,6 @@
   {
     "assetId": "enAugyB0Ich62dWC6POJl",
     "deliveryTypes": [
-      "satellite",
       "ip",
       "mobile"
     ],
@@ -19328,7 +19319,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/02/022b96bd70e89ab25166ccdd51cf8817_1732039960.jpeg?playerimage=true",
+      "url": "/aem/02/022b96bd70e89ab25166ccdd51cf8817_1733870947.jpeg?playerimage=true",
       "format": "image",
       "altText": "",
       "filetype": ""
