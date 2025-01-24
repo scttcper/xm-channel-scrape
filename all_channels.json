@@ -27631,51 +27631,6 @@
     "xtra_channel": false
   },
   {
-    "assetId": "4sCHhn5bEpjXnkPMq6fqGQ",
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "more",
-    "categoryTitle": "",
-    "contentId": "9491",
-    "deepLink": "https://sxm.app.link/jX3GPUA2nFb",
-    "displayName": "ATN",
-    "genre": "more",
-    "genreTitle": "More",
-    "longDescription": "Asian Television Network plays the best of Bollywood and the latest music from the top South Asian artists. Hear a mix of yesterday’s greats with new music from today’s brightest stars.",
-    "mediumDescription": "Asian Television Network plays the best of Bollywood and music from South Asia.",
-    "shortDescription": "Asian Television Network",
-    "siriusChannelNumber": 796,
-    "xmChannelNumber": 796,
-    "primaryColor": "#a7a9ac",
-    "secondaryColor": "#b61319",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/asian-television-network/ATN-color.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/asian-television-network/ATN-white.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/atn",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/aem/1d/1dfd59850e174a8c969daebb2742e649_1699375116.jpeg?playerimage=true",
-      "format": "image",
-      "altText": "",
-      "filetype": ""
-    },
-    "xtra_channel": false
-  },
-  {
     "assetId": "6vUtQ3eNP2n5ZoLwId8DMY",
     "deliveryTypes": [
       "satellite",
