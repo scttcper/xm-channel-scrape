@@ -12384,7 +12384,8 @@
     "xmChannelNumber": 79,
     "primaryColor": "#f8f7f7",
     "secondaryColor": "#0d0d0d",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/siriusxm-79",
     "packages": [
