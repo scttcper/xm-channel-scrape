@@ -993,8 +993,8 @@
     "contentId": "4023",
     "deepLink": "https://sxm.app.link/XLWIyLO3nFb",
     "displayName": "BPM Top Hits",
-    "genre": "hits",
-    "genreTitle": "Today's Hits",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "New & recent dance hits",
     "mediumDescription": "New & recent dance hits",
     "shortDescription": "New & recent dance hits",
@@ -1025,7 +1025,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "42KKq23JWHrtiE2b5Pvg4F",
@@ -1038,8 +1038,8 @@
     "contentId": "4025",
     "deepLink": "https://sxm.app.link/LrCygLO3nFb",
     "displayName": "70s on 7 Dance/R&B",
-    "genre": "seventies",
-    "genreTitle": "The 70s Decade",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Dance and R&B hits from the 70s",
     "mediumDescription": "Dance and R&B hits from the 70s",
     "shortDescription": "Dance and R&B hits from the 70s",
@@ -1070,7 +1070,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "6jBcpTRrzptRZe2E7igeoR",
@@ -2642,8 +2642,8 @@
     "contentId": "4066",
     "deepLink": "https://sxm.app.link/L0i8EYS3nFb",
     "displayName": "Salsa Party",
-    "genre": "party",
-    "genreTitle": "Party",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Up-tempo salsa music",
     "mediumDescription": "Up-tempo salsa music",
     "shortDescription": "Up-tempo salsa music",
@@ -2674,7 +2674,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "4GIAsVr0fwbiKk5pgIyvnN",
@@ -3175,8 +3175,8 @@
     "contentId": "4078",
     "deepLink": "https://sxm.app.link/VFUeHLO3nFb",
     "displayName": "BPM Workout",
-    "genre": "workout",
-    "genreTitle": "Workout",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Today's dance workout music",
     "mediumDescription": "Today's dance workout music",
     "shortDescription": "Today's dance workout music",
@@ -3207,7 +3207,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "2Yh7ekuIamHCde6YqsSF9c",
@@ -3578,8 +3578,8 @@
     "contentId": "4087",
     "deepLink": "https://sxm.app.link/HWaxnYS3nFb",
     "displayName": "Spa Instrumental",
-    "genre": "instrumentals",
-    "genreTitle": "Instrumentals",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Instrumental spa music",
     "mediumDescription": "Instrumental spa music",
     "shortDescription": "Instrumental spa music",
@@ -3610,7 +3610,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "1zbDEdDxRe0sS2f4l6L5Wd",
@@ -3623,8 +3623,8 @@
     "contentId": "4088",
     "deepLink": "https://sxm.app.link/IZbhjYS3nFb",
     "displayName": "Watercolors Instrumental",
-    "genre": "instrumentals",
-    "genreTitle": "Instrumentals",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Instrumental contemporary jazz",
     "mediumDescription": "Instrumental contemporary jazz",
     "shortDescription": "Instrumental contemporary jazz",
@@ -3655,7 +3655,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "jXngTfnrmj82rLkXW33sp",
@@ -3713,8 +3713,8 @@
     "contentId": "4090",
     "deepLink": "https://sxm.app.link/ElevationsPop",
     "displayName": "Elevations Pop",
-    "genre": "chill",
-    "genreTitle": "Cool Down",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Soothing piano & orchestral pop",
     "mediumDescription": "Soothing piano & orchestral pop",
     "shortDescription": "Soothing piano & orchestral pop",
@@ -3745,7 +3745,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "HqCdv6iftMORWhS2hycRA",
@@ -3803,8 +3803,8 @@
     "contentId": "4092",
     "deepLink": "https://sxm.app.link/Fhst7KO3nFb",
     "displayName": "Chillhop",
-    "genre": "chill",
-    "genreTitle": "Cool Down",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Relaxing lo-fi hip-hop beats",
     "mediumDescription": "Relaxing lo-fi hip-hop beats",
     "shortDescription": "Relaxing lo-fi hip-hop beats",
@@ -3835,7 +3835,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "5VudHBOIh4F2qwMHMgZQNR",
@@ -4249,8 +4249,8 @@
     "contentId": "4102",
     "deepLink": "https://sxm.app.link/WIVYCLO3nFb",
     "displayName": "BPM Discovery",
-    "genre": "discovery",
-    "genreTitle": "New Music Discovery",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "New dance music from BPM",
     "mediumDescription": "New dance music from BPM",
     "shortDescription": "New dance music from BPM",
@@ -4281,7 +4281,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "4IH8XTxDgvIVu0RHxsHIyQ",
@@ -4294,8 +4294,8 @@
     "contentId": "4103",
     "deepLink": "https://sxm.app.link/bPsDPYS3nFb",
     "displayName": "Caliente Discovery",
-    "genre": "discovery",
-    "genreTitle": "New Music Discovery",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "New emerging Caliente music",
     "mediumDescription": "New emerging Caliente music",
     "shortDescription": "New emerging Caliente music",
@@ -4326,7 +4326,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "QUdeLves6SEgXKczQJqP2",
@@ -6039,8 +6039,8 @@
     "contentId": "4153",
     "deepLink": "https://sxm.app.link/Jq5Xa1S3nFb",
     "displayName": "Viva 90s/2Ks Hits",
-    "genre": "nineties",
-    "genreTitle": "The 90s Decade",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "90s & 2000s Latin pop hits",
     "mediumDescription": "90s & 2000s Latin pop hits",
     "shortDescription": "90s & 2000s Latin pop hits",
@@ -6071,7 +6071,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "7zrLvn8LUqnNCwtDlQ5OiF",
@@ -8058,8 +8058,8 @@
     "contentId": "4210",
     "deepLink": "https://sxm.app.link/IJTlIVW3nFb",
     "displayName": "Alegría",
-    "genre": "party",
-    "genreTitle": "Party",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Feel-good Latin hit music",
     "mediumDescription": "Feel-good Latin hit music",
     "shortDescription": "Feel-good Latin hit music",
@@ -8090,7 +8090,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "3id8J4ZFZzzWcvlXXEDVer",
