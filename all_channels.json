@@ -24499,8 +24499,8 @@
     "xmChannelNumber": 132,
     "primaryColor": "#57bee9",
     "secondaryColor": "#104985",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Business-Radio/BusinessRadio-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Business-Radio/BusinessRadio-WHITE.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-Color.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXMLogo-White.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/business-radio",
     "packages": [
