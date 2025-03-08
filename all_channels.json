@@ -6175,11 +6175,11 @@
     "contentId": "4157",
     "deepLink": "https://sxm.app.link/Nudzs1S3nFb",
     "displayName": "Celebrate!",
-    "genre": "party",
-    "genreTitle": "Party",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Happy songs for a celebration",
     "mediumDescription": "Happy songs for a celebration",
-    "shortDescription": "Happy songs for a celebration",
+    "shortDescription": "Happy songs for a celebration<a href=\"https://app.contentful.com/spaces/zckxogm3ew9b/entries/3UPPyaUZ4Z3htD2LbPCi4x\">Genre published  Party</a>",
     "siriusChannelNumber": 1152,
     "xmChannelNumber": 1152,
     "primaryColor": "#fff5ee",
@@ -6207,7 +6207,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "2TEbJ3QN7DtZjhpuYLXjGE",
@@ -9048,8 +9048,8 @@
   {
     "assetId": "5vLQMUyxer52ETYRsyt2EX",
     "deliveryTypes": [
-      "ip",
-      "mobile"
+      "mobile",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -9504,8 +9504,8 @@
   {
     "assetId": "7sPq9QNHUrMHTYGcckbnZW",
     "deliveryTypes": [
-      "ip",
-      "mobile"
+      "mobile",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -9513,8 +9513,8 @@
     "contentId": "4252",
     "deepLink": "https://sxm.app.link/CarrdiobyCarrie",
     "displayName": "Carr-dio by Carrie's Country",
-    "genre": "workout",
-    "genreTitle": "Workout",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Work out with Carrie Underwood",
     "mediumDescription": "Work out with Carrie Underwood",
     "shortDescription": "Work out with Carrie Underwood",
@@ -9545,7 +9545,7 @@
       "altText": "",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": false
   },
   {
     "assetId": "5kA4JoR0kMWZ78XuJk3o4t",
@@ -9789,8 +9789,8 @@
     "contentId": "4258",
     "deepLink": "https://sxm.app.link/ChairmansLounge",
     "displayName": "Siriusly Sinatra Presents The Chairman's Lounge",
-    "genre": "fifties_sixties",
-    "genreTitle": "The 50s & 60s Decades",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
     "longDescription": "Hip hangout with Sinatra",
     "mediumDescription": "Hip hangout with Sinatra",
     "shortDescription": "Hip hangout with Sinatra",
