@@ -7699,8 +7699,8 @@
     "xmChannelNumber": 1192,
     "primaryColor": "#8a3e91",
     "secondaryColor": "#ffda7a",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/soul-town-just-music/Soul-Town-Just-Music-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/soul-town-just-music/Soul-Town-Just-Music-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/60s-70s/60s70s.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/60s-70s/60s70s-white.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "",
     "packages": [
@@ -24314,7 +24314,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/f7/f708249c31098de95d55b2186a17271b_1734445590.jpeg?playerimage=true",
+      "url": "/if/51/51db0cc140fd3e76a874115426832770_1741640806.png?playerimage=true",
       "format": "image",
       "altText": "",
       "filetype": ""
