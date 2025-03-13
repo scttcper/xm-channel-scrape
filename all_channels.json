@@ -15272,6 +15272,12 @@
       "SXM_SIR_AUD_CHOICE_CTRY"
     ],
     "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/2b/2b5969069fe03112866bca8be6e86d4e_1741831948.png?playerimage=true",
+      "format": "image",
+      "altText": "",
+      "filetype": ""
+    },
     "xtra_channel": false
   },
   {
@@ -26573,8 +26579,8 @@
     "xmChannelNumber": 959,
     "primaryColor": "#00a3dd",
     "secondaryColor": "#005581",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/pac-12-play-by-play-959/Pac12PxP959-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/pac-12-play-by-play-959/Pac12PxP959-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/big-ten-play-by-play-958/BigTenPxP958-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/big-ten-play-by-play-958/BigTenPxP958-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/pac-12-959",
     "packages": [
