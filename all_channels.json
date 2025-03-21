@@ -6029,6 +6029,43 @@
     "xtra_channel": true
   },
   {
+    "assetId": "5SMQrV9ssYFxYkBctHJMpv",
+    "deliveryTypes": [
+      "mobile",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "4152",
+    "deepLink": "https://sxm.app.link/CdU850S3nFb",
+    "displayName": "SiriusXM Comes Alive!",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
+    "longDescription": "Live classic rock",
+    "mediumDescription": "Live classic rock",
+    "shortDescription": "Live classic rock",
+    "siriusChannelNumber": 1146,
+    "xmChannelNumber": 1146,
+    "primaryColor": "#f6ea5b",
+    "secondaryColor": "#731d15",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Comes-Alive/SXMcomesAlive.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/SiriusXM-Comes-Alive/SXMComesAlive_White_424x248_K2.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/aem/ad/ad9b38f64d7e8967cb58d078edb2195a_1700261073.jpeg?playerimage=true",
+      "format": "image",
+      "altText": "",
+      "filetype": ""
+    },
+    "xtra_channel": false
+  },
+  {
     "assetId": "5EekKQnOUa4mzXN7nrYxzv",
     "deliveryTypes": [
       "mobile"
