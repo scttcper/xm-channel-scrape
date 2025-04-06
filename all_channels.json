@@ -781,7 +781,7 @@
     "secondaryColor": "#211920",
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Octane-Top-Hits/OctaneTopHits-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/Octane-Top-Hits/OctaneTopHits-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
+    "explicitContentIndicator": "Yes",
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -4141,7 +4141,7 @@
       "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
-    "exclusiveContent": false,
+    "exclusiveContent": true,
     "web_2_0_image": {
       "url": "/aem/f6/f64fa75b38566b3a0cd2ed47ed18dcde_1699375710.jpeg?playerimage=true",
       "format": "image",
@@ -6634,7 +6634,7 @@
     "secondaryColor": "#000",
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-just-music/OctaneJustMusic-126-500x400-P1.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-just-music/OctaneJustMusic-126-500x400-P1.svg",
-    "explicitContentIndicator": "No",
+    "explicitContentIndicator": "Yes",
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -7508,7 +7508,7 @@
     "secondaryColor": "#7b96a8",
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-deep-cuts/OctaneDeepcuts-4C-OnK.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/octane-deep-cuts/OctaneDeepcuts-4C.svg",
-    "explicitContentIndicator": "No",
+    "explicitContentIndicator": "Yes",
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
@@ -10556,7 +10556,7 @@
     "secondaryColor": "#362c2b",
     "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/horizon/Horizon-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/horizon/Horizon-White.svg",
-    "explicitContentIndicator": "No",
+    "explicitContentIndicator": "Yes",
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
