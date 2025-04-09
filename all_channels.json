@@ -785,8 +785,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -4131,8 +4129,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -6272,8 +6268,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -6638,8 +6632,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -7420,8 +7412,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -7512,8 +7502,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -7834,8 +7822,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -8156,8 +8142,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -8512,8 +8496,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -8558,8 +8540,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -25686,48 +25666,6 @@
     ]
   },
   {
-    "assetId": "5gWf6yPg6NPF7qSlq99Tn0",
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "sports",
-    "categoryTitle": "Sports",
-    "contentId": "9394",
-    "deepLink": "https://sxm.app.link/UtahHockeyClub",
-    "displayName": "Utah Hockey Club",
-    "genre": "NHL_PBP",
-    "genreTitle": "NHL Play-by-Play",
-    "longDescription": "Live hometown play-by-play coverage of the Utah Hockey Club",
-    "mediumDescription": "Live hometown play-by-play coverage of the Utah Hockey Club",
-    "shortDescription": "Utah Hockey Club play-by-play",
-    "siriusChannelNumber": 947,
-    "xmChannelNumber": 947,
-    "primaryColor": "#a7a9ac",
-    "secondaryColor": "#000101",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/utahhockeyclub/UtahHockeyClub-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/utahhockeyclub/UtahHockeyClub-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/sports/nhl/utah-hockey-club",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "xtra_channel": false,
-    "relatedChannels": [
-      "8213",
-      "8185"
-    ]
-  },
-  {
     "assetId": "3SkTzhQLiLIhM1AWjCKZb3",
     "deliveryTypes": [
       "ip",
@@ -30509,8 +30447,6 @@
     "vanityURL": "/channels/soundcloud-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -31010,8 +30946,6 @@
     "vanityURL": "/channels/hip-hop-top-500",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -31766,8 +31700,6 @@
     "vanityURL": "/channels/the-jeff-lewis-channel",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -32968,6 +32900,54 @@
       "filetype": ""
     },
     "xtra_channel": false
+  },
+  {
+    "assetId": "5gWf6yPg6NPF7qSlq99Tn0",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "sports",
+    "categoryTitle": "Sports",
+    "contentId": "9635",
+    "deepLink": "https://sxm.app.link/UtahHockeyClub",
+    "displayName": "Utah Hockey Club",
+    "genre": "NHL_PBP",
+    "genreTitle": "NHL Play-by-Play",
+    "longDescription": "Live hometown play-by-play coverage of the Utah Hockey Club",
+    "mediumDescription": "Live hometown play-by-play coverage of the Utah Hockey Club",
+    "shortDescription": "Utah Hockey Club play-by-play",
+    "siriusChannelNumber": 947,
+    "xmChannelNumber": 947,
+    "primaryColor": "#a7a9ac",
+    "secondaryColor": "#000101",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/utahhockeyclub/UtahHockeyClub-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/utahhockeyclub/UtahHockeyClub-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/sports/nhl/utah-hockey-club",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_FF",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/aem/93/93beda29310dd63d82e0e4204c31bcb8_1723558517.jpeg?playerimage=true",
+      "format": "image",
+      "altText": "",
+      "filetype": ""
+    },
+    "xtra_channel": false,
+    "relatedChannels": [
+      "8213",
+      "8185"
+    ]
   },
   {
     "assetId": "2QY8iXWOXHvol0AiVGcTTO",
@@ -34480,8 +34460,6 @@
     "vanityURL": "/channels/unwell-on-air",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -34535,8 +34513,6 @@
     "vanityURL": "/channels/unwell-music",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -34638,8 +34614,6 @@
     "vanityURL": "/channels/one-world-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",

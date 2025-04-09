@@ -785,8 +785,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -4131,8 +4129,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -6272,8 +6268,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -6638,8 +6632,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -7420,8 +7412,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -7512,8 +7502,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -7834,8 +7822,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -8156,8 +8142,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -8512,8 +8496,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -8558,8 +8540,6 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -16131,8 +16111,6 @@
     "vanityURL": "/channels/soundcloud-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -16577,8 +16555,6 @@
     "vanityURL": "/channels/hip-hop-top-500",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -17485,8 +17461,6 @@
     "vanityURL": "/channels/unwell-music",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -17542,8 +17516,6 @@
     "vanityURL": "/channels/one-world-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_NS",
       "SIR_IP_SA",
