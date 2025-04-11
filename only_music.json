@@ -16657,8 +16657,6 @@
     "vanityURL": "/channels/hits-uno",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -17056,8 +17054,6 @@
     "vanityURL": "/channels/flex2k",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
@@ -18998,8 +18994,6 @@
     "vanityURL": "/channels/octane",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
       "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_PKG_MM",
       "SXM_SIR_AUD_PKG_NS",
