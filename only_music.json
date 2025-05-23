@@ -18887,7 +18887,8 @@
     "assetId": "56wlhPdtfP1Y4VDgegzrLX",
     "deliveryTypes": [
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",

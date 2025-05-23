@@ -36659,8 +36659,8 @@
     "genre": "political",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Politics.svg",
     "genreTitle": "Politics/Issues",
-    "longDescription": "POTUS is Politics Of The United States. Politics from all points of view with Julie Mason, Michael Smerconish, Dan Abrams, Laura Coates, and more. Spirited interviews with representatives from both sides of the aisle. Legal analysis of breaking stories, panel discussions, and daily recaps of what’s happening in Washington, DC.",
-    "mediumDescription": "Political news and talk from all sides with Julie Mason, Michael Smerconish, Dan Abrams, Laura Coates, and more.",
+    "longDescription": "POTUS is Politics of the United States. Politics from all points of view with Michael Smerconish, Dan Abrams, Julie Mason, Steve Scully, the editors of RealClearPolitics, and more. Spirited interviews with representatives from both sides of the aisle. Legal analysis of breaking stories, panel discussions, and daily recaps of everything happening in Washington, D.C.",
+    "mediumDescription": "Political news and talk from all sides with Julie Mason, Michael Smerconish, Dan Abrams, and more.",
     "shortDescription": "Politics from all perspectives",
     "siriusChannelNumber": 124,
     "siriusServiceId": 72,
@@ -36864,7 +36864,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/b8/b8bdeb185db4318ba3c8d5f0125bed02_1747923156.jpg?playerimage=true",
+      "url": "/if/aa/aa7d5b7452ef3475861e1cd5940a1836_1747944324.png?playerimage=true",
       "format": "image",
       "altText": "",
       "filetype": ""
@@ -37512,7 +37512,8 @@
     "assetId": "56wlhPdtfP1Y4VDgegzrLX",
     "deliveryTypes": [
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
