@@ -17816,8 +17816,12 @@
     },
     "xtra_channel": false,
     "relatedChannels": [
+      "9172",
       "cnbc",
-      "cbcradioone"
+      "cbcradioone",
+      "9582",
+      "8246",
+      "9583"
     ]
   },
   {
@@ -36864,7 +36868,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/aa/aa7d5b7452ef3475861e1cd5940a1836_1747944324.png?playerimage=true",
+      "url": "/if/b8/b8bdeb185db4318ba3c8d5f0125bed02_1748006858.jpg?playerimage=true",
       "format": "image",
       "altText": "",
       "filetype": ""
