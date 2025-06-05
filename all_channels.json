@@ -24897,7 +24897,7 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9351",
-    "deepLink": "https://sxm.app.link/SiriusXM79",
+    "deepLink": "https://sxm.app.link/SiriusXM105",
     "displayName": "SiriusXM 79",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
@@ -24992,7 +24992,7 @@
     "categoryTitle": "Music",
     "channelNotification": "This channel may not be available in all vehicles but can be accessed through the SiriusXM app.",
     "contentId": "9353",
-    "deepLink": "https://sxm.app.link/SiriusXM105",
+    "deepLink": "https://sxm.app.link/SiriusXM79",
     "displayName": "SiriusXM 105",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
@@ -26047,7 +26047,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/9c/9c7a77ca07d4363f971c359c1975c5b5_1740507927.jpeg?playerimage=true",
+      "url": "/if/43/43060f9daa1c3754ae70e6ece54bbef1_1749131959.jpg?playerimage=true",
       "format": "image",
       "altText": "",
       "filetype": ""
