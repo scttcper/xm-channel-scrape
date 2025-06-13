@@ -5874,7 +5874,8 @@
     "explicitContentIndicator": "No",
     "vanityURL": "",
     "packages": [
-      "SXM_SIR_AUD_ALLACCESS"
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT"
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
@@ -16997,7 +16998,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/1d/1df74b0aaacbeef36676267515713f42_1727461502.jpeg?playerimage=true",
+      "url": "/if/43/4317a7cf22f53a8d916af7fefd75b38c_1749743335.jpg?playerimage=true",
       "format": "image",
       "altText": "",
       "filetype": ""

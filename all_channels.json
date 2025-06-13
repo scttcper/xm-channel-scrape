@@ -5874,7 +5874,8 @@
     "explicitContentIndicator": "No",
     "vanityURL": "",
     "packages": [
-      "SXM_SIR_AUD_ALLACCESS"
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT"
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
@@ -12763,6 +12764,7 @@
     "availableToPackage": true,
     "category": "sports",
     "categoryTitle": "Sports",
+    "channelNotification": "This channel may not be available in all vehicles but can be accessed through the SiriusXM App.",
     "contentId": "8256",
     "deepLink": "https://sxm.app.link/hSgLKKu2nFb",
     "displayName": "SiriusXM INDYCAR Nation",
@@ -12895,7 +12897,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -12947,7 +12948,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -12999,7 +12999,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13051,7 +13050,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13102,7 +13100,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13154,7 +13151,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13206,7 +13202,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13258,7 +13253,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13310,7 +13304,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13362,7 +13355,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13414,7 +13406,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13466,7 +13457,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13518,7 +13508,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13570,7 +13559,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13622,7 +13610,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13674,7 +13661,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -13724,7 +13710,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -13774,7 +13759,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13826,7 +13810,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13875,7 +13858,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -13924,7 +13906,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -13974,7 +13955,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -14027,7 +14007,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -14080,7 +14059,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -14133,7 +14111,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14185,7 +14162,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14237,7 +14213,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14289,7 +14264,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14341,7 +14315,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14393,7 +14366,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14445,7 +14417,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14497,7 +14468,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14549,7 +14519,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14601,7 +14570,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14653,7 +14621,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14705,7 +14672,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14816,7 +14782,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14868,7 +14833,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14920,7 +14884,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -14969,7 +14932,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -15018,7 +14980,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -15067,7 +15028,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -15116,7 +15076,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -15165,7 +15124,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -15214,7 +15172,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -15263,7 +15220,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF"
     ],
     "exclusiveContent": false,
@@ -15311,7 +15267,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -15360,7 +15315,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -15409,7 +15363,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -15461,7 +15414,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -15513,7 +15465,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -15563,7 +15514,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -15613,7 +15563,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA_ESNTL",
       "SXM_S_1"
@@ -27183,7 +27132,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27224,7 +27172,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27265,7 +27212,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27306,7 +27252,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27347,7 +27292,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27388,7 +27332,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27429,7 +27372,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27470,7 +27412,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27511,7 +27452,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27552,7 +27492,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27593,7 +27532,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -27634,7 +27572,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -28663,7 +28600,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -30510,7 +30446,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -32325,7 +32260,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -32376,7 +32310,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -32427,7 +32360,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -32478,7 +32410,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -32529,7 +32460,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -32580,7 +32510,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -32631,7 +32560,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -32682,7 +32610,6 @@
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
       "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
       "SXM_SIR_AUD_FF",
       "SXM_S_1"
     ],
@@ -32930,7 +32857,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/1d/1df74b0aaacbeef36676267515713f42_1727461502.jpeg?playerimage=true",
+      "url": "/if/43/4317a7cf22f53a8d916af7fefd75b38c_1749743335.jpg?playerimage=true",
       "format": "image",
       "altText": "",
       "filetype": ""
