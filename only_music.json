@@ -5875,7 +5875,8 @@
     "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT"
+      "SXM_SIR_AUD_EVT",
+      "SIR_IP_SHOWCASE"
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
@@ -10228,6 +10229,7 @@
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "exclusiveContent": false,
@@ -10271,6 +10273,7 @@
       "SXM_SIR_AUD_FF",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "exclusiveContent": false,
@@ -13211,10 +13214,10 @@
     "longDescription": "Billy Joel has written and performed songs that have touched a generation. Now, SiriusXM presents a limited-run channel dedicated to his music and his stories behind the songs. In addition, Billy will offer exclusive commentary on his writing process and the music that influenced it, along with track-by-track specials on three of his albums: Turnstiles, 52nd Street and Glass Houses.",
     "mediumDescription": "Music from Billy Joel's career plus stories behind the songs and Billy's memories and anecdotes. Limited-run channel.",
     "shortDescription": "Billy Joel's music, 24/7",
-    "siriusChannelNumber": 57,
+    "siriusChannelNumber": 79,
     "siriusServiceId": 125,
     "xmServiceId": 125,
-    "xmChannelNumber": 57,
+    "xmChannelNumber": 79,
     "primaryColor": "#0fa5e6",
     "secondaryColor": "#000000",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/the-billy-joel-channel/TheBillyJoelChannel-126-500x400-P.svg",
@@ -16410,6 +16413,7 @@
       "SXM_SIR_AUD_EVT",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "exclusiveContent": false,
@@ -17191,6 +17195,7 @@
       "SXM_SIR_AUD_EVT",
       "SIR_IP_SA",
       "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
       "SXM_S_1"
     ],
     "exclusiveContent": false,
