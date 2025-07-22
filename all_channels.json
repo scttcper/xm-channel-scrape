@@ -11747,12 +11747,6 @@
       "SXM_S_1"
     ],
     "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/if/d3/d3dd7697880a37c99e917660d2ad36be_1753102811.jpg?playerimage=true",
-      "format": "image",
-      "altText": "SiriusXM PGA TOUR Radio",
-      "filetype": ""
-    },
     "xtra_channel": false,
     "relatedChannels": [
       "8254",
@@ -27812,7 +27806,7 @@
     "genreTitle": "Sports",
     "longDescription": "The Herd with Colin Cowherd, plus exclusive sports talk and live sports play-by-play!",
     "mediumDescription": "The Herd with Colin Cowherd, plus exclusive sports talk and live sports play-by-play!",
-    "shortDescription": "The Herd/Undisputed/Live Games",
+    "shortDescription": "The Herd/FOX Sports/Live Games",
     "siriusChannelNumber": 83,
     "siriusServiceId": 87,
     "xmServiceId": 226,
