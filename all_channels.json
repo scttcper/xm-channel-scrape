@@ -15697,7 +15697,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/College-Play-by-Play/Pacific-12-Conference/Pac12-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/College-Play-by-Play/Pacific-12-Conference/Pac12-white.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/big-12-play-by-play-198",
+    "vanityURL": "/channels/pac-12-play-by-play-198",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -19253,7 +19253,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/big-12-play-by-play-954/Big12PxP954-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/big-12-play-by-play-954/Big12PxP954-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/big-12-952",
+    "vanityURL": "/channels/pac-12-960",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -19361,7 +19361,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/sec-play-by-play-962/SECPxP962-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/sec-play-by-play-962/SECPxP962-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/sec-play-by-play-962",
+    "vanityURL": "/channels/sec-962",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -19415,7 +19415,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/sec-play-by-play-961/SECPxP961-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/sec-play-by-play-961/SECPxP961-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/sec-play-by-play-960",
+    "vanityURL": "/channels/sec-963",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
