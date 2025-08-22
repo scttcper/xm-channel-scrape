@@ -11464,9 +11464,9 @@
     "displayName": "Emo Mornings",
     "genre": "Wake Up",
     "genreTitle": "Wake Up",
-    "longDescription": "Upbeat emo",
-    "mediumDescription": "Upbeat emo",
-    "shortDescription": "Upbeat emo",
+    "longDescription": "Upbeat emo to start your day",
+    "mediumDescription": "Upbeat emo to start your day",
+    "shortDescription": "Upbeat emo to start your day",
     "siriusChannelNumber": 1299,
     "xmChannelNumber": 1299,
     "primaryColor": "#ffffff",
@@ -21916,8 +21916,8 @@
     "xmChannelNumber": 891,
     "primaryColor": "#da1a32",
     "secondaryColor": "#00438c",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/IPacers_Primary_Icon_rgb.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/x-NBA-Teams-SVG/IPacers_Primary_Icon_white.svg",
+    "colorLogo": "/content/dam/sxm-com/logos/sports/nba/indiana-pacers/IndianaPacers-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/logos/sports/nba/indiana-pacers/IndianaPacers-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/sports/nba/indiana-pacers",
     "packages": [
@@ -21932,7 +21932,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/ea/ea41665ba0135d9039a65a574b26736f_1699368635.jpeg?playerimage=true",
+      "url": "/if/ae/ae1f3ee0b3a23565bc3562622fe1833f_1755786518.jpg?playerimage=true",
       "format": "image",
       "altText": "NBA-Indiana Pacers",
       "filetype": ""
@@ -22732,8 +22732,8 @@
     "xmChannelNumber": 908,
     "primaryColor": "#da1a32",
     "secondaryColor": "#707070",
-    "colorLogo": "/content/dam/sxm-com/logos/sports/nba/UJazz_Primary_Icon_rgb.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/logos/sports/nba/UJazz_Primary_Icon_rgb.svg",
+    "colorLogo": "/content/dam/sxm-com/logos/sports/nba/utah-jazz/UtahJazz-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/logos/sports/nba/utah-jazz/UtahJazz-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/sports/nba/utah-jazz",
     "packages": [
@@ -22748,7 +22748,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/a1/a1813670c660343a8147f6e962b2f004_1699368686.jpeg?playerimage=true",
+      "url": "/if/53/5313babe2c0630d6b7852855764886f2_1755814570.jpg?playerimage=true",
       "format": "image",
       "altText": "NBA-Utah Jazz",
       "filetype": ""
@@ -25706,17 +25706,17 @@
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "Oldies Party plays up-tempo, feel good hit songs from the dawn of Rock in the '50s right through the Flower Power of the late '60s.  Beginning with “Rock Around The Clock” and “Hound Dog” through the British Invasion and the Woodstock Generation, it’s a non-stop good time collection of songs that make you want to get up and dance!",
-    "mediumDescription": "Good Time Oldies from the '50s and '60s!  Oldies Party plays the fun hits from the dawn of rock into the Woodstock years.",
+    "longDescription": "Party songs from the 50s & 60s",
+    "mediumDescription": "Party songs from the 50s & 60s",
     "shortDescription": "Party songs from the 50s & 60s",
-    "siriusChannelNumber": 703,
-    "xmChannelNumber": 703,
+    "siriusChannelNumber": 1302,
+    "xmChannelNumber": 1302,
     "primaryColor": "#ffcb08",
     "secondaryColor": "#ca1551",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/Oldies-Party/Oldies_Party.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/Oldies-Party/OldiesParty-white.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/Oldies-Party/OldiesParty-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/Oldies-Party/OldiesParty-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/oldies-party",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -25729,12 +25729,6 @@
       "SXM_S_1"
     ],
     "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/aem/6a/6a637c28cc8306745be315619c0283a9_1699375259.jpeg?playerimage=true",
-      "format": "image",
-      "altText": "Oldies Party",
-      "filetype": ""
-    },
     "xtra_channel": false,
     "relatedChannels": [
       "60svibrations",
@@ -28900,22 +28894,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9481",
-    "deepLink": "https://sxm.app.link/JonasBrothersHometownRadio",
-    "displayName": "Jonas Brothers Hometown Radio",
+    "deepLink": "https://sxm.app.link/SiriusXMLimitedEdition1",
+    "displayName": "Limited Edition 1",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "Celebrate 20 years of Jonas Brothers with Hometown Radio, the SiriusXM channel hand-picked by Nick, Joe, and Kevin. Hear their full-circle journey unfold, from their New Jersey beginnings to today's anthems. Featuring their new album Greetings from Your Hometown, this channel blends nostalgic pop-rock energy with personal stories, deep cuts, influences, and fan favorites. A true tribute to where they started and where they're headed.",
-    "mediumDescription": "20 years of Jonas with personal picks and full-circle storytelling, including their new album Greetings from Your Hometown.",
-    "shortDescription": "Hand-picked by Jonas Brothers",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "siriusChannelNumber": 501,
     "xmChannelNumber": 501,
-    "primaryColor": "#ffffff",
-    "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/jonasbrothersthechannel/JonasBrothersHometownRadio-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/jonasbrothersthechannel/JonasBrothersHometownRadio-127-500x400-N.svg",
+    "primaryColor": "#8cbc54",
+    "secondaryColor": "#255c90",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/jonas-brothers-hometown",
+    "vanityURL": "/channels/limited-edition-1",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -28929,9 +28923,9 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/9a/9a13e03cc7a939c7a96496f4f426c337_1753989258.jpg?playerimage=true",
+      "url": "/if/02/02b6e78bebe43e2aa525f55c4da808b4_1755610619.jpg?playerimage=true",
       "format": "image",
-      "altText": "Jonas Brothers Hometown Radio",
+      "altText": "Limited Edition 1",
       "filetype": ""
     },
     "xtra_channel": false
@@ -29521,53 +29515,6 @@
     ]
   },
   {
-    "assetId": "5leo8zIkdEubiaBsZsQ2Kf",
-    "deliveryTypes": [
-      "satellite",
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "sports",
-    "categoryTitle": "Sports",
-    "contentId": "9512",
-    "deepLink": "https://sxm.app.link/CHynAJu2nFb",
-    "displayName": "SportsGrid",
-    "genre": "sportstalk",
-    "genreTitle": "Sports",
-    "longDescription": "SportsGrid Radio scratches your sports gaming itch like no other. This isn’t your dad’s sports talk radio station. Here, everyone has an interest in the game.  Get the Winning Edge with the Sports news you can use and the most up to the minute Sports Gaming Information.  Be the most informed person at the company watercooler and lead every sports conversation with your friends by using the information you learned on SportsGrid Radio!",
-    "mediumDescription": "Get the Winning Edge with the Sports news you can use and the most up to the minute Sports Gaming Information",
-    "shortDescription": "Sports gaming information",
-    "siriusChannelNumber": 159,
-    "siriusServiceId": 130,
-    "xmServiceId": 121,
-    "xmChannelNumber": 159,
-    "primaryColor": "#000",
-    "secondaryColor": "#ca3a33",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/sportsgrid-radio/SportsGridRadio-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/sportsgrid-radio/SportsGridRadio-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/sportsgrid-radio",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/aem/7f/7ff2aa39dce2c0d15cbbc3065c9dee85_1727370789.jpeg?playerimage=true",
-      "format": "image",
-      "altText": "SportsGrid",
-      "filetype": ""
-    },
-    "xtra_channel": false
-  },
-  {
     "assetId": "3qQCYn8dScWvRfh9Hrzl7u",
     "deliveryTypes": [
       "ip",
@@ -29731,53 +29678,6 @@
       "4148",
       "4147"
     ]
-  },
-  {
-    "assetId": "6v81lVi4SWwvYXNABAiEJb",
-    "deliveryTypes": [
-      "satellite",
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "contentId": "9524",
-    "deepLink": "https://sxm.app.link/SiriusXM42",
-    "displayName": "SiriusXM 42",
-    "genre": "hiphop",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Hip_Hop.svg",
-    "genreTitle": "Hip-Hop/R&B",
-    "longDescription": "SiriusXM 42 (explicit)",
-    "mediumDescription": "SiriusXM 42 (explicit)",
-    "shortDescription": "SiriusXM 42 (explicit)",
-    "siriusChannelNumber": 42,
-    "siriusServiceId": 150,
-    "xmServiceId": 22,
-    "xmChannelNumber": 42,
-    "primaryColor": "#808080",
-    "secondaryColor": "#000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/siriusxm-42/SiriusXM42-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/siriusxm-42/SiriusXM42-127-500x400-N.svg",
-    "explicitContentIndicator": "Yes",
-    "vanityURL": "/channels/siriusxm-42",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/if/3c/3ce1a807452e3aebb2fb36c59644782a_1740077850.jpg?playerimage=true",
-      "format": "image",
-      "altText": "SiriusXM 42",
-      "filetype": ""
-    },
-    "xtra_channel": false
   },
   {
     "assetId": "3VmdU14VRwEZdkm4tSUkpo",
@@ -30209,22 +30109,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9545",
-    "deepLink": "https://sxm.app.link/LimitedEdition2",
-    "displayName": "Limited Edition 2",
+    "deepLink": "https://sxm.app.link/TheBeachBoysChannel",
+    "displayName": "Good Vibrations: The Beach Boys Channel",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Playing sun-drenched songs from every phase of the group's decades-spanning career! It's all on Good Vibrations: The Beach Boys Channel! From their early songs about sand, surf, girls and cars into the psychedelic period filled with rich experimentation, The Beach Boys have grown up with American pop music and have brought California's coastline to the world. Their biggest hits plus hard-to-find rarities combine for a trip to the beach, without leaving home!",
+    "mediumDescription": "Sun-drenched songs from The Beach Boys' decade-spanning career with sand & surf songs, girls & cars and psychedelic grooves.",
+    "shortDescription": "The music of The Beach Boys",
     "siriusChannelNumber": 502,
     "xmChannelNumber": 502,
-    "primaryColor": "#8cbc54",
-    "secondaryColor": "#255c90",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
+    "primaryColor": "#f702e3",
+    "secondaryColor": "#ed6d35",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channels/GoodVibrations21-126-500x400-P1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/the-beach-boys-channels/GoodVibrations21-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-2",
+    "vanityURL": "/channels/the-beach-boys-channel",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -30238,9 +30138,9 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/2d/2d61af65014fdfbbb1b067507bbf637c_1715098124.jpeg?playerimage=true",
+      "url": "/if/c1/c16a64640bf937449b94a1c7b2ad7435_1755610128.jpg?playerimage=true",
       "format": "image",
-      "altText": "Limited Edition 2",
+      "altText": "Good Vibrations: The Beach Boys Channel",
       "filetype": ""
     },
     "xtra_channel": false
@@ -30743,7 +30643,7 @@
       "shade45",
       "hiphopnation",
       "4092",
-      "9524",
+      "9669",
       "4158"
     ]
   },
@@ -32323,7 +32223,7 @@
       "9339",
       "shade45",
       "hiphopnation",
-      "9524"
+      "9669"
     ]
   },
   {
@@ -33276,8 +33176,8 @@
     "xmChannelNumber": 107,
     "primaryColor": "#bfbfbf",
     "secondaryColor": "#0f0f0f",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/dateline-24-7/Dateline247-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/dateline-24-7/Dateline247-White.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/dateline-24-7/Dateline247-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/dateline-24-7/Dateline247-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/dateline-24/7",
     "packages": [
@@ -33642,6 +33542,60 @@
       "filetype": ""
     },
     "xtra_channel": false
+  },
+  {
+    "assetId": "6v81lVi4SWwvYXNABAiEJb",
+    "deliveryTypes": [
+      "satellite",
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "contentId": "9669",
+    "deepLink": "https://sxm.app.link/MaximumMetallica",
+    "displayName": "Maximum Metallica",
+    "genre": "rock",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
+    "genreTitle": "Rock",
+    "longDescription": "Ride the lightning 24/7 through Metallica's heaviest hits, rare tracks, epic live concerts, unfiltered stories, and fan-fueled fire! The Metallica family unites here, louder, faster, and heavier than ever. The most Metallica anywhere! (explicit)",
+    "mediumDescription": "The most Metallica anywhere! Live intensity, raw stories, and fan-fueled fire! (explicit)",
+    "shortDescription": "Metallica, 24/7 (explicit)",
+    "siriusChannelNumber": 42,
+    "siriusServiceId": 173,
+    "xmServiceId": 222,
+    "xmChannelNumber": 42,
+    "primaryColor": "#808080",
+    "secondaryColor": "#000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/maximum-metallica/MaximumMetallica-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/maximum-metallica/MaximumMetallica-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
+    "vanityURL": "/channels/maximum-metallica",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/aem/c0/c0ab72795ce794dbe59a8cfe9997ee95_1755609664.jpeg?playerimage=true",
+      "format": "image",
+      "altText": "Maximum Metallica",
+      "filetype": ""
+    },
+    "xtra_channel": false,
+    "relatedChannels": [
+      "hardattack",
+      "buzzsaw",
+      "9413",
+      "octane",
+      "hairnation"
+    ]
   },
   {
     "assetId": "6lVt5mb9VTxzAxWX40YReu",
@@ -38176,9 +38130,9 @@
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "Slip on your bell bottoms and light a lava lamp!  It’s the Super ‘70s with DJs who boogie down and spin 45 rpm records.  Polyester outfits, pet rocks, CB radios and disco from a galaxy far, far away!  Far out, man!",
-    "mediumDescription": "Pop tunes and pop DJs from the wild and funky decade of mood rings, disco and bell bottoms!  The Super 70s!",
-    "shortDescription": "70s pop hits",
+    "longDescription": "Slip on your bell bottoms and light a lava lamp! It's the super 70s with DJs who boogie down and spin 45 rpm records. Polyester outfits, pet rocks, CB radios and disco from a galaxy far, far away! Far out, man!",
+    "mediumDescription": "Pop tunes and pop DJs from the wild and funky decade of mood rings, disco and bell bottoms! The super 70s!",
+    "shortDescription": "The biggest & best 70s pop",
     "siriusChannelNumber": 7,
     "siriusServiceId": 8,
     "xmServiceId": 7,
