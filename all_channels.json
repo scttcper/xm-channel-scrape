@@ -12213,7 +12213,6 @@
       "9188",
       "siriushits1",
       "rumbon",
-      "cnnespanol",
       "9191"
     ]
   },
@@ -15832,7 +15831,6 @@
     },
     "xtra_channel": false,
     "relatedChannels": [
-      "cnnheadlinenews",
       "cnn"
     ]
   },
@@ -16348,7 +16346,6 @@
     },
     "xtra_channel": false,
     "relatedChannels": [
-      "cnnespanol",
       "9189",
       "thecatholicchannel",
       "spirit",
@@ -18273,7 +18270,6 @@
       "9190",
       "rumbon",
       "9189",
-      "cnnespanol",
       "8225",
       "9187",
       "60svibrations"
@@ -18330,7 +18326,6 @@
       "9188",
       "9190",
       "rumbon",
-      "cnnespanol",
       "purejazz"
     ]
   },
@@ -18386,7 +18381,6 @@
       "9188",
       "totally70s",
       "rumbon",
-      "cnnespanol",
       "60svibrations"
     ]
   },
@@ -26317,7 +26311,6 @@
     "relatedChannels": [
       "thepulse",
       "siriushits1",
-      "cnnheadlinenews",
       "9356",
       "siriusstars"
     ]
@@ -26762,7 +26755,6 @@
     },
     "xtra_channel": false,
     "relatedChannels": [
-      "cnnespanol",
       "9186",
       "9133",
       "9187",
@@ -28193,60 +28185,6 @@
     ]
   },
   {
-    "assetId": "2EkVVZ5qxYIJrtnRVpZf3h",
-    "deliveryTypes": [
-      "mobile",
-      "satellite",
-      "ip"
-    ],
-    "availableToPackage": true,
-    "category": "news",
-    "categoryTitle": "News & Issues",
-    "channelNotification": "This channel may not be available in all vehicles but can be accessed through the SiriusXM app.",
-    "contentId": "9454",
-    "deepLink": "https://sxm.app.link/uC2qrOA2nFb",
-    "displayName": "CNN International",
-    "genre": "publicradio",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Public_Radio.svg",
-    "genreTitle": "News/Public Radio",
-    "longDescription": "Get the day's top global news, business, politics and sports stories from CNN International.  With its distinct programming and award-winning journalists, CNN International brings the world to you.",
-    "mediumDescription": "CNN International delivers the latest news, headlines and analysis on the day's top stories from around the world.",
-    "shortDescription": "News from around the world",
-    "siriusChannelNumber": 454,
-    "xmServiceId": 274,
-    "xmChannelNumber": 454,
-    "primaryColor": "#cc3333",
-    "secondaryColor": "#5c0019",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/CNN-International/CNNInternational-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/CNN-International/CNNInternational-WHITE.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/cnn-interational",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/aem/3b/3bc8a7eeb47dc01ed2b3b586bb659d2c_1699375833.jpeg?playerimage=true",
-      "format": "image",
-      "altText": "CNN International",
-      "filetype": ""
-    },
-    "xtra_channel": false,
-    "relatedChannels": [
-      "cnn",
-      "cnnheadlinenews"
-    ]
-  },
-  {
     "assetId": "5Cbx6JxJP6MQAG4Qfeg5nd",
     "deliveryTypes": [
       "satellite",
@@ -29566,66 +29504,6 @@
     ]
   },
   {
-    "assetId": "1PIiGEPqL6kglwlv56GWa5",
-    "deliveryTypes": [
-      "satellite",
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "news",
-    "categoryTitle": "News & Issues",
-    "channelNotification": "This channel may not be available in all vehicles but can be accessed through the SiriusXM app.",
-    "contentId": "9514",
-    "deepLink": "https://sxm.app.link/f9E2lOA2nFb",
-    "displayName": "CNN Originals",
-    "genre": "publicradio",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Public_Radio.svg",
-    "genreTitle": "News/Public Radio",
-    "longDescription": "CNN Original Series and HLN Original Series. CNN Original Series include award-winning nonfiction series Anthony Bourdain Parts Unknown, United Shades of America with W. Kamau Bell, and This is Life with Lisa Ling. Focusing on crime and investigations, HLN Original Series include Very Scary People hosted by Donnie Wahlberg, and How It Really Happened with Hill Harper.",
-    "mediumDescription": "CNN and HLN’s Original Series. Include Anthony Bourdain Parts Unknown and How It Really Happened.",
-    "shortDescription": "CNN & HLN original series",
-    "siriusChannelNumber": 453,
-    "xmServiceId": 304,
-    "xmChannelNumber": 453,
-    "primaryColor": "#8FA6B2",
-    "secondaryColor": "#cc0000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/cnn-originals/CNNOriginals-Vert-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/cnn-originals/CNNOriginals-Vert-White.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/cnn-originals",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/aem/bc/bc307e974644163ad5cd62c2313628f5_1700677685.png?playerimage=true",
-      "format": "image",
-      "altText": "CNN Originals",
-      "filetype": ""
-    },
-    "xtra_channel": false,
-    "relatedChannels": [
-      "9454",
-      "cnn",
-      "bbcworld",
-      "indietalk",
-      "nprnow",
-      "9390",
-      "8367",
-      "cnnheadlinenews"
-    ]
-  },
-  {
     "assetId": "4CxKdXPjvRzLVR9Ej7rbRw",
     "deliveryTypes": [
       "mobile",
@@ -30695,7 +30573,6 @@
     "relatedChannels": [
       "bloombergradio",
       "9359",
-      "9514",
       "nprnow",
       "8239",
       "radioclassics"
@@ -33192,12 +33069,6 @@
       "SXM_S_1"
     ],
     "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/aem/fc/fc18028bd02280f3050dc1b9e464f525_1728400773.jpeg?playerimage=true",
-      "format": "image",
-      "altText": "Dateline 24/7",
-      "filetype": ""
-    },
     "xtra_channel": false,
     "relatedChannels": [
       "8367",
@@ -34403,113 +34274,6 @@
     },
     "xtra_channel": false,
     "relatedChannels": [
-      "8367",
-      "cnnheadlinenews"
-    ]
-  },
-  {
-    "assetId": "6J3nGYGP5U7X886bMNYGtL",
-    "deliveryTypes": [
-      "mobile",
-      "ip"
-    ],
-    "availableToPackage": true,
-    "category": "news",
-    "categoryTitle": "News & Issues",
-    "contentId": "cnnespanol",
-    "deepLink": "https://sxm.app.link/cKSRKUA2nFb",
-    "displayName": "CNN en Español",
-    "genre": "publicradio",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Public_Radio.svg",
-    "genreTitle": "News/Public Radio",
-    "longDescription": "CNN's 24-hour Spanish-language news network. La red de noticias en español de CNN, las 24 horas del día.",
-    "mediumDescription": "CNN's 24-hour Spanish-language news network.",
-    "shortDescription": "CNN's 24-hour Spanish-language news",
-    "siriusChannelNumber": 795,
-    "xmChannelNumber": 795,
-    "primaryColor": "#b0b0b0",
-    "secondaryColor": "#5c0019",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/CNN-en-Espanol/CNNespanol-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/CNN-en-Espanol/CNNespanol-WHITE.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/cnn-en-espanol",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SXM_SIR_AUD_PKG_NS",
-      "SXM_SIR_AUD_ALLACCESS_BASIC",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/aem/ed/ed103ccf5fcf48c4248064d93e9649ef_1699460107.jpeg?playerimage=true",
-      "format": "image",
-      "altText": "CNN en Espanol",
-      "filetype": ""
-    },
-    "xtra_channel": false,
-    "relatedChannels": [
-      "rumbon"
-    ]
-  },
-  {
-    "assetId": "2sEDBsgD41A1brvmTlaSPo",
-    "deliveryTypes": [
-      "satellite",
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "news",
-    "categoryTitle": "News & Issues",
-    "contentId": "cnnheadlinenews",
-    "deepLink": "https://sxm.app.link/RNvLwGu2nFb",
-    "displayName": "HLN",
-    "genre": "publicradio",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Public_Radio.svg",
-    "genreTitle": "News/Public Radio",
-    "longDescription": "Top stories, financial, weather, sports, and entertainment news all in 15 minutes.",
-    "mediumDescription": "HLN News and Views",
-    "shortDescription": "HLN simulcast",
-    "siriusChannelNumber": 117,
-    "siriusServiceId": 92,
-    "xmServiceId": 123,
-    "xmChannelNumber": 117,
-    "primaryColor": "#bfbfbf",
-    "secondaryColor": "#3c57a7",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/HLN/HLN_4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/HLN/HLN_KO.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/hln",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF",
-      "SXM_SIR_AUD_PKG_MM",
-      "SXM_SIR_AUD_PKG_NS",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/aem/83/83a57339d5bfab83b2dbebd44bca9cef_1699376237.jpeg?playerimage=true",
-      "format": "image",
-      "altText": "HLN",
-      "filetype": ""
-    },
-    "xtra_channel": false,
-    "relatedChannels": [
-      "cnn",
       "8367"
     ]
   },
