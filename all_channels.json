@@ -26507,8 +26507,8 @@
     "xmChannelNumber": 102,
     "primaryColor": "#00aeef",
     "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/RadioAndy-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/RadioAndy-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/RadioAndy10-Black.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/RadioAndy10-White.svg",
     "explicitContentIndicator": "Yes",
     "vanityURL": "/channels/radio-andy",
     "packages": [
@@ -26522,7 +26522,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/5f/5f5a7bd296503ef735a3f3581b0d8a06_1704229128.jpeg?playerimage=true",
+      "url": "/if/14/1466f551aaa83c2493794c83c5abc2bd_1756886361.jpg?playerimage=true",
       "format": "image",
       "altText": "Radio Andy",
       "filetype": ""
@@ -28832,22 +28832,22 @@
     "category": "music",
     "categoryTitle": "Music",
     "contentId": "9481",
-    "deepLink": "https://sxm.app.link/SiriusXMLimitedEdition1",
-    "displayName": "Limited Edition 1",
+    "deepLink": "https://sxm.app.link/EdSheeranChannel",
+    "displayName": "Ed Sheeran Channel",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Join Ed Sheeran as he opens a new chapter with Play, his boldest album yet. In this SiriusXM experience curated by Ed, fans will hear the music that defined his rise, the stories behind his evolution, and the global energy that shaped this powerful new era. It's a heartfelt mix of memory, creativity, and connection-a journey only Ed could take, and one his fans will feel every step of.",
+    "mediumDescription": "Get closer to Ed as he opens up with his favorite songs, personal stories, and the global sounds behind his new album Play.",
+    "shortDescription": "Handpicked by Ed himself",
     "siriusChannelNumber": 501,
     "xmChannelNumber": 501,
-    "primaryColor": "#8cbc54",
-    "secondaryColor": "#255c90",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/ed-sheeran-channel/EdSheeranChannel-Black.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/ed-sheeran-channel/EdSheeranChannel-White1.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/limited-edition-1",
+    "vanityURL": "/ed-sheeran-channel",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -28861,9 +28861,9 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/02/02b6e78bebe43e2aa525f55c4da808b4_1755610619.jpg?playerimage=true",
+      "url": "/if/16/16bcdd62e22e328a93937a1e264e4ee2_1756886737.png?playerimage=true",
       "format": "image",
-      "altText": "Limited Edition 1",
+      "altText": "Ed Sheeran Channel",
       "filetype": ""
     },
     "xtra_channel": false
@@ -30325,7 +30325,7 @@
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
-    "channelNotification": "This channel may not be available in all vehicles but can be accessed through the SiriusXM app.",
+    "channelNotification": "This channel may not be available in all vehicles but can be accessed through the SiriusXM app. ",
     "contentId": "9557",
     "deepLink": "https://sxm.app.link/T62l00e2nFb",
     "displayName": "Mosaic",
@@ -33069,6 +33069,12 @@
       "SXM_S_1"
     ],
     "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/aem/fc/fc18028bd02280f3050dc1b9e464f525_1756822213.jpeg?playerimage=true",
+      "format": "image",
+      "altText": "Dateline 24/7",
+      "filetype": ""
+    },
     "xtra_channel": false,
     "relatedChannels": [
       "8367",
