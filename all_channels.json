@@ -11833,6 +11833,12 @@
       "SIR_IP_SHOWCASE"
     ],
     "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/aem/8a/8a9fc9a9d94d761f700b6d43a4b2543e_1759325293.jpeg?playerimage=true",
+      "format": "image",
+      "altText": "Rage 808 Hip-Hop",
+      "filetype": ""
+    },
     "xtra_channel": false
   },
   {
@@ -29503,13 +29509,13 @@
     "channelNotification": "",
     "contentId": "9482",
     "deepLink": "https://sxm.app.link/KarolGRadio",
-    "displayName": "Karol G Radio",
+    "displayName": "KAROL G Radio",
     "genre": "world",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Latino.svg",
     "genreTitle": "Latino",
-    "longDescription": "Karol G Radio is all about La Bichota energy--bold, unstoppable, and 100% Tropicoqueta vibes. Celebrate Karol G's ride from underground phenom to global superstar, as she brings you the beats, the bops, and the backstories behind her biggest hits. As the first urban Latina to have her own exclusive SiriusXM channel, Karol's spilling it all: the music that made her, the artists that inspire her, and what's next in her ever-evolving sound.",
-    "mediumDescription": "Karol G shares stories from Tropicoqueta, her biggest hits, and the music that shaped and inspired her journey.",
-    "shortDescription": "Karol G's hits & inspirations",
+    "longDescription": "KAROL G Radio is all about La Bichota energy--bold, unstoppable, and 100% Tropicoqueta vibes. Celebrate Karol G's ride from underground phenom to global superstar, as she brings you the beats, the bops, and the backstories behind her biggest hits. As the first urban Latina to have her own exclusive SiriusXM channel, Karol's spilling it all: the music that made her, the artists that inspire her, and what's next in her ever-evolving sound.",
+    "mediumDescription": "KAROL G shares stories from Tropicoqueta, her biggest hits, and the music that shaped and inspired her journey.",
+    "shortDescription": "KAROL G's hits & inspiration",
     "siriusChannelNumber": 512,
     "xmChannelNumber": 512,
     "primaryColor": "#f6f4ae",
@@ -29533,7 +29539,7 @@
     "web_2_0_image": {
       "url": "/if/bd/bd60935b8692379d973248222866ff9d_1758833929.jpg?playerimage=true",
       "format": "image",
-      "altText": "Karol G Radio",
+      "altText": "KAROL G Radio",
       "filetype": ""
     },
     "xtra_channel": false
