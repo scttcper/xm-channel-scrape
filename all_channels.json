@@ -25716,7 +25716,7 @@
     "categoryTitle": "Music",
     "channelNotification": "This channel may not be available on some radios, but there are <a href=\"/ways-to-listen#assetgroup6knehojw5ak4w5i6kt8fi2\">other ways to listen</a> in your car with the SiriusXM app.",
     "contentId": "9353",
-    "deepLink": "sxm.app.link/ScreamRadio",
+    "deepLink": "https://www.siriusxm.com/player/channel-linear/entity/b8c4de96-afd9-85ee-7e5f-95c2e380ab65",
     "displayName": "Scream Radio",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
@@ -33406,7 +33406,7 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "9624",
-    "deepLink": "https://sxm.app.link/SiriusXM15",
+    "deepLink": "https://www.siriusxm.com/player/channel-linear/entity/8156ef7f-df74-0d28-404a-8567b13dee05",
     "displayName": "SiriusXM 15",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
@@ -33436,6 +33436,12 @@
       "SXM_S_1"
     ],
     "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/a6/a68d1080083533e0b056204b1384d4ca_1761058437.png?playerimage=true",
+      "format": "image",
+      "altText": "SiriusXM 15",
+      "filetype": ""
+    },
     "xtra_channel": false
   },
   {
