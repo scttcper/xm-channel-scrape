@@ -4814,6 +4814,7 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "4124",
+    "deepLink": "https://sxm.app.link/RealJazzHoliday",
     "displayName": "Real Jazz Holiday",
     "genre": "allxtra",
     "genreTitle": "All Xtra",
@@ -7016,7 +7017,7 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "4181",
-    "deepLink": "https://sxm.app.link/JollyChristmas",
+    "deepLink": "https://sxm.app.link/JollyChristmasapp",
     "displayName": "Jolly Christmas",
     "genre": "Holiday",
     "genreTitle": "Holiday",
@@ -7063,6 +7064,7 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "4182",
+    "deepLink": "https://sxm.app.link/HolidayInstrumentals",
     "displayName": "Holiday Instrumentals",
     "genre": "Holiday",
     "genreTitle": "Holiday",
@@ -8575,6 +8577,7 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "4223",
+    "deepLink": "https://sxm.app.link/KidsChristmas",
     "displayName": "Kids Christmas",
     "genre": "Holiday",
     "genreTitle": "Holiday",
@@ -25559,6 +25562,56 @@
     "xtra_channel": false
   },
   {
+    "assetId": "6xe9nzPo4jlZ5jyq47w33w",
+    "deliveryTypes": [
+      "ip",
+      "mobile",
+      "satellite"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "9343",
+    "deepLink": "https://sxm.app.link/HollyCOM",
+    "displayName": "Holly",
+    "genre": "Holiday",
+    "genreTitle": "Holiday",
+    "longDescription": "Merry and bright holiday hits featuring songs by Mariah Carey, Michael Bublé, Dean Martin, Kelly Clarkson, Pentatonix, Josh Groban, John Legend, Brenda Lee, Train, Gwen Stefani and more.",
+    "mediumDescription": "Modern holiday hits.",
+    "shortDescription": "Modern holiday hits",
+    "siriusChannelNumber": 79,
+    "siriusServiceId": 113,
+    "xmServiceId": 125,
+    "xmChannelNumber": 79,
+    "streamingChannelNumber": 79,
+    "primaryColor": "#e6eab0",
+    "secondaryColor": "#0f6639",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holly/Holly-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holly/Holly-WHITE.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/holly",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/fe/fede4b16755a39cb95af1b18209c0a03_1762249270.png?playerimage=true",
+      "format": "image",
+      "altText": "Holly",
+      "filetype": ""
+    },
+    "xtra_channel": false
+  },
+  {
     "assetId": "7K9JgOAak8D8WZTfCCUdDi",
     "deliveryTypes": [
       "ip",
@@ -25672,7 +25725,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/smokeysholidaysoultown/SmokeysHolidaySoulTown-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/smokeysholidaysoultown/SmokeysHolidaySoulTown-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "",
+    "vanityURL": "/channels/smokeys-holiday-soul-town",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -33129,6 +33182,7 @@
     },
     "xtra_channel": false,
     "relatedChannels": [
+      "9343",
       "4181"
     ]
   },
