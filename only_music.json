@@ -5428,17 +5428,17 @@
     "channelNotification": "",
     "contentId": "4139",
     "deepLink": "https://sxm.app.link/AkJEb0S3nFb",
-    "displayName": "90s R&B Jams",
+    "displayName": "Jackie's House",
     "genre": "nineties",
     "genreTitle": "The 90s Decade",
-    "longDescription": "90s R&B jams ",
-    "mediumDescription": "90s R&B jams ",
-    "shortDescription": "90s R&B jams ",
+    "longDescription": "Late 80s & 90s R&B ",
+    "mediumDescription": "Late 80s & 90s R&B ",
+    "shortDescription": "Late 80s & 90s R&B ",
     "streamingChannelNumber": 1133,
-    "primaryColor": "#342c70",
-    "secondaryColor": "#aeca58",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-rnb-jams/90sRBJams-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/90s-rnb-jams/90sRBJams-127-500x400-N.svg",
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/jackie-house/JackiesHouse-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/jackie-house/JackiesHouse-White.svg",
     "explicitContentIndicator": "Yes",
     "vanityURL": "",
     "packages": [
@@ -5452,9 +5452,9 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/e3/e3e30a0c435f3f65b7fe3ee148e07e17_1762979927.jpg?playerimage=true",
+      "url": "/if/be/bef5580a09443e27b61cfa2b55db128d_1763624716.png?playerimage=true",
       "format": "image",
-      "altText": "90s R&B Jams",
+      "altText": "Jackie's House",
       "filetype": ""
     },
     "xtra_channel": true
@@ -7023,7 +7023,7 @@
     "genreTitle": "Holiday",
     "longDescription": "Upbeat feel-good holiday hits",
     "mediumDescription": "Upbeat feel-good holiday hits",
-    "shortDescription": "Upbeat feel-good holiday hits",
+    "shortDescription": "Upbeat, feel-good holiday hits",
     "siriusChannelNumber": 608,
     "xmChannelNumber": 608,
     "streamingChannelNumber": 608,
@@ -11832,6 +11832,42 @@
     "xtra_channel": false
   },
   {
+    "assetId": "1Zse7kpD8dqNGBlxo25UHz",
+    "deliveryTypes": [
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "4313",
+    "deepLink": "https://sxm.app.link/Circuit",
+    "displayName": "Circuit",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
+    "longDescription": "Dance music from the 2010s",
+    "mediumDescription": "Dance music from the 2010s",
+    "shortDescription": "Dance music from the 2010s",
+    "streamingChannelNumber": 1301,
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/circuit-radio/Circuit-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/circuit-radio/Circuit-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "xtra_channel": false
+  },
+  {
     "assetId": "46qLSfLxktkk1nx4rKvyvF",
     "deliveryTypes": [
       "ip",
@@ -11926,6 +11962,78 @@
       "filetype": ""
     },
     "xtra_channel": false
+  },
+  {
+    "assetId": "iENTJFw3tAEjbHzF8flW6",
+    "deliveryTypes": [
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "4316",
+    "deepLink": "https://sxm.app.link/ProgRockRadio",
+    "displayName": "Prog Rock Radio",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
+    "longDescription": "The progressive rock universe",
+    "mediumDescription": "The progressive rock universe",
+    "shortDescription": "The progressive rock universe",
+    "streamingChannelNumber": 1304,
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/prog-rock/ProgRockRadio-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/prog-rock/ProgRockRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "xtra_channel": false
+  },
+  {
+    "assetId": "3Gxhnpryz3C9DZlDokbRKF",
+    "deliveryTypes": [
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "4317",
+    "deepLink": "https://sxm.app.link/ViralHits",
+    "displayName": "Viral Hits",
+    "genre": "discovery",
+    "genreTitle": "New Music Discovery",
+    "longDescription": "Trending tracks ",
+    "mediumDescription": "Trending tracks ",
+    "shortDescription": "Trending tracks ",
+    "streamingChannelNumber": 1305,
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/viral-hits/ViralHits-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/viral-hits/ViralHits-White.svg",
+    "explicitContentIndicator": "Yes",
+    "vanityURL": "",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "xtra_channel": true
   },
   {
     "assetId": "vTmImlrG0VzXPDbTVJ1IB",
@@ -13724,11 +13832,11 @@
     "longDescription": "Merry and bright holiday hits featuring songs by Mariah Carey, Michael Bublé, Dean Martin, Kelly Clarkson, Pentatonix, Josh Groban, John Legend, Brenda Lee, Train, Gwen Stefani and more.",
     "mediumDescription": "Modern holiday hits.",
     "shortDescription": "Modern holiday hits",
-    "siriusChannelNumber": 79,
+    "siriusChannelNumber": 4,
     "siriusServiceId": 113,
     "xmServiceId": 125,
-    "xmChannelNumber": 79,
-    "streamingChannelNumber": 79,
+    "xmChannelNumber": 4,
+    "streamingChannelNumber": 4,
     "primaryColor": "#e6eab0",
     "secondaryColor": "#0f6639",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holly/Holly-4C.svg",
@@ -13804,7 +13912,8 @@
     "assetId": "61ObwjX5zgbkz4yx1CiGCU",
     "deliveryTypes": [
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -13818,7 +13927,11 @@
     "longDescription": "Classic and contemporary country stars come together with both traditional and original holiday songs to make the season bright. Hear music from artists including George Strait, Carrie Underwood, Willie Nelson, Lainey Wilson and more.",
     "mediumDescription": "Classic and contemporary country Christmas music from George Strait, Carrie Underwood, Willie Nelson, Lainey Wilson and more.",
     "shortDescription": "Country Christmas music",
-    "streamingChannelNumber": 606,
+    "siriusChannelNumber": 79,
+    "siriusServiceId": 112,
+    "xmServiceId": 22,
+    "xmChannelNumber": 79,
+    "streamingChannelNumber": 79,
     "primaryColor": "#bd0000",
     "secondaryColor": "#057618",
     "colorLogo": "/content/dam/sxm-com/programming-content/music/holiday/country-christmas/CountryChristmas-126-500x400-P.svg",
@@ -16057,55 +16170,6 @@
     "xtra_channel": false
   },
   {
-    "assetId": "2bF8WFWGz0N9982I5fwb1U",
-    "deliveryTypes": [
-      "satellite",
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "channelNotification": "",
-    "contentId": "9544",
-    "deepLink": "https://sxm.app.link/0t4q6Ze2nFb",
-    "displayName": "TikTok Radio",
-    "genre": "pop",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
-    "longDescription": "The sounds and songs that redefine pop culture. An unpredictable journey through the musical world of TikTok where creators and personalities share trending sounds and the stories behind them. Expect music's next generation of rising stars and whatever else the TikTok community is vibing to. ",
-    "mediumDescription": "Trending sounds and songs from the FYP presented by TikTok creators. ",
-    "shortDescription": "Music from TikTok ",
-    "siriusChannelNumber": 4,
-    "siriusServiceId": 171,
-    "xmServiceId": 160,
-    "xmChannelNumber": 4,
-    "streamingChannelNumber": 4,
-    "primaryColor": "#000000",
-    "secondaryColor": "#d1154d",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/tiktok-radio/TikTokRadio-126-500x400-P1.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/tiktok-radio/TikTokRadio-127-500x400-N1.svg",
-    "explicitContentIndicator": "Yes",
-    "vanityURL": "/channels/tiktok-radio",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/aem/85/85a3591f8c3763526bcaa9985ea2bfa0_1699375151.jpeg?playerimage=true",
-      "format": "image",
-      "altText": "TikTok Radio",
-      "filetype": ""
-    },
-    "xtra_channel": false
-  },
-  {
     "assetId": "6Lh8jQLJPIqqqwBXHtrkXs",
     "deliveryTypes": [
       "ip",
@@ -16117,20 +16181,20 @@
     "channelNotification": "",
     "contentId": "9545",
     "deepLink": "https://sxm.app.link/LimitedEdition2",
-    "displayName": "SiriusXM Limited Edition 2",
+    "displayName": "Billboard 2025 #1s",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "2025 went by in a flash, let's wrap it up with a look back at Billboard Number 1s. The biggest stars & the biggest songs from 2025 and flashbacks to #1 pop, hip-hop, rock, Latin & country hits so far this decade.",
+    "mediumDescription": "Wrapping up 2025 with Billboard Music's number 1 hits, hear the biggest stars & biggest songs from 2020 to today!",
+    "shortDescription": "Number 1s from 2020 to today",
     "streamingChannelNumber": 502,
-    "primaryColor": "#8cb854",
-    "secondaryColor": "#255c90",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
+    "primaryColor": "#c20000",
+    "secondaryColor": "#000000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/billboard-500/Billboard2025No1sChannel-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/billboard-500/Billboard2025No1sChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-2",
+    "vanityURL": "/channels/billboard-2025-number1s",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16146,7 +16210,7 @@
     "web_2_0_image": {
       "url": "/if/65/65af612d4f013bdfb1b067507bbf637c_1759164307.jpg?playerimage=true",
       "format": "image",
-      "altText": "SiriusXM Limited Edition 2",
+      "altText": "Billboard 2025 #1s",
       "filetype": ""
     },
     "xtra_channel": false
@@ -17138,7 +17202,6 @@
       "9406",
       "siriushits1",
       "8208",
-      "9544",
       "rumbon",
       "9492",
       "9185"
@@ -17268,7 +17331,7 @@
     "genre": "kids",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Family.svg",
     "genreTitle": "Family",
-    "longDescription": "Whether dancing along to ‘The Wheels On The Bus’ with JJ and his CoComelon friends or belting out ‘The Excavator Song’ with Blippi is your jam, the Moonbug Channel guarantees hours of fun listening for the whole family. Tune in to laugh, learn and grow with the original music from these and other family-favorite Moonbug shows",
+    "longDescription": "Whether dancing along to 'The Wheels On The Bus' with JJ and his CoComelon friends or belting out 'The Excavator Song' with Blippi is your jam, the Moonbug Channel guarantees hours of fun listening for the whole family. Tune in to laugh, learn and grow with the original music from these and other family-favorite Moonbug shows.",
     "mediumDescription": "Sing along to music from your kids’ favorite shows such as CoComelon, Blippi and many more.",
     "shortDescription": "Laugh Learn Grow with Moonbug",
     "xmServiceId": 262,
@@ -18036,8 +18099,7 @@
       "thepulse",
       "9557",
       "9450",
-      "starlite",
-      "9544"
+      "starlite"
     ]
   },
   {
@@ -18155,7 +18217,7 @@
     "streamingChannelNumber": 42,
     "primaryColor": "#808080",
     "secondaryColor": "#000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/maximum-metallica/MaximumMetallica-126-500x400-P.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/maximum-metallica/MaximumMetallica-126-500x400-P1.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/maximum-metallica/MaximumMetallica-127-500x400-N.svg",
     "explicitContentIndicator": "Yes",
     "vanityURL": "/channels/maximum-metallica",
@@ -18170,7 +18232,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/c0/c0ab72795ce794dbe59a8cfe9997ee95_1755609664.jpeg?playerimage=true",
+      "url": "/if/ee/ee6755a3afda3b68be7a48befdf6a532_1763624421.png?playerimage=true",
       "format": "image",
       "altText": "Maximum Metallica",
       "filetype": ""
@@ -19653,7 +19715,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/9d/9d6eb6f89b1c33f68fa1f9123ef4314e_1763484886.jpg?playerimage=true",
+      "url": "/if/b6/b653c4a66da83e71a9849660bdcc3fb0_1763614840.png?playerimage=true",
       "format": "image",
       "altText": "The Highway",
       "filetype": ""
@@ -19662,7 +19724,6 @@
     "relatedChannels": [
       "siriushits1",
       "9340",
-      "9544",
       "4020",
       "9418",
       "primecountry",
