@@ -11865,6 +11865,12 @@
       "SXM_S_1"
     ],
     "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/39/39bb7a8aa1c83e258ff977a648e941da_1763650368.png?playerimage=true",
+      "format": "image",
+      "altText": "Circuit",
+      "filetype": ""
+    },
     "xtra_channel": false
   },
   {
@@ -11997,6 +12003,12 @@
       "SXM_S_1"
     ],
     "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/c5/c51ca3030a5e3edb8b76aa8e5108ce03_1763650091.png?playerimage=true",
+      "format": "image",
+      "altText": "Prog Rock Radio",
+      "filetype": ""
+    },
     "xtra_channel": false
   },
   {
@@ -12033,6 +12045,12 @@
       "SXM_S_1"
     ],
     "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/5d/5d6eacdbef7a3f51a76119f76e588167_1763650097.png?playerimage=true",
+      "format": "image",
+      "altText": "Viral Hits ",
+      "filetype": ""
+    },
     "xtra_channel": true
   },
   {
@@ -15534,7 +15552,7 @@
     "shortDescription": "Christian Christmas music",
     "streamingChannelNumber": 610,
     "primaryColor": "#ad0000",
-    "secondaryColor": "#6bc6ff",
+    "secondaryColor": "#4389ac",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/christmasspirit/ChristmasSpirit-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/christmasspirit/ChristmasSpirit-White.svg",
     "explicitContentIndicator": "No",
@@ -16194,7 +16212,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/billboard-500/Billboard2025No1sChannel-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/billboard-500/Billboard2025No1sChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/billboard-2025-number1s",
+    "vanityURL": "/channels/billboard-2025-1s",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -16208,7 +16226,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/65/65af612d4f013bdfb1b067507bbf637c_1759164307.jpg?playerimage=true",
+      "url": "/if/5d/5d1669316ca033e9a071312f58f972c3_1763647482.jpg?playerimage=true",
       "format": "image",
       "altText": "Billboard 2025 #1s",
       "filetype": ""
@@ -18232,7 +18250,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/ee/ee6755a3afda3b68be7a48befdf6a532_1763624421.png?playerimage=true",
+      "url": "/if/93/93ed5e888fb03cd1b924feb0ca07d8a5_1763655544.jpg?playerimage=true",
       "format": "image",
       "altText": "Maximum Metallica",
       "filetype": ""
