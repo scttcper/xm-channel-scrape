@@ -7987,7 +7987,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/0a/0a0806fecb2b31b0b910a976d5a4b2bb_1763996740.jpg?playerimage=true",
+      "url": "/if/11/11ccc7dea89630a196db6c041248f439_1742411138.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Radio",
       "filetype": ""
@@ -8163,7 +8163,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/74/7436f3a3b1253f31a8c27085b47c618c_1742411149.jpg?playerimage=true",
+      "url": "/if/da/da7140b82bb334d19cd33d082221bb0d_1763996731.jpg?playerimage=true",
       "format": "image",
       "altText": "Happy Country",
       "filetype": ""
@@ -8253,7 +8253,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/75/75bf7854121631d297f97a9b4a0dacb1_1763734820.jpg?playerimage=true",
+      "url": "/if/26/26e8f2a84eac3664992098e03441c57e_1742411143.jpg?playerimage=true",
       "format": "image",
       "altText": "Happy Oldies",
       "filetype": ""
@@ -8296,7 +8296,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/7e/7ec11158d89031c7b27a085862f0d3a4_1742411142.jpg?playerimage=true",
+      "url": "/if/ef/efd6f6175da83847bfab25b6213d6b0a_1763996400.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Rock",
       "filetype": ""
@@ -10813,9 +10813,9 @@
     "shortDescription": "Rock the slopes",
     "streamingChannelNumber": 1270,
     "primaryColor": "#e9e7e7",
-    "secondaryColor": "#0f0f0f",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lift-line/LiftLine-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lift-line/LiftLine-127-500x400-N.svg",
+    "secondaryColor": "#d37912",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lift-line/LiftLine-126-500x400-P1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/lift-line/LiftLine-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "",
     "packages": [
@@ -10831,7 +10831,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/db/dbdbe4d37fbcb81b5e9c0998c465459b_1755543331.jpeg?playerimage=true",
+      "url": "/if/0d/0d96d50383b137f0a15197a70f88186a_1764694868.jpg?playerimage=true",
       "format": "image",
       "altText": "Lift Line",
       "filetype": ""
@@ -12054,6 +12054,48 @@
     "xtra_channel": true
   },
   {
+    "assetId": "3z4SkNNHF8EIkSNL1dg6Ap",
+    "deliveryTypes": [
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "4318",
+    "deepLink": "https://sxm.app.link/YachtCountry",
+    "displayName": "Yacht Country ",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
+    "longDescription": "Smooth 70s/80s country",
+    "mediumDescription": "Smooth 70s/80s country",
+    "shortDescription": "Smooth 70s/80s country",
+    "streamingChannelNumber": 1306,
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#e67214",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/yacht-country/YachtCountry-4C.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/yacht-country/YachtCountry-White.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/f7/f7742afb15ff3ddf8bd50c597d7ff4e4_1764763020.png?playerimage=true",
+      "format": "image",
+      "altText": "Yacht Country ",
+      "filetype": ""
+    },
+    "xtra_channel": false
+  },
+  {
     "assetId": "vTmImlrG0VzXPDbTVJ1IB",
     "deliveryTypes": [
       "satellite",
@@ -12672,7 +12714,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/06/06c488b369cacbf0a3ad840af7b98a2b_1734456766.jpeg?playerimage=true",
+      "url": "/if/26/26506106d515349296ef1cd78b1107f1_1764703976.jpg?playerimage=true",
       "format": "image",
       "altText": "Bill Gaither's enLighten",
       "filetype": ""
@@ -13980,7 +14022,8 @@
     "assetId": "3GAXukG83AOGdFDnphZykw",
     "deliveryTypes": [
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -13994,7 +14037,11 @@
     "longDescription": "Celebrate the season with Smokey Robinson as he plays soulful holidays favorites from the 60s & 70s! From standards by Eartha Kitt and Nat King Cole, to classics from Stevie Wonder and The Jackson 5, you'll hear them all in Smokey's Holiday Soul Town!",
     "mediumDescription": "Soulful holiday classics and favorites from the 60s and 70s!",
     "shortDescription": "R&B/Soul Christmas favorites",
-    "streamingChannelNumber": 612,
+    "siriusChannelNumber": 74,
+    "siriusServiceId": 40,
+    "xmServiceId": 60,
+    "xmChannelNumber": 74,
+    "streamingChannelNumber": 74,
     "primaryColor": "#f0c170",
     "secondaryColor": "#ae0a0a",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/smokeysholidaysoultown/SmokeysHolidaySoulTown-4C.svg",
@@ -14066,6 +14113,49 @@
       "url": "/if/33/336c43bdca6a3c1bb080fafe7a14cfb2_1762249750.png?playerimage=true",
       "format": "image",
       "altText": "Navidad",
+      "filetype": ""
+    },
+    "xtra_channel": false
+  },
+  {
+    "assetId": "7glUrIFOIxg8pGx4GJKXeC",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "9349",
+    "deepLink": "https://sxm.app.link/RadioHanukkah",
+    "displayName": "Radio Hanukkah",
+    "genre": "Holiday",
+    "genreTitle": "Holiday",
+    "longDescription": "Extensive collection of Hanukkah-themed music, including contemporary, traditional and children's selections as well as daily reflections and prayers related to the holiday.",
+    "mediumDescription": "Extensive collection of Hanukkah music, including contemporary, traditional and children's Hanukkah selections.",
+    "shortDescription": "Hanukkah music",
+    "streamingChannelNumber": 638,
+    "primaryColor": "#d3d3d3",
+    "secondaryColor": "#0a0a0a",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Radio-Hanukkah/RadioHanukkah.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Radio-Hanukkah/RadioHanukkah_K2_White.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/radio-hanukkah",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/55/55f1fb467a2e3cd9b8635027b0034b35_1764764127.png?playerimage=true",
+      "format": "image",
+      "altText": "Radio Hanukkah",
       "filetype": ""
     },
     "xtra_channel": false
@@ -15536,7 +15626,8 @@
     "assetId": "69EKN4MSzn4G2A7mwVJDMA",
     "deliveryTypes": [
       "ip",
-      "mobile"
+      "mobile",
+      "satellite"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -15550,7 +15641,11 @@
     "longDescription": "Christmas music and family holiday favorites all from contemporary Christian artists heard on The Message. Here, the reason for the season is not just remembered, He's celebrated in song, commercial free!",
     "mediumDescription": "Christmas music and family holiday favorites all from contemporary Christian artists heard on The Message.",
     "shortDescription": "Christian Christmas music",
-    "streamingChannelNumber": 610,
+    "siriusChannelNumber": 65,
+    "siriusServiceId": 46,
+    "xmServiceId": 32,
+    "xmChannelNumber": 65,
+    "streamingChannelNumber": 65,
     "primaryColor": "#ad0000",
     "secondaryColor": "#4389ac",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/christmasspirit/ChristmasSpirit-4C.svg",
@@ -18089,8 +18184,8 @@
     "streamingChannelNumber": 3,
     "primaryColor": "#000000",
     "secondaryColor": "#4a76a5",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/unwell-music/UnwellMusic-126-500x400-P1.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/unwell-music/UnwellMusic-127-500x400-N1.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/unwell-music/UnwellMusic-126-500x400-P2.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/unwell-music/UnwellMusic-127-500x400-N2.svg",
     "explicitContentIndicator": "Yes",
     "vanityURL": "/channels/unwell-music",
     "packages": [
@@ -18104,7 +18199,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/92/9281427d09d93b7793e0bc3d9cbc9663_1764624031.jpg?playerimage=true",
+      "url": "/if/86/8625c70b612030309a17b776ee8dddba_1764762876.png?playerimage=true",
       "format": "image",
       "altText": "Unwell Music",
       "filetype": ""
@@ -20633,7 +20728,6 @@
   {
     "assetId": "1qUQzIxrw6YCi3O5bVzcLA",
     "deliveryTypes": [
-      "satellite",
       "ip",
       "mobile"
     ],
@@ -20650,11 +20744,7 @@
     "longDescription": "Classic Soul, R&B & Motown from the '60s and '70s live in Smokey's Soul Town! Throughout the day, Smokey shares stories from his career and picks some of his favorites from Hitsville and beyond. Plus hosted DJ shows from The Motown Museum in Detroit. Stevie, Aretha, Otis, Marvin, Jackie, Chaka, The Temptations, The Miracles, The Supremes, The Four Tops and all the Soul you can handle... 24/7 on Smokey's Soul Town!!",
     "mediumDescription": "Classic Soul, R&B and Motown from the '60s and '70s with memories and comments from a living legend..Smokey Robinson!",
     "shortDescription": "Classic R&B hosted by Smokey!",
-    "siriusChannelNumber": 74,
-    "siriusServiceId": 40,
-    "xmServiceId": 60,
-    "xmChannelNumber": 74,
-    "streamingChannelNumber": 74,
+    "streamingChannelNumber": 292,
     "primaryColor": "#ffdb77",
     "secondaryColor": "#7c2683",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/smokeys-soul-town/SmokeysSoulTown-126-500x400-P.svg",
@@ -20752,7 +20842,6 @@
   {
     "assetId": "2vKWSKfBmcApG6IcBprjKT",
     "deliveryTypes": [
-      "satellite",
       "ip",
       "mobile"
     ],
@@ -20769,11 +20858,7 @@
     "longDescription": "Pop and rock with a higher purpose. Contemporary Christian music delivered by compassionate hosts to encourage you and your family on your faith journey.",
     "mediumDescription": "The power and positive impact of today's popular Christian music.",
     "shortDescription": "Contemporary Christian",
-    "siriusChannelNumber": 65,
-    "siriusServiceId": 46,
-    "xmServiceId": 32,
-    "xmChannelNumber": 65,
-    "streamingChannelNumber": 65,
+    "streamingChannelNumber": 295,
     "primaryColor": "#8dc63f",
     "secondaryColor": "#000000",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Christian/The-Message/The_Message.svg",
