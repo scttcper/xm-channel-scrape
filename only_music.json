@@ -7976,7 +7976,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/da/da7140b82bb334d19cd33d082221bb0d_1763996731.jpg?playerimage=true",
+      "url": "/if/74/7436f3a3b1253f31a8c27085b47c618c_1742411149.jpg?playerimage=true",
       "format": "image",
       "altText": "Happy Country",
       "filetype": ""
@@ -8021,7 +8021,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/5c/5c1b87758b2b3e898741c6311c853c3e_1763996736.jpg?playerimage=true",
+      "url": "/if/61/61c516973ff83942b5946aff666ddf86_1742411136.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Dance",
       "filetype": ""
@@ -13853,45 +13853,6 @@
     "xtra_channel": false
   },
   {
-    "assetId": "7K9JgOAak8D8WZTfCCUdDi",
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "channelNotification": "",
-    "contentId": "9344",
-    "deepLink": "https://sxm.app.link/HolidayPops",
-    "displayName": "Holiday Pops",
-    "genre": "Holiday",
-    "genreTitle": "Holiday",
-    "longDescription": "Classical Christmas carols and holiday favorites performed by the greatest classical artists of all-time, including the Mormon Tabernacle Choir, Luciano Pavarotti, New York Philharmonic, King's College Choir, Boston Pops and Thomas Hampson.",
-    "mediumDescription": "Classical Christmas carols & holiday favorites performed by the greatest classical artists of all-time.",
-    "shortDescription": "Classical Christmas carols",
-    "streamingChannelNumber": 622,
-    "primaryColor": "#faf4f4",
-    "secondaryColor": "#0d0d0d",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Pops/HolidayPops-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holiday-Pops/HolidayPops-WHITE.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/holiday-pops",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "xtra_channel": false
-  },
-  {
     "assetId": "HGM2SziqpTcGamwUzV6Hj",
     "deliveryTypes": [
       "ip",
@@ -14922,7 +14883,7 @@
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
-    "channelNotification": "Yacht Rock Radio is now on CH 311, Pitbull’s Globalization is now on CH 15.",
+    "channelNotification": "",
     "contentId": "9420",
     "deepLink": "https://sxm.app.link/BnSRxLu2nFb",
     "displayName": "Yacht Rock Radio",
@@ -16952,45 +16913,6 @@
     ]
   },
   {
-    "assetId": "31EaS8Sv4rTiI8nZZaQwLK",
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "channelNotification": "",
-    "contentId": "9591",
-    "deepLink": "https://sxm.app.link/MannheimSteamrollerChannel",
-    "displayName": "Mannheim Steamroller Channel",
-    "genre": "Holiday",
-    "genreTitle": "Holiday",
-    "longDescription": "Celebrate the holidays with Chip Davis of Mannheim Steamroller featuring their signature blend of symphonic, new age and rock inspired Christmas music. Explore more than three decades of their majestic sounds plus Chip's groundbreaking Fresh Aire music.",
-    "mediumDescription": "Mannheim Steamroller takes holiday classics in a fun direction with their signature blend of symphonic, new age & rock sounds.",
-    "shortDescription": "Mannheim Steamroller Christmas",
-    "streamingChannelNumber": 620,
-    "primaryColor": "#db3333",
-    "secondaryColor": "#121111",
-    "colorLogo": "/content/dam/sxm-com/programming-content/music/xtra-channels/mannheimsteamroller/MannheimSteamroller-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/programming-content/music/xtra-channels/mannheimsteamroller/MannheimSteamroller-White.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "xtra_channel": false
-  },
-  {
     "assetId": "22l8sSaaSewxZeABDGiHrx",
     "deliveryTypes": [
       "ip",
@@ -17995,6 +17917,57 @@
       "9188",
       "totally70s"
     ]
+  },
+  {
+    "assetId": "1IvQaojR9zCkZtXDJZKbY3",
+    "deliveryTypes": [
+      "mobile",
+      "satellite",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "9674",
+    "deepLink": "https://sxm.app.link/SiriusXM79",
+    "displayName": "SiriusXM 79",
+    "genre": "pop",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "longDescription": "SiriusXM 79",
+    "mediumDescription": "SiriusXM 79",
+    "shortDescription": "SiriusXM 79",
+    "siriusChannelNumber": 79,
+    "siriusServiceId": 125,
+    "xmServiceId": 22,
+    "xmChannelNumber": 79,
+    "streamingChannelNumber": 79,
+    "primaryColor": "#0fa5e6",
+    "secondaryColor": "#000000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXM79-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXM79-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/siriusxm-79",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/9e/9e9cb610d6f1371cbba547a9ec9f59f0_1766821762.png?playerimage=true",
+      "format": "image",
+      "altText": "SiriusXM 79",
+      "filetype": ""
+    },
+    "xtra_channel": false
   },
   {
     "assetId": "6lVt5mb9VTxzAxWX40YReu",
