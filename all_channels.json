@@ -5563,8 +5563,8 @@
     "streamingChannelNumber": 1138,
     "primaryColor": "#f0b158",
     "secondaryColor": "#ad5538",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-b-sides/RockTheBellsRadioBSides-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-b-sides/RockTheBellsRadioBSides-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-b-sides/RockTheBellsBSides-126-500x400-P1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-b-sides/RockTheBellsBSides-127-500x400-N1.svg",
     "explicitContentIndicator": "Yes",
     "vanityURL": "",
     "packages": [
@@ -5578,7 +5578,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/89/89e4d41384303159adc417b3bf23336f_1768426463.jpg?playerimage=true",
+      "url": "/if/6c/6c2d60491c3a38b3b59160f9b5215e0f_1768548948.png?playerimage=true",
       "format": "image",
       "altText": "LL COOL J's Rock the Bells - B-Sides",
       "filetype": ""
@@ -5605,8 +5605,8 @@
     "streamingChannelNumber": 1139,
     "primaryColor": "#d3d3d3",
     "secondaryColor": "#87ceeb",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/RockTheBellsRadioCleanVersions-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/RockTheBellsRadioCleanVersions-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/RockTheBellsCleanVersions-126-500x400-P1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/ll-cool-js-rtb-clean-versions/RockTheBellsCleanVersions-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "",
     "packages": [
@@ -5622,7 +5622,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/1a/1a9c82a0ae9f37c29b31526abc104862_1768426594.jpg?playerimage=true",
+      "url": "/if/65/65639283224b3b74b09da02090ea428b_1768548923.png?playerimage=true",
       "format": "image",
       "altText": "LL COOL J's Rock the Bells - Clean Versions",
       "filetype": ""
@@ -8066,7 +8066,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/26/26e8f2a84eac3664992098e03441c57e_1742411143.jpg?playerimage=true",
+      "url": "/if/75/75bf7854121631d297f97a9b4a0dacb1_1768495912.jpg?playerimage=true",
       "format": "image",
       "altText": "Happy Oldies",
       "filetype": ""
@@ -11831,8 +11831,8 @@
     "streamingChannelNumber": 1310,
     "primaryColor": "#ffffff",
     "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/diplos-run-club/DiplosRunClubRadio-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/diplos-run-club/DiplosRunClubRadio-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/diplos-run-club/DiplosRunClubRadio-126-500x400-P2.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/diplos-run-club/DiplosRunClubRadio-127-500x400-N2.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "",
     "packages": [
@@ -11848,7 +11848,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/99/994b2e98998e3a49b9e4657936d17f19_1767035833.png?playerimage=true",
+      "url": "/if/da/dad3c8282f0a3cfeb58576c9135f91dc_1768539703.png?playerimage=true",
       "format": "image",
       "altText": "Diplo’s Run Club Radio",
       "filetype": ""
@@ -16388,7 +16388,7 @@
     "genre": "publicradio",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Public_Radio.svg",
     "genreTitle": "News/Public Radio",
-    "longDescription": "MS NOW is the premier destination for breaking news and in-depth analysis through commentary and informed perspectives. MS NOW offers live news coverage, influential voices, and award-winning programming - 24 hours a day, 7 days a week.",
+    "longDescription": "MS NOW is a premier destination for breaking news and best-in-class opinion journalism, reaching diverse audiences across cable, online, social, and audio. MS NOW is an essential part of millions of Americans’ daily lives, commanding one of the most engaged audiences across all of television with the average viewer watching for more than eight hours each week. ",
     "mediumDescription": "News and analysis focused on politics.",
     "shortDescription": "MS NOW simulcast",
     "siriusChannelNumber": 118,
@@ -25633,8 +25633,9 @@
     "contentId": "9342",
     "deepLink": "https://sxm.app.link/HZCLX5e2nFb",
     "displayName": "Holiday Traditions",
-    "genre": "Holiday",
-    "genreTitle": "Holiday",
+    "genre": "pop",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
     "longDescription": "Traditional holiday favorites from the 40s through the 60s by artists such as Bing Crosby, Andy Williams, Ray Conniff and Nat 'King' Cole.",
     "mediumDescription": "Traditional holiday favorites from the 40s through the 60s.",
     "shortDescription": "Traditional holiday music",
@@ -25660,99 +25661,6 @@
       "url": "/if/75/750207f494d13238840e58fba2b3c22e_1761845563.png?playerimage=true",
       "format": "image",
       "altText": "Holiday Traditions",
-      "filetype": ""
-    },
-    "xtra_channel": false
-  },
-  {
-    "assetId": "6xe9nzPo4jlZ5jyq47w33w",
-    "deliveryTypes": [
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "channelNotification": "",
-    "contentId": "9343",
-    "deepLink": "https://sxm.app.link/HollyCOM",
-    "displayName": "Holly",
-    "genre": "Holiday",
-    "genreTitle": "Holiday",
-    "longDescription": "Merry and bright holiday hits featuring songs by Mariah Carey, Michael Bublé, Dean Martin, Kelly Clarkson, Pentatonix, Josh Groban, John Legend, Brenda Lee, Train, Gwen Stefani and more.",
-    "mediumDescription": "Modern holiday hits.",
-    "shortDescription": "Modern holiday hits",
-    "streamingChannelNumber": 600,
-    "primaryColor": "#e6eab0",
-    "secondaryColor": "#0f6639",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holly/Holly-4C.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Holly/Holly-WHITE.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/holly",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/if/fe/fede4b16755a39cb95af1b18209c0a03_1762442729.png?playerimage=true",
-      "format": "image",
-      "altText": "Holly",
-      "filetype": ""
-    },
-    "xtra_channel": false
-  },
-  {
-    "assetId": "HGM2SziqpTcGamwUzV6Hj",
-    "deliveryTypes": [
-      "ip",
-      "mobile",
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "channelNotification": "This channel may not be available on some radios, but there are other ways to listen in your car with the SiriusXM app.",
-    "contentId": "9348",
-    "deepLink": "https://sxm.app.link/Navidad",
-    "displayName": "Navidad",
-    "genre": "Holiday",
-    "genreTitle": "Holiday",
-    "longDescription": "Latin holiday music and traditional sounds, including Ricky Martin, Gloria Estefan, José Feliciano, Tito El Bambino, Marco Antonio Solís and Fania All-Stars.",
-    "mediumDescription": "Latin holiday music and traditional sounds.",
-    "shortDescription": "Latin holiday music",
-    "siriusChannelNumber": 626,
-    "xmServiceId": 369,
-    "xmChannelNumber": 626,
-    "streamingChannelNumber": 626,
-    "primaryColor": "#e6eab0",
-    "secondaryColor": "#940e12",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Navidad/Navidad.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Holiday/Navidad/Navidad_K2_White.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/navidad",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/if/33/336c43bdca6a3c1bb080fafe7a14cfb2_1762249750.png?playerimage=true",
-      "format": "image",
-      "altText": "Navidad",
       "filetype": ""
     },
     "xtra_channel": false
@@ -26216,8 +26124,8 @@
     "genre": "publicradio",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Public_Radio.svg",
     "genreTitle": "News/Public Radio",
-    "longDescription": "A national radio network for rural America & Canada, featuring agriculture news, western lifestyle, and western sports.",
-    "mediumDescription": "A national radio network for rural America & Canada, featuring agriculture news, western lifestyle, and western sports.",
+    "longDescription": "A national radio network for rural America and Canada, featuring agriculture news and the rural lifestyle.",
+    "mediumDescription": "A national radio network for rural America and Canada, featuring agriculture news and the rural lifestyle.",
     "shortDescription": "Ag news & rural lifestyle",
     "siriusChannelNumber": 147,
     "siriusServiceId": 126,
@@ -27157,8 +27065,8 @@
     "streamingChannelNumber": 102,
     "primaryColor": "#00aeef",
     "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/RadioAndy10-Black.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/RadioAndy10-White.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/RadioAndy-126-500x400-P1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/TalkAndEntertainment/Entertainment/Radio-Andy/RadioAndy-127-500x400-N1.svg",
     "explicitContentIndicator": "Yes",
     "vanityURL": "/channels/radio-andy",
     "packages": [
@@ -27172,7 +27080,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/14/1466f551aaa83c2493794c83c5abc2bd_1768429461.jpg?playerimage=true",
+      "url": "/if/73/735e45806cb233958fc780ced3a229c8_1768548624.png?playerimage=true",
       "format": "image",
       "altText": "Radio Andy",
       "filetype": ""
@@ -29223,8 +29131,8 @@
     "streamingChannelNumber": 43,
     "primaryColor": "#87ceeb",
     "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-126-500x400-P3.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-127-500x400-N3.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-126-500x400-P4.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/Rock-the-Bells-Radio/RockTheBellsRadio-127-500x400-N4.svg",
     "explicitContentIndicator": "Yes",
     "vanityURL": "/channels/rock-the-bells-radio",
     "packages": [
@@ -29238,7 +29146,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/d8/d83bf6c3c892340085d363f1cd810d12_1768424815.jpg?playerimage=true",
+      "url": "/if/bc/bcacc2d336d33568a1a1cf27c659beeb_1768553290.png?playerimage=true",
       "format": "image",
       "altText": "Rock The Bells Radio",
       "filetype": ""
@@ -30553,8 +30461,8 @@
     "streamingChannelNumber": 723,
     "primaryColor": "#d3d3d3",
     "secondaryColor": "#14b5f0",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/ll-cool-js-rock-the-bells-mixdown/RockTheBellsRadioMixdown-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/ll-cool-js-rock-the-bells-mixdown/RockTheBellsRadioMixdown-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/ll-cool-js-rock-the-bells-mixdown/RockTheBellsMixdown-126-500x400-P1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Hip-HopRaB/ll-cool-js-rock-the-bells-mixdown/RockTheBellsMixdown-127-500x400-N1.svg",
     "explicitContentIndicator": "Yes",
     "vanityURL": "/channels/rock-the-bells-mixdown",
     "packages": [
@@ -30568,7 +30476,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/ef/ef63e58874123f43b1ccfe8fb258c4c8_1768424888.jpg?playerimage=true",
+      "url": "/if/c2/c2985c2024f533278f25f167d752a508_1768553775.png?playerimage=true",
       "format": "image",
       "altText": "LL COOL J's Rock the Bells - Mixdown",
       "filetype": ""
@@ -33899,7 +33807,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/ac/acc172b8a31237079124838488ebbe13_1768242320.png?playerimage=true",
+      "url": "/if/ac/acc172b8a31237079124838488ebbe13_1768496307.png?playerimage=true",
       "format": "image",
       "altText": "Unwell On Air",
       "filetype": ""
@@ -34275,24 +34183,24 @@
     "channelNotification": "",
     "contentId": "9674",
     "deepLink": "https://sxm.app.link/SiriusXM79",
-    "displayName": "SiriusXM 79",
+    "displayName": "The GRAMMY Channel",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "SiriusXM 79",
-    "mediumDescription": "SiriusXM 79",
-    "shortDescription": "SiriusXM 79",
+    "longDescription": "Celebrating the artists, albums and songs nominated for the 2026 GRAMMY Awards, including Lifetime Achievement Award Honorees.",
+    "mediumDescription": "Celebrating the artists, albums and songs nominated for the 2026 GRAMMY Awards.",
+    "shortDescription": "Celebrating GRAMMY nominees",
     "siriusChannelNumber": 79,
-    "siriusServiceId": 125,
+    "siriusServiceId": 112,
     "xmServiceId": 22,
     "xmChannelNumber": 79,
     "streamingChannelNumber": 79,
     "primaryColor": "#0fa5e6",
     "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXM79-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXM79-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/the-grammy-channel/TheGrammyChannel-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/the-grammy-channel/TheGrammyChannel-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-79",
+    "vanityURL": "/channels/the-grammy-channel",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -34306,9 +34214,9 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/9e/9e9cb610d6f1371cbba547a9ec9f59f0_1766821762.png?playerimage=true",
+      "url": "/if/5a/5a3cd952ec64372597b96d0c61d98919_1768552888.png?playerimage=true",
       "format": "image",
-      "altText": "SiriusXM 79",
+      "altText": "The GRAMMY Channel",
       "filetype": ""
     },
     "xtra_channel": false
