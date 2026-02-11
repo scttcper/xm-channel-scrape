@@ -8066,7 +8066,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/75/75bf7854121631d297f97a9b4a0dacb1_1768495912.jpg?playerimage=true",
+      "url": "/if/26/26e8f2a84eac3664992098e03441c57e_1742411143.jpg?playerimage=true",
       "format": "image",
       "altText": "Happy Oldies",
       "filetype": ""
@@ -8109,7 +8109,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/7e/7ec11158d89031c7b27a085862f0d3a4_1742411142.jpg?playerimage=true",
+      "url": "/if/ef/efd6f6175da83847bfab25b6213d6b0a_1763996400.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Rock",
       "filetype": ""
@@ -26559,21 +26559,21 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "9399",
-    "deepLink": "https://sxm.app.link/MumfordandSons",
-    "displayName": "Mumford & Sons Radio",
+    "deepLink": "https://sxm.app.link/SiriusXMLimitedEdition5",
+    "displayName": "Limited Edition 5",
     "genre": "rock",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
     "genreTitle": "Rock",
-    "longDescription": "An exclusive SiriusXM channel curated and presented by Mumford & Sons to connect and guide you through their music, influences, and the artists that inspire them. Plus exclusive insight into their upcoming 6th studio album Prizefighter.",
-    "mediumDescription": "Exclusive channel curated by Mumford & Sons featuring their music, influences, and insight into their new album Prizefighter.",
-    "shortDescription": "Mumford & Sons new music",
+    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
+    "shortDescription": "Home for limited-run channels",
     "streamingChannelNumber": 505,
-    "primaryColor": "#f7eded",
-    "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/mumford---sons-radio/MumfordAndSonsRadio-126-500x400-P1.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/mumford---sons-radio/MumfordAndSonsRadio-127-500x400-N1.svg",
+    "primaryColor": "#8cbc54",
+    "secondaryColor": "#255c90",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/mumford-sons-radio",
+    "vanityURL": "/channels/siriusxm-limited-edition-5",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -26589,7 +26589,7 @@
     "web_2_0_image": {
       "url": "/if/52/52b2d273aa423dce9d10c97be39fa47f_1741965655.jpg?playerimage=true",
       "format": "image",
-      "altText": "Mumford & Sons Radio",
+      "altText": "Limited Edition 5",
       "filetype": ""
     },
     "xtra_channel": false,
@@ -26715,7 +26715,7 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "9402",
-    "deepLink": "https://sxm.app.link/MissJillScottsFlow",
+    "deepLink": "https://sxm.app.link/JeezysThugMotivationRadio",
     "displayName": "Miss Jill Scott's Flow",
     "genre": "hiphop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Hip_Hop.svg",
@@ -32788,9 +32788,9 @@
     "genre": "rock",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
     "genreTitle": "Rock",
-    "longDescription": "2000s Alternative Rock",
-    "mediumDescription": "2000s Alternative Rock",
-    "shortDescription": "2000s Alternative Rock",
+    "longDescription": "Relive the emotion, energy, and exploration of 2000s and 2010s alternative. Hear the pop-punk, rock, indie, and emo that rewrote the rules and defined a generation from artists like Blink-182, The Killers, Paramore, The Strokes, Linkin Park, and more.",
+    "mediumDescription": "The energy, emotion, and exploration of 2000s and 2010s alternative rock.",
+    "shortDescription": "2000s and 2010s alt rock",
     "siriusChannelNumber": 27,
     "siriusServiceId": 74,
     "xmServiceId": 137,
@@ -34214,7 +34214,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/df/dfbbef33acd23b20b024301374f2e771_1770140977.jpg?playerimage=true",
+      "url": "/if/9e/9e9cb610d6f1371cbba547a9ec9f59f0_1770734945.png?playerimage=true",
       "format": "image",
       "altText": "SiriusXM 79",
       "filetype": ""
@@ -38323,7 +38323,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/aem/6f/6f13b58cc721122ddcd1766e0d7a9a8b_1699375528.jpeg?playerimage=true",
+      "url": "/if/42/424080e6d5893e20b6b8a920fd89777f_1770757225.png?playerimage=true",
       "format": "image",
       "altText": "Spa",
       "filetype": ""
