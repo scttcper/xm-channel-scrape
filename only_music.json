@@ -7800,7 +7800,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/0a/0a0806fecb2b31b0b910a976d5a4b2bb_1763996740.jpg?playerimage=true",
+      "url": "/if/11/11ccc7dea89630a196db6c041248f439_1742411138.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Radio",
       "filetype": ""
@@ -8021,7 +8021,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/5c/5c1b87758b2b3e898741c6311c853c3e_1768426690.jpg?playerimage=true",
+      "url": "/if/61/61c516973ff83942b5946aff666ddf86_1742411136.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Dance",
       "filetype": ""
@@ -14241,21 +14241,21 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "9399",
-    "deepLink": "https://sxm.app.link/SiriusXMLimitedEdition5",
-    "displayName": "Limited Edition 5",
+    "deepLink": "https://sxm.app.link/MumfordandSons",
+    "displayName": "Mumford & Sons Radio",
     "genre": "rock",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Rock.svg",
     "genreTitle": "Rock",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "An exclusive SiriusXM channel curated and presented by Mumford & Sons to connect and guide you through their music, influences, and the artists that inspire them. Plus exclusive insight into their upcoming 6th studio album Prizefighter.",
+    "mediumDescription": "Exclusive channel curated by Mumford & Sons featuring their music, influences, and insight into their new album Prizefighter.",
+    "shortDescription": "Mumford & Sons new music",
     "streamingChannelNumber": 505,
-    "primaryColor": "#8cbc54",
-    "secondaryColor": "#255c90",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-5/SiriusXM-Limited-Edition-5-White.svg",
+    "primaryColor": "#f7eded",
+    "secondaryColor": "#000000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/mumford---sons-radio/MumfordAndSonsRadio-126-500x400-P1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/mumford---sons-radio/MumfordAndSonsRadio-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-5",
+    "vanityURL": "/channels/mumford-sons-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -14271,7 +14271,7 @@
     "web_2_0_image": {
       "url": "/if/d5/d545e632f5f532d8b4ef75e54827ba4b_1770997632.jpg?playerimage=true",
       "format": "image",
-      "altText": "Limited Edition 5",
+      "altText": "Mumford & Sons Radio",
       "filetype": ""
     },
     "xtra_channel": false,
