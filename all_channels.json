@@ -7976,7 +7976,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/74/7436f3a3b1253f31a8c27085b47c618c_1773781150.jpg?playerimage=true",
+      "url": "/if/74/7436f3a3b1253f31a8c27085b47c618c_1742411149.jpg?playerimage=true",
       "format": "image",
       "altText": "Happy Country",
       "filetype": ""
@@ -8021,7 +8021,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/61/61c516973ff83942b5946aff666ddf86_1773782086.jpg?playerimage=true",
+      "url": "/if/61/61c516973ff83942b5946aff666ddf86_1742411136.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Dance",
       "filetype": ""
@@ -8066,7 +8066,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/26/26e8f2a84eac3664992098e03441c57e_1742411143.jpg?playerimage=true",
+      "url": "/if/26/26e8f2a84eac3664992098e03441c57e_1773782046.jpg?playerimage=true",
       "format": "image",
       "altText": "Happy Oldies",
       "filetype": ""
@@ -8109,7 +8109,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/4f/4f25794f1e253cc4a7add0fdb6996d17_1773782222.jpg?playerimage=true",
+      "url": "/if/7e/7ec11158d89031c7b27a085862f0d3a4_1742411142.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Rock",
       "filetype": ""
@@ -25762,6 +25762,54 @@
     "xtra_channel": false
   },
   {
+    "assetId": "KHM7dQAUDuQYqB7v5yLjx",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "This channel may not be available on some radios, but there are <a href=\"/ways-to-listen#assetgroup6knehojw5ak4w5i6kt8fi2\">other ways to listen</a> in your car with the SiriusXM app.",
+    "contentId": "9353",
+    "deepLink": "https://sxm.app.link/SiriusXM79",
+    "displayName": "SiriusXM 105",
+    "genre": "pop",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "longDescription": "SiriusXM 105",
+    "mediumDescription": "SiriusXM 105",
+    "shortDescription": "SiriusXM 105",
+    "xmServiceId": 259,
+    "xmChannelNumber": 105,
+    "streamingChannelNumber": 105,
+    "primaryColor": "#d3cfcf",
+    "secondaryColor": "#0d0d0d",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXM105-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXM105-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "/channels/siriusxm-105",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/9c/9c2408f70931398d9d55b2186a17271b_1773265609.jpg?playerimage=true",
+      "format": "image",
+      "altText": "SiriusXM 105",
+      "filetype": ""
+    },
+    "xtra_channel": false
+  },
+  {
     "assetId": "1voNAHjix9O4WXajH6vFTY",
     "deliveryTypes": [
       "satellite",
@@ -29508,48 +29556,6 @@
       "altText": "Limited Edition 12",
       "filetype": ""
     },
-    "xtra_channel": false
-  },
-  {
-    "assetId": "KHM7dQAUDuQYqB7v5yLjx",
-    "deliveryTypes": [
-      "ip",
-      "mobile"
-    ],
-    "availableToPackage": true,
-    "category": "music",
-    "categoryTitle": "Music",
-    "channelNotification": "This channel may not be available on some radios, but there are <a href=\"/ways-to-listen#assetgroup6knehojw5ak4w5i6kt8fi2\">other ways to listen</a> in your car with the SiriusXM app.",
-    "contentId": "9483",
-    "deepLink": "https://sxm.app.link/SiriusXM79",
-    "displayName": "SiriusXM 105",
-    "genre": "pop",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
-    "genreTitle": "Pop",
-    "longDescription": "SiriusXM 105",
-    "mediumDescription": "SiriusXM 105",
-    "shortDescription": "SiriusXM 105",
-    "xmServiceId": 259,
-    "xmChannelNumber": 105,
-    "streamingChannelNumber": 105,
-    "primaryColor": "#d3cfcf",
-    "secondaryColor": "#0d0d0d",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXM105-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-105/SiriusXM105-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-105",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
     "xtra_channel": false
   },
   {
