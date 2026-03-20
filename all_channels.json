@@ -7976,7 +7976,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/74/7436f3a3b1253f31a8c27085b47c618c_1742411149.jpg?playerimage=true",
+      "url": "/if/74/7436f3a3b1253f31a8c27085b47c618c_1773781150.jpg?playerimage=true",
       "format": "image",
       "altText": "Happy Country",
       "filetype": ""
@@ -8021,7 +8021,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/61/61c516973ff83942b5946aff666ddf86_1742411136.jpg?playerimage=true",
+      "url": "/if/61/61c516973ff83942b5946aff666ddf86_1773782086.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Dance",
       "filetype": ""
@@ -8109,7 +8109,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/7e/7ec11158d89031c7b27a085862f0d3a4_1742411142.jpg?playerimage=true",
+      "url": "/if/4f/4f25794f1e253cc4a7add0fdb6996d17_1773782222.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Rock",
       "filetype": ""
@@ -11781,9 +11781,9 @@
     "displayName": "Diplo’s Run Club Radio",
     "genre": "workout",
     "genreTitle": "Workout",
-    "longDescription": "Hit the track with Coach Diplo",
-    "mediumDescription": "Hit the track with Coach Diplo",
-    "shortDescription": "Hit the track with Coach Diplo",
+    "longDescription": "Run the track ",
+    "mediumDescription": "Run the track ",
+    "shortDescription": "Run the track ",
     "streamingChannelNumber": 1310,
     "primaryColor": "#ffffff",
     "secondaryColor": "#000000",
@@ -12083,6 +12083,49 @@
     "xtra_channel": false
   },
   {
+    "assetId": "G9rWB33rsF0yrEQPGwE8E",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "4328",
+    "deepLink": "https://sxm.app.link/Esperanza",
+    "displayName": "Esperanza",
+    "genre": "allxtra",
+    "genreTitle": "All Xtra",
+    "longDescription": "Contemporary Latin Christian",
+    "mediumDescription": "Contemporary Latin Christian",
+    "shortDescription": "Contemporary Latin Christian",
+    "streamingChannelNumber": 1317,
+    "primaryColor": "#ffffff",
+    "secondaryColor": "#000000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/esperanza/Esperanza-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/esperanza/Esperanza-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/cb/cbee9ca6bd3830dd97481baeb56caa89_1773975817.png?playerimage=true",
+      "format": "image",
+      "altText": "Esperanza",
+      "filetype": ""
+    },
+    "xtra_channel": false
+  },
+  {
     "assetId": "vTmImlrG0VzXPDbTVJ1IB",
     "deliveryTypes": [
       "satellite",
@@ -12196,8 +12239,7 @@
     "relatedChannels": [
       "rawdog",
       "buzzsaw",
-      "9408",
-      "9503"
+      "9408"
     ]
   },
   {
@@ -13537,8 +13579,7 @@
       "9494",
       "bluecollarcomedy",
       "9408",
-      "9469",
-      "9503"
+      "9469"
     ]
   },
   {
@@ -25802,7 +25843,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/9c/9c2408f70931398d9d55b2186a17271b_1773265609.jpg?playerimage=true",
+      "url": "/if/11/11bafafc5358329381b5d28c81ff98b6_1773760752.jpg?playerimage=true",
       "format": "image",
       "altText": "SiriusXM 105",
       "filetype": ""
@@ -25861,7 +25902,6 @@
       "9408",
       "laughbreak",
       "9469",
-      "9503",
       "rawdog",
       "9494",
       "bluecollarcomedy"
@@ -27077,7 +27117,6 @@
     "xtra_channel": false,
     "relatedChannels": [
       "laughbreak",
-      "9503",
       "rawdog",
       "9494",
       "9356",
@@ -29224,9 +29263,9 @@
     "genre": "dance",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Dance.svg",
     "genreTitle": "Dance/Electronic",
-    "longDescription": "Superstar tastemaker Diplo lets you inside his Global House Party. Discover the latest in dance music and exclusive edits/remixes.  You'll also get access to live DJ sets from festivals and events from around the world.",
-    "mediumDescription": "Discover the latest in dance music and DJ mixes.",
-    "shortDescription": "Diplo’s global house party",
+    "longDescription": "Superstar tastemaker Diplo lets you inside his Global House Party. Discover the latest in dance music and exclusive edits/remixes. You'll also get access to live DJ sets from festivals and events from around the world.",
+    "mediumDescription": "Discover the latest in dance music and DJ mixes. ",
+    "shortDescription": "Diplo's house party ",
     "siriusChannelNumber": 53,
     "siriusServiceId": 33,
     "xmServiceId": 80,
@@ -29477,21 +29516,21 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "9481",
-    "deepLink": "https://sxm.app.link/SiriusXMLimitedEdition1",
-    "displayName": "Limited Edition 1",
+    "deepLink": "https://sxm.app.link/BTSRadio",
+    "displayName": "BTS Radio",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "ARMY, this one's for you. BTS Radio is your home to 24/7 BTS hits. Hear RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook share about the songs from their latest album, 'ARIRANG', their biggest hits since debut and much more on their very own SiriusXM channel.",
+    "mediumDescription": "All the hits from BTS since their debut, solo music and their latest album 'ARIRANG'.",
+    "shortDescription": "Every BTS song since debut",
     "streamingChannelNumber": 501,
-    "primaryColor": "#8cbc54",
-    "secondaryColor": "#255c90",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/SiriusXM-Limited-Edition-1/SiriusXM-Limited-Edition-1-White.svg",
+    "primaryColor": "#000000",
+    "secondaryColor": "#d60000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/bts-radio/BTSRadio-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/bts-radio/BTSRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/limited-edition-1",
+    "vanityURL": "/channels/bts-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -29505,9 +29544,9 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/02/02b6e78bebe43e2aa525f55c4da808b4_1760729386.jpg?playerimage=true",
+      "url": "/if/f6/f64ea084a14538b6afb440ac7be31969_1773992377.png?playerimage=true",
       "format": "image",
-      "altText": "Limited Edition 1",
+      "altText": "BTS Radio",
       "filetype": ""
     },
     "xtra_channel": false
@@ -29873,59 +29912,6 @@
       "leftofcenter",
       "hiphopnation",
       "hotjamz"
-    ]
-  },
-  {
-    "assetId": "4hhDwY6Wb5iZHro7uNmj7Z",
-    "deliveryTypes": [
-      "mobile",
-      "ip"
-    ],
-    "availableToPackage": true,
-    "category": "comedy",
-    "categoryTitle": "Comedy",
-    "channelNotification": "",
-    "contentId": "9503",
-    "deepLink": "https://sxm.app.link/vvHNRTA2nFb",
-    "displayName": "She's So Funny",
-    "genre": "comedy",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Comedy.svg",
-    "genreTitle": "Comedy",
-    "longDescription": "The funniest female comedians all in one place hand-curated just for you to keep you in stitches! ",
-    "mediumDescription": "The funniest female comedians. ",
-    "shortDescription": "Female comedians ",
-    "streamingChannelNumber": 771,
-    "primaryColor": "#ec008c",
-    "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Comedy/shes-so-funny/ShesSoFunny-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Comedy/shes-so-funny/ShesSoFunny-127-500x400-N.svg",
-    "explicitContentIndicator": "Yes",
-    "vanityURL": "/channels/shes-so-funny",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/if/0b/0b9aed6510af3819a969744eb57af6ed_1740150994.jpg?playerimage=true",
-      "format": "image",
-      "altText": "She's So Funny",
-      "filetype": ""
-    },
-    "xtra_channel": false,
-    "relatedChannels": [
-      "9469",
-      "bluecollarcomedy",
-      "9494",
-      "9356",
-      "laughbreak",
-      "rawdog",
-      "9408"
     ]
   },
   {
@@ -30488,50 +30474,6 @@
     "xtra_channel": false
   },
   {
-    "assetId": "6MKFUsaUA1wvDmkyGD4xEq",
-    "deliveryTypes": [
-      "mobile",
-      "ip"
-    ],
-    "availableToPackage": true,
-    "category": "comedy",
-    "categoryTitle": "Comedy",
-    "channelNotification": "",
-    "contentId": "9542",
-    "deepLink": "https://sxm.app.link/qk5LVTA2nFb",
-    "displayName": "Comedy Classics",
-    "genre": "comedy",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Comedy.svg",
-    "genreTitle": "Comedy",
-    "longDescription": "Classic stand-up from icons of the past, who paved the way for the greats we love today. Timeless comedy that shaped the landscape and defined generations. Featuring legends like Bob Newhart, Joan Rivers, Jackie Gleason and Redd Foxx, as well as exclusive classic archives. ",
-    "mediumDescription": "Classic stand-up from legendary comedians of the past like Bob Newhart, Joan Rivers, Redd Foxx and more! ",
-    "shortDescription": "Classic stand-up",
-    "streamingChannelNumber": 772,
-    "primaryColor": "#f9e38e",
-    "secondaryColor": "#1b7e94",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Comedy/comedy-classics/ComedyClassics-126-500x400-P2.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Comedy/comedy-classics/ComedyClassics-127-500x400-N2.svg",
-    "explicitContentIndicator": "Yes",
-    "vanityURL": "/channels/comedy-classics",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_PKG_MM",
-      "SIR_IP_SA",
-      "SIR_IP_SA_ESNTL",
-      "SIR_IP_SHOWCASE",
-      "SXM_S_1"
-    ],
-    "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/aem/3c/3c94e575d821b86d548900facf6f98c8_1699376081.jpeg?playerimage=true",
-      "format": "image",
-      "altText": "Comedy Classics",
-      "filetype": ""
-    },
-    "xtra_channel": false
-  },
-  {
     "assetId": "3EHXFZOElixykO4Z9cmCf0",
     "deliveryTypes": [
       "mobile",
@@ -30592,21 +30534,21 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "9545",
-    "deepLink": "https://sxm.app.link/LimitedEdition2",
-    "displayName": "SiriusXM Limited Edition 2",
+    "deepLink": "https://sxm.app.link/LaurenDaiglesMusicBox",
+    "displayName": "Lauren Daigle's MusicBox",
     "genre": "pop",
     "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
     "genreTitle": "Pop",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Lauren Daigle’s Music Box debuts on SiriusXM as a joy-bomb of musical expression as vibrant as Lauren herself. Spotlighting every chapter of Lauren’s Grammy Award winning career, the channel also features the music Lauren loves, highlighting artists that have inspired her sound, from soulful Louisiana roots and gospel influences to timeless favorites that shaped her journey. Lauren Daigle’s Music Box reverberates the faith, joy, and authenticity that her fans have come to love.",
+    "mediumDescription": "Mark the 10th anniversary of Lauren's debut with a joyful musical gumbo of her catalog and the artists that have inspired her.",
+    "shortDescription": "Musical joy from Lauren Daigle",
     "streamingChannelNumber": 502,
-    "primaryColor": "#8cbc54",
+    "primaryColor": "#d3cd17",
     "secondaryColor": "#255c90",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-2/SiriusXM-Limited-Edition-2-White.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/lauren-daigles-music-box/LaurenDaiglesMusicBox-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/lauren-daigles-music-box/LaurenDaiglesMusicBox-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/siriusxm-limited-edition-2",
+    "vanityURL": "/channels/lauren-daigles-music-box",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -30620,9 +30562,9 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/65/65af612d4f013bdfb1b067507bbf637c_1763666497.jpg?playerimage=true",
+      "url": "/if/38/38bced83ca2b3bc29016e16e927430f3_1773853020.jpg?playerimage=true",
       "format": "image",
-      "altText": "SiriusXM Limited Edition 2",
+      "altText": "Lauren Daigle's MusicBox",
       "filetype": ""
     },
     "xtra_channel": false
@@ -30733,19 +30675,19 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "9548",
-    "deepLink": "https://sxm.app.link/LimitedEdition10",
-    "displayName": "Limited Edition 10",
+    "deepLink": "https://sxm.app.link/LukeCombsRadio",
+    "displayName": "Luke Combs Radio",
     "genre": "country",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Country.svg",
     "genreTitle": "Country",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "longDescription": "Luke Combs Radio is more than a playlist, it’s the foundation. Curated and presented by Luke himself, this channel dives into the music that shaped him growing up in North Carolina, the classic rock his dad had playing in the house, the old-school country that taught him how to tell the truth in a song, and the artists who influenced the sound you hear today. You'll also hear Luke’s own catalog, including music from his new album, The Way I Am. To understand the artist, start with the music that made him.",
+    "mediumDescription": "Luke Combs shares the music that shaped him on a personally curated channel, dedicated to rock, country, and Luke Combs hits.",
+    "shortDescription": "The music that made Luke Combs",
     "streamingChannelNumber": 510,
-    "primaryColor": "#8cbc54",
-    "secondaryColor": "#255c90",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-126-500x400-P1.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-127-500x400-N1.svg",
+    "primaryColor": "#0fa5e6",
+    "secondaryColor": "#000000",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/luke-combs-radio/LukeCombsRadio-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/luke-combs-radio/LukeCombsRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/limited-edition-10",
     "packages": [
@@ -30761,9 +30703,9 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/e6/e6267627762c3f299ecca6751bfd76fa_1773840351.png?playerimage=true",
+      "url": "/if/3a/3a65cb651be83864818dc9d9ab4fe492_1773986722.png?playerimage=true",
       "format": "image",
-      "altText": "Limited Edition 10",
+      "altText": "Luke Combs Radio ",
       "filetype": ""
     },
     "xtra_channel": false
@@ -34070,6 +34012,50 @@
     ]
   },
   {
+    "assetId": "6f59zEeWnMXeyF7qqptOEA",
+    "deliveryTypes": [
+      "ip",
+      "mobile"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "9671",
+    "deepLink": "https://sxm.app.link/ExpertsOnlyRadio",
+    "displayName": "Experts Only Radio",
+    "genre": "dance",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Dance.svg",
+    "genreTitle": "Dance/Electronic",
+    "longDescription": "John Summit takes you on a musical journey without limits! Hear his bi-weekly show and discover a variety of sounds and styles as well as DJ sets from around the world. ",
+    "mediumDescription": "Dance music giant, John Summit, curates exclusives and classics along with DJ sets from around the world. ",
+    "shortDescription": "Dance beyond limits ",
+    "streamingChannelNumber": 737,
+    "primaryColor": "#a2a0a0",
+    "secondaryColor": "#003a70",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/experts-only-radio/ExpertsOnlyRadio-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Dance-and-Electronic/experts-only-radio/ExpertsOnlyRadio-127-500x400-N.svg",
+    "explicitContentIndicator": "Yes",
+    "vanityURL": "/channels/experts-only-radio",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_EVT",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "web_2_0_image": {
+      "url": "/if/f8/f87538b7674b3294834f5b03dafda37b_1773975152.png?playerimage=true",
+      "format": "image",
+      "altText": "Experts Only Radio",
+      "filetype": ""
+    },
+    "xtra_channel": false
+  },
+  {
     "assetId": "nkbYtpxFp3t01iBjod7kb",
     "deliveryTypes": [
       "mobile",
@@ -34188,14 +34174,14 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "9674",
-    "deepLink": "https://sxm.app.link/LukeCombsRadio",
-    "displayName": "Luke Combs Radio",
-    "genre": "country",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Country.svg",
-    "genreTitle": "Country",
-    "longDescription": "Luke Combs Radio is more than a playlist, it’s the foundation. Curated and presented by Luke himself, this channel dives into the music that shaped him growing up in North Carolina, the classic rock his dad had playing in the house, the old-school country that taught him how to tell the truth in a song, and the artists who influenced the sound you hear today. You'll also hear Luke’s own catalog, including music from his new album, The Way I Am. To understand the artist, start with the music that made him.",
-    "mediumDescription": "Luke Combs shares the music that shaped him on a personally curated channel, dedicated to rock, country, and Luke Combs hits.",
-    "shortDescription": "The music that made Luke Combs",
+    "deepLink": "https://sxm.app.link/SiriusXM79",
+    "displayName": "SiriusXM 79",
+    "genre": "pop",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/GenreIcons-Pop.svg",
+    "genreTitle": "Pop",
+    "longDescription": "SiriusXM 79",
+    "mediumDescription": "SiriusXM 79",
+    "shortDescription": "SiriusXM 79",
     "siriusChannelNumber": 79,
     "siriusServiceId": 112,
     "xmServiceId": 22,
@@ -34203,10 +34189,10 @@
     "streamingChannelNumber": 79,
     "primaryColor": "#0fa5e6",
     "secondaryColor": "#000000",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/luke-combs-radio/LukeCombsRadio-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/luke-combs-radio/LukeCombsRadio-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXM79-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/GenericSiriusXM/SiriusXM79-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/luke-combs-radio",
+    "vanityURL": "/channels/siriusxm-79",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -34220,9 +34206,9 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/3a/3a65cb651be83864818dc9d9ab4fe492_1772521534.png?playerimage=true",
+      "url": "/if/9e/9e9cb610d6f1371cbba547a9ec9f59f0_1773986745.png?playerimage=true",
       "format": "image",
-      "altText": "Luke Combs Radio",
+      "altText": "SiriusXM 79",
       "filetype": ""
     },
     "xtra_channel": false
@@ -34756,8 +34742,7 @@
       "newcountry",
       "rawdog",
       "laughbreak",
-      "9494",
-      "9503"
+      "9494"
     ]
   },
   {
@@ -36574,8 +36559,7 @@
       "9494",
       "bluecollarcomedy",
       "9408",
-      "8216",
-      "9503"
+      "8216"
     ]
   },
   {
@@ -37345,8 +37329,7 @@
       "9494",
       "bluecollarcomedy",
       "9408",
-      "9469",
-      "9503"
+      "9469"
     ]
   },
   {
