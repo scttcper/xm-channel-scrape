@@ -7975,7 +7975,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/74/7436f3a3b1253f31a8c27085b47c618c_1773781150.jpg?playerimage=true",
+      "url": "/if/74/7436f3a3b1253f31a8c27085b47c618c_1742411149.jpg?playerimage=true",
       "format": "image",
       "altText": "Happy Country",
       "filetype": ""
@@ -8065,7 +8065,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/26/26e8f2a84eac3664992098e03441c57e_1773782046.jpg?playerimage=true",
+      "url": "/if/26/26e8f2a84eac3664992098e03441c57e_1742411143.jpg?playerimage=true",
       "format": "image",
       "altText": "Happy Oldies",
       "filetype": ""
@@ -8108,7 +8108,7 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/7e/7ec11158d89031c7b27a085862f0d3a4_1742411142.jpg?playerimage=true",
+      "url": "/if/4f/4f25794f1e253cc4a7add0fdb6996d17_1773782222.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Rock",
       "filetype": ""
@@ -13861,7 +13861,8 @@
   {
     "assetId": "5eNLxAzSeAzMBA3irpMdCZ",
     "deliveryTypes": [
-      "mobile"
+      "mobile",
+      "ip"
     ],
     "availableToPackage": true,
     "category": "music",
@@ -17854,12 +17855,6 @@
       "SXM_S_1"
     ],
     "exclusiveContent": false,
-    "web_2_0_image": {
-      "url": "/if/f8/f87538b7674b3294834f5b03dafda37b_1773975152.png?playerimage=true",
-      "format": "image",
-      "altText": "Experts Only Radio",
-      "filetype": ""
-    },
     "xtra_channel": false
   },
   {
