@@ -40,7 +40,8 @@
       "altText": "60s/70s",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "09a91fb6-2ec7-f8fb-e562-4f869ff011ef"
   },
   {
     "assetId": "3A4uNJngYQPMQkEixVRZtr",
@@ -83,7 +84,8 @@
       "altText": "70s/80s",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "5907a263-8ba5-2964-648d-7b93ff28e323"
   },
   {
     "assetId": "6eFCW0xh9kEdbno78k0P28",
@@ -126,7 +128,8 @@
       "altText": "70s, 80s, 90s",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "d015b2b8-3373-5105-18d0-40cbbea9f771"
   },
   {
     "assetId": "4As8sAqN3IWNMlRzouMAd4",
@@ -169,7 +172,8 @@
       "altText": "80s/90s",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "6815cf99-fdea-60d4-d710-d390c26bf3c0"
   },
   {
     "assetId": "4VPyqB5NYFhs0l5Ok03h5F",
@@ -212,7 +216,8 @@
       "altText": "80s, 90s & 2Ks",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "aca07ebd-3377-e30f-5df7-9e76101ca93c"
   },
   {
     "assetId": "1lSmQB6ZU8PG6mxNCJYpv4",
@@ -255,7 +260,8 @@
       "altText": "90s & 2Ks",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "726164bd-f1d6-bd57-6480-9d7b08710625"
   },
   {
     "assetId": "1DL7wYRG8GJ0MIZLNQZQgu",
@@ -298,7 +304,8 @@
       "altText": "Rockwall",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "5679685b-f672-19b1-bd30-43315a07e499"
   },
   {
     "assetId": "sB52ZxuKnrbzmFA3i4aCL",
@@ -341,7 +348,8 @@
       "altText": "Country Classics Mix",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "7088564b-f127-fe00-dd10-7b45a0cf12f0"
   },
   {
     "assetId": "781NM3mAtlNOOPY1Z3Aoji",
@@ -384,7 +392,8 @@
       "altText": "Cross Country",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "21070087-5098-a73f-1a0c-b842566e1ef7"
   },
   {
     "assetId": "ainKXQSKDggszwgg2vOSJ",
@@ -426,7 +435,8 @@
       "altText": "Hip-Hop New & Classic",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "6a2fec4e-ffaa-e918-7f05-f9d0e3337a94"
   },
   {
     "assetId": "2KE6GOFBVWy5UPFvCs55E7",
@@ -467,7 +477,8 @@
       "altText": "Xtra_Nitro",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "0e96d823-844f-3ab7-fdd7-5d74de02e8a7"
   },
   {
     "assetId": "1FhSoe7lNmtEvEWKZz0eou",
@@ -508,7 +519,8 @@
       "altText": "90s Rock & Hip-Hop",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "f6f4782a-9a60-6a49-197a-211afac96415"
   },
   {
     "assetId": "30LDrQs7IohALJOhN4m9bF",
@@ -551,7 +563,8 @@
       "altText": "Country & Pop Classics",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "9fad65f2-0e6d-a386-28a7-7bd210643af5"
   },
   {
     "assetId": "6dMxxuVS10MRkiOJw1rHb7",
@@ -594,7 +607,8 @@
       "altText": "Pop/Hip-Hop/Country",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a6c26d25-d9c4-e060-2bdf-dd46d7159b60"
   },
   {
     "assetId": "7cTqbRuepZSiwzjfHVgC9Y",
@@ -637,7 +651,8 @@
       "altText": "Hits 1 Top Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "91109e50-f6d7-3c63-1403-d841e3819b84"
   },
   {
     "assetId": "2obPsors6SukEhQRQPKqxd",
@@ -680,7 +695,8 @@
       "altText": "Pulse Top Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "b546a271-6058-6512-1dd5-12de98976dcf"
   },
   {
     "assetId": "6oTST0aTXzmNEFAAZUjzBY",
@@ -723,7 +739,8 @@
       "altText": "Alt Nation Top Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "6c9ec885-e671-fb9d-40b5-f0e55f93fd9e"
   },
   {
     "assetId": "5WdyluhMDl05aeRB3g14uZ",
@@ -764,7 +781,8 @@
       "altText": "Octane Top Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "54bb62a4-c098-0866-12db-bb2f4e149a3d"
   },
   {
     "assetId": "4HeET9oHMrJE7cTz92RGdb",
@@ -807,7 +825,8 @@
       "altText": "Xtra_Spectrum Top Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "c933faa8-3cd2-ff5c-3e22-bb9396dd0f5f"
   },
   {
     "assetId": "78JkzRcFVNJU9AXenh46js",
@@ -850,7 +869,8 @@
       "altText": "Highway Top Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "e094666a-fb10-f50a-bbca-593576dbed5a"
   },
   {
     "assetId": "2Dbv1sco5dUOp8iOEnNEae",
@@ -893,7 +913,8 @@
       "altText": "Heat Top Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "ba8d3b59-babd-f3e5-2c6f-fea4dfbaaf7f"
   },
   {
     "assetId": "6otje385HR0TsqlTQCBMRV",
@@ -934,7 +955,8 @@
       "altText": "Hip-Hop Nation Top Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a3db0d1b-1224-8e0d-786f-eafd24e4750f"
   },
   {
     "assetId": "5b2YEUBYBrDEIx5gSc1PVM",
@@ -977,7 +999,8 @@
       "altText": "BPM Top Hits",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "4abb03ff-55d9-e382-0a0d-cc9a5cc2eb80"
   },
   {
     "assetId": "42KKq23JWHrtiE2b5Pvg4F",
@@ -1020,7 +1043,8 @@
       "altText": "70s on 7 Dance/R&B",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "f8d56fdd-7b88-cae3-c3c7-587d595e74de"
   },
   {
     "assetId": "6jBcpTRrzptRZe2E7igeoR",
@@ -1063,7 +1087,8 @@
       "altText": "70s on 7 Rock Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "2e15fb39-1ffe-f689-4c66-f2ea4fc1a4bc"
   },
   {
     "assetId": "7AAVHjvw5kvdrgZhwZKUtF",
@@ -1106,7 +1131,8 @@
       "altText": "Love 70s Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "98ea4cd3-e358-f7b2-5145-4a8848857b0e"
   },
   {
     "assetId": "2isOP20kLkNKljhGi3h3L1",
@@ -1149,7 +1175,8 @@
       "altText": "80s on 8 Rock",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "59f24e42-8405-4ba8-704d-03384243d5cb"
   },
   {
     "assetId": "cdCKzQYAlRAwJLgRTilNA",
@@ -1192,7 +1219,8 @@
       "altText": "80s on 8 Dance",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "b94c20a4-5c29-9b19-beb9-d6ce34a48e7a"
   },
   {
     "assetId": "2u8Bwoau222Qbwg933iv1u",
@@ -1235,7 +1263,8 @@
       "altText": "Prime Country 80s Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "d878bd1f-22a3-891b-f080-9283fd8c3eb3"
   },
   {
     "assetId": "4BCUdimIdQ6HW8QGdbdDI0",
@@ -1278,7 +1307,8 @@
       "altText": "90s on 9 Rock",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "36d00fe8-0b5f-9db2-3eed-b3760113d3ba"
   },
   {
     "assetId": "1hZql7rBuOG50TQw9sLqiG",
@@ -1321,7 +1351,8 @@
       "altText": "90s on 9 Dance",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "5615c748-7fa2-902b-13e1-1aea26e80834"
   },
   {
     "assetId": "7G02aB6rz9yVHFC5b32NGt",
@@ -1364,7 +1395,8 @@
       "altText": "90s on 9 Hip-Hop/R&B",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "f3692922-0812-3fc3-db97-c925da495018"
   },
   {
     "assetId": "2yZQfKcLVVyYg1cT5dzqvf",
@@ -1405,7 +1437,8 @@
       "altText": "Fly 90s Hip-Hop",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "ceed1e56-cbf2-a520-2e24-b13e9e4fcbec"
   },
   {
     "assetId": "5JYpDW4GFXYRaf5FoOV7iN",
@@ -1446,7 +1479,8 @@
       "altText": "Xtra_Fly's 2K Hip-Hop Hits",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "ec2cf1b9-7d71-9df6-7629-f3c60587f23b"
   },
   {
     "assetId": "Kxk7uRX9v8VuxhtC4TSNe",
@@ -1489,7 +1523,8 @@
       "altText": "Xtra_Pop2K Rock Hits",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "810b4817-9ea4-2622-246d-fcca25e59802"
   },
   {
     "assetId": "56UuCaI7tMeC5A27UuOXAJ",
@@ -1532,7 +1567,8 @@
       "altText": "Xtra_Heat 2K Hits",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "81948c97-a4ca-df65-fbc9-d77b9e6ced81"
   },
   {
     "assetId": "DThzGDgKTDQQNsXhFtQrJ",
@@ -1575,7 +1611,8 @@
       "altText": "80s On 8 Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "9759dda0-e663-9151-e830-4b4cd4684eb8"
   },
   {
     "assetId": "2eeDfS8ji6atRbCfWVWrFa",
@@ -1618,7 +1655,8 @@
       "altText": "90s On 9 Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "88dae72b-b5b2-9786-da48-418a5afd58db"
   },
   {
     "assetId": "EorNEKedOhfTf2LESptLa",
@@ -1661,7 +1699,8 @@
       "altText": "Xtra_Pop2K Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "f1419664-8e56-5deb-2a83-220ceb62d9ae"
   },
   {
     "assetId": "1owYjgDU1PPrwcGrK9PLwJ",
@@ -1704,7 +1743,8 @@
       "altText": "Xtra_Classic Vinyl Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "d434c9df-7f5c-fb02-3bf5-c660d852393a"
   },
   {
     "assetId": "7FNBZoPvlJyCZChmpBTrv7",
@@ -1747,7 +1787,8 @@
       "altText": "Xtra_Classic Rewind Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "f8060e72-95f9-3088-e9c7-d8df804a8cae"
   },
   {
     "assetId": "3L9italrwiR83gt4AJHxWK",
@@ -1790,7 +1831,8 @@
       "altText": "Xtra_1st Wave Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "ba34f8b7-f9d7-658e-2716-07e13004945b"
   },
   {
     "assetId": "5rmVo3e3W2aoylvhuLXj6K",
@@ -1833,7 +1875,8 @@
       "altText": "Xtra_Lithium Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a5922d75-2cca-8536-ec89-8256bcb5f6e0"
   },
   {
     "assetId": "3MxKksxuMp18tBE8OkbOlv",
@@ -1875,7 +1918,8 @@
       "altText": "Xtra_Hair Nation Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "e80b8f0a-8f44-19a7-1ca6-8d27ad314835"
   },
   {
     "assetId": "3ND0NnGeoSpGVecZBf6Nip",
@@ -1916,7 +1960,8 @@
       "altText": "Xtra_Turbo Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "95ccef63-a111-09c6-5791-7f2d0337c635"
   },
   {
     "assetId": "6ssSviWqhir6hVbJlyaM8u",
@@ -1957,7 +2002,8 @@
       "altText": "Xtra_Fly Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "1c03d7ed-0fa5-b133-23c7-01dbf66b335f"
   },
   {
     "assetId": "6JqFqhgIA2AlSRC5ZSlbbe",
@@ -2000,7 +2046,8 @@
       "altText": "Reggae Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "78588bdb-5d41-9b13-d85d-a63e9f830465"
   },
   {
     "assetId": "3m6D7xCZCsovphQU84USa3",
@@ -2043,7 +2090,8 @@
       "altText": "Y2Kountry Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "55ed9939-e414-0365-c103-d551402ec750"
   },
   {
     "assetId": "1fQx1zmoTjWAITgNnmXpHN",
@@ -2086,7 +2134,8 @@
       "altText": "Xtra_Prime Country Top 100",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a453a80b-d2cc-0f98-a5c2-9d783e4a271e"
   },
   {
     "assetId": "9jlBpe99oL547AEIPuOuW",
@@ -2129,7 +2178,8 @@
       "altText": "Country & Pop Party",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "506babaf-c846-0e89-c64e-af4466179ce0"
   },
   {
     "assetId": "2avAh9U1hweQ8xjeRDO8Cc",
@@ -2172,7 +2222,8 @@
       "altText": "80s on 8 Party",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "3d422eeb-9d32-9bef-a139-31209737d67a"
   },
   {
     "assetId": "46V8JBU4qSfRo82zerEAg7",
@@ -2215,7 +2266,8 @@
       "altText": "90s on 9 Party",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a4915da5-e76e-6f54-dd7a-49f475d10fea"
   },
   {
     "assetId": "21Cxlo1q5535wWibqxtax1",
@@ -2258,7 +2310,8 @@
       "altText": "Xtra_Pop2K Party",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "d87c40cc-2b44-94f3-b330-0a8ebbdba9e7"
   },
   {
     "assetId": "1KkfOe2ZPA7VTbTCMxbPmE",
@@ -2299,7 +2352,8 @@
       "altText": "Xtra_Turbo Party",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "bf95ab7f-4bcb-c600-1cf4-4ca33eab1a51"
   },
   {
     "assetId": "2k9tFz9ebDJSiDssSqRTzJ",
@@ -2341,7 +2395,8 @@
       "altText": "Xtra_Hair Nation Party",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "64bcf553-6ef6-f38e-d31c-c46a0a37a7ba"
   },
   {
     "assetId": "7ciz5Um0XXzG8kLwbwFDk5",
@@ -2384,7 +2439,8 @@
       "altText": "Xtra_1st Wave Party",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "64ec5832-5bf6-db31-5b6c-41cac39ded7c"
   },
   {
     "assetId": "RwfY2ZilJBCfMO1Q9PzyG",
@@ -2427,7 +2483,8 @@
       "altText": "Y2Kountry Party",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "7d14b6b5-def4-cccc-f644-22600d0b6327"
   },
   {
     "assetId": "4sN1DlZAVbWFlfHoOcUiCJ",
@@ -2470,7 +2527,8 @@
       "altText": "Xtra_Prime Country Party",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "752f9c3f-21f1-c6d2-049b-8f355a34ff7c"
   },
   {
     "assetId": "SDFp2pPBoulLWbWaaZcSP",
@@ -2511,7 +2569,8 @@
       "altText": "Xtra_Fly Party",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "cfb904e6-22bd-7381-fe7d-862977ba3f2b"
   },
   {
     "assetId": "4kEswY2XnnGgDiExRjs12c",
@@ -2554,7 +2613,8 @@
       "altText": "Salsa Party",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "5272fb8b-a1c3-6adb-3411-5acf756fb932"
   },
   {
     "assetId": "4GIAsVr0fwbiKk5pgIyvnN",
@@ -2596,7 +2656,8 @@
       "altText": "Xtra_Hits 1 Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a07b6f60-5f62-a362-0aca-ef923deb64ad"
   },
   {
     "assetId": "2arDETP5IwzJrd3p87hf9M",
@@ -2639,7 +2700,8 @@
       "altText": "80s on 8 Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "fb13a3a1-4d8b-000e-ba33-97a61b7130a8"
   },
   {
     "assetId": "3ipqqtr5feCpIttLj1YehV",
@@ -2682,7 +2744,8 @@
       "altText": "90s on 9 Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "b61062ff-fce3-9f4b-acd5-4d6eba614524"
   },
   {
     "assetId": "2kFY5jM48toXz0U1il7rVy",
@@ -2725,7 +2788,8 @@
       "altText": "Xtra_Pop2K Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "c11f049e-c2f8-5299-eae4-ee8841f9ccf3"
   },
   {
     "assetId": "2JWQlgBGaTMIwLcJIrRC3P",
@@ -2766,7 +2830,8 @@
       "altText": "Xtra_Turbo Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "3bf1a125-c0a3-e164-4910-638175ad698d"
   },
   {
     "assetId": "5Dichi4HV7hg8IPmMnFbUp",
@@ -2809,7 +2874,8 @@
       "altText": "Xtra_Lithium Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "36dd742e-0454-3fc0-98ab-7f54dcf7e0ac"
   },
   {
     "assetId": "2rtjC5cCqVzgp5U9eVZiZw",
@@ -2852,7 +2918,8 @@
       "altText": "Xtra_Classic Rock Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "4764f6a7-71ec-f20c-bc8f-3ccb75776fba"
   },
   {
     "assetId": "7v3lxUwtio2t9V8NlLEqZo",
@@ -2895,7 +2962,8 @@
       "altText": "Xtra_1st Wave Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "7b9dd5a3-ac40-b55a-1d40-8d43116b35eb"
   },
   {
     "assetId": "5HJVHcWsSlS0mVHcqrw4LS",
@@ -2938,7 +3006,8 @@
       "altText": "Xtra_Heat Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a40fc210-7514-4928-3c8e-fff8079a6466"
   },
   {
     "assetId": "5DQAdgqte3OIKU6CtlK1n6",
@@ -2979,7 +3048,8 @@
       "altText": "Xtra_Hip-Hop Nation Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "ece565d5-51e5-83a7-d893-446af4df5826"
   },
   {
     "assetId": "3ROXup94VdvhpojOROOuhm",
@@ -3020,7 +3090,8 @@
       "altText": "Xtra_Fly Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "ffd56a04-702e-e63e-97ba-c8abd0d54f22"
   },
   {
     "assetId": "2pZeLxJMGnsFQ8qpOqbXvq",
@@ -3063,7 +3134,8 @@
       "altText": "BPM Workout",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "36415c41-0749-9004-4baa-ef0da292b2f4"
   },
   {
     "assetId": "2Yh7ekuIamHCde6YqsSF9c",
@@ -3106,7 +3178,8 @@
       "altText": "Xtra_Prom Radio",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "052d805b-0fb1-16e6-a431-d5096bb6700a"
   },
   {
     "assetId": "6qUbD9zoUMCcpHAiK28WsK",
@@ -3149,7 +3222,8 @@
       "altText": "Xtra_Tailgating Anthems",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "77b6a229-9a5a-cec0-eb6a-0d8dcbc161ea"
   },
   {
     "assetId": "2HE8NvtaQfU4yYGOxcykgY",
@@ -3192,7 +3266,8 @@
       "altText": "Xtra_Classic Rock BBQ",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "ffee33f8-0feb-d033-7bc7-273c970089d9"
   },
   {
     "assetId": "1SiAWLi8cTYcvGOS9xm8Be",
@@ -3235,7 +3310,8 @@
       "altText": "Xtra_Today's Country BBQ",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "b0cb4208-0da7-5559-a769-af864ee396fd"
   },
   {
     "assetId": "GrEWnzMwmTv8WABfWrVA8",
@@ -3278,7 +3354,8 @@
       "altText": "Xtra_Rocking Country BBQ",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "3215c0d2-e61d-373f-36f7-e756604b4e08"
   },
   {
     "assetId": "12fDcAiIPoIMSBp0kWGFcI",
@@ -3319,7 +3396,8 @@
       "altText": "Xtra_Classic Hip-Hop BBQ",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "4e81c04d-ebc5-8208-41bb-fb674a90a396"
   },
   {
     "assetId": "51mn7YjO4xrRWGXRvmbOEu",
@@ -3362,7 +3440,8 @@
       "altText": "Xtra_Chill Instrumental",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "f9227748-d27b-0bff-6efb-684024c9f555"
   },
   {
     "assetId": "XZutbNqKzgDvvuu52a9et",
@@ -3405,7 +3484,8 @@
       "altText": "Spa Instrumental",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "f396533f-d05d-da8a-8d30-de6565a33221"
   },
   {
     "assetId": "1zbDEdDxRe0sS2f4l6L5Wd",
@@ -3448,7 +3528,8 @@
       "altText": "Watercolors Instrumental",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "3a5c9ee1-9111-ce55-158c-a5ef2867232c"
   },
   {
     "assetId": "jXngTfnrmj82rLkXW33sp",
@@ -3491,7 +3572,8 @@
       "altText": "Xtra_Joint Reggae Vibes",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "ef4707e6-b33f-6bfe-c0a9-fbb0022ce5ca"
   },
   {
     "assetId": "aTJB0GXMYUV0aTbgHyCq2",
@@ -3534,7 +3616,8 @@
       "altText": "Elevations Pop",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "c072972e-8ca4-471d-ce72-339ae56422fc"
   },
   {
     "assetId": "HqCdv6iftMORWhS2hycRA",
@@ -3577,7 +3660,8 @@
       "altText": "Xtra_Yoga",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "476e74dd-cb7c-b8e1-4920-0446e694f9e4"
   },
   {
     "assetId": "6fgoneMBS3ihWe2k5Lp8Ho",
@@ -3620,7 +3704,8 @@
       "altText": "Chillhop",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "ea5ff5c6-6d0a-4350-f7f4-95f2eea1baa4"
   },
   {
     "assetId": "5VudHBOIh4F2qwMHMgZQNR",
@@ -3663,7 +3748,8 @@
       "altText": "Xtra_Country n Chill",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a837a7fb-05c3-230c-77df-de442cd4f748"
   },
   {
     "assetId": "EUwJCO9csWpfKFXUpFi3t",
@@ -3705,7 +3791,8 @@
       "altText": "Xtra_Hits 1 Hitbound",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "86d52e32-09bf-a02d-1b6b-077e0aa05200"
   },
   {
     "assetId": "2BdwJLFBpHMrIbafgpVgpy",
@@ -3748,7 +3835,8 @@
       "altText": "Highway On The Horizon",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "04a5416f-e92d-1b31-d724-c3110fcd2bb9"
   },
   {
     "assetId": "4x7vsXRRut5HBMkmb8fNKV",
@@ -3791,7 +3879,8 @@
       "altText": "Xtra_Spectrum Discovery",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "d6f18ec8-cf30-58d9-1601-1cdcd95288c0"
   },
   {
     "assetId": "60Xq4QUoSRJcjY7gyVTEgt",
@@ -3834,7 +3923,8 @@
       "altText": "Xtra_SiriusXMU Discovery",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "3125bac6-8975-5bda-0a5f-ba175f920bf9"
   },
   {
     "assetId": "3z18adlj9sS88UeXMlEbo",
@@ -3877,7 +3967,8 @@
       "altText": "Xtra_Alt Nation Adv Placement",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "d54094ef-b462-5a96-b54e-1d12606827ed"
   },
   {
     "assetId": "4FViH8sfAAARsqKWuEg2Li",
@@ -3918,7 +4009,8 @@
       "altText": "Xtra_Octane Test Drive",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "e4484918-45cd-b8e0-9058-b5c29710ec74"
   },
   {
     "assetId": "4EXH1W2SE1boPrUAC9isIT",
@@ -3961,7 +4053,8 @@
       "altText": "Xtra_Heat Discovery",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "4fa635e5-1e1a-8931-71b1-58f1416b0687"
   },
   {
     "assetId": "1vRRDRuSg8EB2EUBOGv244",
@@ -4002,7 +4095,8 @@
       "altText": "Xtra_Hip-Hop Nation Discovery",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "398a7a4a-a3c0-108a-7ea1-f5f985f84d70"
   },
   {
     "assetId": "6AvbeAl83B5jGqStjeUU5v",
@@ -4045,7 +4139,8 @@
       "altText": "BPM Discovery",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "0a0e2928-72dd-bb4c-3cc2-910dfa506113"
   },
   {
     "assetId": "4IH8XTxDgvIVu0RHxsHIyQ",
@@ -4088,7 +4183,8 @@
       "altText": "Caliente Discovery",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "e75e4136-8afe-1ebd-ae2b-95f1d7152829"
   },
   {
     "assetId": "QUdeLves6SEgXKczQJqP2",
@@ -4131,7 +4227,8 @@
       "altText": "Xtra_Alt R&B",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "91b6f905-89aa-0e9c-8d1e-5e46d4adb5a5"
   },
   {
     "assetId": "6NzXvAsF1q1Q6aUesng0Te",
@@ -4174,7 +4271,8 @@
       "altText": "New Music Mash",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "b9360988-8101-23dd-8518-fc52acf93212"
   },
   {
     "assetId": "2XpwKQryzue6MzBkJkqFH8",
@@ -4217,7 +4315,8 @@
       "altText": "Xtra_2Ks to Now Pop Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "0c14c6ec-9da9-4846-3a87-18ac97717a5b"
   },
   {
     "assetId": "65V82MVGM2mpDiTIvFw5Ay",
@@ -4260,7 +4359,8 @@
       "altText": "Nashville Nation",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "939b8423-b3ec-2117-6dea-a827708a1a4f"
   },
   {
     "assetId": "5jTbTEkMa6wzX2ppKgvKln",
@@ -4303,7 +4403,8 @@
       "altText": "90s-2Ks Pop, Hip-Hop/R&B",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "8221116b-7a08-ac3c-e770-b6216ffd0572"
   },
   {
     "assetId": "5c0EPFbqlEArKWjdhNNHCZ",
@@ -4346,7 +4447,8 @@
       "altText": "80s to Now Alt Rock",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "14d3da18-9b75-0f8b-08f2-68a7db2d9c38"
   },
   {
     "assetId": "7CCRjl4TaltKdV5RIXupym",
@@ -4389,7 +4491,8 @@
       "altText": "Xtra_Pop & Dance Mix",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "dc93524a-aa6d-b0c4-0d53-caabac97500c"
   },
   {
     "assetId": "2n3xQMCL6LgOBGvWxlCuYx",
@@ -4432,7 +4535,8 @@
       "altText": "50s/60s Pop Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "2016d325-03e5-ef06-a80f-de215b6f2d87"
   },
   {
     "assetId": "3VrFRpfKtmjwaK1YXTcjVq",
@@ -4475,7 +4579,8 @@
       "altText": "Xtra_2010s Hard Rock Hits",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "d6fd521e-11fd-7ffa-d773-7aaa466cd3d6"
   },
   {
     "assetId": "7MJQG5vUTnP6LEU5u1XOrA",
@@ -4518,7 +4623,8 @@
       "altText": "Xtra_2010s Country Hits",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "62f63e88-f4f3-448c-8406-089b17e96b0f"
   },
   {
     "assetId": "64d5GpgDOIX6zntSQPFUtv",
@@ -4561,7 +4667,8 @@
       "altText": "Xtra_2010s Hip-Hop/R&B Hits",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "968e1713-0760-9178-cd3a-891061e23753"
   },
   {
     "assetId": "1KoKoQbDhgMIM91HPVcWPr",
@@ -4604,7 +4711,8 @@
       "altText": "80s Chillpill",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "013adf53-baec-28b2-2762-5923e46b5dfe"
   },
   {
     "assetId": "Nb4NzlWj0EUplOv3xZH4x",
@@ -4647,7 +4755,8 @@
       "altText": "90s Chillax",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "62bb80a9-e12b-4c9d-95ed-16327efcfb40"
   },
   {
     "assetId": "3g5i1UrFdJwj7mD6txRz1J",
@@ -4690,7 +4799,8 @@
       "altText": "Xtra_2Ks Mellow Hits",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "0e7ed6f4-4aa2-acd4-d045-fd073763c2c2"
   },
   {
     "assetId": "2O0XsB9fyMvP0hiTJamwQH",
@@ -4733,7 +4843,8 @@
       "altText": "Velvet",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "cf344f28-cef2-ae3b-d535-ef939d1e659c"
   },
   {
     "assetId": "Bk85kZPLMykaPP4SohtgZ",
@@ -4776,7 +4887,8 @@
       "altText": "Coffee House Classics",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "774a5933-0c1c-d409-e24c-062def5da618"
   },
   {
     "assetId": "6yuinCoQwC2B1TOaRKZYQ2",
@@ -4817,7 +4929,8 @@
       "altText": "Heavy Metal Happy Hour",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "3de2364b-c630-a009-7bfd-328592a44f3c"
   },
   {
     "assetId": "6L1ospYBP2uD0RUMw1OMYT",
@@ -4858,7 +4971,8 @@
       "altText": "Riffs Rhymes & Rebellion",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "1bc09305-2af6-bbbb-c765-a7d83afa669a"
   },
   {
     "assetId": "5Jq05C7cXDCPpxDKTfDSxD",
@@ -4899,7 +5013,8 @@
       "altText": "Battle Hymns Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "fb2763c5-b35c-1d69-cd47-7aaff9d619b7"
   },
   {
     "assetId": "3evSkdDuR60MSC70GK5WTk",
@@ -4943,7 +5058,8 @@
       "altText": "1st Wave Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "aca7fffa-8438-5137-40dc-39aadc9a5331"
   },
   {
     "assetId": "1Go6ybkHQyBCfglvoZN5mC",
@@ -4986,7 +5102,8 @@
       "altText": "Broadway Classics",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "0f652eae-12e7-03e5-cd1f-c78c10548ca3"
   },
   {
     "assetId": "BLdzXAeEChaSXUoizwmtY",
@@ -5029,7 +5146,8 @@
       "altText": "Coffee House Discovery",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "fcb5ee7b-d697-ec6e-dbab-c3d942eca913"
   },
   {
     "assetId": "58PYOvjPGtBZD3vrgrj2or",
@@ -5072,7 +5190,8 @@
       "altText": "Classic Chill",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "855ac14a-ab56-5462-ea40-ecda06123a4c"
   },
   {
     "assetId": "2SxRxLmJskoZ8b0dkjQq0z",
@@ -5115,7 +5234,8 @@
       "altText": "Queens of Pop",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "61893114-e9a5-b984-b7d7-cfdcb14e9369"
   },
   {
     "assetId": "6kn20G4JAr6656RBXFef2Z",
@@ -5156,7 +5276,8 @@
       "altText": "Spectrum of Hip-Hop",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "944a3315-a4ff-e475-1844-707c102924aa"
   },
   {
     "assetId": "7AbpjItfRaq3PiGOA63fkA",
@@ -5199,7 +5320,8 @@
       "altText": "Lithium Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "c57492ce-6461-03ee-dd32-2c703e708726"
   },
   {
     "assetId": "4lMq6WKkJGaRTN4qKABLrg",
@@ -5240,7 +5362,8 @@
       "altText": "Jackie's House",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "b43cf779-b65e-680b-cf10-aaf6af8af98e"
   },
   {
     "assetId": "5GlEjxnGffRiNgo4kk0kjQ",
@@ -5283,7 +5406,8 @@
       "altText": "Boy Bands",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "fde6b158-1f0b-9480-0a1d-035560dc0e3b"
   },
   {
     "assetId": "AXD4fIjeOXBneAE9P52PM",
@@ -5326,7 +5450,8 @@
       "altText": "The Covers Channel",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "25311de8-5eac-1c6f-9f21-9b3c54fbb09a"
   },
   {
     "assetId": "5XsgCpXQVIdpXjpMP8jRjU",
@@ -5369,7 +5494,8 @@
       "altText": "Dead Tracks",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "bc387249-0050-8658-93f6-d611ccf832f7"
   },
   {
     "assetId": "3d4EiPqDE2UAetR6PcKylr",
@@ -5413,7 +5539,8 @@
       "altText": "Dead Archive",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "4fc25519-469b-df27-7887-cbcda25cdb55"
   },
   {
     "assetId": "2j5kROTGU3OsK2Grm7Qd6u",
@@ -5454,7 +5581,8 @@
       "altText": "LL COOL J's Rock the Bells - B-Sides",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "9c8d1f17-b0e5-3622-de9c-0a5f23192e46"
   },
   {
     "assetId": "gTBnlCh0ufCWt5Dn6VdKy",
@@ -5497,7 +5625,8 @@
       "altText": "LL COOL J's Rock the Bells - Clean Versions",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "c91c1b7d-27eb-b715-d919-18d2082d249d"
   },
   {
     "assetId": "6wEIGchoLKb4okUCqCTQod",
@@ -5540,7 +5669,8 @@
       "altText": "Bob Marley's Tuff Beats",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "6ebe0447-46a4-9772-d885-a9153878451c"
   },
   {
     "assetId": "2nhZ25a58uyhTqBnbMCUy7",
@@ -5583,7 +5713,8 @@
       "altText": "Bob Marley's Tuff Soca",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "9be740a7-416a-1de1-f271-608acc050551"
   },
   {
     "assetId": "51xO85LJ0o6oLyiw15V5ZK",
@@ -5626,7 +5757,8 @@
       "altText": "Lithium Icons",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "360f0648-8908-b6b4-2aef-4017bef19a89"
   },
   {
     "assetId": "4nMT6DV0FxKyJl5eaXUaKh",
@@ -5669,7 +5801,8 @@
       "altText": "Lithium Stripped",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "95eb35fc-b56e-5feb-0f9e-d1106f679742"
   },
   {
     "assetId": "36gCwKPDL69MYCZTgrgAHw",
@@ -5712,7 +5845,8 @@
       "altText": "The Big Easy",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "371d1d6b-2ecb-1e98-7529-672dd29635b1"
   },
   {
     "assetId": "5SMQrV9ssYFxYkBctHJMpv",
@@ -5751,7 +5885,8 @@
       "altText": "SiriusXM Comes Alive!",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "4e99c70a-e21d-e4f8-376a-530d0b247ea9"
   },
   {
     "assetId": "5EekKQnOUa4mzXN7nrYxzv",
@@ -5794,7 +5929,8 @@
       "altText": "Viva 90s/2Ks Hits",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "fd6a7cc6-ca23-0349-9223-a690dc10ecc0"
   },
   {
     "assetId": "7zrLvn8LUqnNCwtDlQ5OiF",
@@ -5837,7 +5973,8 @@
       "altText": "Tropix",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "c80a4853-979c-600b-19cf-ee9f9c6981db"
   },
   {
     "assetId": "6cIxrieLehKaRw6sQ2WBbc",
@@ -5880,7 +6017,8 @@
       "altText": "Y'allternative",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "2dbeed13-96f1-de20-c4b1-1ae2092727d8"
   },
   {
     "assetId": "41x2Dw9Vu9FrQb33DPM7n4",
@@ -5924,7 +6062,8 @@
       "altText": "Celebrate!",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "20871ee1-8eb6-7285-c842-c8a32a5a4283"
   },
   {
     "assetId": "2TEbJ3QN7DtZjhpuYLXjGE",
@@ -5965,7 +6104,8 @@
       "altText": "Queens of Hip-Hop",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "69b28967-e01a-0d5f-1c88-9539dad04c2e"
   },
   {
     "assetId": "2QXIrCMeScJliGJ2i9hB1b",
@@ -6008,7 +6148,8 @@
       "altText": "Women of Country",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "70668806-46ce-5d30-ce7d-c017f748a6fc"
   },
   {
     "assetId": "RHvtu61Fi1zWdmIQibQj9",
@@ -6051,7 +6192,8 @@
       "altText": "Xtra_Women of Rock",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "cccf49aa-4ea1-3533-d2b1-073ed190c2fb"
   },
   {
     "assetId": "758T1j5q25r5GojcgHzZW0",
@@ -6095,7 +6237,8 @@
       "altText": "90s on 9 Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "cda91dcb-4098-f23e-5541-d9ccd4e80435"
   },
   {
     "assetId": "owrfG7rV8JYrhH2xteDEh",
@@ -6139,7 +6282,8 @@
       "altText": "Xtra_Alt Nation Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "6d564db0-1df6-27cd-a647-20d7a7dd4e72"
   },
   {
     "assetId": "58VFnJAVOi10qiU5gBa3Fm",
@@ -6183,7 +6327,8 @@
       "altText": "BPM Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "2fb26836-34d0-1c05-5a56-4afe77ac8d65"
   },
   {
     "assetId": "7v36L7WrpcGPZbIaBX2mOD",
@@ -6227,7 +6372,8 @@
       "altText": "Hits 1 Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "d701b999-973e-4924-cfd9-bfb71bd4c6c5"
   },
   {
     "assetId": "62PHNkzz7DuzqAcXxJDXv6",
@@ -6271,7 +6417,8 @@
       "altText": "Lithium Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "659c1843-f6ac-773b-1df6-4a814d4a582b"
   },
   {
     "assetId": "3NouR0xQmzBCDGWWt0C0mP",
@@ -6313,7 +6460,8 @@
       "altText": "Octane Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "f73e07d9-30c6-22c2-98e5-9957448c4699"
   },
   {
     "assetId": "1IqjUPjXi6lSAX5xWXPNnK",
@@ -6357,7 +6505,8 @@
       "altText": "Pop2k Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "c318c8c1-8302-12a5-f9e9-75518e18ae78"
   },
   {
     "assetId": "60nBhzPg378IF7VcTLcgIe",
@@ -6401,7 +6550,8 @@
       "altText": "Heat Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a080894b-1bf5-8846-7c25-5d8c101a2064"
   },
   {
     "assetId": "fwJQuzYZlk943JS2eG6EE",
@@ -6445,7 +6595,8 @@
       "altText": "Highway Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "8c55cef1-efa6-47d3-ffd3-8e93e0cdc701"
   },
   {
     "assetId": "7Mjry0KcKgKhpUqvbOYu4K",
@@ -6489,7 +6640,8 @@
       "altText": "Xtra_Pulse Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "bf26f478-46c3-5e93-878d-f3faf01bed65"
   },
   {
     "assetId": "WKFj2Tw7E83kwj78kMg8z",
@@ -6533,7 +6685,8 @@
       "altText": "Xtra_Acoustic Guitar Instmntl",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "520a1947-75fe-5464-fad2-75893c97ad15"
   },
   {
     "assetId": "4P2riTctK6BcXMNLExcRu2",
@@ -6577,7 +6730,8 @@
       "altText": "Xtra_Piano Instrumentals",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "2cf05b9d-a7e5-b975-1fcf-6458584c8e57"
   },
   {
     "assetId": "39aWtgsjwnwywPsyeKTDZc",
@@ -6621,7 +6775,8 @@
       "altText": "Xtra_Soothe",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "9ac86521-ebce-5a24-4f8b-f158ad22b4b7"
   },
   {
     "assetId": "6JUQeMgvYuEvZwMZ2y4ifr",
@@ -6665,7 +6820,8 @@
       "altText": "Xtra_Strings",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "d055fb93-81f0-5f8b-3fe0-9b245d0a6619"
   },
   {
     "assetId": "6W7bAIEXuuwsPC0SyVfmsL",
@@ -6709,7 +6865,8 @@
       "altText": "Surf Instrumentals",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "1f6acdac-1597-e01d-8d83-8c1f2789bfda"
   },
   {
     "assetId": "1ZHkgfFclrCwGlW6NdrXAw",
@@ -6753,7 +6910,8 @@
       "altText": "Xtra_Tranquil",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "722a1329-63e3-3889-b9bc-db0c5c02464c"
   },
   {
     "assetId": "79giZYzUUfiG5HvFbTE5RI",
@@ -6797,7 +6955,8 @@
       "altText": "60s Gold Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "6d3a889e-e464-337e-980c-33ae8ad389b9"
   },
   {
     "assetId": "5h4HVDCe3Gic7GByOjFumC",
@@ -6841,7 +7000,8 @@
       "altText": "70s on 7 Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "83ffe513-f939-1d45-5120-5a77b2cf3eae"
   },
   {
     "assetId": "1cIwUiacYEUoRIon1Ox2YZ",
@@ -6885,7 +7045,8 @@
       "altText": "Xtra_Classic Rewind Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "0620e80d-4570-ac86-cbc5-c254d769e34e"
   },
   {
     "assetId": "20JKFE32my79cCPnQz8xI6",
@@ -6929,7 +7090,8 @@
       "altText": "Xtra_Classic Rewind Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "282bae89-735a-c222-526d-d217cc615681"
   },
   {
     "assetId": "5AfWpBAsxRPR4yZBLWDtVy",
@@ -6973,7 +7135,8 @@
       "altText": "Xtra_Classic Vinyl Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "0ecf5734-5bba-08aa-0bbe-26d9a9017514"
   },
   {
     "assetId": "3cNHpw5CrgLvUhpm5lZlsP",
@@ -7017,7 +7180,8 @@
       "altText": "Xtra_Deep Tracks Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "6c540f1f-533a-8963-304a-d8380676ec2a"
   },
   {
     "assetId": "7r2ZqxzPMwWmHcHEZYE8v4",
@@ -7059,7 +7223,8 @@
       "altText": "Xtra_Fly Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "8f31f79d-ce60-6ddd-9269-f4b519cb6540"
   },
   {
     "assetId": "4LfPhzk9WGyH1Q4FQV8wZX",
@@ -7103,7 +7268,8 @@
       "altText": "Xtra_Hair Nation Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "204f079a-4d9e-b395-824c-985274cc987a"
   },
   {
     "assetId": "7G4ASnz3JGOUwBwybxlGuK",
@@ -7145,7 +7311,8 @@
       "altText": "Xtra_Octane Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "1956e80e-d36d-f869-5396-cbc692f48f9b"
   },
   {
     "assetId": "xgDE4cavHxr2UPboqsoI1",
@@ -7189,7 +7356,8 @@
       "altText": "Xtra_Ozzy's Boneyard Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a2a07f4b-eb7e-4917-df2f-7a445cfef60d"
   },
   {
     "assetId": "75rbLb6OGQWZXU5ntV5xx1",
@@ -7233,7 +7401,8 @@
       "altText": "Xtra_Prime Country Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "3e6e5a6a-cbfb-032d-f4f3-ae4e5a124297"
   },
   {
     "assetId": "19jnrj9BOnZ7zxALB5fItP",
@@ -7277,7 +7446,8 @@
       "altText": "Xtra_Prime Country Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "1e4c188d-46ba-7005-c260-b3e3ff7f87a3"
   },
   {
     "assetId": "01ecTPgy5AS2QROAHXlmM0",
@@ -7321,7 +7491,8 @@
       "altText": "Xtra_Real Jazz Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "62b1ccac-805b-28f2-a2a3-8030b5ecf55e"
   },
   {
     "assetId": "1DWkhTMRXIrQEzklUJwlMy",
@@ -7365,7 +7536,8 @@
       "altText": "60s/70s R&B Hits",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "4aa7c6f6-76df-7cb9-b19d-379033b8e63a"
   },
   {
     "assetId": "1BfzQUgDN6aRDFketUMeFh",
@@ -7409,7 +7581,8 @@
       "altText": "Xtra_Symphony Hall Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "24e9f2a1-6322-3024-3d37-0f37f40129b3"
   },
   {
     "assetId": "6hsSoUVntbajDkfbvR0iE6",
@@ -7451,7 +7624,8 @@
       "altText": "Xtra_Turbo Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "88a8b6eb-d649-6c32-5d55-4f196b8d2b40"
   },
   {
     "assetId": "iF7rRdHgmD00XmWL6v6gX",
@@ -7495,7 +7669,8 @@
       "altText": "Xtra_Watercolors Just Music",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "c4d1fe76-baee-32b7-6541-20408b233f4e"
   },
   {
     "assetId": "BpqMFdDN05wGs6HKIRTSX",
@@ -7539,7 +7714,8 @@
       "altText": "Xtra_Yacht Rock Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "8ec2d70b-bd02-72d5-28ab-8a42ff358d86"
   },
   {
     "assetId": "6xoH4s1M7ozA3xG6Yxyzel",
@@ -7583,7 +7759,8 @@
       "altText": "Xtra_Cinemagic",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "b647fd9d-c5d4-3681-1388-c6686c889d8d"
   },
   {
     "assetId": "4sdfJa1FmCjMNlDJNeggwx",
@@ -7627,7 +7804,8 @@
       "altText": "Xtra_Happy Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "8a856b66-5375-3783-4562-16defed519c6"
   },
   {
     "assetId": "2f58iiqiXW3a024HoKbfiK",
@@ -7671,7 +7849,8 @@
       "altText": "xtra_SiriusXM Guitar Greats",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "ffedbcd5-6f29-e5d2-ff20-54f35bfb61fb"
   },
   {
     "assetId": "4SkaOK1z1frDktWM4WcZRM",
@@ -7710,12 +7889,13 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/8b/8bfbddcb5dd333028c53ae9f6083591f_1773781242.jpg?playerimage=true",
+      "url": "/if/8b/8bfbddcb5dd333028c53ae9f6083591f_1742411129.jpg?playerimage=true",
       "format": "image",
       "altText": "Alegría",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "7a2bf876-8dc3-8d8b-f3f6-102f116b3fa9"
   },
   {
     "assetId": "3id8J4ZFZzzWcvlXXEDVer",
@@ -7757,7 +7937,8 @@
       "altText": "Xtra_Feel-Good Hip-Hop/R&B",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "e5e9672d-0950-3f8a-7360-621100d7de58"
   },
   {
     "assetId": "2aMd6nbD5aD1tLE9PLeHwx",
@@ -7799,7 +7980,8 @@
       "altText": "Happy Country",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "e036602a-d2c1-6008-76a6-61594ef6e957"
   },
   {
     "assetId": "44w6vCMY5KyT3pKtVCn6DZ",
@@ -7838,12 +8020,13 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/61/61c516973ff83942b5946aff666ddf86_1773782086.jpg?playerimage=true",
+      "url": "/if/61/61c516973ff83942b5946aff666ddf86_1742411136.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Dance",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "bf68143d-85cd-a0cf-25b3-77e72abf9cab"
   },
   {
     "assetId": "1fNtAdh579cC5TMsphmVg4",
@@ -7887,7 +8070,8 @@
       "altText": "Happy Oldies",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "c3a5817f-5659-8f3c-e9e1-09a41670036f"
   },
   {
     "assetId": "3ROxahtLrY0mfO9Gmigsex",
@@ -7924,12 +8108,13 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/4f/4f25794f1e253cc4a7add0fdb6996d17_1773782222.jpg?playerimage=true",
+      "url": "/if/7e/7ec11158d89031c7b27a085862f0d3a4_1742411142.jpg?playerimage=true",
       "format": "image",
       "altText": "Xtra_Happy Rock",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "ce813fad-3e16-1a11-482d-f844cb03d28e"
   },
   {
     "assetId": "2zHtudve92WUnGdE0BySkM",
@@ -7969,7 +8154,8 @@
       "altText": "Xtra_Tom Morello's One Man Revolution Channel",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "a47e9c3a-536b-7dd6-3536-c7ba0a5a76d8"
   },
   {
     "assetId": "46a5OqSgwsj9utVDU5XIYJ",
@@ -8009,7 +8195,8 @@
       "altText": "Xtra_Tom Morello's World Wide Rebel Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "15866460-1973-3054-d6f8-a9d9cbb4f26e"
   },
   {
     "assetId": "9LmXOl19XAUo449NPjK45",
@@ -8053,7 +8240,8 @@
       "altText": "Xtra_The Sleep Channel",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "269497e4-7f91-377d-0940-6b9f027b5b3b"
   },
   {
     "assetId": "48sg9DkRqXv1QpP5PLEroJ",
@@ -8095,7 +8283,8 @@
       "altText": "Xtra_Octane Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "882dcb25-728e-af50-1cba-a9e990f45414"
   },
   {
     "assetId": "5qsZnKHpW9TPeR9lJisU3I",
@@ -8139,7 +8328,8 @@
       "altText": "Xtra_Perfectly Frank",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "3a7d57c7-1241-38bf-0aca-e4e82462fa4e"
   },
   {
     "assetId": "5C2SFDbJYJs9o08La5hinu",
@@ -8183,7 +8373,8 @@
       "altText": "Freestyle Dance",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "d6263609-da22-bf5f-774a-fc88c6e25304"
   },
   {
     "assetId": "6hTrYDlHxMD1Ubd6HVkCHD",
@@ -8227,7 +8418,8 @@
       "altText": "Mom Jeans",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "ce1f80fb-5594-a087-7cc8-8d113fa103bb"
   },
   {
     "assetId": "1OudAebdbkspENqKLb70KG",
@@ -8271,7 +8463,8 @@
       "altText": "Xtra_Forest Dreams",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "0ad5a8a2-87c0-164d-3fe5-da04f7b2f18f"
   },
   {
     "assetId": "5writaaRblwwHw8EePOpvy",
@@ -8315,7 +8508,8 @@
       "altText": "Xtra_Night Noise",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "f1584020-6379-855d-86ed-ff8f045c4ba6"
   },
   {
     "assetId": "6At0GAS9RSOA1urRjdRe5j",
@@ -8359,7 +8553,8 @@
       "altText": "Xtra_Rainfall Radio",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "bf1d8e83-7c94-86c8-ee46-153b0bbaed58"
   },
   {
     "assetId": "3GuunzBRCmk9IyeDh48ySi",
@@ -8403,7 +8598,8 @@
       "altText": "Xtra_Women of Dance",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "aac28bf2-eece-800e-0d11-957797f4b19c"
   },
   {
     "assetId": "2yXPqVCmRkXBoIKogcvqtq",
@@ -8447,7 +8643,8 @@
       "altText": "Indie 1.0",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "abfb5780-324f-1219-48c2-c8c2445c17bd"
   },
   {
     "assetId": "3vWldTQ0DpECxzPP4E8iaZ",
@@ -8491,7 +8688,8 @@
       "altText": "70s/80s Pop",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "09586618-2f54-1e2d-138e-ca62ed294936"
   },
   {
     "assetId": "3iXLfps4nYlK0iC76Q8Sqg",
@@ -8534,7 +8732,8 @@
       "altText": "80s/90s Pop",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "cf96aba3-3b37-312a-78b9-16b53c816205"
   },
   {
     "assetId": "5vLQMUyxer52ETYRsyt2EX",
@@ -8578,7 +8777,8 @@
       "altText": "Carolina Shag Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "3bb65f48-8184-3261-48a6-2c4a232dd25e"
   },
   {
     "assetId": "7zDf177WR3Guth3dYt4HL4",
@@ -8621,7 +8821,8 @@
       "altText": "Elevations",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "51c14331-ffe6-8a72-ad46-7e988d4f4f7d"
   },
   {
     "assetId": "4hCgvSFr3LT8a5gvqiiD0v",
@@ -8665,7 +8866,8 @@
       "altText": "The Emo Project",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "2911715d-50a8-f692-b1c9-ccd01e0f42f1"
   },
   {
     "assetId": "Zuo8ux4QAtJfdAzr8cX5e",
@@ -8709,7 +8911,8 @@
       "altText": "ONEderland",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "5a158ef5-3fd7-0809-d526-7ccee99b1dd2"
   },
   {
     "assetId": "4XftGU5xXwKFJvfE8rhFIb",
@@ -8753,7 +8956,8 @@
       "altText": "Queens of R&B",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "d23c423a-8a11-7391-ad70-33e846e2b3b2"
   },
   {
     "assetId": "1Pvm7AgK6WHEnAta10G7pV",
@@ -8797,7 +9001,8 @@
       "altText": "Classic Folk",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "839a00d9-1f1a-215d-c34c-6ae456726061"
   },
   {
     "assetId": "258BDWnwbyMHiXigLSSxRn",
@@ -8841,7 +9046,8 @@
       "altText": "Zen",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "ed9bb73a-24e6-7985-dc88-0015092acacc"
   },
   {
     "assetId": "1VVe3cMuDE5jAU972mNOzf",
@@ -8884,7 +9090,8 @@
       "altText": "Vacation",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "12f0e0aa-603c-94d6-d136-4ffa07ea7010"
   },
   {
     "assetId": "4lHfbaQNbmy4jSMquGdh0K",
@@ -8927,7 +9134,8 @@
       "altText": "Hawaiian Vacation",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "c522a00f-822c-c3c4-cc06-2fe4b8f3af16"
   },
   {
     "assetId": "68KHc4oqsFpyxSOC2cZRFh",
@@ -8971,7 +9179,8 @@
       "altText": "MexYZ",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "1ce5ef23-525e-7698-8745-beffc15e8d16"
   },
   {
     "assetId": "7sPq9QNHUrMHTYGcckbnZW",
@@ -9015,7 +9224,8 @@
       "altText": "Carr-dio by Carrie",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "85c34be6-edf0-c543-904b-33a9a178e488"
   },
   {
     "assetId": "5kA4JoR0kMWZ78XuJk3o4t",
@@ -9059,7 +9269,8 @@
       "altText": "Lo-Fi Café",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "0dfe0e19-b5ad-5055-e82f-a8b3890ee888"
   },
   {
     "assetId": "yCH6HFskqQgjDwqElB5yr",
@@ -9103,7 +9314,8 @@
       "altText": "Lo-Fi Sleep",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "578f0c9f-e73d-81d7-7143-a8728e0816e1"
   },
   {
     "assetId": "29JUXVQ8p6dDRSKeAq09ZP",
@@ -9147,7 +9359,8 @@
       "altText": "Lo-Fi Study",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "2c1e8e80-4ae6-557d-08f1-4e2460ac6b2d"
   },
   {
     "assetId": "3ZhSAw4KJob0gzzukFYF8f",
@@ -9191,7 +9404,8 @@
       "altText": "Latinas in Music",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "8a80cfb5-e4b2-a0ed-845b-d411c4ba1271"
   },
   {
     "assetId": "5H9pPtHwcuy4uSPjPNDahI",
@@ -9235,7 +9449,8 @@
       "altText": "Les Tubes 80-90",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "38a26de4-5cd2-404e-ecd5-38bb2265a90a"
   },
   {
     "assetId": "1bnRrIDrsD7PncRt1sbIWF",
@@ -9279,7 +9494,8 @@
       "altText": "Siriusly Sinatra Presents The Chairman's Lounge",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "536bac48-db4c-c70e-d7b6-409f1ef6f9ee"
   },
   {
     "assetId": "4jTHESSWYIUmTGj8FC3aeB",
@@ -9322,7 +9538,8 @@
       "altText": "Classical for Sleep",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "906e5792-c7fe-5ea8-90f0-002dcfaa34fe"
   },
   {
     "assetId": "7KzPqjBwGb5I2Z0BQRjH1w",
@@ -9366,7 +9583,8 @@
       "altText": "Summer Sleep",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "4147804a-9e10-b244-8dac-cd5deb096997"
   },
   {
     "assetId": "42mleSH5T6yKIBMnPEK0dx",
@@ -9410,7 +9628,8 @@
       "altText": "Sounds of Ibiza",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "7a38c919-77fe-6627-e180-355633a0e8ec"
   },
   {
     "assetId": "2XtpqFQxcYEZOl1vVfRoF3",
@@ -9454,7 +9673,8 @@
       "altText": "Yacht Soul",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "1a8c7e32-a74d-20a9-9842-63fecb57f97c"
   },
   {
     "assetId": "1ImpKWUKnyVouSsYP8RE6l",
@@ -9496,7 +9716,8 @@
       "altText": "The Bridge Deep Cuts",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "dd0bf0c6-c979-3014-7f48-f1141fefccc6"
   },
   {
     "assetId": "472ChFtjlRGEd73aIuSTo5",
@@ -9538,7 +9759,8 @@
       "altText": "Lullaby",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "f3f11fab-4d6f-6fc5-84d6-e1fee28382fe"
   },
   {
     "assetId": "7l3t3SAoPolPqVDzAoj1VY",
@@ -9580,7 +9802,8 @@
       "altText": "Music for Cats",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "8177af44-fd60-3203-bb01-356d5f943669"
   },
   {
     "assetId": "0hiAPXsWHrDSfECXVtdQm",
@@ -9622,7 +9845,8 @@
       "altText": "Music for Dogs",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "6de7f4f3-29bb-b224-8d5a-4dcafeee67fc"
   },
   {
     "assetId": "2dtnnpjJgs3XdkQaZBCKI4",
@@ -9664,7 +9888,8 @@
       "altText": "Dad Rock",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "ef551c82-25f6-ae51-2ba5-e231c3d5aab2"
   },
   {
     "assetId": "4csAJ5piLYK71srcZhklXe",
@@ -9707,7 +9932,8 @@
       "altText": "Classical Studyscape",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "a7f81827-6d67-d778-e354-0ca68d1d7ec7"
   },
   {
     "assetId": "30YxH8aMDYF21HL7VG7AKx",
@@ -9748,7 +9974,8 @@
       "altText": "Hard Attack",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "93a5f790-d6a5-fb0b-c40f-5b727863abb9"
   },
   {
     "assetId": "4isSKek8kcWX0208L8sHFV",
@@ -9792,7 +10019,8 @@
       "altText": "Vintage T-Shirt",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "bf5fecd3-21f0-2a7b-4aba-a0aa890319c9"
   },
   {
     "assetId": "4PMCbZxwVp8t4thpuJIYh1",
@@ -9836,7 +10064,8 @@
       "altText": "LevelUp",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "825aa806-d505-0fa0-616a-470a6803211c"
   },
   {
     "assetId": "7KL0aUMOCe9YvE6rFXrqnI",
@@ -9878,7 +10107,8 @@
       "altText": "Music for Plants",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "f3da8497-f281-d5f0-5ab4-96c9c2a6670f"
   },
   {
     "assetId": "2suPoRSNHeq2UJGW3YPpMY",
@@ -9920,7 +10150,8 @@
       "altText": "Horizon",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "839d6d74-7677-83ea-ba6d-be3239f48292"
   },
   {
     "assetId": "4zF4r3ZR7zrSo5MfMYvuhT",
@@ -9965,7 +10196,8 @@
       "altText": "Indie Sleep",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "49131562-4579-18dc-6656-b241e88cdac0"
   },
   {
     "assetId": "6Fb7K9oZDNdTXLMzBbYfNN",
@@ -10009,7 +10241,8 @@
       "altText": "Mazaa",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "5970379b-9ca1-de7f-7ad7-0d2b0a5e8735"
   },
   {
     "assetId": "3GVcx6lPb4kypJd5XiOfeP",
@@ -10053,7 +10286,8 @@
       "altText": "The Elevator",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "4fee9ec4-f0e1-026a-3f93-0568c27e118c"
   },
   {
     "assetId": "3b6ENk3Q4kiOXjMj9k2NZv",
@@ -10097,7 +10331,8 @@
       "altText": "Gas Station",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "477d4457-50b7-6214-839d-a331203562b8"
   },
   {
     "assetId": "2rRdu8NZ8AQumsaAxiDOyG",
@@ -10141,7 +10376,8 @@
       "altText": "Karaoke Bar",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "0bad8b45-d4c2-3480-884b-5b7874fd3325"
   },
   {
     "assetId": "2EMwVqOeqm6B1KEBEV09Sx",
@@ -10185,7 +10421,8 @@
       "altText": "Lift Line",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "aa274300-6ac3-13e8-e49d-22d04d21cad9"
   },
   {
     "assetId": "4YpQAZXmuBmTvHXBwhgWpP",
@@ -10202,9 +10439,9 @@
     "displayName": "Pizza Joint",
     "genre": "places",
     "genreTitle": "Places",
-    "longDescription": "Saucy hits",
+    "longDescription": "",
     "mediumDescription": "Saucy hits",
-    "shortDescription": "Saucy hits",
+    "shortDescription": "",
     "streamingChannelNumber": 1271,
     "primaryColor": "#e4dddd",
     "secondaryColor": "#0d0d0d",
@@ -10229,7 +10466,8 @@
       "altText": "Pizza Joint",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "fb5ab9d7-90a6-dd52-628d-173b48280910"
   },
   {
     "assetId": "65jB164fDsCccTPuWkEESe",
@@ -10273,7 +10511,8 @@
       "altText": "Supermarket",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "4a95241c-e7b8-ed9f-ead2-a5211c61b09b"
   },
   {
     "assetId": "358yd3mKpVyYrDRUrVMaRN",
@@ -10317,7 +10556,8 @@
       "altText": "Wine Bar",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "8dd54e27-e30f-b85b-ffe9-3558eec1f5c7"
   },
   {
     "assetId": "3OMviWuFeyd0bVk9Sgi1CU",
@@ -10358,7 +10598,8 @@
       "altText": "Bachelorette Party",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "ff975c20-1d75-d5c6-ef03-177743a3915c"
   },
   {
     "assetId": "4WcWSOs4O5TKYhcBM9hpxN",
@@ -10401,7 +10642,8 @@
       "altText": "Brewery",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "a3c1cd11-f13f-6d89-89a6-b4523644dc05"
   },
   {
     "assetId": "2JXOaeAfVzqlMZXETBHbeb",
@@ -10444,7 +10686,8 @@
       "altText": "Car Wash",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "c85e11c4-fc04-544d-01c9-6a2cf0a72df5"
   },
   {
     "assetId": "4KWFo7Eb2I70iXCHGqFtjr",
@@ -10487,7 +10730,8 @@
       "altText": "Frat Party",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "4ca89bb5-a382-44f6-7918-677473e2b1bb"
   },
   {
     "assetId": "5FwkIjLM5OKMsiuKp9MQhJ",
@@ -10530,7 +10774,8 @@
       "altText": "Line Dance",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "7bec8843-3583-da4c-37ac-a8575ec214a5"
   },
   {
     "assetId": "2fvAOdRDlsnt2ky5EqhFZr",
@@ -10571,7 +10816,8 @@
       "altText": "Skate Shop",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "e45be06d-a833-4e11-66d9-61a35f2729b2"
   },
   {
     "assetId": "66FjMLhGwLEzd3V8MKUq6g",
@@ -10614,7 +10860,8 @@
       "altText": "Soccer Stadium",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "06142ffe-70c2-2e7d-4f95-57e98e9707fe"
   },
   {
     "assetId": "7GATtgX6NdvmbXp4uFCX9T",
@@ -10657,7 +10904,8 @@
       "altText": "Record Store",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "a97996bf-4f9f-9378-09a9-5af4d44f2ac2"
   },
   {
     "assetId": "9kxgqN8C3r4siDnA5ZLaX",
@@ -10700,7 +10948,8 @@
       "altText": "Wedding Cocktail Hour",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "ddd47b47-52da-6130-2b5a-18a3ab7312b2"
   },
   {
     "assetId": "6kemqjMFvY5XsLm66Z8rrV",
@@ -10743,7 +10992,8 @@
       "altText": "SiriusXM Southern Rock",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "f3fec3b7-bd04-326d-808d-edf843ea2150"
   },
   {
     "assetId": "3K7mPkQAIsPMaABp9vSHQY",
@@ -10786,7 +11036,8 @@
       "altText": "Affirmations Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "b817fd55-92ac-71ae-9784-e1d8d990de30"
   },
   {
     "assetId": "631xZfllcPiRUt1OmOrqmp",
@@ -10827,7 +11078,8 @@
       "altText": "Message Foundations",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "c5adda40-340d-41dc-4347-e5b5c2c0112c"
   },
   {
     "assetId": "6wiFkRmp5MDtjWG0RM4OfI",
@@ -10868,7 +11120,8 @@
       "altText": "Drag Brunch",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "170678e5-62e1-9117-30cf-19027d9d0a28"
   },
   {
     "assetId": "7cmyAPswBXDh0gSxZDoPBK",
@@ -10909,7 +11162,8 @@
       "altText": "Roller Rink",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "0161adf3-9b24-7729-ab29-cbfc29c7e37a"
   },
   {
     "assetId": "4leUsOZIZGb8KJHuzV763Z",
@@ -10950,7 +11204,8 @@
       "altText": "Surf Shop",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "c65fb2c2-df49-6969-5b64-399ca24a399a"
   },
   {
     "assetId": "4RGC3YUgpYfZ5TtyyoXsGE",
@@ -10991,7 +11246,8 @@
       "altText": "Vegas Pool Party",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "9bd1dbb1-6320-0f7c-6da1-1187f48c4d76"
   },
   {
     "assetId": "Ab5tmUiWfUtqslBRmAIrf",
@@ -11032,7 +11288,8 @@
       "altText": "Alarm Clock Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "a7e7adb4-bde3-92e3-f9c3-17a32ed95bf0"
   },
   {
     "assetId": "6HIy0TjHDW5c77yzdaSl4H",
@@ -11073,7 +11330,8 @@
       "altText": "Café y Ritmo",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "1365d5e1-dc77-bc1d-107d-e01630b10f29"
   },
   {
     "assetId": "2VD1lB4079Whw9nLNwcyvl",
@@ -11114,7 +11372,8 @@
       "altText": "Emo Mornings",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "01df036f-ad39-e243-e554-f614e1f0ce00"
   },
   {
     "assetId": "4a1ITuLEcorGYoFmBDsenH",
@@ -11155,7 +11414,8 @@
       "altText": "Morning Slaylist",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "49a80eed-208a-66be-85af-3c1c24b61945"
   },
   {
     "assetId": "1Zse7kpD8dqNGBlxo25UHz",
@@ -11196,7 +11456,8 @@
       "altText": "Circuit",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "b10f1700-d575-2a1a-93c3-d5c4033ee589"
   },
   {
     "assetId": "46qLSfLxktkk1nx4rKvyvF",
@@ -11243,6 +11504,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "67441b3c-824d-f1e1-6ffe-425e8e0e8888",
     "relatedChannels": [
       "60svibrations",
       "siriusgold",
@@ -11290,7 +11552,8 @@
       "altText": "Rage 808 Hip-Hop",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "8ebe511b-28b3-f16d-e8c1-e7609eb38913"
   },
   {
     "assetId": "iENTJFw3tAEjbHzF8flW6",
@@ -11331,7 +11594,8 @@
       "altText": "Prog Rock Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "3a16d7b2-ba36-0a4a-152b-bef5b04268bd"
   },
   {
     "assetId": "3Gxhnpryz3C9DZlDokbRKF",
@@ -11372,7 +11636,8 @@
       "altText": "Viral Hits ",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "8528a599-01df-885a-e32b-a21fd01b9ce1"
   },
   {
     "assetId": "3z4SkNNHF8EIkSNL1dg6Ap",
@@ -11413,7 +11678,8 @@
       "altText": "Yacht Country ",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "e2499386-221d-897e-9bd2-66a7e769e915"
   },
   {
     "assetId": "27HvUhWaLbWE8dOBJNQGtw",
@@ -11456,7 +11722,8 @@
       "altText": "Alt Workout",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "9e9b3f37-c423-c564-3700-5e4c882342fa"
   },
   {
     "assetId": "7LLBvevTGNp6ksgATk3VvO",
@@ -11499,7 +11766,8 @@
       "altText": "Bangers",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "19d18208-609b-a05d-4632-e2e6ffa1f44c"
   },
   {
     "assetId": "40jTacpQ4V0hcFj7uoysng",
@@ -11542,7 +11810,8 @@
       "altText": "Diplo’s Run Club Radio",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "0297421f-c65c-3e0c-8299-0d19bc0a89a0"
   },
   {
     "assetId": "7xPXON8i3YhPjMYOXJjvHh",
@@ -11585,7 +11854,8 @@
       "altText": "Jogging",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "a7c9399c-5259-c39e-30d0-ed598b4ada8a"
   },
   {
     "assetId": "45ZBEJBlwinZb3IWAr9LEY",
@@ -11628,7 +11898,8 @@
       "altText": "Running",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "8fa2f006-eff3-2248-b24f-c4ecfb35ec5d"
   },
   {
     "assetId": "4AhnWHkU9kkKWiMUGGZnxy",
@@ -11671,7 +11942,8 @@
       "altText": "Sweat ",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "48963cbb-dc2f-72ac-789c-d6bf7f7db12c"
   },
   {
     "assetId": "4FxfMFs5tIfQ1IlOjOt4bV",
@@ -11714,7 +11986,8 @@
       "altText": "Walking",
       "filetype": ""
     },
-    "xtra_channel": true
+    "xtra_channel": true,
+    "uuid": "fb3114f1-5fed-f24c-da00-b7ad7c4706a2"
   },
   {
     "assetId": "6UlfjM2HNDecDc6zjOBYSr",
@@ -11762,7 +12035,8 @@
       "altText": "Kirk Franklin's Revive & Rhyme",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "e1a36c0f-8dd4-9f5f-a8a1-6b94eddc5260"
   },
   {
     "assetId": "48U1wfcBNW677N7X2jIw6m",
@@ -11809,7 +12083,8 @@
       "altText": "Kirk Franklin's Vintage Praise",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "4f3cb4c9-5e2e-8f6f-0900-139e9acae30d"
   },
   {
     "assetId": "G9rWB33rsF0yrEQPGwE8E",
@@ -11851,7 +12126,8 @@
       "altText": "Esperanza",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "9fcfe151-5792-cdc7-2916-b422d4c4afcd"
   },
   {
     "assetId": "vTmImlrG0VzXPDbTVJ1IB",
@@ -11907,6 +12183,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "6567f2ee-4d7a-cd6d-3402-55ed6089cd0c",
     "relatedChannels": [
       "siriusgold",
       "thevault",
@@ -11969,6 +12246,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "b069d7d9-a765-b98e-9c87-3791d459f2ee",
     "relatedChannels": [
       "siriuslysinatra",
       "purejazz",
@@ -12030,6 +12308,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "c9256031-1123-f35f-4d49-1ba4d5379258",
     "relatedChannels": [
       "big80s",
       "90salternative",
@@ -12080,6 +12359,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "882b5229-2798-4385-5f05-0835c1d017c2",
     "relatedChannels": [
       "outlawcountry",
       "thevault",
@@ -12142,6 +12422,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "40c3d189-9611-e59f-5808-7847e294642e",
     "relatedChannels": [
       "8206",
       "thepulse",
@@ -12201,6 +12482,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "ab3ef743-4a2d-f67b-ea13-283843b3cfb5",
     "relatedChannels": [
       "8205",
       "siriuslysinatra",
@@ -12261,6 +12543,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "5d6347dd-ce61-9b85-c1d9-70a82209b02e",
     "relatedChannels": [
       "9530",
       "laughbreak"
@@ -12310,6 +12593,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "efb97ee8-8555-b0f7-e1ea-e67dcb3f23aa",
     "relatedChannels": [
       "9188",
       "siriushits1",
@@ -12360,6 +12644,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "5fbd983b-7cf9-71d7-7890-c13682e2375a",
     "relatedChannels": [
       "coffeehouse",
       "theroadhouse",
@@ -12419,6 +12704,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "7b32233d-bf01-9654-d97f-9e261aad3d8f",
     "relatedChannels": [
       "8238",
       "9471",
@@ -12479,6 +12765,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "8a38c48f-9f99-17ce-8a62-435eecf51ab0",
     "relatedChannels": [
       "spirit",
       "elvisradio",
@@ -12537,6 +12824,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "cdc9bee8-9317-37fa-ec8e-464096670c60",
     "relatedChannels": [
       "thespectrum",
       "octane",
@@ -12597,6 +12885,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "32c4747f-8739-d578-62d8-08a92d518445",
     "relatedChannels": [
       "classicrewind",
       "octane",
@@ -12667,6 +12956,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "15c78a20-48ff-41f2-aa4e-d0da15455c24",
     "relatedChannels": [
       "9469",
       "siriusleft",
@@ -12726,6 +13016,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "87dba34f-e68a-f241-bc4d-34647f1a61c9",
     "relatedChannels": [
       "9189",
       "thecatholicchannel",
@@ -12787,7 +13078,8 @@
       "altText": "Latin Vault",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "19279890-ebb6-0ed6-0408-8d19a98f9039"
   },
   {
     "assetId": "26QAVGhZuFtPD3oGHP1LGO",
@@ -12844,6 +13136,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "1a649e3b-6686-77fc-6ccb-7184feb7bd85",
     "relatedChannels": [
       "9185",
       "8225",
@@ -12902,6 +13195,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "0b5b5f60-dfcf-eba9-1dc6-ec3c909f4541",
     "relatedChannels": [
       "thevault",
       "gratefuldead",
@@ -12966,6 +13260,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "e3b61a24-206d-4fa1-43ae-14ea190e47a6",
     "relatedChannels": [
       "chill",
       "9471",
@@ -13017,6 +13312,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "dc440aa6-e5bd-0a56-fba3-e14b9f9d0062",
     "relatedChannels": [
       "octane",
       "classicvinyl",
@@ -13073,6 +13369,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "5b537ac7-2357-55f9-a81c-1229382feffb",
     "relatedChannels": [
       "hairnation",
       "classicrewind",
@@ -13128,6 +13425,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "961428e4-50e1-18d3-f353-4bbe4d155822",
     "relatedChannels": [
       "8225",
       "9339",
@@ -13187,6 +13485,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "23771c8c-4631-0fa1-2038-b793bc7e404b",
     "relatedChannels": [
       "rumbon",
       "8225",
@@ -13239,6 +13538,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "6df23c85-6348-397c-67be-7ba8c2fbd2e8",
     "relatedChannels": [
       "8225",
       "9188",
@@ -13295,6 +13595,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "2ab4b7da-039c-e67d-e00d-c7313871a3d4",
     "relatedChannels": [
       "totally70s",
       "9190",
@@ -13351,6 +13652,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "f9f80eb9-a253-6e02-8fc8-33fa6ba69bd4",
     "relatedChannels": [
       "9187",
       "9188",
@@ -13405,6 +13707,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "44028691-9505-d523-3d98-1a58fd12b9a7",
     "relatedChannels": [
       "9189",
       "9187",
@@ -13460,6 +13763,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "7838ff77-9566-436a-5ba7-a8d0d649ae9f",
     "relatedChannels": [
       "9190",
       "8225",
@@ -13516,6 +13820,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "05cd3a1a-d292-3b8e-e8c9-1566d0726994",
     "relatedChannels": [
       "9471",
       "hiphopnation",
@@ -13577,6 +13882,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "d3253c66-e1e1-331b-02e6-71580c33791b",
     "relatedChannels": [
       "theroadhouse",
       "newcountry",
@@ -13625,7 +13931,8 @@
       "altText": "Holiday Traditions",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "33794a0f-2a24-08bb-492e-12e441fab2f0"
   },
   {
     "assetId": "htYTr2jtIGlbliO0hu7kB",
@@ -13669,7 +13976,8 @@
       "altText": "Tom Petty's Buried Treasure",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "f95497ef-39c0-66fd-5749-f6c7b6f768b9"
   },
   {
     "assetId": "KHM7dQAUDuQYqB7v5yLjx",
@@ -13711,12 +14019,13 @@
     ],
     "exclusiveContent": false,
     "web_2_0_image": {
-      "url": "/if/0b/0bc23eb8b95b38518a9157b4728665be_1775166738.jpg?playerimage=true",
+      "url": "/if/0b/0bc23eb8b95b38518a9157b4728665be_1775594972.jpg?playerimage=true",
       "format": "image",
       "altText": "SiriusXM 300",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "b8c4de96-afd9-85ee-7e5f-95c2e380ab65"
   },
   {
     "assetId": "4WihL96szwNSlNQ5Acphze",
@@ -13767,6 +14076,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "0060eb0d-00ee-75f5-9964-5c1ba8fb1b60",
     "relatedChannels": [
       "heartandsoul",
       "soultown",
@@ -13822,6 +14132,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "8d387b31-2065-7393-01c5-f86e3ea47dc9",
     "relatedChannels": [
       "9145",
       "siriushits1",
@@ -13884,6 +14195,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "d8a071ae-c656-bbdb-a4ec-cbc1d71b2740",
     "relatedChannels": [
       "8216",
       "9530",
@@ -13933,6 +14245,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "2d926e91-aa32-4e53-85e5-d444870eff11",
     "relatedChannels": [
       "9175",
       "firstwave",
@@ -13985,6 +14298,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "255682b9-78d5-0279-ca90-fb6b37c87592",
     "relatedChannels": [
       "siriushits1",
       "shade45",
@@ -14039,7 +14353,8 @@
       "altText": "Limited Edition 4",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "d1320015-4873-9375-d7ea-6c0f325479c7"
   },
   {
     "assetId": "7Cb9H5kktQwxVQpXfjvBqS",
@@ -14085,6 +14400,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "4a121e6f-9d04-d2bb-763f-2b9119a5d281",
     "relatedChannels": [
       "chill",
       "thebeat",
@@ -14136,6 +14452,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "456700c3-f2df-3a94-8e76-966e047c7d18",
     "relatedChannels": [
       "chill",
       "thebeat",
@@ -14188,6 +14505,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "1e78cc73-4c8d-3a3f-6db2-7cc1857a8b7c",
     "relatedChannels": [
       "chill",
       "thebeat",
@@ -14241,6 +14559,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "14c3bc4f-4309-b439-4a84-54c0f26a581c",
     "relatedChannels": [
       "chill",
       "thebeat",
@@ -14294,6 +14613,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "78239fb8-a9cb-fc9e-4244-2cef6c2527c9",
     "relatedChannels": [
       "9145",
       "chill",
@@ -14352,6 +14672,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "5d71ae5d-5c6e-0430-6fc5-d9ca0c1c34c0",
     "relatedChannels": [
       "siriushits1",
       "thebeat",
@@ -14409,6 +14730,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "60b0ea2e-dec7-1d4a-da2a-6de09f273fe7",
     "relatedChannels": [
       "thevault",
       "estreetradio",
@@ -14465,6 +14787,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "f936a498-89c7-bc15-f158-19a015db0683",
     "relatedChannels": [
       "8230",
       "octane",
@@ -14526,6 +14849,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "c3890f3c-1222-5036-bea9-6d52753bf018",
     "relatedChannels": [
       "big80s",
       "classicvinyl",
@@ -14586,7 +14910,8 @@
       "altText": "No Shoes Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "0736f9f8-2b36-d38f-e3a6-d4de7d7877a8"
   },
   {
     "assetId": "8DNljRw0a4DqufcuwTSc0",
@@ -14641,6 +14966,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "9150cc82-af5c-3be3-d170-0e81d87375a8",
     "relatedChannels": [
       "totally70s",
       "big80s",
@@ -14700,6 +15026,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "20801778-3df2-d607-eab5-e03de0ca7815",
     "relatedChannels": [
       "60svibrations",
       "totally70s",
@@ -14762,6 +15089,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "44f9129f-579a-3d23-218f-3c3518036fc6",
     "relatedChannels": [
       "8206",
       "thepulse",
@@ -14813,6 +15141,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "2123d9ad-bc5b-1151-9649-b2cb9dce2a8f",
     "relatedChannels": [
       "firstwave",
       "leftofcenter",
@@ -14869,6 +15198,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "988d25d1-db91-ee15-72e1-386c1972b8b0",
     "relatedChannels": [
       "9541",
       "hiphopnation",
@@ -14929,6 +15259,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "4ebc3011-0ebe-a9ad-c58b-9a306f60fc2b",
     "relatedChannels": [
       "thebeat",
       "hotjamz",
@@ -14948,16 +15279,16 @@
     "channelNotification": "This channel may not be available on some radios, but there are <a href=\"/ways-to-listen#assetgroup6knehojw5ak4w5i6kt8fi2\">other ways to listen</a> in your car with the SiriusXM app.",
     "contentId": "9475",
     "deepLink": "https://sxm.app.link/sYhZiMu2nFb",
-    "displayName": "Dwight Yoakam and The Bakersfield B",
+    "displayName": "Dwight Yoakam and The Bakersfield Beat",
     "genre": "country",
     "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Country.svg",
     "genreTitle": "Country",
     "longDescription": "Bakersfield inspired a lifestyle, an attitude and a musical movement… it also inspired Dwight Yoakam to put that all together and make this channel. “The Bakersfield Beat” is a celebration of the artistry from Buck Owens and Merle Haggard, to Dwight’s music, California Country, California Country-rock, Cow-punk and Now-punk… ALL influenced by the “Bakersfield Sound”.",
     "mediumDescription": "Music from Dwight Yoakam, and all of the artists that shaped the Bakersfield sound… and beyond.",
     "shortDescription": "Dwight Yoakam’s music channel",
-    "siriusChannelNumber": 349,
     "xmServiceId": 278,
     "xmChannelNumber": 349,
+    "streamingChannelNumber": 349,
     "primaryColor": "#b09b8d",
     "secondaryColor": "#265c7f",
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Country/Dwight-Yoakam-and-The-Bakersfield-Beat/DwightYoakam-4C.svg",
@@ -14983,6 +15314,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "78612a95-0706-3f8d-a72d-7b8347093f16",
     "relatedChannels": [
       "outlawcountry",
       "primecountry",
@@ -15033,7 +15365,8 @@
       "altText": "BTS Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "bffe40f0-1688-dbba-e420-ef894d49d17d"
   },
   {
     "assetId": "1SWk3UGDaMZgtkTwfGkeH5",
@@ -15078,7 +15411,8 @@
       "altText": "Limited Edition 12",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "08361d2b-88c3-df4d-d782-cb3e1ffdaad8"
   },
   {
     "assetId": "6vUtQ3eNP2n5ZoLwId8DMY",
@@ -15121,6 +15455,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "02394c8d-7afe-6ba2-3791-fce63b1e4d85",
     "relatedChannels": [
       "siriushits1",
       "thepulse",
@@ -15172,6 +15507,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "6c535597-8e2b-5b54-968a-10cad277f43b",
     "relatedChannels": [
       "thebeat",
       "hiphopnation",
@@ -15221,6 +15557,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "b96d76d6-935a-3b90-c22d-e0bc7ba11543",
     "relatedChannels": [
       "siriushits1",
       "leftofcenter",
@@ -15277,6 +15614,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "69e5185d-d218-8fbc-082f-6ea5a16ca4db",
     "relatedChannels": [
       "altnation",
       "jamon",
@@ -15338,6 +15676,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "a4b7a4f7-af96-3ae6-53df-f78ff9ac9aab",
     "relatedChannels": [
       "thespectrum",
       "thepulse",
@@ -15400,6 +15739,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "881c9b1f-e7fd-4637-b87a-0dd06f1831a5",
     "relatedChannels": [
       "4148",
       "4147"
@@ -15448,7 +15788,8 @@
       "altText": "Steve Aoki's Remix Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "6d5e6d8a-dbc8-b328-72ef-cb5e2a62a3a0"
   },
   {
     "assetId": "28rIKdZ3bLL5UEJ8okrcDl",
@@ -15493,7 +15834,8 @@
       "altText": "A State of Armin",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "44a043a9-4ad8-4f24-fbef-866695c96c95"
   },
   {
     "assetId": "1OPmLA55fXMRLxckpjiQ47",
@@ -15538,7 +15880,8 @@
       "altText": "Chucho Valdes' Cuba & Beyond",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "3a35a1f3-aad6-4abe-a93d-7b2f792ac726"
   },
   {
     "assetId": "1rlXBrpfFIJfbpg2gPQZYA",
@@ -15588,7 +15931,8 @@
       "altText": "Disney Hits",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "95cf8bf1-fc4e-76b9-ac2a-617dca0325e7"
   },
   {
     "assetId": "3EmfKJv86KuhIg3s9PNgcZ",
@@ -15631,7 +15975,8 @@
       "altText": "LL COOL J's Rock the Bells - Mixdown",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "21c2a98a-e53e-c944-8e23-12cabd6c3439"
   },
   {
     "assetId": "3EHXFZOElixykO4Z9cmCf0",
@@ -15681,7 +16026,8 @@
       "altText": "Andy Cohen's Kiki Lounge",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "2211d1e6-153e-f617-b0d7-fd0b4ff513f2"
   },
   {
     "assetId": "6Lh8jQLJPIqqqwBXHtrkXs",
@@ -15726,7 +16072,8 @@
       "altText": "Lauren Daigle's MusicBox",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "70236813-3a54-23e2-00a9-2d98888a4c75"
   },
   {
     "assetId": "7lTujxm7aByHComY0kJ3yh",
@@ -15771,7 +16118,8 @@
       "altText": "Limited Edition 3",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "8fcd47c1-c56f-a906-871d-f8a6ca8d928d"
   },
   {
     "assetId": "2hly8kNwK3gQTcsHj4gitu",
@@ -15819,7 +16167,8 @@
       "altText": "Bon Jovi Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "3adfcd26-b336-23cb-f40d-8e4f1a40e1de"
   },
   {
     "assetId": "4xxD5rbYD9aoGSY79pFyVl",
@@ -15864,7 +16213,8 @@
       "altText": "Limited Edition 10",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "0362be32-e873-95f6-c282-2fcf7be86ab6"
   },
   {
     "assetId": "5O8fiR27ZeWmRKXhCeFtH9",
@@ -15909,7 +16259,8 @@
       "altText": "Limited Edition 11",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "ecb0f19c-ea10-d4ce-0326-4e7477d16d5c"
   },
   {
     "assetId": "wetzZwm26WXPN5tD9ES91",
@@ -15965,6 +16316,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "038e9a9a-4878-7561-521b-5d432a0798a0",
     "relatedChannels": [
       "siriushits1",
       "thebeat",
@@ -16025,6 +16377,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "d0759ae0-eeef-48e4-c4b9-526217aac33d",
     "relatedChannels": [
       "8208",
       "9450",
@@ -16078,7 +16431,8 @@
       "altText": "Little Steven's Coolest Songs",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "862cfe43-6be7-8250-d89e-51fa75f70fc5"
   },
   {
     "assetId": "enAugyB0Ich62dWC6POJl",
@@ -16122,6 +16476,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "95179ecb-a419-71aa-f3e6-92f5c4db1f7f",
     "relatedChannels": [
       "shade45",
       "hiphopnation",
@@ -16179,6 +16534,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "36e165d2-77d0-198b-f00a-a8606b04f4fb",
     "relatedChannels": [
       "8206",
       "9450",
@@ -16230,7 +16586,8 @@
       "altText": "Billboard Top 500",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "45a553ba-df24-a84a-d197-64e26adc405f"
   },
   {
     "assetId": "1BspQkQB1FIhLI12QcQJfV",
@@ -16275,7 +16632,8 @@
       "altText": "Pop Top 500",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "4466e297-33f5-b69f-e5e7-71be602ebb2f"
   },
   {
     "assetId": "52WBOG6gdBYUyNFDHRTkG2",
@@ -16320,7 +16678,8 @@
       "altText": "80s on 8 Top 500",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "6be4367a-f423-68eb-1a5e-76ef11a8970e"
   },
   {
     "assetId": "6uS3z8i8I6AhdiXm0i94bI",
@@ -16365,7 +16724,8 @@
       "altText": "90s on 9 Top 500",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "35c2ba06-4e2f-39f9-4538-b9fdd694650c"
   },
   {
     "assetId": "7q08DOHHYvhzOPuJnqzDXH",
@@ -16411,6 +16771,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "42f72153-ec76-e66c-c517-e86a6dcbe922",
     "relatedChannels": [
       "4073",
       "4082",
@@ -16460,7 +16821,8 @@
       "altText": "Country Top 1000",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "451bf902-005b-da8b-08bf-e24d34df486e"
   },
   {
     "assetId": "33qSdYdIctSHeGWuJsPK0Q",
@@ -16503,7 +16865,8 @@
       "altText": "Hip-Hop Chronicles",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "b3f0ba0e-1d1c-ac76-188f-bea057b3c212"
   },
   {
     "assetId": "o4uFKydJL3wX3FUwjEXzP",
@@ -16549,6 +16912,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "04e45b04-19ab-3ca3-3064-4fe6320df18b",
     "relatedChannels": [
       "thevault",
       "classicvinyl",
@@ -16607,6 +16971,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "d17d9b5a-2577-1241-b7f0-efac03348b78",
     "relatedChannels": [
       "9406",
       "siriushits1",
@@ -16659,7 +17024,8 @@
       "altText": "SiriusXM App Originals",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "4d49f200-7e40-2209-511e-5d93b86d227c"
   },
   {
     "assetId": "7HujrpPAwAxirLaOZ33Jsh",
@@ -16712,6 +17078,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "75301b34-2f01-2c17-0b52-028bec0d271c",
     "relatedChannels": [
       "classicrewind",
       "9418",
@@ -16773,6 +17140,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "3f21599e-f0e6-54f9-dbf2-6122bef705ad",
     "relatedChannels": [
       "9530",
       "9366",
@@ -16830,6 +17198,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "ad0ab172-202f-c05b-c7b9-597be600541f",
     "relatedChannels": [
       "thespectrum",
       "soultown",
@@ -16891,6 +17260,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "dc5d3e2e-4729-7a6b-25f9-fe15dcc352d3",
     "relatedChannels": [
       "siriushits1",
       "primecountry",
@@ -16952,6 +17322,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "fe951560-f7e7-2ee3-9de9-cfd89fd54ac5",
     "relatedChannels": [
       "9339",
       "shade45",
@@ -17007,7 +17378,8 @@
       "altText": "Flex2K",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "847b22e6-1d35-b5b3-92f4-0c5e4e7b9040"
   },
   {
     "assetId": "4Bvt2uI6nEXrUMX8Wvtmnb",
@@ -17059,7 +17431,8 @@
       "altText": "Alt2K",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "59b6ed0e-4c39-ec45-f8be-ce1599661ce3"
   },
   {
     "assetId": "4gZvsqsZ5ipVy1FNAWOIqd",
@@ -17111,7 +17484,8 @@
       "altText": "Life with John Mayer",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "916d7bd2-33ad-2fac-5787-cc1865a499be"
   },
   {
     "assetId": "7fGHgV0lbLNvxUJYuSXD1u",
@@ -17161,7 +17535,8 @@
       "altText": "Radio Monaco",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "705b4f46-09ae-c9cc-26c5-30b56d62877c"
   },
   {
     "assetId": "1d0yP1oNXZMoH77vzH8foK",
@@ -17206,6 +17581,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "784046a2-4237-e099-29ab-6605813f864b",
     "relatedChannels": [
       "9599",
       "4252"
@@ -17253,7 +17629,8 @@
       "altText": "Disney Jr. Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "d960e76a-e678-e62b-a7f2-6345afee1bb2"
   },
   {
     "assetId": "1HND4c28KMABuLKgd8Eub3",
@@ -17299,6 +17676,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "5583d0b9-0505-be47-22c5-473d0d9c8086",
     "relatedChannels": [
       "siriuslove",
       "thepulse",
@@ -17354,6 +17732,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "98672b8b-d1ec-9286-7a7f-b829a617500b",
     "relatedChannels": [
       "8208",
       "9556",
@@ -17404,7 +17783,8 @@
       "altText": "One World Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "ab42e288-7fde-7598-31fd-2ca6e09d7559"
   },
   {
     "assetId": "zl2S769igFDyGSaUx3VLY",
@@ -17448,7 +17828,8 @@
       "altText": "SiriusXM Dhamaka",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "c4533437-55d7-b623-9e7d-da95c64c4caf"
   },
   {
     "assetId": "6v81lVi4SWwvYXNABAiEJb",
@@ -17498,6 +17879,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "35b0a4e3-b63d-b68e-4c34-6462579a8721",
     "relatedChannels": [
       "hardattack",
       "buzzsaw",
@@ -17547,7 +17929,8 @@
       "altText": "Experts Only Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "b7ef42fd-843b-8aa2-27ab-3723e312b978"
   },
   {
     "assetId": "nkbYtpxFp3t01iBjod7kb",
@@ -17593,6 +17976,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "d248760a-9889-21d9-f1b2-fa9ba611b396",
     "relatedChannels": [
       "9190",
       "rumbon",
@@ -17653,7 +18037,8 @@
       "altText": "The Billy Joel Channel",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "ab0e4302-503b-e1ff-c786-8307a3d36fe0"
   },
   {
     "assetId": "1lF4uzMs01VXmB13oZqaxG",
@@ -17704,6 +18089,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "c5647ffa-5f13-5030-88f6-13ed47df40dc",
     "relatedChannels": [
       "spirit",
       "praise",
@@ -17760,7 +18146,8 @@
       "altText": "Morgan Wallen Radio",
       "filetype": ""
     },
-    "xtra_channel": false
+    "xtra_channel": false,
+    "uuid": "1430a1d6-68ba-edb7-acaf-c500b1c00354"
   },
   {
     "assetId": "6lVt5mb9VTxzAxWX40YReu",
@@ -17815,6 +18202,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "fd5740ec-7f11-0ecf-f676-46f9dc056d2c",
     "relatedChannels": [
       "leftofcenter",
       "thespectrum",
@@ -17877,6 +18265,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "2ea07147-a720-ed0c-d4ce-d7bddd1640d3",
     "relatedChannels": [
       "totally70s",
       "thepulse",
@@ -17938,6 +18327,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "9e545d10-7c21-9707-1d34-3d503b7365bc",
     "relatedChannels": [
       "outlawcountry"
     ]
@@ -17995,6 +18385,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "adc27a20-6fc4-7269-5ca6-4a492f7dfa55",
     "relatedChannels": [
       "big80s",
       "totally70s",
@@ -18056,6 +18447,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "fed8de31-8d51-8949-6c69-2035fb0485b0",
     "relatedChannels": [
       "classicrewind",
       "90salternative",
@@ -18118,6 +18510,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "834383dd-9a7e-d59e-81a2-dd13e0377af2",
     "relatedChannels": [
       "leftofcenter",
       "9472"
@@ -18176,6 +18569,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "7a642de7-c33f-a628-efb2-3d94a829d17b",
     "relatedChannels": [
       "buzzsaw",
       "gratefuldead",
@@ -18240,6 +18634,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "5ad8659a-414a-9e26-b973-f5a229d788dd",
     "relatedChannels": [
       "undergroundgarage",
       "thevault",
@@ -18304,6 +18699,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "41f8b174-fb06-1707-aaa7-e74e109c2ee9",
     "relatedChannels": [
       "thespectrum",
       "thebridge"
@@ -18360,6 +18756,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "a96c9390-313c-3a51-5dac-953504f4f237",
     "relatedChannels": [
       "siriusgold",
       "siriusnascarradio",
@@ -18421,6 +18818,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "727fa612-6e53-458e-720d-b662dc974e5d",
     "relatedChannels": [
       "thespectrum",
       "classicvinyl",
@@ -18475,6 +18873,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "d8babd4e-64e3-ff81-3d24-2407e0974cdc",
     "relatedChannels": [
       "octane",
       "altnation",
@@ -18536,6 +18935,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "65f04311-3581-256c-97b9-279838d6ff5e",
     "relatedChannels": [
       "big80s",
       "altnation",
@@ -18594,6 +18994,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "067801cb-bb3f-1707-dd21-d77e06bb27c0",
     "relatedChannels": [
       "classicvinyl",
       "jamon",
@@ -18655,6 +19056,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "b8b47809-4e8e-f556-8325-bd45fa3d4dc4",
     "relatedChannels": [
       "octane",
       "big80s",
@@ -18715,6 +19117,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "634ea01e-4ae2-c7e8-7567-138965e8a6fe",
     "relatedChannels": [
       "octane",
       "howardstern101",
@@ -18775,6 +19178,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "25de1705-19ad-6f6e-d45f-3f8775a37800",
     "relatedChannels": [
       "8238",
       "soultown",
@@ -18829,6 +19233,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "bd54fc02-e063-0e3e-0cbb-4ceafef734e7",
     "relatedChannels": [
       "shade45",
       "9471",
@@ -18889,6 +19294,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "c2a517d4-c02f-06eb-77cf-f81bfa719188",
     "relatedChannels": [
       "shade45",
       "9471",
@@ -18947,6 +19353,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "a00885e6-262a-0291-458b-e0b07fba71e1",
     "relatedChannels": [
       "thevault",
       "bluegrass",
@@ -19008,6 +19415,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "e4b5402c-c608-db84-ad15-4bc8e2cdccce",
     "relatedChannels": [
       "spa73",
       "9364",
@@ -19069,6 +19477,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "f49737db-bea3-0c13-9834-b879fb1894c4",
     "relatedChannels": [
       "firstwave",
       "thespectrum",
@@ -19120,6 +19529,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "d4d17484-cb4d-06bf-60e0-2944cb827371",
     "relatedChannels": [
       "siriuslysinatra",
       "broadwaysbest",
@@ -19180,6 +19590,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "ffd94bb6-5368-67ae-91be-5b2bababeca0",
     "relatedChannels": [
       "siriushits1",
       "9340",
@@ -19240,6 +19651,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "0fed9647-cc82-24d7-526d-98762e8a52cd",
     "relatedChannels": [
       "altnation",
       "howardstern101",
@@ -19309,6 +19721,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "176daca5-6810-3a1c-49e9-39b69055e811",
     "relatedChannels": [
       "thespectrum",
       "theroadhouse"
@@ -19367,6 +19780,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "e4fe4bca-1af8-bf9e-c20b-813f204aa18e",
     "relatedChannels": [
       "spirit",
       "8229"
@@ -19425,6 +19839,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "32566352-8e68-80f8-fe11-3f9715b63876",
     "relatedChannels": [
       "big80s",
       "classicrewind",
@@ -19486,6 +19901,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "e6333906-2e89-6c07-59d6-36d09248b8dc",
     "relatedChannels": [
       "siriusblues",
       "jazzcafe",
@@ -19544,6 +19960,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "c636d008-7cb0-99eb-7fb7-7c489f862a26",
     "relatedChannels": [
       "totally70s",
       "thebridge",
@@ -19601,6 +20018,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "ac00ab0c-0a60-63bb-32fe-44e8b9be24fd",
     "relatedChannels": [
       "soultown",
       "jamon",
@@ -19661,6 +20079,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "53b80144-2cb1-e723-07fd-6b164434b186",
     "relatedChannels": [
       "9188",
       "9185",
@@ -19721,6 +20140,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "2022dfab-580f-675f-6aad-00aad9c3be9b",
     "relatedChannels": [
       "hiphopnation",
       "9471"
@@ -19781,6 +20201,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "c4406844-de06-901b-6b4f-02420e2bd2d6",
     "relatedChannels": [
       "thevault",
       "soultown",
@@ -19841,6 +20262,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "a62ffa9f-e016-5693-adcb-c76c328e1bee",
     "relatedChannels": [
       "purejazz",
       "soultown",
@@ -19902,6 +20324,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "194adbca-34d6-cb94-b153-3488ee563308",
     "relatedChannels": [
       "thepulse",
       "thebeat",
@@ -19955,6 +20378,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "3fd664a8-229c-ce9b-c468-66e2a54abf0b",
     "relatedChannels": [
       "thepulse",
       "big80s",
@@ -20013,6 +20437,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "38dccb7c-6e3c-1473-d0db-0b3b8b999707",
     "relatedChannels": [
       "broadwaysbest",
       "siriusgold",
@@ -20063,6 +20488,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "a8465da9-2ce2-9b01-6679-e67c5066697b",
     "relatedChannels": [
       "broadwaysbest",
       "metropolitanopera",
@@ -20123,6 +20549,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "aa46ae69-ab44-f416-58ee-9fdf07462c0e",
     "relatedChannels": [
       "heartandsoul",
       "totally70s",
@@ -20179,6 +20606,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "d324f7fe-efc8-e5fa-5ad5-14fa6ba0d9bf",
     "relatedChannels": [
       "chill",
       "jazzcafe",
@@ -20238,6 +20666,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "c2e3e686-93a6-5d22-c818-6d8ea63bcc7c",
     "relatedChannels": [
       "praise",
       "8229"
@@ -20297,6 +20726,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "bda81f03-f231-d4db-56ad-40cb132c5663",
     "relatedChannels": [
       "big80s",
       "totally70s",
@@ -20360,6 +20790,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "c46c9810-6274-a715-a8b9-de9d4ac33873",
     "relatedChannels": [
       "siriuspops",
       "broadwaysbest",
@@ -20420,6 +20851,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "6adef1b5-d812-9c10-7c6c-f05af4e27077",
     "relatedChannels": [
       "9527",
       "siriushits1",
@@ -20489,6 +20921,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "1898923d-071d-0abd-1a62-ed0d2702d4f1",
     "relatedChannels": [
       "starlite",
       "siriuslove",
@@ -20548,6 +20981,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "9e8d6f72-0b59-85cf-a222-b18d38acdc0f",
     "relatedChannels": [
       "siriushits1",
       "starlite",
@@ -20611,6 +21045,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "0aee72ed-5dd8-2848-3567-d8809e123cd1",
     "relatedChannels": [
       "elvisradio",
       "bluegrass",
@@ -20670,6 +21105,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "804a5411-b234-1188-27da-f01197103886",
     "relatedChannels": [
       "thepulse",
       "jamon",
@@ -20731,6 +21167,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "e3041d19-daa5-6517-8c73-41976582d1f9",
     "relatedChannels": [
       "estreetradio",
       "gratefuldead",
@@ -20794,6 +21231,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "95d4d8ef-55e4-8337-78f1-2fda944991d8",
     "relatedChannels": [
       "big80s",
       "classicvinyl",
@@ -20854,6 +21292,7 @@
       "filetype": ""
     },
     "xtra_channel": false,
+    "uuid": "3b83dc80-5987-6898-e98d-a98012f700c1",
     "relatedChannels": [
       "thevault",
       "estreetradio",
