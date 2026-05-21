@@ -35,6 +35,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "09a91fb6-2ec7-f8fb-e562-4f869ff011ef"
   },
   {
@@ -73,6 +74,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "5907a263-8ba5-2964-648d-7b93ff28e323"
   },
   {
@@ -111,6 +113,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "d015b2b8-3373-5105-18d0-40cbbea9f771"
   },
   {
@@ -149,6 +152,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "6815cf99-fdea-60d4-d710-d390c26bf3c0"
   },
   {
@@ -187,6 +191,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "aca07ebd-3377-e30f-5df7-9e76101ca93c"
   },
   {
@@ -225,6 +230,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "726164bd-f1d6-bd57-6480-9d7b08710625"
   },
   {
@@ -263,6 +269,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "5679685b-f672-19b1-bd30-43315a07e499"
   },
   {
@@ -301,6 +308,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "7088564b-f127-fe00-dd10-7b45a0cf12f0"
   },
   {
@@ -339,6 +347,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "21070087-5098-a73f-1a0c-b842566e1ef7"
   },
   {
@@ -376,6 +385,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "6a2fec4e-ffaa-e918-7f05-f9d0e3337a94"
   },
   {
@@ -412,6 +422,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "0e96d823-844f-3ab7-fdd7-5d74de02e8a7"
   },
   {
@@ -448,6 +459,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "f6f4782a-9a60-6a49-197a-211afac96415"
   },
   {
@@ -486,6 +498,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "9fad65f2-0e6d-a386-28a7-7bd210643af5"
   },
   {
@@ -524,6 +537,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a6c26d25-d9c4-e060-2bdf-dd46d7159b60"
   },
   {
@@ -562,6 +576,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "91109e50-f6d7-3c63-1403-d841e3819b84"
   },
   {
@@ -600,6 +615,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "b546a271-6058-6512-1dd5-12de98976dcf"
   },
   {
@@ -638,6 +654,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "6c9ec885-e671-fb9d-40b5-f0e55f93fd9e"
   },
   {
@@ -674,6 +691,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "54bb62a4-c098-0866-12db-bb2f4e149a3d"
   },
   {
@@ -712,6 +730,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "c933faa8-3cd2-ff5c-3e22-bb9396dd0f5f"
   },
   {
@@ -750,6 +769,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "e094666a-fb10-f50a-bbca-593576dbed5a"
   },
   {
@@ -788,6 +808,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "ba8d3b59-babd-f3e5-2c6f-fea4dfbaaf7f"
   },
   {
@@ -824,6 +845,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a3db0d1b-1224-8e0d-786f-eafd24e4750f"
   },
   {
@@ -862,6 +884,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "4abb03ff-55d9-e382-0a0d-cc9a5cc2eb80"
   },
   {
@@ -900,6 +923,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "f8d56fdd-7b88-cae3-c3c7-587d595e74de"
   },
   {
@@ -938,6 +962,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "2e15fb39-1ffe-f689-4c66-f2ea4fc1a4bc"
   },
   {
@@ -976,6 +1001,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "98ea4cd3-e358-f7b2-5145-4a8848857b0e"
   },
   {
@@ -1014,6 +1040,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "59f24e42-8405-4ba8-704d-03384243d5cb"
   },
   {
@@ -1052,6 +1079,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "b94c20a4-5c29-9b19-beb9-d6ce34a48e7a"
   },
   {
@@ -1090,6 +1118,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "d878bd1f-22a3-891b-f080-9283fd8c3eb3"
   },
   {
@@ -1128,6 +1157,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "36d00fe8-0b5f-9db2-3eed-b3760113d3ba"
   },
   {
@@ -1166,6 +1196,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "5615c748-7fa2-902b-13e1-1aea26e80834"
   },
   {
@@ -1204,6 +1235,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "f3692922-0812-3fc3-db97-c925da495018"
   },
   {
@@ -1240,6 +1272,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "ceed1e56-cbf2-a520-2e24-b13e9e4fcbec"
   },
   {
@@ -1276,6 +1309,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "ec2cf1b9-7d71-9df6-7629-f3c60587f23b"
   },
   {
@@ -1314,6 +1348,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "810b4817-9ea4-2622-246d-fcca25e59802"
   },
   {
@@ -1352,6 +1387,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "81948c97-a4ca-df65-fbc9-d77b9e6ced81"
   },
   {
@@ -1390,6 +1426,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "9759dda0-e663-9151-e830-4b4cd4684eb8"
   },
   {
@@ -1428,6 +1465,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "88dae72b-b5b2-9786-da48-418a5afd58db"
   },
   {
@@ -1466,6 +1504,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "f1419664-8e56-5deb-2a83-220ceb62d9ae"
   },
   {
@@ -1504,6 +1543,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "d434c9df-7f5c-fb02-3bf5-c660d852393a"
   },
   {
@@ -1542,6 +1582,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "f8060e72-95f9-3088-e9c7-d8df804a8cae"
   },
   {
@@ -1580,6 +1621,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "ba34f8b7-f9d7-658e-2716-07e13004945b"
   },
   {
@@ -1618,6 +1660,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a5922d75-2cca-8536-ec89-8256bcb5f6e0"
   },
   {
@@ -1655,6 +1698,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "e80b8f0a-8f44-19a7-1ca6-8d27ad314835"
   },
   {
@@ -1691,6 +1735,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "95ccef63-a111-09c6-5791-7f2d0337c635"
   },
   {
@@ -1727,6 +1772,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "1c03d7ed-0fa5-b133-23c7-01dbf66b335f"
   },
   {
@@ -1765,6 +1811,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "78588bdb-5d41-9b13-d85d-a63e9f830465"
   },
   {
@@ -1803,6 +1850,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "55ed9939-e414-0365-c103-d551402ec750"
   },
   {
@@ -1841,6 +1889,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a453a80b-d2cc-0f98-a5c2-9d783e4a271e"
   },
   {
@@ -1879,6 +1928,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "506babaf-c846-0e89-c64e-af4466179ce0"
   },
   {
@@ -1917,6 +1967,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "3d422eeb-9d32-9bef-a139-31209737d67a"
   },
   {
@@ -1955,6 +2006,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a4915da5-e76e-6f54-dd7a-49f475d10fea"
   },
   {
@@ -1993,6 +2045,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "d87c40cc-2b44-94f3-b330-0a8ebbdba9e7"
   },
   {
@@ -2029,6 +2082,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "bf95ab7f-4bcb-c600-1cf4-4ca33eab1a51"
   },
   {
@@ -2066,6 +2120,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "64bcf553-6ef6-f38e-d31c-c46a0a37a7ba"
   },
   {
@@ -2104,6 +2159,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "64ec5832-5bf6-db31-5b6c-41cac39ded7c"
   },
   {
@@ -2142,6 +2198,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "7d14b6b5-def4-cccc-f644-22600d0b6327"
   },
   {
@@ -2180,6 +2237,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "752f9c3f-21f1-c6d2-049b-8f355a34ff7c"
   },
   {
@@ -2216,6 +2274,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "cfb904e6-22bd-7381-fe7d-862977ba3f2b"
   },
   {
@@ -2254,6 +2313,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "5272fb8b-a1c3-6adb-3411-5acf756fb932"
   },
   {
@@ -2291,6 +2351,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a07b6f60-5f62-a362-0aca-ef923deb64ad"
   },
   {
@@ -2329,6 +2390,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "fb13a3a1-4d8b-000e-ba33-97a61b7130a8"
   },
   {
@@ -2367,6 +2429,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "b61062ff-fce3-9f4b-acd5-4d6eba614524"
   },
   {
@@ -2405,6 +2468,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "c11f049e-c2f8-5299-eae4-ee8841f9ccf3"
   },
   {
@@ -2441,6 +2505,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "3bf1a125-c0a3-e164-4910-638175ad698d"
   },
   {
@@ -2479,6 +2544,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "36dd742e-0454-3fc0-98ab-7f54dcf7e0ac"
   },
   {
@@ -2517,6 +2583,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "4764f6a7-71ec-f20c-bc8f-3ccb75776fba"
   },
   {
@@ -2555,6 +2622,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "7b9dd5a3-ac40-b55a-1d40-8d43116b35eb"
   },
   {
@@ -2593,6 +2661,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a40fc210-7514-4928-3c8e-fff8079a6466"
   },
   {
@@ -2629,6 +2698,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "ece565d5-51e5-83a7-d893-446af4df5826"
   },
   {
@@ -2665,6 +2735,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "ffd56a04-702e-e63e-97ba-c8abd0d54f22"
   },
   {
@@ -2703,6 +2774,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "36415c41-0749-9004-4baa-ef0da292b2f4"
   },
   {
@@ -2741,6 +2813,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "052d805b-0fb1-16e6-a431-d5096bb6700a"
   },
   {
@@ -2779,6 +2852,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "77b6a229-9a5a-cec0-eb6a-0d8dcbc161ea"
   },
   {
@@ -2817,6 +2891,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "ffee33f8-0feb-d033-7bc7-273c970089d9"
   },
   {
@@ -2855,6 +2930,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "b0cb4208-0da7-5559-a769-af864ee396fd"
   },
   {
@@ -2893,6 +2969,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "3215c0d2-e61d-373f-36f7-e756604b4e08"
   },
   {
@@ -2929,6 +3006,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "4e81c04d-ebc5-8208-41bb-fb674a90a396"
   },
   {
@@ -2967,6 +3045,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "f9227748-d27b-0bff-6efb-684024c9f555"
   },
   {
@@ -3005,6 +3084,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "f396533f-d05d-da8a-8d30-de6565a33221"
   },
   {
@@ -3043,6 +3123,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "3a5c9ee1-9111-ce55-158c-a5ef2867232c"
   },
   {
@@ -3081,6 +3162,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "ef4707e6-b33f-6bfe-c0a9-fbb0022ce5ca"
   },
   {
@@ -3119,6 +3201,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "c072972e-8ca4-471d-ce72-339ae56422fc"
   },
   {
@@ -3157,6 +3240,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "476e74dd-cb7c-b8e1-4920-0446e694f9e4"
   },
   {
@@ -3195,6 +3279,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "ea5ff5c6-6d0a-4350-f7f4-95f2eea1baa4"
   },
   {
@@ -3233,6 +3318,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a837a7fb-05c3-230c-77df-de442cd4f748"
   },
   {
@@ -3270,6 +3356,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "86d52e32-09bf-a02d-1b6b-077e0aa05200"
   },
   {
@@ -3308,6 +3395,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "04a5416f-e92d-1b31-d724-c3110fcd2bb9"
   },
   {
@@ -3346,6 +3434,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "d6f18ec8-cf30-58d9-1601-1cdcd95288c0"
   },
   {
@@ -3384,6 +3473,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "3125bac6-8975-5bda-0a5f-ba175f920bf9"
   },
   {
@@ -3422,6 +3512,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "d54094ef-b462-5a96-b54e-1d12606827ed"
   },
   {
@@ -3458,6 +3549,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "e4484918-45cd-b8e0-9058-b5c29710ec74"
   },
   {
@@ -3496,6 +3588,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "4fa635e5-1e1a-8931-71b1-58f1416b0687"
   },
   {
@@ -3532,6 +3625,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "398a7a4a-a3c0-108a-7ea1-f5f985f84d70"
   },
   {
@@ -3570,6 +3664,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "0a0e2928-72dd-bb4c-3cc2-910dfa506113"
   },
   {
@@ -3608,6 +3703,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "e75e4136-8afe-1ebd-ae2b-95f1d7152829"
   },
   {
@@ -3646,6 +3742,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "91b6f905-89aa-0e9c-8d1e-5e46d4adb5a5"
   },
   {
@@ -3684,6 +3781,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "b9360988-8101-23dd-8518-fc52acf93212"
   },
   {
@@ -3722,6 +3820,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "0c14c6ec-9da9-4846-3a87-18ac97717a5b"
   },
   {
@@ -3760,6 +3859,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "939b8423-b3ec-2117-6dea-a827708a1a4f"
   },
   {
@@ -3798,6 +3898,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "8221116b-7a08-ac3c-e770-b6216ffd0572"
   },
   {
@@ -3836,6 +3937,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "14d3da18-9b75-0f8b-08f2-68a7db2d9c38"
   },
   {
@@ -3874,6 +3976,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "dc93524a-aa6d-b0c4-0d53-caabac97500c"
   },
   {
@@ -3912,6 +4015,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "2016d325-03e5-ef06-a80f-de215b6f2d87"
   },
   {
@@ -3950,6 +4054,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "d6fd521e-11fd-7ffa-d773-7aaa466cd3d6"
   },
   {
@@ -3988,6 +4093,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "62f63e88-f4f3-448c-8406-089b17e96b0f"
   },
   {
@@ -4026,6 +4132,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "968e1713-0760-9178-cd3a-891061e23753"
   },
   {
@@ -4064,6 +4171,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "013adf53-baec-28b2-2762-5923e46b5dfe"
   },
   {
@@ -4102,6 +4210,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "62bb80a9-e12b-4c9d-95ed-16327efcfb40"
   },
   {
@@ -4140,6 +4249,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "0e7ed6f4-4aa2-acd4-d045-fd073763c2c2"
   },
   {
@@ -4178,6 +4288,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "cf344f28-cef2-ae3b-d535-ef939d1e659c"
   },
   {
@@ -4216,6 +4327,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "774a5933-0c1c-d409-e24c-062def5da618"
   },
   {
@@ -4252,6 +4364,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "3de2364b-c630-a009-7bfd-328592a44f3c"
   },
   {
@@ -4288,6 +4401,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "1bc09305-2af6-bbbb-c765-a7d83afa669a"
   },
   {
@@ -4324,6 +4438,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "fb2763c5-b35c-1d69-cd47-7aaff9d619b7"
   },
   {
@@ -4363,6 +4478,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "aca7fffa-8438-5137-40dc-39aadc9a5331"
   },
   {
@@ -4401,6 +4517,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "0f652eae-12e7-03e5-cd1f-c78c10548ca3"
   },
   {
@@ -4439,6 +4556,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "fcb5ee7b-d697-ec6e-dbab-c3d942eca913"
   },
   {
@@ -4477,6 +4595,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "855ac14a-ab56-5462-ea40-ecda06123a4c"
   },
   {
@@ -4515,6 +4634,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "61893114-e9a5-b984-b7d7-cfdcb14e9369"
   },
   {
@@ -4551,6 +4671,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "944a3315-a4ff-e475-1844-707c102924aa"
   },
   {
@@ -4589,6 +4710,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "c57492ce-6461-03ee-dd32-2c703e708726"
   },
   {
@@ -4625,6 +4747,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "b43cf779-b65e-680b-cf10-aaf6af8af98e"
   },
   {
@@ -4663,6 +4786,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "fde6b158-1f0b-9480-0a1d-035560dc0e3b"
   },
   {
@@ -4701,6 +4825,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "25311de8-5eac-1c6f-9f21-9b3c54fbb09a"
   },
   {
@@ -4739,6 +4864,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "bc387249-0050-8658-93f6-d611ccf832f7"
   },
   {
@@ -4778,6 +4904,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "4fc25519-469b-df27-7887-cbcda25cdb55"
   },
   {
@@ -4814,6 +4941,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "9c8d1f17-b0e5-3622-de9c-0a5f23192e46"
   },
   {
@@ -4852,6 +4980,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "c91c1b7d-27eb-b715-d919-18d2082d249d"
   },
   {
@@ -4890,6 +5019,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "6ebe0447-46a4-9772-d885-a9153878451c"
   },
   {
@@ -4928,6 +5058,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "9be740a7-416a-1de1-f271-608acc050551"
   },
   {
@@ -4966,6 +5097,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "360f0648-8908-b6b4-2aef-4017bef19a89"
   },
   {
@@ -5004,6 +5136,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "95eb35fc-b56e-5feb-0f9e-d1106f679742"
   },
   {
@@ -5042,6 +5175,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "371d1d6b-2ecb-1e98-7529-672dd29635b1"
   },
   {
@@ -5076,6 +5210,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "4e99c70a-e21d-e4f8-376a-530d0b247ea9"
   },
   {
@@ -5114,6 +5249,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "fd6a7cc6-ca23-0349-9223-a690dc10ecc0"
   },
   {
@@ -5152,6 +5288,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "c80a4853-979c-600b-19cf-ee9f9c6981db"
   },
   {
@@ -5190,6 +5327,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "2dbeed13-96f1-de20-c4b1-1ae2092727d8"
   },
   {
@@ -5229,6 +5367,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "20871ee1-8eb6-7285-c842-c8a32a5a4283"
   },
   {
@@ -5265,6 +5404,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "69b28967-e01a-0d5f-1c88-9539dad04c2e"
   },
   {
@@ -5303,6 +5443,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "70668806-46ce-5d30-ce7d-c017f748a6fc"
   },
   {
@@ -5341,6 +5482,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "cccf49aa-4ea1-3533-d2b1-073ed190c2fb"
   },
   {
@@ -5380,6 +5522,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "cda91dcb-4098-f23e-5541-d9ccd4e80435"
   },
   {
@@ -5419,6 +5562,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "6d564db0-1df6-27cd-a647-20d7a7dd4e72"
   },
   {
@@ -5458,6 +5602,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "2fb26836-34d0-1c05-5a56-4afe77ac8d65"
   },
   {
@@ -5497,6 +5642,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "d701b999-973e-4924-cfd9-bfb71bd4c6c5"
   },
   {
@@ -5536,6 +5682,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "659c1843-f6ac-773b-1df6-4a814d4a582b"
   },
   {
@@ -5573,6 +5720,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "f73e07d9-30c6-22c2-98e5-9957448c4699"
   },
   {
@@ -5612,6 +5760,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "c318c8c1-8302-12a5-f9e9-75518e18ae78"
   },
   {
@@ -5651,6 +5800,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a080894b-1bf5-8846-7c25-5d8c101a2064"
   },
   {
@@ -5690,6 +5840,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "8c55cef1-efa6-47d3-ffd3-8e93e0cdc701"
   },
   {
@@ -5729,6 +5880,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "bf26f478-46c3-5e93-878d-f3faf01bed65"
   },
   {
@@ -5768,6 +5920,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "520a1947-75fe-5464-fad2-75893c97ad15"
   },
   {
@@ -5807,6 +5960,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "2cf05b9d-a7e5-b975-1fcf-6458584c8e57"
   },
   {
@@ -5846,6 +6000,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "9ac86521-ebce-5a24-4f8b-f158ad22b4b7"
   },
   {
@@ -5885,6 +6040,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "d055fb93-81f0-5f8b-3fe0-9b245d0a6619"
   },
   {
@@ -5924,6 +6080,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "1f6acdac-1597-e01d-8d83-8c1f2789bfda"
   },
   {
@@ -5963,6 +6120,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "722a1329-63e3-3889-b9bc-db0c5c02464c"
   },
   {
@@ -6002,6 +6160,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "6d3a889e-e464-337e-980c-33ae8ad389b9"
   },
   {
@@ -6041,6 +6200,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "83ffe513-f939-1d45-5120-5a77b2cf3eae"
   },
   {
@@ -6080,6 +6240,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "0620e80d-4570-ac86-cbc5-c254d769e34e"
   },
   {
@@ -6119,6 +6280,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "282bae89-735a-c222-526d-d217cc615681"
   },
   {
@@ -6158,6 +6320,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "0ecf5734-5bba-08aa-0bbe-26d9a9017514"
   },
   {
@@ -6197,6 +6360,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "6c540f1f-533a-8963-304a-d8380676ec2a"
   },
   {
@@ -6234,6 +6398,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "8f31f79d-ce60-6ddd-9269-f4b519cb6540"
   },
   {
@@ -6273,6 +6438,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "204f079a-4d9e-b395-824c-985274cc987a"
   },
   {
@@ -6310,6 +6476,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "1956e80e-d36d-f869-5396-cbc692f48f9b"
   },
   {
@@ -6349,6 +6516,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a2a07f4b-eb7e-4917-df2f-7a445cfef60d"
   },
   {
@@ -6388,6 +6556,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "3e6e5a6a-cbfb-032d-f4f3-ae4e5a124297"
   },
   {
@@ -6427,6 +6596,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "1e4c188d-46ba-7005-c260-b3e3ff7f87a3"
   },
   {
@@ -6466,6 +6636,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "62b1ccac-805b-28f2-a2a3-8030b5ecf55e"
   },
   {
@@ -6505,6 +6676,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "4aa7c6f6-76df-7cb9-b19d-379033b8e63a"
   },
   {
@@ -6544,6 +6716,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "24e9f2a1-6322-3024-3d37-0f37f40129b3"
   },
   {
@@ -6581,6 +6754,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "88a8b6eb-d649-6c32-5d55-4f196b8d2b40"
   },
   {
@@ -6620,6 +6794,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "c4d1fe76-baee-32b7-6541-20408b233f4e"
   },
   {
@@ -6659,6 +6834,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "8ec2d70b-bd02-72d5-28ab-8a42ff358d86"
   },
   {
@@ -6698,6 +6874,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "b647fd9d-c5d4-3681-1388-c6686c889d8d"
   },
   {
@@ -6737,6 +6914,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "8a856b66-5375-3783-4562-16defed519c6"
   },
   {
@@ -6776,6 +6954,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "ffedbcd5-6f29-e5d2-ff20-54f35bfb61fb"
   },
   {
@@ -6815,6 +6994,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "7a2bf876-8dc3-8d8b-f3f6-102f116b3fa9"
   },
   {
@@ -6852,6 +7032,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "e5e9672d-0950-3f8a-7360-621100d7de58"
   },
   {
@@ -6889,6 +7070,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "e036602a-d2c1-6008-76a6-61594ef6e957"
   },
   {
@@ -6928,6 +7110,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "bf68143d-85cd-a0cf-25b3-77e72abf9cab"
   },
   {
@@ -6967,6 +7150,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "c3a5817f-5659-8f3c-e9e1-09a41670036f"
   },
   {
@@ -7004,6 +7188,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "ce813fad-3e16-1a11-482d-f844cb03d28e"
   },
   {
@@ -7039,6 +7224,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "a47e9c3a-536b-7dd6-3536-c7ba0a5a76d8"
   },
   {
@@ -7074,6 +7260,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "15866460-1973-3054-d6f8-a9d9cbb4f26e"
   },
   {
@@ -7113,6 +7300,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "269497e4-7f91-377d-0940-6b9f027b5b3b"
   },
   {
@@ -7150,6 +7338,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "882dcb25-728e-af50-1cba-a9e990f45414"
   },
   {
@@ -7189,6 +7378,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "3a7d57c7-1241-38bf-0aca-e4e82462fa4e"
   },
   {
@@ -7228,6 +7418,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "d6263609-da22-bf5f-774a-fc88c6e25304"
   },
   {
@@ -7267,6 +7458,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "ce1f80fb-5594-a087-7cc8-8d113fa103bb"
   },
   {
@@ -7306,6 +7498,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "0ad5a8a2-87c0-164d-3fe5-da04f7b2f18f"
   },
   {
@@ -7345,6 +7538,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "f1584020-6379-855d-86ed-ff8f045c4ba6"
   },
   {
@@ -7384,6 +7578,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "bf1d8e83-7c94-86c8-ee46-153b0bbaed58"
   },
   {
@@ -7423,6 +7618,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "aac28bf2-eece-800e-0d11-957797f4b19c"
   },
   {
@@ -7462,6 +7658,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "abfb5780-324f-1219-48c2-c8c2445c17bd"
   },
   {
@@ -7501,6 +7698,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "09586618-2f54-1e2d-138e-ca62ed294936"
   },
   {
@@ -7539,6 +7737,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "cf96aba3-3b37-312a-78b9-16b53c816205"
   },
   {
@@ -7578,6 +7777,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "3bb65f48-8184-3261-48a6-2c4a232dd25e"
   },
   {
@@ -7616,6 +7816,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "51c14331-ffe6-8a72-ad46-7e988d4f4f7d"
   },
   {
@@ -7655,6 +7856,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "2911715d-50a8-f692-b1c9-ccd01e0f42f1"
   },
   {
@@ -7694,6 +7896,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "5a158ef5-3fd7-0809-d526-7ccee99b1dd2"
   },
   {
@@ -7733,6 +7936,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "d23c423a-8a11-7391-ad70-33e846e2b3b2"
   },
   {
@@ -7772,6 +7976,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "839a00d9-1f1a-215d-c34c-6ae456726061"
   },
   {
@@ -7811,6 +8016,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "ed9bb73a-24e6-7985-dc88-0015092acacc"
   },
   {
@@ -7849,6 +8055,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "12f0e0aa-603c-94d6-d136-4ffa07ea7010"
   },
   {
@@ -7887,6 +8094,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "c522a00f-822c-c3c4-cc06-2fe4b8f3af16"
   },
   {
@@ -7926,6 +8134,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "1ce5ef23-525e-7698-8745-beffc15e8d16"
   },
   {
@@ -7965,6 +8174,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "85c34be6-edf0-c543-904b-33a9a178e488"
   },
   {
@@ -8004,6 +8214,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "0dfe0e19-b5ad-5055-e82f-a8b3890ee888"
   },
   {
@@ -8043,6 +8254,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "578f0c9f-e73d-81d7-7143-a8728e0816e1"
   },
   {
@@ -8082,6 +8294,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "2c1e8e80-4ae6-557d-08f1-4e2460ac6b2d"
   },
   {
@@ -8121,6 +8334,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "8a80cfb5-e4b2-a0ed-845b-d411c4ba1271"
   },
   {
@@ -8160,6 +8374,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "38a26de4-5cd2-404e-ecd5-38bb2265a90a"
   },
   {
@@ -8199,6 +8414,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "536bac48-db4c-c70e-d7b6-409f1ef6f9ee"
   },
   {
@@ -8237,6 +8453,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "906e5792-c7fe-5ea8-90f0-002dcfaa34fe"
   },
   {
@@ -8276,6 +8493,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "4147804a-9e10-b244-8dac-cd5deb096997"
   },
   {
@@ -8315,6 +8533,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "7a38c919-77fe-6627-e180-355633a0e8ec"
   },
   {
@@ -8354,6 +8573,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "1a8c7e32-a74d-20a9-9842-63fecb57f97c"
   },
   {
@@ -8391,6 +8611,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "dd0bf0c6-c979-3014-7f48-f1141fefccc6"
   },
   {
@@ -8428,6 +8649,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "f3f11fab-4d6f-6fc5-84d6-e1fee28382fe"
   },
   {
@@ -8465,6 +8687,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "8177af44-fd60-3203-bb01-356d5f943669"
   },
   {
@@ -8502,6 +8725,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "6de7f4f3-29bb-b224-8d5a-4dcafeee67fc"
   },
   {
@@ -8539,6 +8763,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "ef551c82-25f6-ae51-2ba5-e231c3d5aab2"
   },
   {
@@ -8577,6 +8802,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "a7f81827-6d67-d778-e354-0ca68d1d7ec7"
   },
   {
@@ -8613,6 +8839,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "93a5f790-d6a5-fb0b-c40f-5b727863abb9"
   },
   {
@@ -8652,6 +8879,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "bf5fecd3-21f0-2a7b-4aba-a0aa890319c9"
   },
   {
@@ -8691,6 +8919,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "825aa806-d505-0fa0-616a-470a6803211c"
   },
   {
@@ -8728,6 +8957,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "f3da8497-f281-d5f0-5ab4-96c9c2a6670f"
   },
   {
@@ -8765,6 +8995,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "839d6d74-7677-83ea-ba6d-be3239f48292"
   },
   {
@@ -8805,6 +9036,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "49131562-4579-18dc-6656-b241e88cdac0"
   },
   {
@@ -8844,6 +9076,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "5970379b-9ca1-de7f-7ad7-0d2b0a5e8735"
   },
   {
@@ -8883,6 +9116,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "4fee9ec4-f0e1-026a-3f93-0568c27e118c"
   },
   {
@@ -8922,6 +9156,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "477d4457-50b7-6214-839d-a331203562b8"
   },
   {
@@ -8961,6 +9196,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "0bad8b45-d4c2-3480-884b-5b7874fd3325"
   },
   {
@@ -9000,6 +9236,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "aa274300-6ac3-13e8-e49d-22d04d21cad9"
   },
   {
@@ -9039,6 +9276,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "fb5ab9d7-90a6-dd52-628d-173b48280910"
   },
   {
@@ -9078,6 +9316,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "4a95241c-e7b8-ed9f-ead2-a5211c61b09b"
   },
   {
@@ -9117,6 +9356,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "8dd54e27-e30f-b85b-ffe9-3558eec1f5c7"
   },
   {
@@ -9153,6 +9393,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "ff975c20-1d75-d5c6-ef03-177743a3915c"
   },
   {
@@ -9191,6 +9432,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "a3c1cd11-f13f-6d89-89a6-b4523644dc05"
   },
   {
@@ -9229,6 +9471,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "c85e11c4-fc04-544d-01c9-6a2cf0a72df5"
   },
   {
@@ -9267,6 +9510,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "4ca89bb5-a382-44f6-7918-677473e2b1bb"
   },
   {
@@ -9305,6 +9549,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "7bec8843-3583-da4c-37ac-a8575ec214a5"
   },
   {
@@ -9341,6 +9586,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "e45be06d-a833-4e11-66d9-61a35f2729b2"
   },
   {
@@ -9379,6 +9625,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "06142ffe-70c2-2e7d-4f95-57e98e9707fe"
   },
   {
@@ -9417,6 +9664,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "a97996bf-4f9f-9378-09a9-5af4d44f2ac2"
   },
   {
@@ -9455,6 +9703,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "ddd47b47-52da-6130-2b5a-18a3ab7312b2"
   },
   {
@@ -9493,6 +9742,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "f3fec3b7-bd04-326d-808d-edf843ea2150"
   },
   {
@@ -9531,6 +9781,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "b817fd55-92ac-71ae-9784-e1d8d990de30"
   },
   {
@@ -9567,6 +9818,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "c5adda40-340d-41dc-4347-e5b5c2c0112c"
   },
   {
@@ -9603,6 +9855,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "170678e5-62e1-9117-30cf-19027d9d0a28"
   },
   {
@@ -9639,6 +9892,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "0161adf3-9b24-7729-ab29-cbfc29c7e37a"
   },
   {
@@ -9675,6 +9929,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "c65fb2c2-df49-6969-5b64-399ca24a399a"
   },
   {
@@ -9711,6 +9966,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "9bd1dbb1-6320-0f7c-6da1-1187f48c4d76"
   },
   {
@@ -9747,6 +10003,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "a7e7adb4-bde3-92e3-f9c3-17a32ed95bf0"
   },
   {
@@ -9783,6 +10040,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "1365d5e1-dc77-bc1d-107d-e01630b10f29"
   },
   {
@@ -9819,6 +10077,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "01df036f-ad39-e243-e554-f614e1f0ce00"
   },
   {
@@ -9855,6 +10114,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "49a80eed-208a-66be-85af-3c1c24b61945"
   },
   {
@@ -9891,6 +10151,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "b10f1700-d575-2a1a-93c3-d5c4033ee589"
   },
   {
@@ -9932,6 +10193,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "67441b3c-824d-f1e1-6ffe-425e8e0e8888",
     "relatedChannels": [
       "60svibrations",
@@ -9975,6 +10237,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "8ebe511b-28b3-f16d-e8c1-e7609eb38913"
   },
   {
@@ -10011,6 +10274,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "3a16d7b2-ba36-0a4a-152b-bef5b04268bd"
   },
   {
@@ -10047,6 +10311,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "8528a599-01df-885a-e32b-a21fd01b9ce1"
   },
   {
@@ -10083,6 +10348,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "e2499386-221d-897e-9bd2-66a7e769e915"
   },
   {
@@ -10121,6 +10387,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "9e9b3f37-c423-c564-3700-5e4c882342fa"
   },
   {
@@ -10159,6 +10426,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "19d18208-609b-a05d-4632-e2e6ffa1f44c"
   },
   {
@@ -10197,6 +10465,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "0297421f-c65c-3e0c-8299-0d19bc0a89a0"
   },
   {
@@ -10235,6 +10504,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "a7c9399c-5259-c39e-30d0-ed598b4ada8a"
   },
   {
@@ -10273,6 +10543,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "8fa2f006-eff3-2248-b24f-c4ecfb35ec5d"
   },
   {
@@ -10311,6 +10582,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "48963cbb-dc2f-72ac-789c-d6bf7f7db12c"
   },
   {
@@ -10349,6 +10621,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": true,
+    "channel_type": "Xtra",
     "uuid": "fb3114f1-5fed-f24c-da00-b7ad7c4706a2"
   },
   {
@@ -10392,6 +10665,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "e1a36c0f-8dd4-9f5f-a8a1-6b94eddc5260"
   },
   {
@@ -10434,6 +10708,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "4f3cb4c9-5e2e-8f6f-0900-139e9acae30d"
   },
   {
@@ -10471,6 +10746,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "9fcfe151-5792-cdc7-2916-b422d4c4afcd"
   },
   {
@@ -10510,7 +10786,88 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Xtra",
     "uuid": "09c33b3e-3ba1-9c04-2c2d-dd0e0a5154a7"
+  },
+  {
+    "assetId": "3QARpiLGOGkQrude2GwYrx",
+    "deliveryTypes": [
+      "mobile",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "4330",
+    "deepLink": "https://sxm.app.link/CountryCoffeeHouse",
+    "displayName": "Country Coffee House",
+    "genre": "relax",
+    "genreTitle": "Relax",
+    "longDescription": "Country unplugged",
+    "mediumDescription": "Country unplugged",
+    "shortDescription": "Country unplugged",
+    "streamingChannelNumber": 1319,
+    "primaryColor": "#000000",
+    "secondaryColor": "#949494",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/country-coffee-house/CountryCoffeehouse-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/country-coffee-house/CountryCoffeehouse-127-500x400-N.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "xtra_channel": false,
+    "channel_type": "Xtra",
+    "uuid": "63009409-eda0-5f19-fadf-7ad10b7d0d00"
+  },
+  {
+    "assetId": "5d8MM9ibL6rr4OfAfUYwoB",
+    "deliveryTypes": [
+      "mobile",
+      "ip"
+    ],
+    "availableToPackage": true,
+    "category": "music",
+    "categoryTitle": "Music",
+    "channelNotification": "",
+    "contentId": "4331",
+    "deepLink": "https://sxm.app.link/RoadTrip2K",
+    "displayName": "Road Trip 2K",
+    "genre": "twothousands",
+    "genreTitle": "The 2000s Decade",
+    "longDescription": "Aux cord anthems",
+    "mediumDescription": "Aux cord anthems",
+    "shortDescription": "Aux cord anthems",
+    "streamingChannelNumber": 1320,
+    "primaryColor": "#000000",
+    "secondaryColor": "#c7c6c6",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/road-trip-2k/RoadTrip2K-126-500x400-P2.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/XtraChannels/road-trip-2k/RoadTrip2K-127-500x400-N2.svg",
+    "explicitContentIndicator": "No",
+    "vanityURL": "",
+    "packages": [
+      "SXM_SIR_AUD_ALLACCESS",
+      "SXM_SIR_AUD_ALLACCESS_FF",
+      "SXM_SIR_AUD_FF_SXM",
+      "SXM_SIR_AUD_PKG_MM",
+      "SIR_IP_SA",
+      "SIR_IP_SA_ESNTL",
+      "SIR_IP_SHOWCASE",
+      "SXM_S_1"
+    ],
+    "exclusiveContent": false,
+    "xtra_channel": false,
+    "channel_type": "Xtra",
+    "uuid": "ebe868d3-03ec-d0de-b274-f22911dd371e"
   },
   {
     "assetId": "vTmImlrG0VzXPDbTVJ1IB",
@@ -10560,6 +10917,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6567f2ee-4d7a-cd6d-3402-55ed6089cd0c",
     "relatedChannels": [
       "siriusgold",
@@ -10612,6 +10970,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "80867fa3-093f-b076-bedc-af8d71cb54ab",
     "relatedChannels": [
       "rawdog",
@@ -10661,6 +11020,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "884c803d-cbd9-098b-527d-a34979274ded",
     "relatedChannels": [
       "siriusnflradio",
@@ -10715,6 +11075,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a44e273d-a7e5-c358-a8ae-39dc91ca9c30",
     "relatedChannels": [
       "8254",
@@ -10774,6 +11135,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b069d7d9-a765-b98e-9c87-3791d459f2ee",
     "relatedChannels": [
       "siriuslysinatra",
@@ -10830,6 +11192,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c9256031-1123-f35f-4d49-1ba4d5379258",
     "relatedChannels": [
       "big80s",
@@ -10875,6 +11238,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "882b5229-2798-4385-5f05-0835c1d017c2",
     "relatedChannels": [
       "outlawcountry",
@@ -10932,6 +11296,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "40c3d189-9611-e59f-5808-7847e294642e",
     "relatedChannels": [
       "8206",
@@ -10984,6 +11349,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "23999ddf-2cc2-35e2-7d04-6cc2749043d0",
     "relatedChannels": [
       "8254",
@@ -11043,6 +11409,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ab3ef743-4a2d-f67b-ea13-283843b3cfb5",
     "relatedChannels": [
       "8205",
@@ -11098,6 +11465,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5d6347dd-ce61-9b85-c1d9-70a82209b02e",
     "relatedChannels": [
       "9530",
@@ -11142,6 +11510,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "efb97ee8-8555-b0f7-e1ea-e67dcb3f23aa",
     "relatedChannels": [
       "9188",
@@ -11187,6 +11556,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5fbd983b-7cf9-71d7-7890-c13682e2375a",
     "relatedChannels": [
       "coffeehouse",
@@ -11241,6 +11611,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7b32233d-bf01-9654-d97f-9e261aad3d8f",
     "relatedChannels": [
       "8238",
@@ -11296,6 +11667,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8a38c48f-9f99-17ce-8a62-435eecf51ab0",
     "relatedChannels": [
       "spirit",
@@ -11347,6 +11719,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "098425c8-142d-9ee9-3d45-bc5f7b284bd4",
     "relatedChannels": [
       "8368",
@@ -11406,6 +11779,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "09d1edf4-3e54-59e1-3fa6-e68233c07b17",
     "relatedChannels": [
       "indietalk"
@@ -11459,6 +11833,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fb5bc33e-a51e-d1dd-d547-3d80e0b8324c",
     "relatedChannels": [
       "siriusstars",
@@ -11517,6 +11892,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6c3df863-db7b-74c4-49c8-c2b202f3ffdf"
   },
   {
@@ -11566,6 +11942,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d0775651-a522-5ca2-7be7-20f97f37bbfb",
     "relatedChannels": [
       "altnation",
@@ -11619,6 +11996,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b9ee6786-80aa-51c7-1449-64a1484d7cc7",
     "relatedChannels": [
       "leftofcenter",
@@ -11671,6 +12049,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "270b52d0-fde5-2372-6e48-e890fbac3d14",
     "relatedChannels": [
       "8333",
@@ -11724,6 +12103,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e253bdca-601f-2b68-52fc-3f6a9fa33bb9",
     "relatedChannels": [
       "8333",
@@ -11776,6 +12156,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "047ca775-d9c4-ef78-2cfa-185f407d8233",
     "relatedChannels": [
       "8186",
@@ -11831,6 +12212,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ad78ffbd-6cbd-e19e-27c5-043649ef4e8e",
     "relatedChannels": [
       "rawdog",
@@ -11876,6 +12258,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "de3c28e3-77ab-7b31-3a82-4800443be554",
     "relatedChannels": [
       "espnradio",
@@ -11924,6 +12307,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cfe2b23d-ca09-126b-d642-4b08d8b611e6",
     "relatedChannels": [
       "espnradio",
@@ -11972,6 +12356,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5c7eff5d-2898-5ce1-a83d-f442b12e4e37",
     "relatedChannels": [
       "espnradio",
@@ -12020,6 +12405,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e86bb634-ed7b-c96e-1d11-a9bf89c022b1",
     "relatedChannels": [
       "espnradio",
@@ -12067,6 +12453,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "1a9f7fc2-8ccb-0378-fde2-4cd35b7d5c38",
     "relatedChannels": [
       "espnradio",
@@ -12115,6 +12502,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "246a634f-cccb-6fbc-742a-06cdddc61d6b",
     "relatedChannels": [
       "espnradio",
@@ -12163,6 +12551,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "649e042a-4180-aa34-8b5a-ff48ba3e5626",
     "relatedChannels": [
       "espnradio",
@@ -12211,6 +12600,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a8b583fa-115c-833e-1ebf-e70b5f7720a5",
     "relatedChannels": [
       "espnradio",
@@ -12259,6 +12649,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "794cf425-9eb2-1d03-1341-c795b464c811",
     "relatedChannels": [
       "espnradio",
@@ -12307,6 +12698,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "eafd5b3a-1dc3-f9c5-3647-8cd5bb0539d1",
     "relatedChannels": [
       "espnradio",
@@ -12355,6 +12747,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c8f3e18f-aaff-e75f-450a-9a09d365d06e",
     "relatedChannels": [
       "espnradio",
@@ -12403,6 +12796,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "30a56205-1d20-3e2b-527e-4481188e9297",
     "relatedChannels": [
       "espnradio",
@@ -12451,6 +12845,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4a001088-754b-e647-3643-780fff3d6540",
     "relatedChannels": [
       "espnradio",
@@ -12499,6 +12894,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7ab4f707-9187-e18b-9f3b-42506e327f85",
     "relatedChannels": [
       "espnradio",
@@ -12547,6 +12943,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ef0cae3e-91b3-e5b1-c876-3e991439ca39",
     "relatedChannels": [
       "espnradio",
@@ -12596,6 +12993,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f4141686-6a9a-3ad9-e4b4-2bc95fb205f0",
     "relatedChannels": [
       "siriusnflradio",
@@ -12642,6 +13040,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "05cd193e-f83a-df40-54ae-e3376a748990",
     "relatedChannels": [
       "siriusnflradio",
@@ -12687,6 +13086,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5037b827-6b4a-c732-e4d9-894705ff7639",
     "relatedChannels": [
       "8186",
@@ -12735,6 +13135,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f4eb13d6-dcf6-14fa-296a-1e7df034de43",
     "relatedChannels": [
       "siriusnflradio",
@@ -12780,6 +13181,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "dda52bfc-2584-b49d-ba2f-45b0e5eb1989",
     "relatedChannels": [
       "siriusnflradio",
@@ -12826,6 +13228,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c75f794d-cce7-5d9a-7498-1f111821c9a5",
     "relatedChannels": [
       "siriusnflradio",
@@ -12872,6 +13275,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7aaf666b-4284-c899-dfb4-e351a04e917c",
     "relatedChannels": [
       "8186",
@@ -12921,6 +13325,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "94053092-9c05-3e2c-748c-168168b00c65",
     "relatedChannels": [
       "8186",
@@ -12970,6 +13375,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6b8ece51-dcc9-93e8-583e-9d50924569de",
     "relatedChannels": [
       "8186",
@@ -13018,6 +13424,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "35d78cff-95d1-487b-6949-a41be0d34306",
     "relatedChannels": [
       "8186",
@@ -13066,6 +13473,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4a5cde15-48d5-3ec1-48e4-b510c1cd11b3",
     "relatedChannels": [
       "8186",
@@ -13114,6 +13522,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "303eec03-5a87-2ba6-8c10-2454dad1e3e5",
     "relatedChannels": [
       "8186",
@@ -13162,6 +13571,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "41071882-0a3e-9a4a-d98f-d583002e96b4",
     "relatedChannels": [
       "8186",
@@ -13210,6 +13620,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "eea58001-5e9d-f564-465c-3301be0b3304",
     "relatedChannels": [
       "8186",
@@ -13258,6 +13669,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7e847845-3f04-cb56-6640-c6e436bd2b44",
     "relatedChannels": [
       "8186",
@@ -13306,6 +13718,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6c864847-91b5-6b5d-8fe5-3cb814fe27bc",
     "relatedChannels": [
       "8186",
@@ -13354,6 +13767,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a9c5a51f-be7b-0ea6-67b8-9f9081051f58",
     "relatedChannels": [
       "8186",
@@ -13402,6 +13816,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7f150ae0-345b-dcac-ea7a-6f83283e9478",
     "relatedChannels": [
       "8186",
@@ -13450,6 +13865,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d8975cb4-2619-3f26-d17e-2540672f11ea",
     "relatedChannels": [
       "8186",
@@ -13498,6 +13914,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9770f0cd-8217-e41b-f762-01e2fd4fea80",
     "relatedChannels": [
       "8186",
@@ -13546,6 +13963,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "040087d6-6030-47ce-59c5-56b614a9e8d2",
     "relatedChannels": [
       "8186",
@@ -13607,6 +14025,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a078936b-043a-868c-3def-233ac0e49853",
     "relatedChannels": [
       "spirit",
@@ -13649,6 +14068,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "39d98324-4d15-dc24-59bd-4f0143df617f",
     "relatedChannels": [
       "8186",
@@ -13697,6 +14117,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a19b6f72-f59a-53bf-24c4-89efbf11b386",
     "relatedChannels": [
       "8186",
@@ -13745,6 +14166,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e88de433-b610-76b6-6d61-81d4547617c6",
     "relatedChannels": [
       "siriussportsaction",
@@ -13790,6 +14212,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "00c117a0-a5bd-a21d-8a3c-63c0755a9887",
     "relatedChannels": [
       "siriussportsaction",
@@ -13835,6 +14258,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8c05f89f-985b-0a5a-fca0-bc7af1b92a80",
     "relatedChannels": [
       "siriussportsaction",
@@ -13880,6 +14304,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "74e0443d-19bb-0c51-7a21-bf65267092fa",
     "relatedChannels": [
       "siriussportsaction",
@@ -13925,6 +14350,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9fd2ecbe-0b03-f029-83db-4d204f00bbc7",
     "relatedChannels": [
       "siriussportsaction",
@@ -13970,6 +14396,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2539e5e0-a557-9db5-912c-8e6b12084b78",
     "relatedChannels": [
       "siriussportsaction",
@@ -14015,6 +14442,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "631d4773-d6af-c491-ed77-5176ad9807a9",
     "relatedChannels": [
       "siriussportsaction",
@@ -14059,6 +14487,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "144a3caf-7c7e-e3c4-c0f4-fe5d4f3d0939",
     "relatedChannels": [
       "siriussportsaction",
@@ -14104,6 +14533,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8a2c95c0-0f96-2975-776e-fbe4a21d3a27",
     "relatedChannels": [
       "siriussportsaction",
@@ -14149,6 +14579,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9d65d4ef-eb12-09cf-694f-d02160743681",
     "relatedChannels": [
       "siriussportsaction",
@@ -14194,6 +14625,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a620a156-59ad-b1e3-dce8-505e59732713",
     "relatedChannels": [
       "siriusnascarradio",
@@ -14242,6 +14674,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fe4c06c3-6e5f-9766-9e26-94b6739dd2e5",
     "relatedChannels": [
       "8186",
@@ -14291,6 +14724,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5549a4a3-e79c-85c9-ab84-a50e512b6178",
     "relatedChannels": [
       "siriusnflradio",
@@ -14337,6 +14771,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b2e99e54-2105-cf9b-14b2-5d0a01c80b06",
     "relatedChannels": [
       "espnradio",
@@ -14383,6 +14818,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d59c36c7-c641-4659-8187-ef645707eabb",
     "relatedChannels": [
       "espnradio",
@@ -14435,6 +14871,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8d9c0b16-4734-3bc4-d523-7c942cf888aa",
     "relatedChannels": [
       "espnradio",
@@ -14493,6 +14930,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "95bffee3-e903-ca28-6332-1b94f41a8962",
     "relatedChannels": [
       "cnn"
@@ -14540,6 +14978,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "66e0c959-ced8-2958-5d2c-c19ca4f770a4",
     "relatedChannels": [
       "8213",
@@ -14592,6 +15031,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cdc9bee8-9317-37fa-ec8e-464096670c60",
     "relatedChannels": [
       "thespectrum",
@@ -14643,6 +15083,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e5285a3c-56c4-71f9-8727-218d6ce7cc04"
   },
   {
@@ -14692,6 +15133,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "32c4747f-8739-d578-62d8-08a92d518445",
     "relatedChannels": [
       "classicrewind",
@@ -14757,6 +15199,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "15c78a20-48ff-41f2-aa4e-d0da15455c24",
     "relatedChannels": [
       "9469",
@@ -14813,6 +15256,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8261e004-8a69-47cd-317a-bcf1fbb05bca",
     "relatedChannels": [
       "9469",
@@ -14871,6 +15315,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ffbdc12f-4ed9-0896-af68-a1353b5f0b7b",
     "relatedChannels": [
       "espnradio",
@@ -14926,6 +15371,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "bf819115-9d0d-c4fe-3f2b-bec9cb58ee9e",
     "relatedChannels": [
       "thebeat",
@@ -14979,6 +15425,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "87dba34f-e68a-f241-bc4d-34647f1a61c9",
     "relatedChannels": [
       "9189",
@@ -15036,6 +15483,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "19279890-ebb6-0ed6-0408-8d19a98f9039"
   },
   {
@@ -15087,6 +15535,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "1a649e3b-6686-77fc-6ccb-7184feb7bd85",
     "relatedChannels": [
       "9185",
@@ -15140,6 +15589,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0b5b5f60-dfcf-eba9-1dc6-ec3c909f4541",
     "relatedChannels": [
       "thevault",
@@ -15199,6 +15649,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e3b61a24-206d-4fa1-43ae-14ea190e47a6",
     "relatedChannels": [
       "chill",
@@ -15244,6 +15695,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "47fbdaa5-42e0-9d0a-4354-35677f549ae9",
     "relatedChannels": [
       "siriussportsaction",
@@ -15288,6 +15740,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "eec15a4a-0944-5dd4-4143-6f8f28f57b08",
     "relatedChannels": [
       "siriussportsaction",
@@ -15332,6 +15785,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "63e4dcd4-cff6-dd80-55ac-bc0c29349f67",
     "relatedChannels": [
       "siriussportsaction",
@@ -15376,6 +15830,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b30affd7-cc98-bf8d-83ce-6ecb04506ca7",
     "relatedChannels": [
       "siriussportsaction",
@@ -15420,6 +15875,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "84984e75-c882-77e0-c4ea-a41c3792d074",
     "relatedChannels": [
       "siriussportsaction",
@@ -15464,6 +15920,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9f31a296-1619-a45e-567c-8d3631616ab7",
     "relatedChannels": [
       "siriussportsaction",
@@ -15508,6 +15965,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ce92b663-db6a-1102-31b6-59ef3855c338",
     "relatedChannels": [
       "siriussportsaction",
@@ -15552,6 +16010,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "debf0b23-3dc0-8e3b-70c4-a8702ff510d6",
     "relatedChannels": [
       "siriussportsaction",
@@ -15596,6 +16055,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "927aa7a8-44b2-a09a-7529-f278f6d70e0f",
     "relatedChannels": [
       "siriussportsaction",
@@ -15640,6 +16100,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "346e8032-8f80-9d8f-1ca1-f9b31e17ee80",
     "relatedChannels": [
       "siriussportsaction",
@@ -15684,6 +16145,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "390004b7-f690-7537-a4b4-f756a360cbce",
     "relatedChannels": [
       "siriussportsaction",
@@ -15728,6 +16190,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cd7ebd29-4e4c-9639-836a-b537f2e1c564",
     "relatedChannels": [
       "siriussportsaction",
@@ -15772,6 +16235,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9f2ee511-bbea-e7bd-5598-fc8a4311c827",
     "relatedChannels": [
       "siriussportsaction",
@@ -15816,6 +16280,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d37b8bc5-c1f4-a69b-af6e-7e5ef0ecef7d",
     "relatedChannels": [
       "siriussportsaction",
@@ -15860,6 +16325,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "123d4a3d-f6f5-7086-79f4-1c481cc6c8f0",
     "relatedChannels": [
       "siriussportsaction",
@@ -15904,6 +16370,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "370cd8f6-c216-2efe-0e0d-71e35cca96cf",
     "relatedChannels": [
       "siriussportsaction",
@@ -15948,6 +16415,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4afa04c9-d1d1-b2d5-5e0d-f8e375750e75",
     "relatedChannels": [
       "siriussportsaction",
@@ -15992,6 +16460,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "034a6e76-af1c-7aaf-4e1b-d93d3c3550d8",
     "relatedChannels": [
       "siriussportsaction",
@@ -16036,6 +16505,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "84d1b59f-a37d-5ffc-79e6-e9c017386c3e",
     "relatedChannels": [
       "siriussportsaction",
@@ -16080,6 +16550,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ef7bf2a6-345e-aa14-9733-dd4617a98c5a",
     "relatedChannels": [
       "siriussportsaction",
@@ -16124,6 +16595,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "11e6d525-fe2c-297d-c264-98187d25700b",
     "relatedChannels": [
       "siriussportsaction",
@@ -16168,6 +16640,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "56a7ef77-cd6a-c8ed-b786-1bc1e58cc3c1",
     "relatedChannels": [
       "siriussportsaction",
@@ -16212,6 +16685,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "993460d0-95ba-3cf0-c73d-cddb670ee4a0",
     "relatedChannels": [
       "siriussportsaction",
@@ -16256,6 +16730,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9156e6b4-bab0-d808-10a1-e017644ac87c",
     "relatedChannels": [
       "siriussportsaction",
@@ -16300,6 +16775,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "102fb848-1671-f633-f0c3-c3cbc9775af0",
     "relatedChannels": [
       "siriussportsaction",
@@ -16344,6 +16820,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "1ae7b853-cd4e-6922-036e-127139b3628e",
     "relatedChannels": [
       "siriussportsaction",
@@ -16397,6 +16874,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "54f4144b-13f6-4e4c-3d4b-3d9f6f766e27",
     "relatedChannels": [
       "9172",
@@ -16444,6 +16922,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "dc440aa6-e5bd-0a56-fba3-e14b9f9d0062",
     "relatedChannels": [
       "octane",
@@ -16495,6 +16974,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5b537ac7-2357-55f9-a81c-1229382feffb",
     "relatedChannels": [
       "hairnation",
@@ -16545,6 +17025,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "961428e4-50e1-18d3-f353-4bbe4d155822",
     "relatedChannels": [
       "8225",
@@ -16599,6 +17080,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "23771c8c-4631-0fa1-2038-b793bc7e404b",
     "relatedChannels": [
       "rumbon",
@@ -16646,6 +17128,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6df23c85-6348-397c-67be-7ba8c2fbd2e8",
     "relatedChannels": [
       "8225",
@@ -16697,6 +17180,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2ab4b7da-039c-e67d-e00d-c7313871a3d4",
     "relatedChannels": [
       "totally70s",
@@ -16748,6 +17232,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f9f80eb9-a253-6e02-8fc8-33fa6ba69bd4",
     "relatedChannels": [
       "9187",
@@ -16797,6 +17282,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "44028691-9505-d523-3d98-1a58fd12b9a7",
     "relatedChannels": [
       "9189",
@@ -16847,6 +17333,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7838ff77-9566-436a-5ba7-a8d0d649ae9f",
     "relatedChannels": [
       "9190",
@@ -16892,6 +17379,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d17bd1ea-1c70-6757-14d0-3d862341e38c",
     "relatedChannels": [
       "siriussportsaction",
@@ -16936,6 +17424,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ff5d43da-0287-7a47-ba14-8ebdac107c17",
     "relatedChannels": [
       "siriussportsaction",
@@ -16980,6 +17469,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0ae9517d-18da-ca1f-efd6-e61182d4dce8",
     "relatedChannels": [
       "siriussportsaction",
@@ -17024,6 +17514,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7372497a-c237-e5de-a1ed-6d3e083fedc9",
     "relatedChannels": [
       "siriussportsaction",
@@ -17068,6 +17559,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cfc27539-f855-7b94-01ff-9341f7825c8c",
     "relatedChannels": [
       "siriussportsaction",
@@ -17112,6 +17604,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "af7393ce-01cf-560f-2382-bb683c345640",
     "relatedChannels": [
       "siriussportsaction",
@@ -17156,6 +17649,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "362bbdc9-e980-34cd-0c9f-ca99b7ce0e78"
   },
   {
@@ -17194,6 +17688,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9afa01eb-68eb-6720-b6db-f3adf9b2f8cd",
     "relatedChannels": [
       "8266",
@@ -17237,6 +17732,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e17875c7-adb2-5747-19ee-e49da12beb4a",
     "relatedChannels": [
       "8266",
@@ -17280,6 +17776,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "628c4c43-c11f-86e3-90ba-be562a361317",
     "relatedChannels": [
       "8266",
@@ -17323,6 +17820,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "715bd147-bdc6-53ed-c990-7b348c83a7a0",
     "relatedChannels": [
       "8266",
@@ -17366,6 +17864,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3bfee75a-49bb-3693-562e-2e454bc7776f",
     "relatedChannels": [
       "8266",
@@ -17409,6 +17908,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4d956d91-4f04-f839-d44f-6678299b1e2b",
     "relatedChannels": [
       "8266",
@@ -17452,6 +17952,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0a175ec0-92ce-a329-b9a4-4194d282b012",
     "relatedChannels": [
       "8266",
@@ -17495,6 +17996,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "be12d233-3e43-ff78-0c51-1b99c489441f",
     "relatedChannels": [
       "8266",
@@ -17538,6 +18040,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0d290ea3-9179-da3a-b58e-9dd3dc62fb7b",
     "relatedChannels": [
       "8266",
@@ -17581,6 +18084,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c4212ffd-b8ea-e00b-abb7-7a78efd0e0a4",
     "relatedChannels": [
       "8254",
@@ -17629,6 +18133,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d93c13f8-02fc-93ee-04b7-de929ff2d73f",
     "relatedChannels": [
       "espnradio",
@@ -17677,6 +18182,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9c50e3df-a38c-5c62-d45f-7665f89d2f06",
     "relatedChannels": [
       "espnradio",
@@ -17725,6 +18231,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8c9dc9b4-cd99-0eed-46e3-607caa75296c",
     "relatedChannels": [
       "8254",
@@ -17773,6 +18280,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fbf3f7ed-b12d-410e-e527-d3100d90acee",
     "relatedChannels": [
       "espnradio",
@@ -17821,6 +18329,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "33a755a1-f96a-921b-eb35-eaf7876e5dba",
     "relatedChannels": [
       "espnradio",
@@ -17869,6 +18378,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "71a1fd7c-45e0-83f2-380b-730db7f3a8b3",
     "relatedChannels": [
       "espnradio",
@@ -17917,6 +18427,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "453c679c-6245-b7e0-d15a-febafe086f40",
     "relatedChannels": [
       "espnradio",
@@ -17965,6 +18476,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "bd1cd910-3449-607f-cd34-d610d7d81904",
     "relatedChannels": [
       "espnradio",
@@ -18013,6 +18525,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d5ea02ab-5c78-1e67-f4e2-f284c48fea4b",
     "relatedChannels": [
       "espnradio",
@@ -18062,6 +18575,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "bf3561ee-7605-89db-58c2-a863f09fbc88",
     "relatedChannels": [
       "espnradio",
@@ -18107,6 +18621,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e8ca58ee-fbdc-3126-392f-5756b5680a9e",
     "relatedChannels": [
       "espnradio",
@@ -18152,6 +18667,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "59e2b9d5-e5ee-271f-c116-9a14d63e163b",
     "relatedChannels": [
       "espnradio",
@@ -18197,6 +18713,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c1e2c988-3d4a-277a-3e60-fc315fdd5b20",
     "relatedChannels": [
       "espnradio",
@@ -18242,6 +18759,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ea24fa32-9ba9-2430-6364-f0ac8dfc410b",
     "relatedChannels": [
       "espnradio",
@@ -18287,6 +18805,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "527f644e-849a-02c9-524f-0e5bf332129d",
     "relatedChannels": [
       "espnradio",
@@ -18332,6 +18851,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "66d24366-a6ee-aff9-2cf0-6d390b758208",
     "relatedChannels": [
       "espnradio",
@@ -18377,6 +18897,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "13f5be5d-1ca3-60bd-16d3-e77375a15f29",
     "relatedChannels": [
       "espnradio",
@@ -18422,6 +18943,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cb05de05-bc67-3f06-e1b2-110454df3cc1",
     "relatedChannels": [
       "espnradio",
@@ -18467,6 +18989,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a6b599c6-1681-1d5a-2b43-3008ecfd19af",
     "relatedChannels": [
       "espnradio",
@@ -18512,6 +19035,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d4fb8124-6322-2c78-88c4-dbabe29319cc",
     "relatedChannels": [
       "espnradio",
@@ -18557,6 +19081,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3a88ba8a-f17e-65ef-20d3-5b4831938d88",
     "relatedChannels": [
       "espnradio",
@@ -18602,6 +19127,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fa621690-4b3e-4d9b-d35a-d3a81ae6a617",
     "relatedChannels": [
       "espnradio",
@@ -18647,6 +19173,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ab9b53f1-7ebf-737d-313c-6f78c5b24fd2",
     "relatedChannels": [
       "espnradio",
@@ -18692,6 +19219,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "59a9408b-a743-40a0-920c-164fd7819357",
     "relatedChannels": [
       "espnradio",
@@ -18737,6 +19265,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "aecdf4c1-d092-c97a-8aee-f82a088784d6",
     "relatedChannels": [
       "espnradio",
@@ -18782,6 +19311,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cd1a2fbf-5d03-e878-14ca-86f20678a4bc",
     "relatedChannels": [
       "espnradio",
@@ -18827,6 +19357,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "26eb3ec9-f6a9-4db8-072b-84abf0ccfe4f",
     "relatedChannels": [
       "espnradio",
@@ -18872,6 +19403,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "21fd583e-8f6a-b869-4f75-9e8a3f604eb0",
     "relatedChannels": [
       "espnradio",
@@ -18917,6 +19449,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7ae4cb81-ed66-3576-c6ad-c2e714c1b9f0",
     "relatedChannels": [
       "espnradio",
@@ -18962,6 +19495,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "09cdce68-b0dc-fa0f-664a-46983e213ee8",
     "relatedChannels": [
       "espnradio",
@@ -19007,6 +19541,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "bbafbc6d-93c1-785b-7753-f62639a289f2",
     "relatedChannels": [
       "espnradio",
@@ -19052,6 +19587,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "dd089469-1a9f-7a8b-164d-a1abc1d12e32",
     "relatedChannels": [
       "espnradio",
@@ -19097,6 +19633,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b4d81d39-2c05-49e1-e591-24cacdd274ed",
     "relatedChannels": [
       "espnradio",
@@ -19142,6 +19679,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4ebd0395-6ddf-ca22-0dbc-eec804077744",
     "relatedChannels": [
       "espnradio",
@@ -19187,6 +19725,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "38ba7d8b-5c74-79e2-1b6d-4e03669d2525",
     "relatedChannels": [
       "espnradio",
@@ -19232,6 +19771,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4a03994d-e73a-2806-47b2-96f5e3cc085f",
     "relatedChannels": [
       "espnradio",
@@ -19277,6 +19817,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8a86c5bf-3d8b-f795-262b-af0878908c08",
     "relatedChannels": [
       "espnradio",
@@ -19322,6 +19863,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "eb149af3-a977-9164-487e-6b229d3b417a",
     "relatedChannels": [
       "espnradio",
@@ -19367,6 +19909,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7ccb8330-7c49-2257-8a2a-95de18260ad0",
     "relatedChannels": [
       "espnradio",
@@ -19411,6 +19954,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2d8fdcb4-d659-d753-4a02-bef46c8d43c0",
     "relatedChannels": [
       "8266",
@@ -19454,6 +19998,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c0b87b0b-d883-ea96-1397-02b6c8337df0",
     "relatedChannels": [
       "8266",
@@ -19498,6 +20043,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "edc23ad2-d444-169d-f96d-28152485c3df",
     "relatedChannels": [
       "siriussportsaction",
@@ -19541,6 +20087,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "653efded-9c0c-d654-d26e-50b103720df4",
     "relatedChannels": [
       "siriussportsaction",
@@ -19584,6 +20131,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "1ea7158e-d97e-fdcd-a94d-b9120d66be21",
     "relatedChannels": [
       "siriussportsaction",
@@ -19627,6 +20175,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5993a166-246d-ef2c-d0ae-3c5c0080d1ec",
     "relatedChannels": [
       "siriussportsaction",
@@ -19670,6 +20219,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5a1b6243-6e50-5081-ba94-58299a2955cf",
     "relatedChannels": [
       "siriussportsaction",
@@ -19713,6 +20263,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f30229a8-c154-306c-11e2-7cb9ecd6d4f7",
     "relatedChannels": [
       "siriussportsaction",
@@ -19756,6 +20307,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "01f2a47f-52a3-242b-5f15-86ffcf86be54",
     "relatedChannels": [
       "siriussportsaction",
@@ -19799,6 +20351,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f0815486-46cd-eb4a-df92-5aa97b240c48",
     "relatedChannels": [
       "siriussportsaction",
@@ -19842,6 +20395,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c62e8594-f7c2-ff07-b0a5-59c170368257",
     "relatedChannels": [
       "siriussportsaction",
@@ -19885,6 +20439,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f889faba-f9ff-ff9c-45d9-71d0f47770f1",
     "relatedChannels": [
       "siriussportsaction",
@@ -19928,6 +20483,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b961e6e4-466c-c951-1785-9fa11d8030c8",
     "relatedChannels": [
       "siriussportsaction",
@@ -19971,6 +20527,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d8a95749-fdcc-c011-8ed8-4aece4416d6b",
     "relatedChannels": [
       "siriussportsaction",
@@ -20014,6 +20571,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "53216c12-ea6f-c5e6-ea75-add7f032def1",
     "relatedChannels": [
       "siriussportsaction",
@@ -20057,6 +20615,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "68e21caa-814a-baf0-c0e0-9277c5dbac18",
     "relatedChannels": [
       "siriussportsaction",
@@ -20100,6 +20659,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "1f8d835e-8469-aefe-f272-8011d2104d0d",
     "relatedChannels": [
       "siriussportsaction",
@@ -20143,6 +20703,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5b7c0540-4282-5ce0-d61b-e8810f9ed04b",
     "relatedChannels": [
       "siriussportsaction",
@@ -20186,6 +20747,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "34e619a3-5f36-dc0d-d9b4-4ede27c5e27f",
     "relatedChannels": [
       "siriussportsaction",
@@ -20229,6 +20791,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4f8ae5b0-dd13-8361-000c-bf1a27fc738e",
     "relatedChannels": [
       "siriussportsaction",
@@ -20272,6 +20835,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9d8e4c55-75f3-7568-b5a3-d3205972c955",
     "relatedChannels": [
       "siriussportsaction",
@@ -20315,6 +20879,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4a0b13f5-49cd-52b5-2b30-e36b9f7484ba",
     "relatedChannels": [
       "siriussportsaction",
@@ -20358,6 +20923,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3acb15ef-a0f7-f1ad-9973-a44e89e3175e",
     "relatedChannels": [
       "siriussportsaction",
@@ -20401,6 +20967,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "56c58f7d-922d-54a9-5a74-e58ac29af81c",
     "relatedChannels": [
       "siriussportsaction",
@@ -20444,6 +21011,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f9f1fd27-ab2d-1c40-fe0b-35935f14c8aa",
     "relatedChannels": [
       "siriussportsaction",
@@ -20487,6 +21055,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9fcf6293-93cb-dd83-bf38-77449b184baa",
     "relatedChannels": [
       "siriussportsaction",
@@ -20530,6 +21099,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5992d340-726a-f84d-4d26-aec7de18f0c1",
     "relatedChannels": [
       "siriussportsaction",
@@ -20573,6 +21143,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "34c08004-ca56-efda-e0df-7a838d7c146e",
     "relatedChannels": [
       "siriussportsaction",
@@ -20616,6 +21187,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6b1b47eb-7b16-38db-4df3-626fbf395be4",
     "relatedChannels": [
       "siriussportsaction",
@@ -20659,6 +21231,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4aca6ca0-1234-4feb-83ca-01c227c32bf4",
     "relatedChannels": [
       "siriussportsaction",
@@ -20702,6 +21275,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "39ceed7a-4a2f-b7f8-8e43-474c009d1019",
     "relatedChannels": [
       "siriussportsaction",
@@ -20745,6 +21319,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6aa041e3-95ee-280e-1bda-8694dd756f53"
   },
   {
@@ -20784,6 +21359,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "69bc4baf-ac0e-e2ab-adf6-26248a21e5bb",
     "relatedChannels": [
       "8213",
@@ -20827,6 +21403,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b165fedf-fa20-2810-9816-a1fd1e7d688b",
     "relatedChannels": [
       "8213",
@@ -20870,6 +21447,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a26db23b-e673-ba0e-8f17-86bc75fd4ccb",
     "relatedChannels": [
       "8213",
@@ -20913,6 +21491,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cd8a8df0-969f-7824-5ba6-9085d69646dc",
     "relatedChannels": [
       "8213",
@@ -20956,6 +21535,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a6844e11-3385-8ca9-9d43-7778690f1a5a",
     "relatedChannels": [
       "8213",
@@ -20999,6 +21579,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "bbadead9-4fc7-174a-d360-3fd549bc530e",
     "relatedChannels": [
       "8213",
@@ -21042,6 +21623,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "526fb88f-4a11-a342-2c12-13b265a976bc",
     "relatedChannels": [
       "8213",
@@ -21085,6 +21667,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cbcb6ddc-c39d-b569-feca-1760c4575da6",
     "relatedChannels": [
       "8213",
@@ -21128,6 +21711,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d55c4c07-402b-0842-a876-8559ea64f494",
     "relatedChannels": [
       "8213",
@@ -21171,6 +21755,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "39fb1e22-85b1-90cd-dc54-ed218228b5a2",
     "relatedChannels": [
       "8213",
@@ -21214,6 +21799,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d6931be2-a2b5-6fd7-e8c6-ff4e1a46cc10",
     "relatedChannels": [
       "8213",
@@ -21257,6 +21843,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8a38d8f9-920b-adab-f0b2-51c590231277",
     "relatedChannels": [
       "8213",
@@ -21300,6 +21887,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "1413f1e2-2205-b87a-80ef-cdb897803d31",
     "relatedChannels": [
       "8213",
@@ -21343,6 +21931,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b9a073d8-3d4d-f050-d797-4100d0f2cb7c",
     "relatedChannels": [
       "siriussportsaction",
@@ -21386,6 +21975,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3298b787-35c9-f236-c885-3e7c760737f0",
     "relatedChannels": [
       "8213",
@@ -21429,6 +22019,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "07523f40-2db7-749a-b453-7a7732cda89c",
     "relatedChannels": [
       "8213",
@@ -21472,6 +22063,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5d8bfb31-2244-5e33-7654-6b92f7b2786d",
     "relatedChannels": [
       "8213",
@@ -21515,6 +22107,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4219787d-1447-1078-8f17-cc4a7dc4d570",
     "relatedChannels": [
       "8213",
@@ -21558,6 +22151,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "37188687-c182-d226-6061-806722134518",
     "relatedChannels": [
       "8213",
@@ -21601,6 +22195,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8d416eb2-df73-1bef-2b3f-798efa6e7026",
     "relatedChannels": [
       "8213",
@@ -21644,6 +22239,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ca365b18-a96a-37a5-9fe4-2d2a45fae892",
     "relatedChannels": [
       "8213",
@@ -21687,6 +22283,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d7890c84-3980-6144-56bc-b6449cb142bc",
     "relatedChannels": [
       "8213",
@@ -21730,6 +22327,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "31ebdfc0-dc1e-5ade-bc9c-6bb6dda1d46a",
     "relatedChannels": [
       "8213",
@@ -21773,6 +22371,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7ef15917-d819-08b0-2ca3-4eed7b6f2a7e",
     "relatedChannels": [
       "8213",
@@ -21816,6 +22415,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4fcf31bd-1eae-b620-5ee3-1eb86f5c95e9",
     "relatedChannels": [
       "8213",
@@ -21859,6 +22459,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "80742b6d-2284-d129-2e93-c305d00a8492",
     "relatedChannels": [
       "8213",
@@ -21902,6 +22503,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "54b6dbc7-c1a0-4c38-7f30-3485c6ffdb46",
     "relatedChannels": [
       "8213",
@@ -21945,6 +22547,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2aff9579-cef8-0c9a-1f27-8c546c8f4cfa",
     "relatedChannels": [
       "8213",
@@ -21988,6 +22591,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9d367430-7e62-f0ac-2fd9-ec50d49c6820",
     "relatedChannels": [
       "8213",
@@ -22030,6 +22634,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b024ffb5-5849-cbed-9892-a662e1fd8ba9",
     "relatedChannels": [
       "8266",
@@ -22073,6 +22678,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d958fe00-bd69-4938-5641-a2353577bf9b",
     "relatedChannels": [
       "8266",
@@ -22116,6 +22722,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2731dc6c-3d44-bfbb-e0de-5379dda8b403",
     "relatedChannels": [
       "8266",
@@ -22159,6 +22766,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a39064ba-a2b9-01b2-fa8e-d60cb78179ac",
     "relatedChannels": [
       "8266",
@@ -22202,6 +22810,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d8ad98b3-d661-3c32-5e4a-464fbaaf861b",
     "relatedChannels": [
       "8266",
@@ -22245,6 +22854,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e5e0508b-cfca-6616-47f1-acd16eaeff75",
     "relatedChannels": [
       "8266",
@@ -22288,6 +22898,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4fcfce27-552d-ffc6-4e79-cdb3b53391a9",
     "relatedChannels": [
       "8266",
@@ -22331,6 +22942,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "02ff1105-7361-e874-1577-936f0114346b",
     "relatedChannels": [
       "8266",
@@ -22374,6 +22986,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "036be0de-b618-b305-7b13-24347d03110b",
     "relatedChannels": [
       "8266",
@@ -22417,6 +23030,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "77f68b58-2e59-1379-416f-0da7ffaa9060",
     "relatedChannels": [
       "8266",
@@ -22460,6 +23074,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "04b2a781-8a7b-e44b-97c1-e32586477952",
     "relatedChannels": [
       "8266",
@@ -22503,6 +23118,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0dd1d12b-eacb-4676-1503-0f31d536f101",
     "relatedChannels": [
       "8266",
@@ -22546,6 +23162,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fe842efd-bd29-8e0d-03bf-3f83fe4a2292",
     "relatedChannels": [
       "8266",
@@ -22595,6 +23212,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "05cd3a1a-d292-3b8e-e8c9-1566d0726994",
     "relatedChannels": [
       "9471",
@@ -22651,6 +23269,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d3253c66-e1e1-331b-02e6-71580c33791b",
     "relatedChannels": [
       "theroadhouse",
@@ -22702,6 +23321,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2f7441a4-0d18-43ff-a574-e98217c28f4a",
     "relatedChannels": [
       "espnradio",
@@ -22751,6 +23371,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "33794a0f-2a24-08bb-492e-12e441fab2f0"
   },
   {
@@ -22790,6 +23411,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f95497ef-39c0-66fd-5749-f6c7b6f768b9"
   },
   {
@@ -22832,6 +23454,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b8c4de96-afd9-85ee-7e5f-95c2e380ab65"
   },
   {
@@ -22876,6 +23499,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "771bf1f6-3885-aa77-e98a-51f5dcccbeba",
     "relatedChannels": [
       "9408",
@@ -22929,6 +23553,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cfa7a7a4-b998-2d96-aba5-c5e988d4726d",
     "relatedChannels": [
       "9468",
@@ -22982,6 +23607,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9737bbee-364f-05f9-fe3f-392bbbf61850",
     "relatedChannels": [
       "doctorradio",
@@ -23033,6 +23659,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0060eb0d-00ee-75f5-9964-5c1ba8fb1b60",
     "relatedChannels": [
       "heartandsoul",
@@ -23083,6 +23710,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8d387b31-2065-7393-01c5-f86e3ea47dc9",
     "relatedChannels": [
       "9145",
@@ -23140,6 +23768,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d8a071ae-c656-bbdb-a4ec-cbc1d71b2740",
     "relatedChannels": [
       "8216",
@@ -23194,6 +23823,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "691c32ca-de5c-49c2-fa10-e2c2fc83ed21",
     "relatedChannels": [
       "roaddogtrucking",
@@ -23248,6 +23878,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9a32cb1d-e158-5f34-79be-cbeaca00cd11"
   },
   {
@@ -23287,6 +23918,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2d926e91-aa32-4e53-85e5-d444870eff11",
     "relatedChannels": [
       "9175",
@@ -23340,6 +23972,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "325f06d1-8734-0378-1ae1-66323143c249",
     "relatedChannels": [
       "9459",
@@ -23395,6 +24028,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2a74320f-938b-8e80-5e7f-5e8e110e1d42",
     "relatedChannels": [
       "siriushits1",
@@ -23452,6 +24086,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "635c7928-8df7-5677-c92a-4492be0d3bd8",
     "relatedChannels": [
       "spirit",
@@ -23496,6 +24131,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "255682b9-78d5-0279-ca90-fb6b37c87592",
     "relatedChannels": [
       "siriushits1",
@@ -23546,6 +24182,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d1320015-4873-9375-d7ea-6c0f325479c7"
   },
   {
@@ -23586,6 +24223,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4a121e6f-9d04-d2bb-763f-2b9119a5d281",
     "relatedChannels": [
       "chill",
@@ -23630,6 +24268,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "456700c3-f2df-3a94-8e76-966e047c7d18",
     "relatedChannels": [
       "chill",
@@ -23677,6 +24316,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "1e78cc73-4c8d-3a3f-6db2-7cc1857a8b7c",
     "relatedChannels": [
       "chill",
@@ -23725,6 +24365,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "14c3bc4f-4309-b439-4a84-54c0f26a581c",
     "relatedChannels": [
       "chill",
@@ -23773,6 +24414,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "78239fb8-a9cb-fc9e-4244-2cef6c2527c9",
     "relatedChannels": [
       "9145",
@@ -23820,6 +24462,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "899bf4b1-b4b6-55e6-cee8-7c83d7d227eb",
     "relatedChannels": [
       "thepulse",
@@ -23873,6 +24516,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5d71ae5d-5c6e-0430-6fc5-d9ca0c1c34c0",
     "relatedChannels": [
       "siriushits1",
@@ -23925,6 +24569,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "60b0ea2e-dec7-1d4a-da2a-6de09f273fe7",
     "relatedChannels": [
       "thevault",
@@ -23976,6 +24621,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0c8ec1e3-f152-0ea1-3b45-35f7ec816990",
     "relatedChannels": [
       "laughbreak",
@@ -24027,6 +24673,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "56605cc5-88b8-557b-fc3c-dae7eb41bf56",
     "relatedChannels": [
       "siriushits1",
@@ -24079,6 +24726,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f4a5f723-128d-c383-1787-291d52f47020",
     "relatedChannels": [
       "siriuspatriot"
@@ -24132,6 +24780,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "51c76a31-795d-1cac-bc97-bf11b9fb72b4",
     "relatedChannels": [
       "9130",
@@ -24180,6 +24829,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f936a498-89c7-bc15-f158-19a015db0683",
     "relatedChannels": [
       "8230",
@@ -24239,6 +24889,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5a5db052-9329-e54f-2df9-6dfb5d386046",
     "relatedChannels": [
       "9186",
@@ -24290,6 +24941,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c3890f3c-1222-5036-bea9-6d52753bf018",
     "relatedChannels": [
       "big80s",
@@ -24346,6 +24998,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0736f9f8-2b36-d38f-e3a6-d4de7d7877a8"
   },
   {
@@ -24395,6 +25048,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9150cc82-af5c-3be3-d170-0e81d87375a8",
     "relatedChannels": [
       "totally70s",
@@ -24440,6 +25094,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6c9062f6-d579-ca09-f6ac-c884e8c5e9b9",
     "relatedChannels": [
       "siriusnflradio",
@@ -24488,6 +25143,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0e3617ab-9b64-4215-de6a-66db75f0f2fe",
     "relatedChannels": [
       "siriusnflradio",
@@ -24536,6 +25192,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "684cd9ac-0af0-2b2e-96dc-660d8cdb1520",
     "relatedChannels": [
       "siriusnflradio",
@@ -24584,6 +25241,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "02ef49c8-8145-d62a-f448-11da698d7fda",
     "relatedChannels": [
       "siriusnflradio",
@@ -24632,6 +25290,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8a53ab2f-e2bb-5f5f-bb74-b073f7a82647",
     "relatedChannels": [
       "espnradio",
@@ -24680,6 +25339,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "dd6389bb-3d84-a715-2bb7-8602b609eb53",
     "relatedChannels": [
       "espnradio",
@@ -24728,6 +25388,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "dd93c7f3-bccc-1aee-ef6d-c530619efaac",
     "relatedChannels": [
       "8254",
@@ -24775,6 +25436,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2c3939b0-bd76-e059-5c65-b1b735a002b0"
   },
   {
@@ -24812,6 +25474,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "aa12d0b7-5be4-b3bf-ca9b-b034396f8aa3"
   },
   {
@@ -24849,6 +25512,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f639bdf9-0e2b-5da2-bae1-42b34eaf9a51"
   },
   {
@@ -24886,6 +25550,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0fdb62a5-9d3c-332f-197a-2217f4af8fa7"
   },
   {
@@ -24923,6 +25588,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3ca66253-238d-140b-41f8-4bab85770a39"
   },
   {
@@ -24960,6 +25626,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "69f282ed-a83d-8759-610f-0f89e703fde2"
   },
   {
@@ -24997,6 +25664,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0dd8983f-9ce2-a518-9e87-807ab75f7487"
   },
   {
@@ -25034,6 +25702,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f08ab1bc-51f3-9734-07bd-a7e035113226"
   },
   {
@@ -25071,6 +25740,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "1bd968d6-a62b-253e-b27e-2bbb1b2a1367"
   },
   {
@@ -25108,6 +25778,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cabf27a8-84e7-5965-88a6-3fa26a103808"
   },
   {
@@ -25145,6 +25816,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f4f5ab57-b207-34be-6720-2ab9d3c742eb"
   },
   {
@@ -25182,6 +25854,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "108d7d25-21cb-0d80-8c64-45ed18e51274"
   },
   {
@@ -25223,6 +25896,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2f2237ba-4880-43e0-b173-3350b754391d",
     "relatedChannels": [
       "9392",
@@ -25278,6 +25952,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "21b63878-b369-1503-d1c8-6025cc8571de",
     "relatedChannels": [
       "espnradio",
@@ -25335,6 +26010,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "20801778-3df2-d607-eab5-e03de0ca7815",
     "relatedChannels": [
       "60svibrations",
@@ -25387,6 +26063,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "771e64b7-b469-2b4f-51a7-333f940b859a"
   },
   {
@@ -25437,6 +26114,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "bf022b5f-a52e-564e-c35b-4211126df403",
     "relatedChannels": [
       "siriuspatriot",
@@ -25491,6 +26169,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "44f9129f-579a-3d23-218f-3c3518036fc6",
     "relatedChannels": [
       "8206",
@@ -25537,6 +26216,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d4872bcb-ab54-c000-b525-7f7458e01add",
     "relatedChannels": [
       "8213",
@@ -25583,6 +26263,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f5701423-11a8-9ee3-e9f9-11142108ae31",
     "relatedChannels": [
       "espnradio",
@@ -25633,6 +26314,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "454db282-082e-b9a0-d099-89afbf335688",
     "relatedChannels": [
       "espnradio",
@@ -25686,6 +26368,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a1aed141-90d4-4f65-4c58-eb0d99d8bcce",
     "relatedChannels": [
       "espnradio",
@@ -25736,6 +26419,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "bb9c9783-c6cd-1ab7-1d5a-ecde71598019",
     "relatedChannels": [
       "outlawcountry",
@@ -25786,6 +26470,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ab6a16eb-6e7b-6933-1dd1-8b04fbc922ed",
     "relatedChannels": [
       "8238",
@@ -25837,6 +26522,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "988d25d1-db91-ee15-72e1-386c1972b8b0",
     "relatedChannels": [
       "9541",
@@ -25892,6 +26578,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4ebc3011-0ebe-a9ad-c58b-9a306f60fc2b",
     "relatedChannels": [
       "thebeat",
@@ -25939,6 +26626,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7c987478-2f68-d267-acc6-56497c448256",
     "relatedChannels": [
       "8213",
@@ -25991,6 +26679,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "78612a95-0706-3f8d-a72d-7b8347093f16",
     "relatedChannels": [
       "outlawcountry",
@@ -26034,6 +26723,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d96771e4-37df-c45a-667f-a6e16f022b61"
   },
   {
@@ -26079,6 +26769,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9f8d08b0-f6cb-b41f-e8ac-24990bd5352c"
   },
   {
@@ -26119,6 +26810,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "bffe40f0-1688-dbba-e420-ef894d49d17d"
   },
   {
@@ -26159,6 +26851,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "08361d2b-88c3-df4d-d782-cb3e1ffdaad8"
   },
   {
@@ -26170,7 +26863,7 @@
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
-    "channelNotification": "This channel may not be available on some radios, but there are <a href=\"/ways-to-listen#assetgroup6knehojw5ak4w5i6kt8fi2\">other ways to listen</a> in your car with the SiriusXM app.",
+    "channelNotification": "",
     "contentId": "9492",
     "deepLink": "https://sxm.app.link/TgTB1Ze2nFb",
     "displayName": "Pandora Now",
@@ -26196,6 +26889,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "02394c8d-7afe-6ba2-3791-fce63b1e4d85",
     "relatedChannels": [
       "siriushits1",
@@ -26245,6 +26939,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4a4c6c22-787c-90f5-5c4b-bd635d3972b9",
     "relatedChannels": [
       "8254",
@@ -26299,6 +26994,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "96f5d0e4-ebff-564a-6c39-70a4a642e360",
     "relatedChannels": [
       "bluecollarcomedy",
@@ -26347,6 +27043,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6c535597-8e2b-5b54-968a-10cad277f43b",
     "relatedChannels": [
       "thebeat",
@@ -26392,6 +27089,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "38e112ec-cc49-1802-1062-f9a64518d19b",
     "relatedChannels": [
       "9468",
@@ -26436,6 +27134,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b96d76d6-935a-3b90-c22d-e0bc7ba11543",
     "relatedChannels": [
       "siriushits1",
@@ -26487,6 +27186,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "69e5185d-d218-8fbc-082f-6ea5a16ca4db",
     "relatedChannels": [
       "altnation",
@@ -26543,6 +27243,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a4b7a4f7-af96-3ae6-53df-f78ff9ac9aab",
     "relatedChannels": [
       "thespectrum",
@@ -26589,6 +27290,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5721af4f-a1df-65fa-e127-01efe4a92eaa",
     "relatedChannels": [
       "9450",
@@ -26635,6 +27337,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fb5fcfc1-bbd9-6cf1-578c-87c47aabce00",
     "relatedChannels": [
       "thevault",
@@ -26689,6 +27392,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "881c9b1f-e7fd-4637-b87a-0dd06f1831a5",
     "relatedChannels": [
       "4148",
@@ -26737,6 +27441,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b8d08b56-6bca-a461-189e-ea00b223fbf4"
   },
   {
@@ -26777,6 +27482,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6d5e6d8a-dbc8-b328-72ef-cb5e2a62a3a0"
   },
   {
@@ -26817,6 +27523,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "44a043a9-4ad8-4f24-fbef-866695c96c95"
   },
   {
@@ -26857,6 +27564,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3a35a1f3-aad6-4abe-a93d-7b2f792ac726"
   },
   {
@@ -26902,6 +27610,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "95cf8bf1-fc4e-76b9-ac2a-617dca0325e7"
   },
   {
@@ -26940,6 +27649,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "21c2a98a-e53e-c944-8e23-12cabd6c3439"
   },
   {
@@ -26985,6 +27695,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2211d1e6-153e-f617-b0d7-fd0b4ff513f2"
   },
   {
@@ -27025,6 +27736,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "70236813-3a54-23e2-00a9-2d98888a4c75"
   },
   {
@@ -27065,6 +27777,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8fcd47c1-c56f-a906-871d-f8a6ca8d928d"
   },
   {
@@ -27108,6 +27821,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3adfcd26-b336-23cb-f40d-8e4f1a40e1de"
   },
   {
@@ -27121,21 +27835,21 @@
     "categoryTitle": "Music",
     "channelNotification": "",
     "contentId": "9548",
-    "deepLink": "https://sxm.app.link/LimitedEdition10",
-    "displayName": "Limited Edition 10",
-    "genre": "country",
-    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Country.svg",
-    "genreTitle": "Country",
-    "longDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "mediumDescription": "An online home for more of SiriusXM's exclusive limited-run channels - from Pop to Rock, Comedy to Talk, and much more.",
-    "shortDescription": "Home for limited-run channels",
+    "deepLink": "https://sxm.app.link/MilesDavisRadio",
+    "displayName": "Miles Davis Radio",
+    "genre": "jazz",
+    "genreIcon": "/content/dam/sxm-com/icons/genre/Genre_Icons_Jazz.svg",
+    "genreTitle": "Jazz/Standards/Classical",
+    "longDescription": "The music of Miles Davis 24/7, from bebop-to cool- to modal to fusion all hosted by former band members including Lenny White and Marcus Miller.",
+    "mediumDescription": "Music of Miles Davis 24/7 from the 40s to the 21st century.",
+    "shortDescription": "Miles Davis Music 24/7",
     "streamingChannelNumber": 510,
-    "primaryColor": "#8cbc54",
-    "secondaryColor": "#255c90",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/limited-editions/siriusxm-limited-edition-10/SiriusXMLimitedEdition10-127-500x400-N.svg",
+    "primaryColor": "#2a5c8d",
+    "secondaryColor": "#0d0c0c",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/miles-davis-radio/MilesDavisRadio-126-500x400-P1.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-JazzStandards/miles-davis-radio/MilesDavisRadio-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/limited-edition-10",
+    "vanityURL": "/channels/miles-davis-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -27148,6 +27862,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0362be32-e873-95f6-c282-2fcf7be86ab6"
   },
   {
@@ -27188,6 +27903,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ecb0f19c-ea10-d4ce-0326-4e7477d16d5c"
   },
   {
@@ -27227,6 +27943,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0185552e-93a4-09fa-a5f9-b8aa69f7458f"
   },
   {
@@ -27277,6 +27994,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "038e9a9a-4878-7561-521b-5d432a0798a0",
     "relatedChannels": [
       "siriushits1",
@@ -27332,6 +28050,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d0759ae0-eeef-48e4-c4b9-526217aac33d",
     "relatedChannels": [
       "8208",
@@ -27381,6 +28100,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "862cfe43-6be7-8250-d89e-51fa75f70fc5"
   },
   {
@@ -27418,6 +28138,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8bb9d2d6-95c9-cebf-de23-f87b87ed286d",
     "relatedChannels": [
       "espnradio",
@@ -27467,6 +28188,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "95179ecb-a419-71aa-f3e6-92f5c4db1f7f",
     "relatedChannels": [
       "shade45",
@@ -27514,6 +28236,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2337bd03-66df-f3fa-5f6f-385fd242e405",
     "relatedChannels": [
       "bloombergradio",
@@ -27566,6 +28289,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "36e165d2-77d0-198b-f00a-a8606b04f4fb",
     "relatedChannels": [
       "8206",
@@ -27613,6 +28337,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "45a553ba-df24-a84a-d197-64e26adc405f"
   },
   {
@@ -27653,6 +28378,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4466e297-33f5-b69f-e5e7-71be602ebb2f"
   },
   {
@@ -27693,6 +28419,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6be4367a-f423-68eb-1a5e-76ef11a8970e"
   },
   {
@@ -27733,6 +28460,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "35c2ba06-4e2f-39f9-4538-b9fdd694650c"
   },
   {
@@ -27773,6 +28501,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "42f72153-ec76-e66c-c517-e86a6dcbe922",
     "relatedChannels": [
       "4073",
@@ -27818,6 +28547,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "451bf902-005b-da8b-08bf-e24d34df486e"
   },
   {
@@ -27856,6 +28586,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b3f0ba0e-1d1c-ac76-188f-bea057b3c212"
   },
   {
@@ -27900,6 +28631,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "dd21ed4a-49e7-ae02-3a61-cd730602a389"
   },
   {
@@ -27940,6 +28672,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2e6388fd-e5fc-a495-586f-2494e81fd919"
   },
   {
@@ -27990,6 +28723,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5f35c1e2-2fcd-8bb9-2770-02dacce34c99"
   },
   {
@@ -28033,6 +28767,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "01675bf6-1d35-d05f-2e73-0a750694aa6d"
   },
   {
@@ -28082,6 +28817,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fdb3a2d1-dc33-16c6-4ccf-86d522b21f3e"
   },
   {
@@ -28128,6 +28864,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "60035cea-1181-5b91-4c33-ba63663a37e2"
   },
   {
@@ -28168,6 +28905,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "04e45b04-19ab-3ca3-3064-4fe6320df18b",
     "relatedChannels": [
       "thevault",
@@ -28221,6 +28959,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d17d9b5a-2577-1241-b7f0-efac03348b78",
     "relatedChannels": [
       "9406",
@@ -28268,6 +29007,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "41c960eb-799a-90d8-18b1-62b5ae608d2c"
   },
   {
@@ -28307,6 +29047,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0b04fd91-ea6a-2c62-cb3b-a339e8f232d3",
     "relatedChannels": [
       "9596"
@@ -28349,6 +29090,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "29aaf8cb-3ffa-dea5-d856-d2aec155f775",
     "relatedChannels": [
       "9595"
@@ -28391,6 +29133,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4d49f200-7e40-2209-511e-5d93b86d227c"
   },
   {
@@ -28438,6 +29181,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "75301b34-2f01-2c17-0b52-028bec0d271c",
     "relatedChannels": [
       "classicrewind",
@@ -28494,6 +29238,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3f21599e-f0e6-54f9-dbf2-6122bef705ad",
     "relatedChannels": [
       "9530",
@@ -28537,6 +29282,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c2144e7c-f3b3-29b4-0ace-c7abdc77f2c9"
   },
   {
@@ -28575,6 +29321,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0399f6d5-209f-d09c-26cf-1b546472745f"
   },
   {
@@ -28613,6 +29360,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4263e4aa-ad7c-180c-2ca8-7b092bbfa2b5"
   },
   {
@@ -28651,6 +29399,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b052e2d1-3aca-52b0-3c63-cfa55f12ef17"
   },
   {
@@ -28689,6 +29438,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3c102600-4c64-04e0-3bc6-edcd77b6fb8b"
   },
   {
@@ -28727,6 +29477,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fb4adb28-6794-d1a5-931f-294955b91a83"
   },
   {
@@ -28774,6 +29525,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ad0ab172-202f-c05b-c7b9-597be600541f",
     "relatedChannels": [
       "thespectrum",
@@ -28830,6 +29582,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "dc5d3e2e-4729-7a6b-25f9-fe15dcc352d3",
     "relatedChannels": [
       "siriushits1",
@@ -28886,6 +29639,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fe951560-f7e7-2ee3-9de9-cfd89fd54ac5",
     "relatedChannels": [
       "9339",
@@ -28937,6 +29691,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "847b22e6-1d35-b5b3-92f4-0c5e4e7b9040"
   },
   {
@@ -28984,6 +29739,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "59b6ed0e-4c39-ec45-f8be-ce1599661ce3"
   },
   {
@@ -29031,6 +29787,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "916d7bd2-33ad-2fac-5787-cc1865a499be"
   },
   {
@@ -29067,6 +29824,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "79302460-07ff-4d2b-d7f5-6cc5a9f521c8",
     "relatedChannels": [
       "8254",
@@ -29113,6 +29871,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "607c8262-bded-f7ce-97e7-2fb04457ce81",
     "relatedChannels": [
       "8254",
@@ -29159,6 +29918,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8a8c1985-9f45-6a05-73fa-347ec377da20",
     "relatedChannels": [
       "8186",
@@ -29205,6 +29965,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2d5ae44e-8b8c-0472-d109-a18f09e076b5",
     "relatedChannels": [
       "8186",
@@ -29251,6 +30012,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "aed2b89f-1a2c-8a8a-9601-378ddeb43adb",
     "relatedChannels": [
       "8186",
@@ -29297,6 +30059,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4bb24d10-ad5f-6fd8-4ddc-b326871775d6",
     "relatedChannels": [
       "8254",
@@ -29343,6 +30106,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "4b2a853c-baab-985b-0d1e-eba05fb0709c",
     "relatedChannels": [
       "8186",
@@ -29389,6 +30153,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b8e40be1-3ebd-d5fc-dabb-d0e88919564e",
     "relatedChannels": [
       "8186",
@@ -29444,6 +30209,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "705b4f46-09ae-c9cc-26c5-30b56d62877c"
   },
   {
@@ -29483,6 +30249,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "784046a2-4237-e099-29ab-6605813f864b",
     "relatedChannels": [
       "9599",
@@ -29525,6 +30292,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5c10b4af-52aa-7d5e-bf1d-d64d3df39716"
   },
   {
@@ -29564,6 +30332,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d960e76a-e678-e62b-a7f2-6345afee1bb2"
   },
   {
@@ -29603,6 +30372,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "93717a84-1d49-a2c5-c49f-77fd2e2ac4bd",
     "relatedChannels": [
       "8213",
@@ -29645,6 +30415,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "93a8061c-dae0-9668-34bd-a5350770d2cb"
   },
   {
@@ -29686,6 +30457,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b379ceb3-de65-766c-72ac-1e018edac9c8",
     "relatedChannels": [
       "rumbon"
@@ -29735,6 +30507,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b603ee62-cf5b-bbb5-1abf-e7169adf25aa",
     "relatedChannels": [
       "8367",
@@ -29781,6 +30554,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7dcedf0f-8d43-f932-cdae-81601ee49e30"
   },
   {
@@ -29821,6 +30595,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5583d0b9-0505-be47-22c5-473d0d9c8086",
     "relatedChannels": [
       "siriuslove",
@@ -29866,6 +30641,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d20ad2ef-54e7-4b1a-60b6-ff5351421cd0",
     "relatedChannels": [
       "9409",
@@ -29913,6 +30689,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "98672b8b-d1ec-9286-7a7f-b829a617500b",
     "relatedChannels": [
       "8208",
@@ -29959,6 +30736,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "cb5cc86b-0584-d052-117d-465038a6d4d4"
   },
   {
@@ -29996,6 +30774,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ab42e288-7fde-7598-31fd-2ca6e09d7559"
   },
   {
@@ -30035,6 +30814,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c4533437-55d7-b623-9e7d-da95c64c4caf"
   },
   {
@@ -30079,6 +30859,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "35b0a4e3-b63d-b68e-4c34-6462579a8721",
     "relatedChannels": [
       "hardattack",
@@ -30124,6 +30905,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b7ef42fd-843b-8aa2-27ab-3723e312b978"
   },
   {
@@ -30164,6 +30946,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d248760a-9889-21d9-f1b2-fa9ba611b396",
     "relatedChannels": [
       "9190",
@@ -30220,6 +31003,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fc92713b-2006-4980-ef7c-e70f1da80427"
   },
   {
@@ -30249,8 +31033,8 @@
     "streamingChannelNumber": 105,
     "primaryColor": "#5fb4da",
     "secondaryColor": "#44478f",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/hotel-california/HotelCalifornia-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/hotel-california/HotelCalifornia-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/hotel-california/HotelCalifornia-127-500x400-Nv2.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/hotel-california/HotelCalifornia-126-500x400-P.v2svg.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/hotel-california",
     "packages": [
@@ -30265,6 +31049,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ab0e4302-503b-e1ff-c786-8307a3d36fe0"
   },
   {
@@ -30277,7 +31062,7 @@
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
-    "channelNotification": "Message Worship is now on CH 79. Kirk Franklin’s Praise is now on CH 68.",
+    "channelNotification": "",
     "contentId": "9675",
     "deepLink": "https://www.siriusxm.com/player/channel-linear/entity/c5647ffa-5f13-5030-88f6-13ed47df40dc",
     "displayName": "Message Worship",
@@ -30310,6 +31095,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c5647ffa-5f13-5030-88f6-13ed47df40dc",
     "relatedChannels": [
       "spirit",
@@ -30357,6 +31143,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "88dc9adf-0433-a501-66e4-b9f92e361163"
   },
   {
@@ -30395,6 +31182,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a57a9489-6e25-7cc2-f563-c74c7924b2ab"
   },
   {
@@ -30433,6 +31221,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "50b0c84a-9fa5-0f67-2e7b-85802d9f8a3a"
   },
   {
@@ -30456,8 +31245,8 @@
     "streamingChannelNumber": 835,
     "primaryColor": "#262626",
     "secondaryColor": "#da3732",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/siriusxm-f1-radio/SiriusXMF1Radio-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/siriusxm-f1-radio/SiriusXMF1Radio-127-500x400-N.svg",
+    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/siriusxm-f1-radio/F1onSiriusXM-126-500x400-P.svg",
+    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsChannels/siriusxm-f1-radio/F1onSiriusXM-127-500x400-N.svg",
     "explicitContentIndicator": "No",
     "vanityURL": "/channels/f1-on-siriusxm",
     "packages": [
@@ -30472,6 +31261,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d4971239-4b12-40d3-d25b-06877ad5d792"
   },
   {
@@ -30515,6 +31305,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "1430a1d6-68ba-edb7-acaf-c500b1c00354"
   },
   {
@@ -30552,6 +31343,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5ba276e8-bead-8e2a-4428-b13385e50a01"
   },
   {
@@ -30593,6 +31385,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8e08b8c8-d1a1-c62a-c1a9-d6dc532aefb1"
   },
   {
@@ -30642,6 +31435,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fd5740ec-7f11-0ecf-f676-46f9dc056d2c",
     "relatedChannels": [
       "leftofcenter",
@@ -30700,6 +31494,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "93c1c9bd-3403-392c-9ae7-ae292b8bb052",
     "relatedChannels": [
       "metropolitanopera"
@@ -30753,6 +31548,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2ea07147-a720-ed0c-d4ce-d7bddd1640d3",
     "relatedChannels": [
       "totally70s",
@@ -30810,6 +31606,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "27adcf33-1681-9f00-2461-2129a2471abf",
     "relatedChannels": [
       "cnbc",
@@ -30859,6 +31656,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3cebb3a3-6b03-2ad2-e5be-d9f4841249a2",
     "relatedChannels": [
       "roaddogtrucking",
@@ -30915,6 +31713,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9e545d10-7c21-9707-1d34-3d503b7365bc",
     "relatedChannels": [
       "outlawcountry"
@@ -30967,6 +31766,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "adc27a20-6fc4-7269-5ca6-4a492f7dfa55",
     "relatedChannels": [
       "big80s",
@@ -31023,6 +31823,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fed8de31-8d51-8949-6c69-2035fb0485b0",
     "relatedChannels": [
       "classicrewind",
@@ -31082,6 +31883,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e2cc6149-5716-4324-2537-4cce09d9b09c",
     "relatedChannels": [
       "8248",
@@ -31135,6 +31937,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "834383dd-9a7e-d59e-81a2-dd13e0377af2",
     "relatedChannels": [
       "leftofcenter",
@@ -31188,6 +31991,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "7a642de7-c33f-a628-efb2-3d94a829d17b",
     "relatedChannels": [
       "buzzsaw",
@@ -31247,6 +32051,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5ad8659a-414a-9e26-b973-f5a229d788dd",
     "relatedChannels": [
       "undergroundgarage",
@@ -31304,6 +32109,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2b6effb8-eb0e-7421-d7bb-d843a9ff3ce1",
     "relatedChannels": [
       "8367",
@@ -31357,6 +32163,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3c7b2421-7ce4-0ecb-bc70-7f60f15d3d29",
     "relatedChannels": [
       "8367"
@@ -31410,6 +32217,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "41f8b174-fb06-1707-aaa7-e74e109c2ee9",
     "relatedChannels": [
       "thespectrum",
@@ -31465,6 +32273,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "97548371-5133-a4c6-373f-801a18dc3237",
     "relatedChannels": [
       "siriusstars"
@@ -31515,6 +32324,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a96c9390-313c-3a51-5dac-953504f4f237",
     "relatedChannels": [
       "siriusgold",
@@ -31562,6 +32372,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "882607f1-0959-53f1-e58d-67b395b17247",
     "relatedChannels": [
       "8246"
@@ -31610,6 +32421,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "51f88432-8311-37e0-b57d-9b0ab63f5ce9",
     "relatedChannels": [
       "8186",
@@ -31667,6 +32479,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "727fa612-6e53-458e-720d-b662dc974e5d",
     "relatedChannels": [
       "thespectrum",
@@ -31725,6 +32538,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2692983c-1779-bca2-800c-76b8dd988ae8",
     "relatedChannels": [
       "spirit",
@@ -31743,7 +32557,7 @@
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
-    "channelNotification": "<b>Faction Punk</b> was renamed Green Day’s Idiot Nation. This channel may not be available on some radios, but there are <a href=\"/ways-to-listen#assetgroup6knehojw5ak4w5i6kt8fi2\">other ways to listen</a> in your car with the SiriusXM app.",
+    "channelNotification": "This channel may not be available on some radios, but there are <a href=\"https://www.siriusxm.com/ways-to-listen#assetgroup6knehojw5ak4w5i6kt8fi2\">other ways to listen</a> in your car with the SiriusXM app.",
     "contentId": "faction",
     "deepLink": "https://sxm.app.link/GreenDaysIdiotNation",
     "displayName": "Green Day’s Idiot Nation",
@@ -31773,6 +32587,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d8babd4e-64e3-ff81-3d24-2407e0974cdc",
     "relatedChannels": [
       "90salternative",
@@ -31831,6 +32646,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "65f04311-3581-256c-97b9-279838d6ff5e",
     "relatedChannels": [
       "big80s",
@@ -31884,6 +32700,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "5f8894e9-d615-21d0-a114-ecd08e7fa75c",
     "relatedChannels": [
       "siriuspatriot"
@@ -31934,6 +32751,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "067801cb-bb3f-1707-dd21-d77e06bb27c0",
     "relatedChannels": [
       "classicvinyl",
@@ -31990,6 +32808,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "b8b47809-4e8e-f556-8325-bd45fa3d4dc4",
     "relatedChannels": [
       "octane",
@@ -32045,6 +32864,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "634ea01e-4ae2-c7e8-7567-138965e8a6fe",
     "relatedChannels": [
       "octane",
@@ -32100,6 +32920,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "25de1705-19ad-6f6e-d45f-3f8775a37800",
     "relatedChannels": [
       "8238",
@@ -32149,6 +32970,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "bd54fc02-e063-0e3e-0cbb-4ceafef734e7",
     "relatedChannels": [
       "shade45",
@@ -32204,6 +33026,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c2a517d4-c02f-06eb-77cf-f81bfa719188",
     "relatedChannels": [
       "shade45",
@@ -32255,6 +33078,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "123f7d39-c99f-2f01-7900-0d4b8b010cb7",
     "relatedChannels": [
       "howardstern101",
@@ -32304,6 +33128,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "72874f52-9f17-2e8f-d4cc-3bfdccb4227c",
     "relatedChannels": [
       "howardstern100",
@@ -32357,6 +33182,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "43993462-1c73-efb8-29e5-0c4652cf8e4f",
     "relatedChannels": [
       "8367",
@@ -32410,6 +33236,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a00885e6-262a-0291-458b-e0b07fba71e1",
     "relatedChannels": [
       "thevault",
@@ -32466,6 +33293,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e4b5402c-c608-db84-ad15-4bc8e2cdccce",
     "relatedChannels": [
       "spa73",
@@ -32522,6 +33350,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d7151f52-694d-64b7-4e31-9b2f4f534454",
     "relatedChannels": [
       "rawdog",
@@ -32578,6 +33407,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f49737db-bea3-0c13-9834-b879fb1894c4",
     "relatedChannels": [
       "firstwave",
@@ -32624,6 +33454,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d4d17484-cb4d-06bf-60e0-2944cb827371",
     "relatedChannels": [
       "siriuslysinatra",
@@ -32679,6 +33510,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ffd94bb6-5368-67ae-91be-5b2bababeca0",
     "relatedChannels": [
       "siriushits1",
@@ -32740,6 +33572,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "22b6d419-0bc3-31f7-c9dd-53ca6c673d8c",
     "relatedChannels": [
       "indietalk"
@@ -32788,6 +33621,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0fed9647-cc82-24d7-526d-98762e8a52cd",
     "relatedChannels": [
       "altnation",
@@ -32852,6 +33686,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "176daca5-6810-3a1c-49e9-39b69055e811",
     "relatedChannels": [
       "thespectrum",
@@ -32868,7 +33703,7 @@
     "availableToPackage": true,
     "category": "music",
     "categoryTitle": "Music",
-    "channelNotification": "Kirk Franklin’s Praise is now on CH 68. Morgan Wallen Radio is now on CH 64.",
+    "channelNotification": "",
     "contentId": "praise",
     "deepLink": "https://sxm.app.link/KaASk5e2nFb",
     "displayName": "Kirk Franklin's Praise",
@@ -32905,6 +33740,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e4fe4bca-1af8-bf9e-c20b-813f204aa18e",
     "relatedChannels": [
       "spirit",
@@ -32958,6 +33794,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "32c45f24-14ee-6f33-e79d-d859ff1627a4",
     "relatedChannels": [
       "cbcradioone",
@@ -33012,6 +33849,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "32566352-8e68-80f8-fe11-3f9715b63876",
     "relatedChannels": [
       "big80s",
@@ -33068,6 +33906,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e6333906-2e89-6c07-59d6-36d09248b8dc",
     "relatedChannels": [
       "siriusblues",
@@ -33124,6 +33963,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6ce53b6e-fef9-ab81-e5e3-1e100e8a5e84",
     "relatedChannels": [
       "nprnow",
@@ -33175,6 +34015,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c636d008-7cb0-99eb-7fb7-7c489f862a26",
     "relatedChannels": [
       "totally70s",
@@ -33194,7 +34035,7 @@
     "availableToPackage": true,
     "category": "comedy",
     "categoryTitle": "Comedy",
-    "channelNotification": "<b>Raw Comedy</b> was renamed Sebastian Maniscalco’s Comedy Radio",
+    "channelNotification": "",
     "contentId": "rawdog",
     "deepLink": "https://sxm.app.link/SebastianManiscalcosComedyRadio",
     "displayName": "Sebastian Maniscalco’s Comedy Radio",
@@ -33226,6 +34067,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "8b66f94a-7304-fd83-d442-2153b881c21f",
     "relatedChannels": [
       "laughbreak",
@@ -33278,6 +34120,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "ac00ab0c-0a60-63bb-32fe-44e8b9be24fd",
     "relatedChannels": [
       "soultown",
@@ -33332,6 +34175,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "01305215-db22-2cdc-7eaf-ca12c60a2643",
     "relatedChannels": [
       "doctorradio",
@@ -33386,6 +34230,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "53b80144-2cb1-e723-07fd-6b164434b186",
     "relatedChannels": [
       "9188",
@@ -33441,6 +34286,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "2022dfab-580f-675f-6aad-00aad9c3be9b",
     "relatedChannels": [
       "hiphopnation",
@@ -33496,6 +34342,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c4406844-de06-901b-6b4f-02420e2bd2d6",
     "relatedChannels": [
       "thevault",
@@ -33551,6 +34398,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a62ffa9f-e016-5693-adcb-c76c328e1bee",
     "relatedChannels": [
       "purejazz",
@@ -33607,6 +34455,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "194adbca-34d6-cb94-b153-3488ee563308",
     "relatedChannels": [
       "thepulse",
@@ -33666,6 +34515,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "fb452ece-ac0c-2236-780a-d85c72fbcc88",
     "relatedChannels": [
       "cnn",
@@ -33711,6 +34561,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3fd664a8-229c-ce9b-c468-66e2a54abf0b",
     "relatedChannels": [
       "thepulse",
@@ -33764,6 +34615,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "38dccb7c-6e3c-1473-d0db-0b3b8b999707",
     "relatedChannels": [
       "broadwaysbest",
@@ -33814,6 +34666,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c875a2e9-2768-ed46-5487-4e3e667ae553",
     "relatedChannels": [
       "8368",
@@ -33868,6 +34721,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "f3126d70-09ea-bd0c-57cd-af5ab798f313",
     "relatedChannels": [
       "espnradio",
@@ -33928,6 +34782,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6739babb-7975-e60e-1835-fbacd4bbd855",
     "relatedChannels": [
       "indietalk"
@@ -33970,6 +34825,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "a8465da9-2ce2-9b01-6679-e67c5066697b",
     "relatedChannels": [
       "broadwaysbest",
@@ -34021,6 +34877,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d9dcf813-1a1a-2f92-a53f-e372ffc235ea",
     "relatedChannels": [
       "8213",
@@ -34073,6 +34930,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "813d656c-9af5-7f51-bb48-d724327d9289"
   },
   {
@@ -34122,6 +34980,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "aa46ae69-ab44-f416-58ee-9fdf07462c0e",
     "relatedChannels": [
       "heartandsoul",
@@ -34173,6 +35032,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "d324f7fe-efc8-e5fa-5ad5-14fa6ba0d9bf",
     "relatedChannels": [
       "chill",
@@ -34227,6 +35087,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c2e3e686-93a6-5d22-c818-6d8ea63bcc7c",
     "relatedChannels": [
       "praise",
@@ -34281,6 +35142,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "bda81f03-f231-d4db-56ad-40cb132c5663",
     "relatedChannels": [
       "big80s",
@@ -34339,6 +35201,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "c46c9810-6274-a715-a8b9-de9d4ac33873",
     "relatedChannels": [
       "siriuspops",
@@ -34394,6 +35257,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "6adef1b5-d812-9c10-7c6c-f05af4e27077",
     "relatedChannels": [
       "9527",
@@ -34458,6 +35322,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "1898923d-071d-0abd-1a62-ed0d2702d4f1",
     "relatedChannels": [
       "starlite",
@@ -34514,6 +35379,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "88c59be1-adab-d9c1-ee63-05fdef54f094",
     "relatedChannels": [
       "praise",
@@ -34570,6 +35436,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "9e8d6f72-0b59-85cf-a222-b18d38acdc0f",
     "relatedChannels": [
       "siriushits1",
@@ -34628,6 +35495,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "0aee72ed-5dd8-2848-3567-d8809e123cd1",
     "relatedChannels": [
       "elvisradio",
@@ -34682,6 +35550,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "804a5411-b234-1188-27da-f01197103886",
     "relatedChannels": [
       "thepulse",
@@ -34738,6 +35607,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "e3041d19-daa5-6517-8c73-41976582d1f9",
     "relatedChannels": [
       "estreetradio",
@@ -34796,6 +35666,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "95d4d8ef-55e4-8337-78f1-2fda944991d8",
     "relatedChannels": [
       "big80s",
@@ -34851,6 +35722,7 @@
     ],
     "exclusiveContent": false,
     "xtra_channel": false,
+    "channel_type": "Linear",
     "uuid": "3b83dc80-5987-6898-e98d-a98012f700c1",
     "relatedChannels": [
       "thevault",
