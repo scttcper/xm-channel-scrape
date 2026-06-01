@@ -30724,7 +30724,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/alerts-from-the-weather-channel/AlertsFromTheWeatherChannel-4C.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/NewsAndIssues/alerts-from-the-weather-channel/AlertsFromTheWeatherChannel-White.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/alerts-from-the-weather-channel",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
