@@ -14340,7 +14340,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/Yacht-Rock-Radio/YachtRockRadio-126-500x400-P1.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Rock/Yacht-Rock-Radio/YachtRockRadio-127-500x400-N1.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "",
+    "vanityURL": "/channels/yacht-rock-radio",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
