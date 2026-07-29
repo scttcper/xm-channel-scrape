@@ -14793,7 +14793,7 @@
     "colorLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/soulcycle/SoulCycleRadio-126-500x400-P.svg",
     "greyscaleLogo": "/content/dam/sxm-com/channel-logos/Music/x-Pop/soulcycle/SoulCycleRadio-127-500x400-N.svg",
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/soulcycle-radio",
+    "vanityURL": "",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
