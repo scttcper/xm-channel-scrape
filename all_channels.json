@@ -31363,42 +31363,6 @@
     ]
   },
   {
-    "assetId": "5OBvEHmfSJDcIQifFsf6Iy",
-    "deliveryTypes": [
-      "satellite"
-    ],
-    "availableToPackage": true,
-    "category": "sports",
-    "categoryTitle": "Sports",
-    "channelNotification": "Sports Play-by-Play 393 has moved from Channel 393 to Channel 274. ",
-    "contentId": "9678",
-    "displayName": "Sports 274",
-    "genre": "sportsplay",
-    "genreTitle": "Sports Play-by-Play",
-    "longDescription": "Live play-by-play of sports",
-    "mediumDescription": "Live play-by-play of sports",
-    "shortDescription": "Sports Play-by-Play",
-    "xmServiceId": 274,
-    "xmChannelNumber": 274,
-    "primaryColor": "#c3e9fc",
-    "secondaryColor": "#0072ec",
-    "colorLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/SportsPlayByPlay274-126-500x400-P.svg",
-    "greyscaleLogo": "/content/dam/sxm-com/channel-logos/SportsPlayByPlay/GenericPlayByPlay/SportsPlayByPlay274-127-500x400-N.svg",
-    "explicitContentIndicator": "No",
-    "vanityURL": "/channels/sports-play-by-play-274",
-    "packages": [
-      "SXM_SIR_AUD_ALLACCESS",
-      "SXM_SIR_AUD_ALLACCESS_FF",
-      "SXM_SIR_AUD_FF_SXM",
-      "SXM_SIR_AUD_EVT",
-      "SXM_SIR_AUD_FF"
-    ],
-    "exclusiveContent": false,
-    "xtra_channel": false,
-    "channel_type": "Linear",
-    "uuid": "88dc9adf-0433-a501-66e4-b9f92e361163"
-  },
-  {
     "assetId": "2AoFtd6KLZXbynovs3typs",
     "deliveryTypes": [
       "satellite"
