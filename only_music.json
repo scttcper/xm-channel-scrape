@@ -341,8 +341,8 @@
           "name": "Bon Jovi"
         },
         {
-          "id": "78df9e7b-9513-4c7c-b158-bae116030379",
-          "name": "Huey Lewis And The News"
+          "id": "380d5ef7-f7f3-417f-9242-35a270bb92b8",
+          "name": "John Mellencamp"
         }
       ]
     }
@@ -844,16 +844,16 @@
           "name": "21 Savage"
         },
         {
-          "id": "59114156-1cfb-47f9-846a-f419c0ff0229",
-          "name": "G Herbo"
-        },
-        {
           "id": "25fdd512-5900-47d9-ab1e-df1e180b608c",
           "name": "Pooh Shiesty"
         },
         {
           "id": "a7952365-db1d-40a1-a28a-a9348afb60a3",
           "name": "Wale"
+        },
+        {
+          "id": "2265817f-336d-478b-9092-04c2f235c2f7",
+          "name": "Lil Baby"
         },
         {
           "id": "bdc9fcd0-dac8-47cf-8d78-7411788993ec",
@@ -1170,6 +1170,10 @@
           "name": "Ella Langley"
         },
         {
+          "id": "dc07064d-3702-4c49-b716-9e0f884dacce",
+          "name": "Cody Johnson"
+        },
+        {
           "id": "1fa76a08-4a53-4893-a3db-5cbb9464998c",
           "name": "Sabrina Carpenter"
         },
@@ -1180,10 +1184,6 @@
         {
           "id": "55f9510f-f752-4950-9ae1-53e34ffb5041",
           "name": "Jordan Davis"
-        },
-        {
-          "id": "dc07064d-3702-4c49-b716-9e0f884dacce",
-          "name": "Cody Johnson"
         },
         {
           "id": "b7a67c48-ad91-4054-88de-8883bf6fb1bd",
@@ -1535,16 +1535,16 @@
           "name": "Wage War"
         },
         {
+          "id": "fdc76506-be96-4755-8943-afd11332915c",
+          "name": "Sleep Theory"
+        },
+        {
           "id": "95cca5e2-83a2-4092-b603-19bd03261f7a",
           "name": "Bad Omens"
         },
         {
           "id": "f769a4dc-85df-4480-8328-d1c9db656850",
           "name": "Memphis May Fire"
-        },
-        {
-          "id": "ebd5b895-90f6-47b4-a0fe-b2eff55ccd78",
-          "name": "Ice Nine Kills"
         }
       ]
     }
@@ -1630,8 +1630,8 @@
           "name": "The Revivalists"
         },
         {
-          "id": "800b8dde-6279-47a0-a3e8-3327514edcc9",
-          "name": "Death Cab For Cutie"
+          "id": "36508a33-e9f9-43e3-8c27-0d7a7cfc4391",
+          "name": "Goose"
         }
       ]
     }
@@ -1707,10 +1707,6 @@
         {
           "id": "1fcb6329-b518-418b-b074-511ab1569ce5",
           "name": "Lainey Wilson"
-        },
-        {
-          "id": "7ab1fcc5-0879-442b-ab20-b6623bc90c2f",
-          "name": "Kameron Marlowe"
         },
         {
           "id": "6cdb6341-af85-4b11-8466-26832b19d29c",
@@ -1872,6 +1868,10 @@
           "name": "Chris Brown"
         },
         {
+          "id": "7a3fbbb9-e9b3-4277-8fb0-cbd6d397944e",
+          "name": "Elmiene"
+        },
+        {
           "id": "bab26a39-9b6f-47cc-ab34-23a0ae91ac45",
           "name": "Latto"
         },
@@ -1882,10 +1882,6 @@
         {
           "id": "dbd2a79b-9272-4b63-964f-782b62eae7a5",
           "name": "Lil Uzi Vert"
-        },
-        {
-          "id": "21c8369c-f718-4100-b313-0d12f4f92347",
-          "name": "Skilla Baby"
         }
       ]
     }
@@ -2663,8 +2659,8 @@
           "name": "CeCe Peniston"
         },
         {
-          "id": "16dca292-13f9-4509-9aa0-590083079b2d",
-          "name": "Paula Abdul"
+          "id": "fe12b375-937e-49b8-bdfb-274216d6d3d8",
+          "name": "Amber"
         }
       ]
     }
@@ -2834,8 +2830,8 @@
           "name": "Arrested Development"
         },
         {
-          "id": "09e7fa42-03fd-4039-a6b5-d9d55c3cdc32",
-          "name": "Fugees"
+          "id": "03e037eb-7163-4121-8928-f6b80627a48d",
+          "name": "Naughty By Nature"
         }
       ]
     }
@@ -3001,12 +2997,12 @@
           "name": "Train"
         },
         {
-          "id": "a7bbed26-9e80-4a52-9c7a-45137091d7c2",
-          "name": "Daughtry"
+          "id": "a6aec414-2569-4604-928d-52e48291603d",
+          "name": "Jason Mraz"
         },
         {
-          "id": "1c9e6744-573f-42c7-8247-5b319ce2be1b",
-          "name": "Uncle Kracker"
+          "id": "a7bbed26-9e80-4a52-9c7a-45137091d7c2",
+          "name": "Daughtry"
         }
       ]
     }
@@ -4557,12 +4553,12 @@
           "name": "Kelly Clarkson"
         },
         {
-          "id": "e780bc51-5372-4cc8-833a-5867553e4641",
-          "name": "Beyoncé"
+          "id": "c57f3017-29fe-4067-9163-00dc726fe897",
+          "name": "Good Charlotte"
         },
         {
-          "id": "6b58fc7c-a4a7-45b3-ab5e-7aa0af4d4d8d",
-          "name": "Rihanna"
+          "id": "e780bc51-5372-4cc8-833a-5867553e4641",
+          "name": "Beyoncé"
         }
       ]
     }
@@ -4815,12 +4811,12 @@
           "name": "R.E.M."
         },
         {
-          "id": "2c783c76-231e-471f-8393-8fb336eb187c",
-          "name": "INXS"
-        },
-        {
           "id": "eece2394-fdec-45a1-a26c-efd498d1a5d3",
           "name": "The Cure"
+        },
+        {
+          "id": "3f9da4f4-e0b9-4b91-a805-3b03e168d710",
+          "name": "Sex Pistols"
         }
       ]
     }
@@ -5077,8 +5073,8 @@
           "name": "JAY Z"
         },
         {
-          "id": "e1662d69-bb67-413f-b45d-1ea379415113",
-          "name": "Sisqo"
+          "id": "c15e1061-5470-4e66-b7ed-a54bf085c102",
+          "name": "J-Kwon"
         }
       ]
     }
@@ -5243,16 +5239,16 @@
           "name": "sombr"
         },
         {
+          "id": "f7c12169-a291-44f2-9958-34494d0193da",
+          "name": "Tyla"
+        },
+        {
           "id": "5c266a19-8d34-4eef-801f-b3d0f62b228e",
           "name": "BTS"
         },
         {
           "id": "2201d85c-257a-496b-b212-e453327a072b",
           "name": "Tame Impala"
-        },
-        {
-          "id": "a2cc05aa-7ee8-49aa-aa46-398e4600ad79",
-          "name": "Bruno Mars"
         }
       ]
     }
@@ -5330,8 +5326,8 @@
           "name": "Robert Palmer"
         },
         {
-          "id": "adec3e5c-5b05-4b36-abdd-7df51b8a24ef",
-          "name": "Gloria Estefan"
+          "id": "1a216e5f-89c1-4369-9915-e27eb08236cc",
+          "name": "Michael Jackson"
         },
         {
           "id": "2fd26a2b-b0b6-4b61-9044-75766b311518",
@@ -5413,12 +5409,12 @@
           "name": "Roxette"
         },
         {
-          "id": "a5d5d9ee-b772-41ab-b9c8-16a41675e1bc",
-          "name": "Technotronic"
-        },
-        {
           "id": "d58fd556-3c24-4789-bf34-163d024ed2ae",
           "name": "Coolio"
+        },
+        {
+          "id": "19ad694c-a3ae-4638-a3ae-01663bbeff8f",
+          "name": "Ace Of Base"
         },
         {
           "id": "2b11baa7-f8bf-4b34-bb04-d2c7c5c33c62",
@@ -5924,12 +5920,12 @@
           "name": "Belly Gang Kushington"
         },
         {
-          "id": "1eed2b62-e03e-49f0-95ea-a3a29e7f773e",
-          "name": "Summer Walker"
-        },
-        {
           "id": "d9d3dbbe-53dc-4303-b226-8262660c2954",
           "name": "SZA"
+        },
+        {
+          "id": "c0260d29-bf8e-4a7f-aef1-9d6d4e7a7950",
+          "name": "Kehlani"
         },
         {
           "id": "54892532-53c2-405e-92fb-46504999b34c",
@@ -5996,6 +5992,10 @@
           "name": "Key Glock"
         },
         {
+          "id": "94cb9646-da87-4075-bfbb-0ede577db762",
+          "name": "T.I."
+        },
+        {
           "id": "48a4d1dd-0093-49a9-8f35-2574601bad92",
           "name": "French Montana"
         },
@@ -6010,10 +6010,6 @@
         {
           "id": "bdc9fcd0-dac8-47cf-8d78-7411788993ec",
           "name": "GloRilla"
-        },
-        {
-          "id": "94cb9646-da87-4075-bfbb-0ede577db762",
-          "name": "T.I."
         },
         {
           "id": "a72c254a-205b-4e30-8d50-d65872a6e951",
@@ -6270,16 +6266,16 @@
           "name": "TLC"
         },
         {
-          "id": "daeb2ef0-13a3-4a12-ad2a-891468f91967",
-          "name": "Backstreet Boys"
-        },
-        {
           "id": "758584c3-28ec-4ae1-8f5c-0718eb938528",
           "name": "Santana"
         },
         {
           "id": "5ed632e8-319e-4934-9943-ab317799f123",
           "name": "Céline Dion"
+        },
+        {
+          "id": "8d533c16-ab4d-4d99-b312-72875bad3702",
+          "name": "Spice Girls"
         },
         {
           "id": "1a216e5f-89c1-4369-9915-e27eb08236cc",
@@ -6365,12 +6361,12 @@
           "name": "Metallica"
         },
         {
-          "id": "63b93cdd-6ade-49e5-a3c2-2e0cfe6f5003",
-          "name": "Linkin Park"
+          "id": "bf1ece95-23a6-41ab-a4a7-acd081f38dbb",
+          "name": "Kendrick Lamar"
         },
         {
-          "id": "5340af12-c735-433c-8256-1cc4feb3ee7b",
-          "name": "AC/DC"
+          "id": "63b93cdd-6ade-49e5-a3c2-2e0cfe6f5003",
+          "name": "Linkin Park"
         }
       ]
     }
@@ -6535,8 +6531,8 @@
           "name": "STELLA LEFTY"
         },
         {
-          "id": "096f9547-1012-40d6-8a9c-9b02759cc7b4",
-          "name": "Tucker Wetmore"
+          "id": "55f9510f-f752-4950-9ae1-53e34ffb5041",
+          "name": "Jordan Davis"
         },
         {
           "id": "3e690cd9-0eb1-40e5-bbaf-6c11d5fd9200",
@@ -7030,12 +7026,12 @@
           "name": "Shabba Ranks"
         },
         {
-          "id": "c02ebe37-35e9-4bf1-927f-fa0c196d701c",
-          "name": "Steel Pulse"
+          "id": "91cc4d02-f6a3-489b-8186-ab75d737d2af",
+          "name": "The Mighty Diamonds"
         },
         {
-          "id": "c929a15a-795f-47de-8b93-99d80a140436",
-          "name": "Big Youth"
+          "id": "c84b79a2-1bc0-43b8-867d-fffdb44424fd",
+          "name": "I Wayne"
         }
       ]
     }
@@ -7421,6 +7417,10 @@
       "visible": true,
       "talents": [
         {
+          "id": "4aadbdef-5e19-4e07-b665-95c12910e484",
+          "name": "Taylor Swift"
+        },
+        {
           "id": "23cd9b9b-ee42-44d8-8526-935367fedcfb",
           "name": "Harry Styles"
         },
@@ -7443,10 +7443,6 @@
         {
           "id": "14c41364-ef93-45ff-b04a-303ddb362618",
           "name": "Jonas Brothers"
-        },
-        {
-          "id": "4aadbdef-5e19-4e07-b665-95c12910e484",
-          "name": "Taylor Swift"
         }
       ]
     }
@@ -7500,6 +7496,10 @@
           "name": "Corey Kent"
         },
         {
+          "id": "4fa74ebd-1882-4f03-b716-675f79e775ee",
+          "name": "Riley Green"
+        },
+        {
           "id": "8231c8f9-d2e1-44f7-88ca-674139e0ddf8",
           "name": "Kenny Chesney"
         },
@@ -7516,12 +7516,8 @@
           "name": "Tyler Hubbard"
         },
         {
-          "id": "1433f53c-010f-4256-ad30-00d9649cb75b",
-          "name": "Luke Bryan"
-        },
-        {
-          "id": "4fa74ebd-1882-4f03-b716-675f79e775ee",
-          "name": "Riley Green"
+          "id": "542c9c00-ae06-4338-9ce2-684e64d2deab",
+          "name": "STELLA LEFTY"
         },
         {
           "id": "cab07402-e1e3-42c2-a7c3-b690d0aa1e56",
@@ -7587,16 +7583,16 @@
           "name": "Remi Wolf"
         },
         {
-          "id": "ace720a5-53b9-4c8e-b302-9a48b3b04220",
-          "name": "Cat Power"
+          "id": "87ccd254-1a8f-4728-99a8-e1f6bd61edee",
+          "name": "Caroline Rose"
         },
         {
           "id": "46db0750-b7ef-4dc9-8da7-ea17980d8a37",
           "name": "Phoebe Bridgers"
         },
         {
-          "id": "d7778e23-d3a5-46e0-9680-6b330065d58a",
-          "name": "Noah Kahan"
+          "id": "cdb11619-ee91-4ae6-ab89-4450d8ee3d4b",
+          "name": "Steve Lacy"
         },
         {
           "id": "d71f2f90-343e-4757-a1ee-921d9c5c2ab6",
@@ -7660,6 +7656,10 @@
         {
           "id": "991d66c2-6a9b-43cb-8668-083b71078d26",
           "name": "Sylvan Esso"
+        },
+        {
+          "id": "9f8b8b64-d921-49fd-932c-34d66089bdb5",
+          "name": "Julia Jacklin"
         }
       ]
     }
@@ -7777,6 +7777,10 @@
       "visible": true,
       "talents": [
         {
+          "id": "3d499e75-976d-4b86-aceb-20106754a778",
+          "name": "Hillhaven"
+        },
+        {
           "id": "1e60385f-43f0-42cc-af23-f9e0ecce9e62",
           "name": "We Came As Romans"
         },
@@ -7795,10 +7799,6 @@
         {
           "id": "bde7a932-de6e-4e56-a380-3072a9178101",
           "name": "Any Given Sin"
-        },
-        {
-          "id": "3d499e75-976d-4b86-aceb-20106754a778",
-          "name": "Hillhaven"
         },
         {
           "id": "96199df2-bbb7-45a8-9280-4f1103572da8",
@@ -7872,10 +7872,6 @@
           "name": "Future"
         },
         {
-          "id": "dbd2a79b-9272-4b63-964f-782b62eae7a5",
-          "name": "Lil Uzi Vert"
-        },
-        {
           "id": "31200c75-9967-4fdb-aa2a-2972b5b16c9e",
           "name": "21 Savage"
         },
@@ -7886,6 +7882,10 @@
         {
           "id": "31c1e22f-1f98-41c4-8997-5dd9dc67811a",
           "name": "Victoria Monét"
+        },
+        {
+          "id": "a513adbd-51c9-4a5c-af18-4b57d3e9d05b",
+          "name": "Jhené Aiko"
         }
       ]
     }
@@ -7936,6 +7936,14 @@
           "name": "Fivio Foreign"
         },
         {
+          "id": "967ded5a-2cd1-46c4-ac15-1fe2df014e2e",
+          "name": "Yung Miami"
+        },
+        {
+          "id": "a513adbd-51c9-4a5c-af18-4b57d3e9d05b",
+          "name": "Jhené Aiko"
+        },
+        {
           "id": "ea2c1f32-70bc-4fe1-a1ae-347f2e082be8",
           "name": "Ashanti"
         },
@@ -7944,24 +7952,20 @@
           "name": "Tee Grizzley"
         },
         {
-          "id": "d2ecb154-44fb-4329-b780-ee5fa217f986",
-          "name": "J.I the Prince of N.Y"
+          "id": "452defdd-c082-4a8c-93ec-114149e89af9",
+          "name": "NoCap"
         },
         {
-          "id": "4c94953a-713c-45d2-830f-02672fbae57b",
-          "name": "That Mexican OT"
+          "id": "f32ca0ed-6b36-43a2-8116-4cd6abef3cdb",
+          "name": "Amerie"
         },
         {
-          "id": "786ccffc-36bd-4281-9b49-095be2b56b77",
-          "name": "Mozzy"
+          "id": "a716b90d-4541-4faf-8102-a1f0828ccc85",
+          "name": "2rare"
         },
         {
           "id": "894db40e-5c19-4d3f-946b-5835bc218eea",
           "name": "Trae Tha Truth"
-        },
-        {
-          "id": "877237fa-10bf-44bd-b547-7e520d64da9a",
-          "name": "Babyface Ray"
         }
       ]
     }
@@ -8011,20 +8015,20 @@
       "visible": true,
       "talents": [
         {
-          "id": "ded1aee9-05da-4600-921d-0dfd15aadefc",
-          "name": "Kaskade"
-        },
-        {
           "id": "984c6c17-1c9e-4b27-90ea-4c7462a2fe19",
           "name": "Sonny Fodera"
         },
         {
-          "id": "6d0bbd27-f5a6-4788-8fcd-ce3e32ab5541",
-          "name": "Max Styler"
-        },
-        {
           "id": "96ac5bf6-f5b4-4e4f-8baa-91a99efac62e",
           "name": "Gorgon City"
+        },
+        {
+          "id": "ded1aee9-05da-4600-921d-0dfd15aadefc",
+          "name": "Kaskade"
+        },
+        {
+          "id": "6d0bbd27-f5a6-4788-8fcd-ce3e32ab5541",
+          "name": "Max Styler"
         },
         {
           "id": "9f73a26e-25e5-459a-b057-d6e01725be0d",
@@ -8169,12 +8173,12 @@
           "name": "kwn"
         },
         {
-          "id": "ac9ef650-cd94-4d94-ad47-615847ef49e4",
-          "name": "Mack Keane"
-        },
-        {
           "id": "97642d78-c0b6-4eaf-8551-e9629832c8a9",
           "name": "DESTIN CONRAD"
+        },
+        {
+          "id": "ac9ef650-cd94-4d94-ad47-615847ef49e4",
+          "name": "Mack Keane"
         },
         {
           "id": "30472f11-d283-419a-a7ac-a2daf16464cb",
@@ -8240,20 +8244,20 @@
       "visible": true,
       "talents": [
         {
-          "id": "16628289-af3f-47f9-a7ed-91a040fbb679",
-          "name": "Dustin Lynch"
+          "id": "a5e47595-f8ec-42f3-a465-97d0e97c4fef",
+          "name": "AZ Chike"
         },
         {
           "id": "2a37df67-3c3c-4fe3-a220-de0a82c5a4cf",
           "name": "Ashley Cooke"
         },
         {
-          "id": "23cd9b9b-ee42-44d8-8526-935367fedcfb",
-          "name": "Harry Styles"
+          "id": "16628289-af3f-47f9-a7ed-91a040fbb679",
+          "name": "Dustin Lynch"
         },
         {
-          "id": "a5e47595-f8ec-42f3-a465-97d0e97c4fef",
-          "name": "AZ Chike"
+          "id": "9c1588cf-d2c2-49eb-9d5a-7d1523fa6ef8",
+          "name": "Lil Nas X"
         },
         {
           "id": "8231c8f9-d2e1-44f7-88ca-674139e0ddf8",
@@ -9122,8 +9126,8 @@
           "name": "Lionel Richie"
         },
         {
-          "id": "20787ebe-5930-43b7-95b6-fccdeb6a49e1",
-          "name": "Howard Jones"
+          "id": "e9189f03-c1c9-4d1d-a313-a77094db9324",
+          "name": "U2"
         }
       ]
     }
@@ -9549,8 +9553,8 @@
           "name": "Elvis Costello & The Attractions"
         },
         {
-          "id": "2f603854-9a2a-4594-ba00-b359d1f69699",
-          "name": "Talking Heads"
+          "id": "2704b6be-7aa3-4f18-a60f-15da60058d5e",
+          "name": "Big Audio Dynamite"
         },
         {
           "id": "8cf569f2-3007-4663-9410-513c5474309f",
@@ -11076,12 +11080,12 @@
           "name": "Paulina Rubio"
         },
         {
-          "id": "01aefd31-6a64-406d-9baf-9ea733c63c01",
-          "name": "Jennifer Lopez"
-        },
-        {
           "id": "c2940b10-01b6-4e0f-9ccf-76e680f1e4b7",
           "name": "Marc Anthony"
+        },
+        {
+          "id": "3980e8e3-b81e-4870-947d-d331892d4b92",
+          "name": "Cristian Castro"
         },
         {
           "id": "1b3a070d-79a9-4ce2-82c3-fe8edf36273f",
@@ -11836,12 +11840,12 @@
           "name": "Gryffin"
         },
         {
-          "id": "b0d2bdd1-e34f-40bd-8fb7-030e41eb6909",
-          "name": "FISHER"
+          "id": "e8fe9828-d8fe-42e4-bb24-10cf002828ee",
+          "name": "Porter Robinson"
         },
         {
-          "id": "a6e622c1-42f5-4dd1-af20-58ed44dd58ce",
-          "name": "ILLENIUM"
+          "id": "b0d2bdd1-e34f-40bd-8fb7-030e41eb6909",
+          "name": "FISHER"
         },
         {
           "id": "2be9bd78-2992-4903-af0b-1a29052b343f",
@@ -12102,12 +12106,12 @@
           "name": "Wage War"
         },
         {
-          "id": "fdc76506-be96-4755-8943-afd11332915c",
-          "name": "Sleep Theory"
+          "id": "3d499e75-976d-4b86-aceb-20106754a778",
+          "name": "Hillhaven"
         },
         {
-          "id": "43c38dfd-7772-477c-9f7e-f1c2ac6ee7a1",
-          "name": "From Ashes to New"
+          "id": "fdc76506-be96-4755-8943-afd11332915c",
+          "name": "Sleep Theory"
         }
       ]
     }
@@ -12268,6 +12272,10 @@
           "name": "Jhené Aiko"
         },
         {
+          "id": "a2cc05aa-7ee8-49aa-aa46-398e4600ad79",
+          "name": "Bruno Mars"
+        },
+        {
           "id": "31200c75-9967-4fdb-aa2a-2972b5b16c9e",
           "name": "21 Savage"
         },
@@ -12343,12 +12351,12 @@
           "name": "Lainey Wilson"
         },
         {
-          "id": "4fa74ebd-1882-4f03-b716-675f79e775ee",
-          "name": "Riley Green"
+          "id": "542c9c00-ae06-4338-9ce2-684e64d2deab",
+          "name": "STELLA LEFTY"
         },
         {
-          "id": "14e1152d-3f20-4a60-b7c0-3ae01dccafa6",
-          "name": "Max McNown"
+          "id": "4fa74ebd-1882-4f03-b716-675f79e775ee",
+          "name": "Riley Green"
         },
         {
           "id": "735e6085-6c60-4c66-a9a4-f1c72dd4eb26",
@@ -12537,8 +12545,8 @@
           "name": "Andrew Gialanella"
         },
         {
-          "id": "4804a91e-6839-4d85-b12f-f6a7427aaf16",
-          "name": "Sungha Jung"
+          "id": "27547b32-0a2f-416b-8d6b-b5a609dc853b",
+          "name": "Roberto Dalla Vecchia"
         }
       ]
     }
@@ -12928,6 +12936,10 @@
       "visible": true,
       "talents": [
         {
+          "id": "604403aa-c824-480c-8950-cd3750d9dea0",
+          "name": "Harold Budd"
+        },
+        {
           "id": "689dcb8c-0e3e-4087-93a9-9895e082f514",
           "name": "Deuter"
         },
@@ -12948,10 +12960,6 @@
           "name": "Kilometre Club"
         },
         {
-          "id": "604403aa-c824-480c-8950-cd3750d9dea0",
-          "name": "Harold Budd"
-        },
-        {
           "id": "1df46a73-ab2f-4c8f-975d-ad4cc072fde5",
           "name": "faintface"
         },
@@ -12962,6 +12970,10 @@
         {
           "id": "85de4f83-6612-48c9-b2bd-5de0ad390a07",
           "name": "Peder B. Helland"
+        },
+        {
+          "id": "09a80425-92db-44b9-8ec0-826cdd2b3966",
+          "name": "Chad Lawson"
         }
       ]
     }
@@ -13395,8 +13407,8 @@
           "name": "Crosby, Stills & Nash"
         },
         {
-          "id": "a4b287d6-e83d-4533-a191-90f9f4d99dee",
-          "name": "The Jimi Hendrix Experience"
+          "id": "d99df71b-c70b-4f7c-9365-522c181c8fee",
+          "name": "Lynyrd Skynyrd"
         }
       ]
     }
@@ -13478,12 +13490,12 @@
           "name": "Yes"
         },
         {
-          "id": "775396c8-5383-47a7-bdea-23d34c40172c",
-          "name": "Led Zeppelin"
-        },
-        {
           "id": "bc64c900-a3e4-45a0-8629-2b57cea895c0",
           "name": "Genesis"
+        },
+        {
+          "id": "eaf3403b-c454-4a7e-8d22-87af5141d063",
+          "name": "Steely Dan"
         }
       ]
     }
@@ -14187,12 +14199,12 @@
           "name": "Leonard Bernstein"
         },
         {
-          "id": "79592bbc-3b5c-4026-a54e-91a5c157107e",
-          "name": "Aaron Copland"
-        },
-        {
           "id": "ed7252f5-3604-4cf4-bad8-a5e6d95c6645",
           "name": "Yuja Wang"
+        },
+        {
+          "id": "468b2a3b-0427-4c95-93e8-0100c8a893d0",
+          "name": "Alfred Brendel"
         },
         {
           "id": "4e486f23-296c-4e0d-ae38-a02deebaa86c",
@@ -14279,12 +14291,12 @@
           "name": "Godsmack"
         },
         {
-          "id": "939e626d-c297-4c67-a08d-8feeb7cdc2b8",
-          "name": "Mudvayne"
-        },
-        {
           "id": "2ac407bb-7198-400f-a2ab-40768780bb3c",
           "name": "Limp Bizkit"
+        },
+        {
+          "id": "37fbc878-87dc-4c8c-bcae-bb17cd46cf82",
+          "name": "White Zombie"
         },
         {
           "id": "7a8c6fa7-69a1-4e4e-8bbf-9c5001edc04a",
@@ -14366,8 +14378,8 @@
           "name": "Walter Beasley"
         },
         {
-          "id": "d7fd0687-ca22-4933-a4f5-e4dd9fe49821",
-          "name": "Rick Braun"
+          "id": "e8b69873-d17c-4259-a9d9-fe1bb49092ba",
+          "name": "Kim Waters"
         },
         {
           "id": "7ff64968-84ad-41da-845f-36f2c391a219",
@@ -15059,10 +15071,6 @@
         {
           "id": "2d5c3c52-f5a7-47c8-8cc9-3a21516ad6f2",
           "name": "Ferry Corsten"
-        },
-        {
-          "id": "db9a13ab-6a0d-41ed-88dc-3e8f32b2ad05",
-          "name": "Galantis"
         },
         {
           "id": "dc1b91f4-2911-45c7-9484-a763d3c06924",
@@ -15941,8 +15949,8 @@
           "name": "Whitney Houston"
         },
         {
-          "id": "74f789c9-29f8-4368-8638-fba80068172d",
-          "name": "Gloria Gaynor"
+          "id": "0975ac2c-ce57-4d5c-abc7-ceff8ee70e7e",
+          "name": "Jayda G"
         },
         {
           "id": "cdb7d06f-b246-4ad4-a972-9c04ac91e9c8",
@@ -16115,16 +16123,16 @@
           "name": "KISS"
         },
         {
+          "id": "ef257701-52ef-4031-ac1e-79a3c4756d8b",
+          "name": "Bob Seger & The Silver Bullet Band"
+        },
+        {
           "id": "1a216e5f-89c1-4369-9915-e27eb08236cc",
           "name": "Michael Jackson"
         },
         {
           "id": "51e72377-9c38-4507-bd18-5c7636fcb17f",
           "name": "Kool & The Gang"
-        },
-        {
-          "id": "cf1cfb85-b9ff-42d5-a86e-e8d64e539b8c",
-          "name": "David Bowie"
         }
       ]
     }
@@ -17068,8 +17076,8 @@
           "name": "Gabito Ballesteros"
         },
         {
-          "id": "bd653818-977a-4795-ac8b-968777bd9a00",
-          "name": "Sebastian Esquivel"
+          "id": "8e8c0985-9eed-411a-a8cc-0463b0f699b0",
+          "name": "T3R Elemento"
         },
         {
           "id": "01463a27-a582-4a11-9204-5529f304d220",
@@ -17450,8 +17458,8 @@
           "name": "Olga Tañón"
         },
         {
-          "id": "981d4eb6-c727-4dd7-babe-709501d57d91",
-          "name": "NATTI NATASHA"
+          "id": "11ec6f95-35e8-4d4c-be25-343c6343c4a1",
+          "name": "Paulina Rubio"
         },
         {
           "id": "bc21e111-6cbb-4ec6-aa46-76890b983e5b",
@@ -17638,10 +17646,6 @@
           "name": "Bryce Dessner"
         },
         {
-          "id": "05b96bfb-95dc-4111-8724-2a9ccd8eccf7",
-          "name": "Víkingur Ólafsson"
-        },
-        {
           "id": "96e7ae43-89ba-4677-a8d3-2261201b2cca",
           "name": "The Piano Guys"
         },
@@ -17779,8 +17783,8 @@
           "name": "Ben Böhmer"
         },
         {
-          "id": "9d277c5e-64b6-4702-ad7b-89050f488dc4",
-          "name": "Nora En Pure"
+          "id": "7b3b256f-627b-4d6d-bd38-4bdc2d643d8f",
+          "name": "Adam Port"
         }
       ]
     }
@@ -18006,6 +18010,10 @@
         {
           "id": "7fca5171-52fe-48db-9d8c-ac14eb1c98d3",
           "name": "The Lullaby Guys"
+        },
+        {
+          "id": "36809bbc-a693-4c15-ae75-e482c2080e51",
+          "name": "Moon Dream"
         },
         {
           "id": "3a7e8945-61cc-43eb-839a-1845cda7a779",
@@ -18277,12 +18285,12 @@
           "name": "Pearl Jam"
         },
         {
-          "id": "63b93cdd-6ade-49e5-a3c2-2e0cfe6f5003",
-          "name": "Linkin Park"
-        },
-        {
           "id": "31dbf862-0794-4acf-acb9-18a911a6cfc4",
           "name": "Metallica"
+        },
+        {
+          "id": "eaeb1716-861a-4fcd-b1c2-f9f11755ba62",
+          "name": "The Offspring"
         },
         {
           "id": "692ad771-1ee3-497d-8037-9f64aad01b0e",
@@ -18777,6 +18785,10 @@
           "name": "sundial"
         },
         {
+          "id": "430316dd-988c-4fc1-9606-2d747538b1e1",
+          "name": "KATSEYE"
+        },
+        {
           "id": "ba0b8c36-b5b2-4a01-84a4-c74610942309",
           "name": "Mitski"
         },
@@ -18785,12 +18797,8 @@
           "name": "keshi"
         },
         {
-          "id": "430316dd-988c-4fc1-9606-2d747538b1e1",
-          "name": "KATSEYE"
-        },
-        {
-          "id": "a75f36dd-acc6-4307-ba78-1d661d8f15c7",
-          "name": "Mark Tuan"
+          "id": "a2cc05aa-7ee8-49aa-aa46-398e4600ad79",
+          "name": "Bruno Mars"
         }
       ]
     }
@@ -19121,12 +19129,12 @@
           "name": "Keith Urban"
         },
         {
-          "id": "7ae6c7b9-23a2-4875-9c65-ed6822098d2e",
-          "name": "John Denver"
+          "id": "7bfe7ea6-05c5-4218-98f6-abd6bec6722a",
+          "name": "Zac Brown Band"
         },
         {
-          "id": "ea2d3ea9-b917-4dbe-8308-549e4337be79",
-          "name": "Big & Rich"
+          "id": "7ae6c7b9-23a2-4875-9c65-ed6822098d2e",
+          "name": "John Denver"
         }
       ]
     }
@@ -19346,12 +19354,12 @@
           "name": "Blondie"
         },
         {
-          "id": "6989a235-e8d9-4644-81a1-73df761f3fc9",
-          "name": "Bruce Springsteen"
-        },
-        {
           "id": "4656512c-482b-4581-b668-410afd387f3d",
           "name": "Frank Sinatra"
+        },
+        {
+          "id": "76dfdea9-9a9c-4a5c-9bda-1e2f282b9f81",
+          "name": "Journey"
         }
       ]
     }
@@ -19413,8 +19421,8 @@
           "name": "Ed Sheeran"
         },
         {
-          "id": "08f32e09-8875-448d-bba5-d3016c3ebac6",
-          "name": "ABBA"
+          "id": "758584c3-28ec-4ae1-8f5c-0718eb938528",
+          "name": "Santana"
         },
         {
           "id": "70df5f88-1ac0-4edf-b14a-821d42124e75",
@@ -19488,10 +19496,6 @@
       "visible": true,
       "talents": [
         {
-          "id": "9a5ef26c-324c-4a6b-9a1f-11648dab3436",
-          "name": "BADBADNOTGOOD"
-        },
-        {
           "id": "2bd57678-5703-45da-b104-8335f5e0126a",
           "name": "SAULT"
         },
@@ -19522,6 +19526,10 @@
         {
           "id": "30472f11-d283-419a-a7ac-a2daf16464cb",
           "name": "Jungle"
+        },
+        {
+          "id": "9a5ef26c-324c-4a6b-9a1f-11648dab3436",
+          "name": "BADBADNOTGOOD"
         },
         {
           "id": "0b63353b-67a4-42be-93f3-48a983e3c816",
@@ -19630,8 +19638,12 @@
           "name": "Noah Kahan"
         },
         {
-          "id": "661c8312-e71d-40fd-9fe3-ecaacc38d8fb",
-          "name": "Peter Bjorn and John"
+          "id": "de7550a1-9e4c-4e45-b3f1-cbe6dac1c658",
+          "name": "Milky Chance"
+        },
+        {
+          "id": "400e5ffa-2090-4c1c-96e3-e8da8666fa27",
+          "name": "The Bravery"
         },
         {
           "id": "7a6345a6-8b72-4f86-bab1-79584fc55f68",
@@ -19644,10 +19656,6 @@
         {
           "id": "79561f69-6607-43c1-9bd2-a4a519d15bea",
           "name": "Arcade Fire"
-        },
-        {
-          "id": "2bc0d215-24f2-4237-98ff-3adefdf18f4d",
-          "name": "The Strokes"
         },
         {
           "id": "100f7c04-5145-439d-b55c-7c498c5a7621",
@@ -19707,6 +19715,14 @@
         {
           "id": "43d8a1bd-bfbc-40ee-b375-71c0e069a101",
           "name": "K.C. & The Sunshine Band"
+        },
+        {
+          "id": "4ecc4998-8a42-40a0-bb1f-f691347df3dc",
+          "name": "John Travolta"
+        },
+        {
+          "id": "35c3563d-9ab2-4453-807f-1e98211c7c81",
+          "name": "Olivia Newton-John"
         }
       ]
     }
@@ -19903,6 +19919,10 @@
           "name": "blink-182"
         },
         {
+          "id": "b14f9636-ed38-4dbe-9e49-067d19157325",
+          "name": "Dead Kennedys"
+        },
+        {
           "id": "422e89bf-55cd-4062-8a7d-8c975e00e5d1",
           "name": "Rise Against"
         },
@@ -19911,16 +19931,12 @@
           "name": "Sublime"
         },
         {
-          "id": "cef55511-c047-4ed8-899a-3df84f21fde6",
-          "name": "NOFX"
+          "id": "80d4fd65-1c78-4423-8ff2-f42c3ab48c33",
+          "name": "Goldfinger"
         },
         {
           "id": "92ec1fcf-df98-4741-96e6-b0e714a963a7",
           "name": "Reel Big Fish"
-        },
-        {
-          "id": "6ad79ef9-fd97-4a67-84a0-f66ea01c0aeb",
-          "name": "Green Day"
         }
       ]
     }
@@ -20036,14 +20052,6 @@
           "name": "A Tribe Called Quest"
         },
         {
-          "id": "c8321314-2778-4aee-976c-8021df308b71",
-          "name": "Sleater-Kinney"
-        },
-        {
-          "id": "a9d90bfb-ea15-4099-9f24-ad7e7cd3d1ee",
-          "name": "Curtis Mayfield"
-        },
-        {
           "id": "106a841c-f1bb-4a50-b990-92077d7e922d",
           "name": "Kate Bush"
         },
@@ -20054,6 +20062,14 @@
         {
           "id": "e24567ab-667c-48e4-b405-04e9aaf2d494",
           "name": "LCD Soundsystem"
+        },
+        {
+          "id": "d6407eed-a2e3-4138-a94c-ae5007ad4023",
+          "name": "Lou Reed"
+        },
+        {
+          "id": "145bff39-8a1d-436a-9b24-66d5f736d7d6",
+          "name": "Radiohead"
         }
       ]
     }
@@ -20480,12 +20496,12 @@
           "name": "Lady Gaga"
         },
         {
-          "id": "021d6672-b05b-4ba5-8fd9-fdd78e56ec57",
-          "name": "The Pussycat Dolls"
+          "id": "4f1954c7-de6e-4970-a6b2-76af850add02",
+          "name": "Tinashe"
         },
         {
-          "id": "5f4078d1-1770-48ec-9295-fbd3e50bdca8",
-          "name": "Kesha"
+          "id": "a0552d01-9575-48a8-9959-fed49b77704b",
+          "name": "Demi Lovato"
         }
       ]
     }
@@ -20557,10 +20573,6 @@
         {
           "id": "a860bbbd-3c0f-49f6-8f88-9d8c691371bb",
           "name": "Mark Morrison"
-        },
-        {
-          "id": "8047c96c-c414-4e71-bec8-5dc77695bfee",
-          "name": "Dead Or Alive"
         },
         {
           "id": "d177c69d-b9b9-4501-ba09-0998801dc6c2",
@@ -20655,8 +20667,8 @@
           "name": "Slightly Stoopid"
         },
         {
-          "id": "8f58443d-097a-472b-9a3e-c8711df2a245",
-          "name": "No Doubt"
+          "id": "f80c1ed0-bd26-4bd1-8e32-78f19f815deb",
+          "name": "Allah-Las"
         }
       ]
     }
@@ -20808,6 +20820,10 @@
         {
           "id": "0717e6a5-955c-4cbb-8368-5c32987c0521",
           "name": "James Brown"
+        },
+        {
+          "id": "858d0555-2a8a-4333-a990-e2142e4cd141",
+          "name": "Electric Light Orchestra"
         },
         {
           "id": "efdc9383-6a92-4268-bd1a-e2e836388487",
@@ -20996,8 +21012,8 @@
           "name": "Simple Plan"
         },
         {
-          "id": "ae266bdd-7010-4ddf-9284-bc0074098eb7",
-          "name": "Avril Lavigne"
+          "id": "d001aa2c-a2de-4a50-801c-bf91255a0f9f",
+          "name": "The Used"
         }
       ]
     }
@@ -21068,8 +21084,8 @@
           "name": "Megan Thee Stallion"
         },
         {
-          "id": "11e13da1-902e-4dda-8e01-383d3294a434",
-          "name": "Lizzo"
+          "id": "9391ef01-ed2b-475f-890f-e8ce971be120",
+          "name": "Doechii"
         },
         {
           "id": "46e4b7fe-2cd0-4bc5-94f5-98d5e4d3384c",
@@ -21332,8 +21348,8 @@
           "name": "SoFaygo"
         },
         {
-          "id": "83e4de5a-2c63-491e-9bbc-db135e773428",
-          "name": "Destroy Lonely"
+          "id": "63410885-18af-41b5-96d6-995cf85ebdd2",
+          "name": "EsDeeKid"
         },
         {
           "id": "b68553c7-4bf7-45ce-88f5-5b9b4b14a496",
@@ -21423,8 +21439,8 @@
           "name": "Happy The Man"
         },
         {
-          "id": "8c5fa203-81e2-47e1-9bd3-caf9059cdf86",
-          "name": "Jethro Tull"
+          "id": "a4a7ba75-9c33-48fe-96a2-7846b492e7fd",
+          "name": "The Moody Blues"
         },
         {
           "id": "cbbe2f92-e1fd-4cae-83ea-6c57ff806af3",
@@ -21765,8 +21781,8 @@
           "name": "50 Cent"
         },
         {
-          "id": "51ffa783-b52b-4eab-b8cf-fde07064e62a",
-          "name": "Big Sean"
+          "id": "c5b2c44e-60dc-44b2-a078-e9b4727b66af",
+          "name": "Jadakiss"
         },
         {
           "id": "665d0d5b-2065-4d02-bb91-00dddd46ca13",
@@ -21956,18 +21972,6 @@
         {
           "id": "4aadbdef-5e19-4e07-b665-95c12910e484",
           "name": "Taylor Swift"
-        },
-        {
-          "id": "7491ffba-bd01-450e-a10b-f4f4248baf06",
-          "name": "Britney Spears"
-        },
-        {
-          "id": "a361e574-0881-41ef-800f-7f7c8e4996bb",
-          "name": "Showtek"
-        },
-        {
-          "id": "6ef33d85-67f6-4497-9fff-10e20274c5dc",
-          "name": "Missy Elliott"
         }
       ]
     }
@@ -23623,8 +23627,8 @@
           "name": "The Avett Brothers"
         },
         {
-          "id": "30fa3fb8-b49d-4506-8c72-3f0c7663329e",
-          "name": "Pete Seeger"
+          "id": "5077932c-00d3-48e3-9d46-873a82f81287",
+          "name": "Doc Watson"
         }
       ]
     },
@@ -27402,12 +27406,12 @@
           "name": "Cardi B"
         },
         {
-          "id": "3994245b-6962-4cd0-9995-2615c9205e0f",
-          "name": "Ariana Grande"
-        },
-        {
           "id": "6b09fff4-f311-4eb6-a25a-cad27ccd4d94",
           "name": "Alex Warren"
+        },
+        {
+          "id": "23cd9b9b-ee42-44d8-8526-935367fedcfb",
+          "name": "Harry Styles"
         },
         {
           "id": "79b54de5-1286-4d5c-a90a-bb8ebfb58d47",
@@ -28847,6 +28851,10 @@
           "name": "Drake"
         },
         {
+          "id": "26b474bb-ff33-43ba-a01d-b638b974c935",
+          "name": "Usher"
+        },
+        {
           "id": "6b58fc7c-a4a7-45b3-ab5e-7aa0af4d4d8d",
           "name": "Rihanna"
         },
@@ -28865,10 +28873,6 @@
         {
           "id": "fef90617-3cdc-4765-93fa-d6eecdd58761",
           "name": "Paul McCartney"
-        },
-        {
-          "id": "2fd26a2b-b0b6-4b61-9044-75766b311518",
-          "name": "Prince"
         },
         {
           "id": "476a1613-bd7d-4f4f-846b-a3ca017fe0a9",
@@ -29051,12 +29055,12 @@
           "name": "Chicago"
         },
         {
-          "id": "335cf487-3ff6-4eda-b8c2-e03871fe20dc",
-          "name": "George Michael"
+          "id": "3765720b-3749-437c-bf9d-0ad8a04c62e1",
+          "name": "Bon Jovi"
         },
         {
-          "id": "78df9e7b-9513-4c7c-b158-bae116030379",
-          "name": "Huey Lewis And The News"
+          "id": "335cf487-3ff6-4eda-b8c2-e03871fe20dc",
+          "name": "George Michael"
         }
       ]
     }
@@ -31493,12 +31497,12 @@
           "name": "Del McCoury"
         },
         {
-          "id": "4b12bd2d-61e7-4f84-973e-8658083fd217",
-          "name": "Ricky Skaggs"
+          "id": "b56d82ce-6ec5-41bf-803c-b0d68269b5a5",
+          "name": "Chris Jones & The Night Drivers"
         },
         {
-          "id": "fc0a0f9d-6da5-48fd-82c1-b24fcb7c266f",
-          "name": "Lonesome River Band"
+          "id": "4b12bd2d-61e7-4f84-973e-8658083fd217",
+          "name": "Ricky Skaggs"
         },
         {
           "id": "189fe1d7-aec6-4b42-b753-7f0252439282",
@@ -32269,10 +32273,6 @@
         {
           "id": "51d0fb02-51c5-4dc2-be77-7a52462630dc",
           "name": "Hayley Williams"
-        },
-        {
-          "id": "e696e24d-a69e-4449-a768-ab380239f2b6",
-          "name": "Ramones"
         },
         {
           "id": "fc27c737-990c-4613-8899-c3256c3914c9",
@@ -33335,8 +33335,8 @@
           "name": "Frederica Von Stade"
         },
         {
-          "id": "6965e2c6-8cc2-4263-9f50-59ab88d36e2f",
-          "name": "Sir Colin Davis"
+          "id": "65a2641d-876c-422f-93a5-bd9d8fe4f3ca",
+          "name": "London Philharmonic Orchestra"
         },
         {
           "id": "70c83026-9829-43d7-9323-5f938b3342dd",
@@ -34431,6 +34431,10 @@
           "name": "Sabrina Carpenter"
         },
         {
+          "id": "430316dd-988c-4fc1-9606-2d747538b1e1",
+          "name": "KATSEYE"
+        },
+        {
           "id": "4aadbdef-5e19-4e07-b665-95c12910e484",
           "name": "Taylor Swift"
         },
@@ -34441,14 +34445,6 @@
         {
           "id": "a2cc05aa-7ee8-49aa-aa46-398e4600ad79",
           "name": "Bruno Mars"
-        },
-        {
-          "id": "430316dd-988c-4fc1-9606-2d747538b1e1",
-          "name": "KATSEYE"
-        },
-        {
-          "id": "4ed24f02-563d-48fd-b8f8-fdcbde50974e",
-          "name": "Miley Cyrus"
         }
       ]
     },
@@ -34705,12 +34701,12 @@
           "name": "Leonard Bernstein"
         },
         {
-          "id": "6e5dc160-b5fa-451e-9d08-979dd1720120",
-          "name": "Arthur Fiedler"
-        },
-        {
           "id": "8f84e08f-f1a2-4396-8f69-dae8cd4c80d3",
           "name": "Canadian Brass"
+        },
+        {
+          "id": "817c1936-7e9a-4e85-a489-249b0b20779d",
+          "name": "John Williams"
         }
       ]
     },
@@ -34850,6 +34846,10 @@
           "name": "Richard Bone"
         },
         {
+          "id": "e47d7e04-e751-43b2-8a2e-ae22e28a31b1",
+          "name": "Jim \"Kimo\" West"
+        },
+        {
           "id": "f4186f05-d283-463c-ad26-1a8ce735d8aa",
           "name": "George Winston"
         },
@@ -34860,10 +34860,6 @@
         {
           "id": "2b375044-17c8-4f1f-a9dd-b0c15fac3e28",
           "name": "David Arkenstone"
-        },
-        {
-          "id": "3d01872b-e7cd-454a-bf0d-ca9b98fc2a80",
-          "name": "Paul Avgerinos"
         },
         {
           "id": "3867899c-5a30-4bec-a4ea-072c76b1270c",
@@ -35731,8 +35727,8 @@
           "name": "Rush"
         },
         {
-          "id": "6989a235-e8d9-4644-81a1-73df761f3fc9",
-          "name": "Bruce Springsteen"
+          "id": "8c5fa203-81e2-47e1-9bd3-caf9059cdf86",
+          "name": "Jethro Tull"
         },
         {
           "id": "88005690-6e29-4ead-a086-72788c58d1d5",
@@ -35839,8 +35835,8 @@
           "name": "Stevie Wonder"
         },
         {
-          "id": "065abaa9-39a0-4cad-ad34-087d6bef3881",
-          "name": "The Doobie Brothers"
+          "id": "4dcc3164-f76f-4288-9a26-917a5ce7ef7d",
+          "name": "Linda Ronstadt"
         }
       ]
     },
