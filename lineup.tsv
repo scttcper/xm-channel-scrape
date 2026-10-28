@@ -1,0 +1,807 @@
+channel	streaming	name	category	genre	description
+2	2	SiriusXM Hits 1	Music	Pop	Pop hits, now to next
+3	3	Unwell Music	Music	Pop	override
+4	4	Life with John Mayer	Music	Pop	The ever-changing playlist
+5	5	The Pulse	Music	Pop	Today's pop music
+6	6	PopRocks	Music	Pop	90s & 2000s pop/rock hits
+7	7	70s on 7	Music	Pop	The biggest & best 70s pop
+8	8	80s on 8	Music	Pop	Pop hits from the MTV era
+9	9	90s on 9	Music	Pop	Pop hits from the 90s
+10	10	Pop2K	Music	Pop	2000s pop hits
+11	11	The 10s Spot	Music	Pop	2010s pop hits
+12	12	The Kelly Clarkson Connection	Music	Pop	Kelly's handpicked faves
+13	13	Pitbull's Globalization	Music	Pop	Worldwide rhythmic hits
+14	14	The Bridge	Music	Rock	Mellow classic rock
+15	15	Yacht Rock Radio	Music	Pop	70s/80s smooth-sailing soft rock
+16	16	The Blend	Music	Pop	Nice & easy 70s & 80s pop
+17	17	The Coffee House	Music	Pop	Acoustic, stripped down songs
+18	18	The Beatles Channel	Music	Rock	The Fab Four, 24/8
+19	19	Bob Marley's Tuff Gong	Music	Rock	Bob's music/family recordings
+20	20	E Street Radio	Music	Rock	Bruce Springsteen, 24/7
+21	21	Underground Garage	Music	Rock	Maximum rock & soul
+22	22	Pearl Jam Radio	Music	Rock	Pearl Jam, 24/7
+23	23	Grateful Dead	Music	Rock	Grateful Dead, 24/7
+24	24	Radio Margaritaville	Music	Rock	Escape to Margaritaville
+25	25	Classic Rewind	Music	Rock	70s/80s classic rock
+26	26	Classic Vinyl	Music	Rock	60s/70s classic rock
+27	27	Alt2K	Music	Rock	2000s and 2010s alt rock
+28	28	The Spectrum	Music	Rock	Classic rock meets new rock
+29	29	Phish Radio	Music	Rock	The entire Phish multi-verse 24/7
+30	30	Dave Matthews Band Radio	Music	Rock	24/7 Dave Matthews Band
+31	31	Tom Petty Radio	Music	Rock	Music from rock icon Tom Petty
+32	32	U2 X-Radio	Music	Rock	The whole world of U2
+33	33	1st Wave	Music	Rock	Classic alternative
+34	34	Lithium	Music	Rock	90s alternative & grunge rock
+35	35	SiriusXMU	Music	Rock	Indie & beyond
+36	36	Alt Nation	Music	Rock	New alternative
+37	37	Octane	Music	Rock	New hard rock
+38	38	Ozzy's Boneyard	Music	Rock	Hard & heavy classic rock
+39	39	Hair Nation	Music	Rock	80s hair metal & glam
+40	40	Liquid Metal	Music	Rock	Heavy metal
+41	41	SiriusXM Turbo	Music	Rock	90s/2000s hard rock
+42	42	Maximum Metallica	Music	Rock	Metallica, 24/7
+43	43	Rock The Bells Radio	Music	Hip-Hop/R&B	Timeless hip-hop
+44	44	Hip-Hop Nation	Music	Hip-Hop/R&B	Hip-hop hits
+45	45	Shade 45	Music	Hip-Hop/R&B	Eminem's channel
+46	46	The Heat	Music	Hip-Hop/R&B	Hot R&B and hip-hop
+47	47	Heart & Soul	Music	Hip-Hop/R&B	Adult R&B hits
+48	48	The Flow	Music	Hip-Hop/R&B	R&B hits from the 2000s
+49	49	Flex2K	Music	Hip-Hop/R&B	2000s hip-hop hits
+50	50	SiriusXM FLY	Music	Hip-Hop/R&B	90s/00s hip-hop/R&B
+51	51	The Groove	Music	Hip-Hop/R&B	70s/80s R&B
+52	52	BPM	Music	Dance/Electronic	The beat drops here
+53	53	Diplo's Revolution	Music	Dance/Electronic	Diplo's house party
+54	54	Studio 54 Radio	Music	Dance/Electronic	Classic dance hits
+55	55	SiriusXM Chill	Music	Dance/Electronic	Downtempo & deep house
+56	56	The Highway	Music	Country	Next generation country music
+57	57	Y2Kountry	Music	Country	2000s country, so far
+58	58	Prime Country	Music	Country	80s/90s country hits
+59	59	No Shoes Radio	Music	Country	Kenny Chesney's channel
+60	60	Carrie's Country	Music	Country	Carrie Underwood's own channel
+61	61	Willie's Roadhouse	Music	Country	Willie's classic country
+62	62	Outlaw Country	Music	Country	Music that won't be fenced in
+63	63	Chris Stapleton Radio	Music	Country	Chris Stapleton's channel
+64	64	Morgan Wallen Radio	Music	Country	Created by Morgan Wallen
+65	65	Bluegrass Junction	Music	Country	Bluegrass, new and classic
+66	66	Symphony Hall	Music	Jazz/Standards/Classical	Classical music for everyone
+67	67	Real Jazz	Music	Jazz/Standards/Classical	Classic jazz
+68	68	Watercolors	Music	Jazz/Standards/Classical	Smooth and contemporary jazz
+69	69	On Broadway	Music	Jazz/Standards/Classical	Show tunes
+70	70	Siriusly Sinatra	Music	Jazz/Standards/Classical	Standards by Sinatra & more
+71	71	40s Junction	Music	Jazz/Standards/Classical	40s pop hits/big bands
+72	72	50s Gold	Music	Pop	50s pop, rock & doo-wop hits
+73	73	60s Gold	Music	Pop	60s pop, soul and rock & roll
+74	74	Smokey's Soul Town	Music	Hip-Hop/R&B	Classic R&B hosted by Smokey!
+75	75	BB King's Bluesville	Music	Jazz/Standards/Classical	Blues, past & present
+76	76	Elvis Radio	Music	Pop	Elvis 24/7 live from Graceland
+77	77	Kirk Franklin's Praise	Music	Christian	Kirk Franklin's gospel channel
+78	78	The Message	Music	Christian	Contemporary Christian
+79	79	Message Worship	Music	Christian	Uplifting worship music
+80	80	ESPN Radio	Sports	Sports	Sports talk from ESPN
+81	81	ESPN Xtra	Sports	Sports	Get Up!, First Take, & SportsCenter
+82	82	Mad Dog Sports Radio	Sports	Sports	Christopher Russo & more
+83	83	FOX Sports on SiriusXM	Sports	Sports	The Herd, analysis, live games
+84	84	College Sports Radio	Sports	Sports	College Sports Talk/PXP
+85	85	NBC Sports Radio	Sports	Sports	Sports, talk, news & opinions
+86	86	SiriusXM NBA Radio	Sports	Sports	24/7 NBA Talk & Play-by-Play
+87	87	Fantasy Sports Radio	Sports	Sports	Fantasy sports talk
+88	88	SiriusXM NFL Radio	Sports	Sports	24/7 NFL Talk & Play-by-Play
+89	89	MLB Network Radio	Sports	Sports	24/7 MLB® Talk & Play-by-Play
+90	90	SiriusXM NASCAR Radio	Sports	Sports	24/7 NASCAR talk & races
+91	91	NHL Network Radio	Sports	Sports	24/7 NHL® Talk & Play-by-Play
+92	92	SiriusXM PGA Tour Radio	Sports	Sports	24/7 golf talk & play-by-play
+93	93	WWE Radio	Sports	Sports	WWE talk, guests, and news
+94	94	WFAN New York	Sports	Local Sports	NY Sports on WFAN
+95	95	KSPN Los Angeles	Sports	Local Sports	ESPN Los Angeles 710
+96	96	WSCR Chicago	Sports	Local Sports	Chicago's 670 The Score
+97	97	WEEI Boston	Sports	Local Sports	Boston Sports on WEEI 93.7
+98	98	WIP Philadelphia	Sports	Local Sports	Philly's Sports Radio 94 WIP
+99	99	KRLD Dallas	Sports	Local Sports	DFW's 105.3 The Fan
+100	100	Howard 100	Howard Stern	Howard Stern	Howard Stern Show
+101	101	Radio Andy	Talk & Entertainment	Entertainment	Andy & pop culture
+102	102	Sebastian Maniscalco’s Comedy Radio	Comedy	Comedy	Stand-up and more
+103	103	Kevin Hart's LOL Radio	Comedy	Comedy	Stand-up & talk
+104	104	Conan O'Brien Radio	Talk & Entertainment	Entertainment	Conan O'Brien Radio on SiriusXM
+105	105	Netflix Is A Joke Radio	Comedy	Comedy	Stand-up comedy
+106	106	Comedy Roundup	Comedy	Comedy	All American comedy
+107	107	Comedy Central Radio	Comedy	Comedy	Stand-up uncensored
+108	108	Comedy Greats	Comedy	Comedy	Greatest comedians
+109	109	Pure Comedy	Comedy	Comedy	It's comedy for everyone
+110	110	TODAY Show Radio	Talk & Entertainment	Entertainment	The TODAY Show - on the go
+111	111	The Megyn Kelly Channel	News & Issues	Politics/Issues	Bold, no B.S. news
+112	112	CNBC	News & Issues	News/Public Radio	CNBC simulcast
+113	113	FOX Business	News & Issues	News/Public Radio	FOX Business simulcast
+114	114	FOX News Channel	News & Issues	News/Public Radio	FOX News simulcast
+115	115	FOX News Headlines 24/7	News & Issues	News/Public Radio	FOX News Headlines, 24/7
+116	116	CNN	News & Issues	News/Public Radio	CNN simulcast
+117	117	MS NOW	News & Issues	News/Public Radio	MS NOW simulcast
+118	118	Dateline 24/7	Talk & Entertainment	Entertainment	Listen to Dateline, 24/7
+119	119	Doctor Radio	Talk & Entertainment	Entertainment	Real doctors, real people
+120	120	BBC World Service	News & Issues	News/Public Radio	World news
+121	121	Bloomberg Radio	News & Issues	News/Public Radio	Business news
+122	122	NPR Now	News & Issues	News/Public Radio	NPR news & conversation
+123	123	Triumph	Talk & Entertainment	Entertainment	Dr. Laura, Nancy Grace & more
+124	124	POTUS Politics	News & Issues	Politics/Issues	Politics from all perspectives
+125	125	SiriusXM Patriot	News & Issues	Politics/Issues	Conservative talk
+126	126	SiriusXM Urban View	News & Issues	Politics/Issues	Talk that empowers
+127	127	SiriusXM Progress	News & Issues	Politics/Issues	Progressive politics
+128	128	Joel Osteen Radio	Talk & Entertainment	Entertainment	Messages of hope
+129	129	The Catholic Channel	Talk & Entertainment	Religion	Talk for saints and sinners
+130	130	EWTN Radio	Talk & Entertainment	Religion	Solid Catholic talk
+131	131	Family Talk	Talk & Entertainment	Religion	Christian talk
+132	132	Business Radio	Talk & Entertainment	Entertainment	Your business, money and life
+133	133	Disney Hits	Music	Family	Wonderful world of Disney hits
+134	134	Kids Place	Music	Family	Kids' music
+135	135	KIDZ BOP Radio	Music	Family	Pop hits sung by kids for kids
+136	136	CoComelon & Friends	Music	Family	Toddler tunes
+137	137	Faction Talk	Talk & Entertainment	Entertainment	Unfiltered talk
+138	138	Stars	Talk & Entertainment	Entertainment	The biggest stars
+139	139	SiriusXM Comedy Club	Comedy	Comedy	Premier comedy
+140	140	Radio Classics	Talk & Entertainment	Entertainment	Classic radio dramas & comedy
+141	141	PRX Remix	News & Issues	News/Public Radio	Independent public radio
+142	142	Road Dog Trucking	Talk & Entertainment	Entertainment	Trucking talk
+143	143	RURAL Radio	News & Issues	News/Public Radio	Ag news & rural lifestyle
+144	144	SiriusXM 144	Music	Pop	SiriusXM 144
+145	145	SiriusXM 145	Music	Pop	SiriusXM 145
+146	146	Escape	Music	Jazz/Standards/Classical	Easy listening
+147	147	Bill Gaither's enLighten	Music	Christian	Moving, harmony-driven gospel
+148	148	Hits Uno	Music	Latino	Today's Latin hits
+149	149	Caliente	Music	Latino	Tropical Latin hits
+150	150	Águila	Music	Latino	Today's top música Mexicana
+151	151	En Vivo	Music	Latino	Where music is born
+152	152	Latin Vault	Music	Latino	Latin sounds of yesterday
+153	153	Mixtape: North	Talk & Entertainment	Canadian	Canadian hip-hop
+154	154	The Verge	Talk & Entertainment	Canadian	New & emerging indie/alt-rock
+155	155	Top of the Country Radio	Talk & Entertainment	Canadian	Country from across Canada
+156	156	Influence Franco	Talk & Entertainment	Canadian	French hip-hop and urban pop
+157	157	Attitude Franco	Talk & Entertainment	Canadian	Everything in French rock
+158	158	Racines Musicales	Talk & Entertainment	Canadian	Homegrown music from the heart
+159	159	The Indigiverse	Talk & Entertainment	Canadian	The Indigiverse on SiriusXM
+160	160	Canada Talks	Talk & Entertainment	Canadian	Canadian current affairs
+161	161	CBC Radio One	News & Issues	News/Public Radio	Canada's #1 radio news source
+162	162	ICI Première	Talk & Entertainment	Canadian	Radio-Canada news & info
+163	163	Korea Today	Talk & Entertainment	Entertainment	Korean music & news
+164	164	HUR Voices	Music	Hip-Hop/R&B	HUR Voices, for the people
+165	165	HBCU	Talk & Entertainment	Entertainment	HBCU excellence in education
+166	166	BYUradio	News & Issues	News/Public Radio	Together
+167	167	SLAM Radio	Talk & Entertainment	Canadian	Sports and entertainment talk
+168	168	Holy Culture Radio	Music	Christian	Christian hip-hop music & talk
+169	169	KDKA Pittsburgh	Sports	Local Sports	Pittsburgh's 93.7 The Fan
+170	170	WXYT Detroit	Sports	Local Sports	Detroit's 97.1 The Ticket
+171	171	KGMZ San Francisco	Sports	Local Sports	Bay Area's 95.7 The Game
+172	172	WKRK Cleveland	Sports	Local Sports	Cleveland's 92.3 The Fan
+184		SiriusXM Preview	Talk & Entertainment	Entertainment	SiriusXM Preview
+188	188	SiriusXM FC	Sports	Sports	Soccer Talk & Play-by-Play
+189	189	VSiN	Sports	Sports	Sports betting talk 24-7
+190	190	SiriusXM INDYCAR Nation	Sports	Sports Play-by-Play	NTT INDYCAR Series Racing
+191	191	SiriusXM Sports Schedule	Talk & Entertainment	Canadian	Live game schedules
+192		NFL 192	Sports	NFL Play-by-Play	Home for every NFL game
+193		NFL 193	Sports	NFL Play-by-Play	Home for every NFL game
+194		NFL 194	Sports	NFL Play-by-Play	Home for every NFL game
+195		NFL 195	Sports	NFL Play-by-Play	Home for every NFL game
+196		NFL 196	Sports	NFL Play-by-Play	Home for every NFL game
+197		NFL 197	Sports	NFL Play-by-Play	Home for every NFL game
+198		NFL 198	Sports	NFL Play-by-Play	Home for every NFL game
+199		NFL 199	Sports	NFL Play-by-Play	Home for every NFL game
+200		NFL 200	Sports	NFL Play-by-Play	Home for every NFL game
+201		NFL 201	Sports	NFL Play-by-Play	Home for every NFL game
+202		MLB 202	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+203		MLB 203	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+204		MLB 204	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+205		MLB 205	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+206		MLB 206	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+207		MLB 207	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+208		MLB 208	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+209		MLB 209	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+210		MLB 210	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+211		MLB 211	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+212		MLB 212	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+213		MLB 213	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+214		MLB 214	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+215		MLB 215	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+216		MLB 216	Sports	MLB Play-by-Play	Live MLB® Play-by-Play
+217		NBA 217	Sports	NBA Play-by-Play	Live NBA Play-by-Play
+218		NBA 218	Sports	NBA Play-by-Play	Live NBA Play-by-Play
+219		NBA 219	Sports	NBA Play-by-Play	Live NBA Play-by-Play
+220		NBA 220	Sports	NBA Play-by-Play	Live NBA Play-by-Play
+221		NBA 221	Sports	NBA Play-by-Play	Live NBA Play-by-Play
+222		NBA 222	Sports	NBA Play-by-Play	Live NBA Play-by-Play
+223		NHL 223	Sports	NHL Play-by-Play	Live NHL® Play-by-Play
+224		NHL 224	Sports	NHL Play-by-Play	Live NHL® Play-by-Play
+225		NHL 225	Sports	NHL Play-by-Play	Live NHL® Play-by-Play
+226		NHL 226	Sports	NHL Play-by-Play	Live NHL® Play-by-Play
+227		NHL 227	Sports	NHL Play-by-Play	Live NHL® Play-by-Play
+228		SEC 228	Sports	College Play-by-Play	Live SEC games
+229		SEC 229	Sports	College Play-by-Play	Live SEC games
+230		SEC 230	Sports	College Play-by-Play	Live SEC games
+231		Big Ten 231	Sports	College Play-by-Play	Live Big Ten games
+232		Big Ten 232	Sports	College Play-by-Play	Live Big Ten games
+233		Big Ten 233	Sports	College Play-by-Play	Live Big Ten games
+234		ACC 234	Sports	College Play-by-Play	Live ACC games
+235		ACC 235	Sports	College Play-by-Play	Live ACC games
+236		ACC 236	Sports	College Play-by-Play	Live ACC games
+237		Big 12 237	Sports	College Play-by-Play	Live Big 12 games
+238		Big 12 238	Sports	College Play-by-Play	Live Big 12 games
+247		Sports 247	Sports	Sports Play-by-Play	Sports Play-by-Play
+248		Sports 248	Sports	Sports Play-by-Play	Sports Play-by-Play
+249		Sports 249	Sports	Sports Play-by-Play	Sports Play-by-Play
+250		Sports 250	Sports	Sports Play-by-Play	NCAA, NFL, NBA, NHL, and more sports
+251		Sports 251	Sports	Sports Play-by-Play	Sports Play-by-Play
+252		Sports 252	Sports	Sports Play-by-Play	Jim Rome & sports play-by-play
+253		Sports 253	Sports	Sports Play-by-Play	Sports Play-by-Play
+256	256	SiriusXM SEC Radio	Sports	Sports	24/7 SEC Talk & Play-by-Play
+257	257	SiriusXM Big Ten Radio	Sports	Sports	24/7 Big Ten Talk & Play-by-Play
+258	258	SiriusXM ACC Radio	Sports	Sports	24/7 ACC Talk & Play-by-Play
+259	259	ESPN Podcasts	Sports	Sports	The ESPN Podcasts channel
+260	260	Westwood One Sports	Sports	Sports	Home of The Jim Rome Show!
+261		Sports 261	Sports	Sports Play-by-Play	Sports Play-by-Play
+262		Sports 262	Sports	Sports Play-by-Play	Sports Play-by-Play
+263		Sports 263	Sports	Sports Play-by-Play	Sports Play-by-Play
+264		Sports 264	Sports	Sports Play-by-Play	Sports Play-by-Play
+265		Sports 265	Sports	Sports Play-by-Play	Sports Play-by-Play
+266		Sports 266	Sports	Sports Play-by-Play	Sports Play-by-Play
+267		Sports 267	Sports	Sports Play-by-Play	Sports Play-by-Play
+268		Sports 268	Sports	Sports Play-by-Play	Sports Play-by-Play
+269		Sports 269	Sports	Sports Play-by-Play	Sports Play-by-Play
+270		Sports 270	Sports	Sports Play-by-Play	Sports Play-by-Play
+271		Sports 271	Sports	Sports Play-by-Play	Sports Play-by-Play
+272		Sports 272	Sports	Sports Play-by-Play	Sports Play-by-Play
+273		Sports 273	Sports	Sports Play-by-Play	Sports Play-by-Play
+300	300	Scream Radio	Music	Pop	Your soundtrack for Halloween
+301	301	Road Trip Radio	Music	Pop	Driving jams and singalongs
+302	302	Andy Cohen's Kiki Lounge	Music	Pop	Songs Andy Cohen loves
+305	305	Mosaic	Music	Pop	Relaxing 90s & 2000s pop
+308	308	Deep Tracks	Music	Rock	Deep classic album rock
+309	309	Jam On 309	Music	Rock	Jam bands
+312	312	Bon Jovi Radio	Music	Rock	Bon Jovi and Jon's other faves
+314	314	Green Day's Idiot Nation	Music	Rock	Green Day x punk
+315	315	Red Hot Chili Peppers	Music	Rock	Whole Lotta RHCP on SiriusXM
+330	330	SiriusXM Silk 330	Music	Hip-Hop/R&B	Smooth R&B love songs
+332	332	Shaggy Boombastic Radio	Music	Hip-Hop/R&B	Reggae, dancehall & afrobeats
+340	340	Radio Monaco	Music	Dance/Electronic	Lifestyle & music from Monaco
+341	341	Utopia	Music	Dance/Electronic	90s/2000s dance hits
+349	349	Bakersfield Beat	Music	Country	Dwight Yoakam's music channel
+350	350	Red White & Booze	Music	Country	Country bar songs
+359	359	North Americana	Talk & Entertainment	Canadian	Americana, roots & folk music
+362	362	Grown Folk JAMZ	Talk & Entertainment	Entertainment	Your true R&B experience
+450	450	20/20 True Crime	News & Issues	News/Public Radio	True crime, all the time
+455	455	C-SPAN Radio	News & Issues	News/Public Radio	C-SPAN simulcast
+460	460	The Billy Graham Channel	Talk & Entertainment	Religion	Messages from Billy Graham
+	174	KNX Los Angeles	Sports	Local Sports	LA sports talk on 97.1 The Fan
+	175	WGR Buffalo	Sports	Local Sports	WGR 550 Buffalo Sports
+	176	WZGC Atlanta	Sports	Local Sports	Atlanta Sports 92.9 The Game
+	177	WJZ Baltimore	Sports	Local Sports	Baltimore's 105.7 The Fan
+	178	KILT Houston	Sports	Local Sports	Houston's Sports Radio 610
+	179	KFNZ Kansas City	Sports	Local Sports	KC's 96.5 The Fan
+	180	WMFS Memphis	Sports	Local Sports	Memphis' 92.9 FM ESPN
+	181	WQAM Miami	Sports	Local Sports	Miami's FM 104.3 WQAM
+	182	WSSP Milwaukee	Sports	Local Sports	Wisconsin Sports Radio WSSP
+	183	KRSK Portland	Sports	Local Sports	Portland's 105.1 The Fan
+	184	KIFM Sacramento	Sports	Local Sports	Sacramento's ESPN 1320
+	185	KWFN San Diego	Sports	Local Sports	San Diego's 97.3 The Fan
+	186	WTEM Washington DC	Sports	Local Sports	D.C.'s The Team 980
+	187	WJFK Washington DC	Sports	Local Sports	D.C.'s 106.7 The Fan
+	501	Limited Edition 1	Music	Pop	Home for limited-run channels
+	502	Limited Edition 2	Music	Pop	Home for limited-run channels
+	503	Limited Edition 3	Music	Pop	Home for limited-run channels
+	504	Limited Edition 4	Music	Rock	Home for limited-run channels
+	505	Talking Heads Radio 	Music	Rock	50 years of music and stories
+	506	Limited Edition 6	Music	Rock	Home for limited-run channels
+	507	Limited Edition 7	Music	Hip-Hop/R&B	Home for limited-run channels
+	508	Limited Edition 8	Music	Hip-Hop/R&B	Home for limited-run channels
+	509	Limited Edition 9	Music	Hip-Hop/R&B	Home for limited-run channels
+	510	Limited Edition 10	Music	Country	Home for limited-run channels
+	511	Limited Edition 11	Music	Latino	Home for limited-run channels
+	512	Limited Edition 12	Music	Latino	Home for limited-run channels
+	550	Pop Top 500	Music	Pop	Top 500 pop hits countdown
+	551	80s on 8 Top 500	Music	Pop	80s on 8 top 500 countdown
+	552	90s on 9 Top 500	Music	Pop	90s on 9 top 500 countdown
+	553	Classic Rock Top 1000	Music	Rock	Ultimate classic rock
+	556	Hip-Hop Chronicles	Music	Hip-Hop/R&B	Iconic hip-hop
+	558	Country Top 1000	Music	Country	Essential songs from every era
+	560	Billboard Top 500	Music	Pop	Billboard summer hits
+	602	Holiday Traditions	Music	Pop	Traditional holiday music
+	702	Disney Jr. Radio	Music	Family	Where the magic begins
+	703	Pandora Now	Music	Pop	Popular on Pandora
+	705	SiriusXM K-Pop	Music	Pop	K-pop hits
+	708	SiriusXM Love	Music	Pop	Love songs 60s-80s
+	709	SiriusXO	Music	Pop	Love songs 90s - now
+	710	The Loft	Music	Rock	Eclectic rock
+	711	Petty's Buried Treasure	Music	Rock	Tom Petty's Buried Treasure 24/7
+	713	RockBar	Music	Rock	Hard rock hits jukebox
+	715	Classic Rock Party	Music	Rock	Non-stop classic rock
+	720	Sway's Universe	Music	Hip-Hop/R&B	Sway's channel
+	721	Stevie's Coolest Songs	Music	Rock	Coolest songs in the world
+	723	RTB - Mixdown	Music	Hip-Hop/R&B	Hip-hop mixes
+	724	SoundCloud Radio	Music	Hip-Hop/R&B	Emerging hip-hop
+	735	Steve Aoki's Remix Radio	Music	Dance/Electronic	Steve Aoki's favorite remixes
+	736	A State of Armin	Music	Dance/Electronic	Trance & progressive hits
+	737	Experts Only Radio	Music	Dance/Electronic	Dance beyond limits
+	738	One World Radio	Music	Dance/Electronic	Tomorrowland dance
+	739	Savior Sunday Daily	Music	All Xtra	Carrie's faith-based favorites
+	740	Outsiders Radio	Music	Country	Handpicked by Eric Church
+	741	The Village	Music	Country	Folk music expanse
+	744	Met Opera Radio	Music	Jazz/Standards/Classical	Opera/classical voices
+	745	SiriusXM Pops	Music	Jazz/Standards/Classical	Classical music's hits
+	746	Spa	Music	Jazz/Standards/Classical	New age
+	757	The Tragically Hip Radio	Talk & Entertainment	Canadian	The Tragically Hip Radio
+	758	Iceberg	Talk & Entertainment	Canadian	Canada's biggest rock hits
+	759	Les Tubes Franco	Talk & Entertainment	Canadian	Francophone hit music
+	760	Chucho's Cuba & Beyond	Music	Latino	Cuban music with Chucho Valdés
+	761	Celia Cruz AZÚCAR!	Music	Latino	100 years of Celia Cruz
+	762	Caricia	Music	Latino	Ballads in Spanish & English
+	763	Viva	Music	Latino	Today's Latin pop hits
+	764	Latidos	Music	Latino	Latin love songs 90s to today
+	765	Flow Nación	Music	Latino	Latin urban music
+	766	Luna	Music	Pop	Latin jazz
+	767	Rumbón	Music	Latino	Iconic classic salsa
+	768	La Kueva	Music	Latino	Latin rock
+	769	SiriusXM Dhamaka	Music	Hip-Hop/R&B	The hottest South Asian music
+	770	SiriusXM App Originals	Music	Hip-Hop/R&B	App-only music series & more
+	773	Comedy in Full	Comedy	Comedy	Full comedy albums
+	786	Unwell On Air	Talk & Entertainment	Entertainment	Unfiltered & unwell
+	787	SmartLess Radio	Talk & Entertainment	Entertainment	SmartLess 24/7
+	789	The Jeff Lewis Channel	Talk & Entertainment	Entertainment	Jeff Lewis 24/7
+	790	Entertainment Now	Talk & Entertainment	Entertainment	Pop culture recaps and special
+	791	Freakonomics Radio	Talk & Entertainment	Entertainment	The hidden side of everything
+	792	Ramsey Network	Talk & Entertainment	Entertainment	Straight talk on life & money
+	793	Court TV	Talk & Entertainment	Entertainment	High-profile court cases
+	796	ABC News Live	News & Issues	News/Public Radio	24/7 news and live events
+	798	NBC News NOW	News & Issues	News/Public Radio	Live news & in-depth reporting
+	799	FOX Weather	News & Issues	News/Public Radio	Your home for weather news
+	800	Arizona Cardinals	Sports	NFL Play-by-Play	Cardinals Play-by-Play
+	801	Atlanta Falcons	Sports	NFL Play-by-Play	Falcons Play-by-Play
+	802	Baltimore Ravens	Sports	NFL Play-by-Play	Ravens Play-by-Play
+	803	Buffalo Bills	Sports	NFL Play-by-Play	Bills Play-by-Play
+	804	Carolina Panthers	Sports	NFL Play-by-Play	Panthers Play-by-Play
+	805	Chicago Bears	Sports	NFL Play-by-Play	Bears Play-by-Play
+	806	Cincinnati Bengals	Sports	NFL Play-by-Play	Bengals Play-by-Play
+	807	Cleveland Browns	Sports	NFL Play-by-Play	Browns Play-by-Play
+	808	Dallas Cowboys	Sports	NFL Play-by-Play	Cowboys Play-by-Play
+	809	Denver Broncos	Sports	NFL Play-by-Play	Broncos Play-by-Play
+	810	Detroit Lions	Sports	NFL Play-by-Play	Lions Play-by-Play
+	811	Green Bay Packers	Sports	NFL Play-by-Play	Packers Play-by-Play
+	812	Houston Texans	Sports	NFL Play-by-Play	Texans Play-by-Play
+	813	Indianapolis Colts	Sports	NFL Play-by-Play	Colts Play-by-Play
+	814	Jacksonville Jaguars	Sports	NFL Play-by-Play	Jaguars Play-by-Play
+	815	Kansas City Chiefs	Sports	NFL Play-by-Play	Chiefs Play-by-Play
+	816	Las Vegas Raiders	Sports	NFL Play-by-Play	Raiders Play-by-Play
+	817	Los Angeles Chargers	Sports	NFL Play-by-Play	Chargers Play-by-Play
+	818	Los Angeles Rams	Sports	NFL Play-by-Play	Rams Play-by-Play
+	819	Miami Dolphins	Sports	NFL Play-by-Play	Dolphins Play-by-Play
+	820	Minnesota Vikings	Sports	NFL Play-by-Play	Vikings Play-by-Play
+	821	New England Patriots	Sports	NFL Play-by-Play	Patriots Play-by-Play
+	822	New Orleans Saints	Sports	NFL Play-by-Play	Saints Play-by-Play
+	823	New York Giants	Sports	NFL Play-by-Play	Giants Play-by-Play
+	824	New York Jets	Sports	NFL Play-by-Play	Jets Play-by-Play
+	825	Philadelphia Eagles	Sports	NFL Play-by-Play	Eagles Play-by-Play
+	826	Pittsburgh Steelers	Sports	NFL Play-by-Play	Steelers Play-by-Play
+	827	San Francisco 49ers	Sports	NFL Play-by-Play	49ers Play-by-Play
+	828	Seattle Seahawks	Sports	NFL Play-by-Play	Seahawks Play-by-Play
+	829	Tampa Bay Buccaneers	Sports	NFL Play-by-Play	Buccaneers Play-by-Play
+	830	Tennessee Titans	Sports	NFL Play-by-Play	Titans Play-by-Play
+	831	Washington Commanders	Sports	NFL Play-by-Play	Commanders Play-by-Play
+	832	NFL en Español 832	Sports	NFL Play-by-Play	NFL games
+	835	F1 on SiriusXM	Sports	Sports Play-by-Play	Formula 1 racing and analysis
+	840	Arizona Diamondbacks	Sports	MLB Play-by-Play	Diamondbacks Play-by-Play
+	841	Athletics	Sports	MLB Play-by-Play	Athletics Play-by-Play
+	842	Atlanta Braves	Sports	MLB Play-by-Play	Braves Play-by-Play
+	843	Baltimore Orioles	Sports	MLB Play-by-Play	Orioles Play-by-Play
+	844	Boston Red Sox	Sports	MLB Play-by-Play	Red Sox Play-by-Play
+	845	Chicago Cubs	Sports	MLB Play-by-Play	Cubs Play-by-Play
+	846	Chicago White Sox	Sports	MLB Play-by-Play	White Sox Play-by-Play
+	847	Cincinnati Reds	Sports	MLB Play-by-Play	Reds Play-by-Play
+	848	Cleveland Guardians	Sports	MLB Play-by-Play	Guardians Play-by-Play
+	849	Colorado Rockies	Sports	MLB Play-by-Play	Rockies Play-by-Play
+	850	Detroit Tigers	Sports	MLB Play-by-Play	Tigers Play-by-Play
+	851	Houston Astros	Sports	MLB Play-by-Play	Astros Play-by-Play
+	852	Kansas City Royals	Sports	MLB Play-by-Play	Royals Play-by-Play
+	853	Los Angeles Angels	Sports	MLB Play-by-Play	Angels Play-by-Play
+	854	Los Angeles Dodgers	Sports	MLB Play-by-Play	Dodgers Play-by-Play
+	855	Miami Marlins	Sports	MLB Play-by-Play	Marlins Play-by-Play
+	856	Milwaukee Brewers	Sports	MLB Play-by-Play	Brewers Play-by-Play
+	857	Minnesota Twins	Sports	MLB Play-by-Play	Twins Play-by-Play
+	858	New York Mets	Sports	MLB Play-by-Play	Mets Play-by-Play
+	859	New York Yankees	Sports	MLB Play-by-Play	Yankees Play-by-Play
+	860	Philadelphia Phillies	Sports	MLB Play-by-Play	Phillies Play-by-Play
+	861	Pittsburgh Pirates	Sports	MLB Play-by-Play	Pirates Play-by-Play
+	862	San Diego Padres	Sports	MLB Play-by-Play	Padres Play-by-Play
+	863	San Francisco Giants	Sports	MLB Play-by-Play	Giants Play-by-Play
+	864	Seattle Mariners	Sports	MLB Play-by-Play	Mariners Play-by-Play
+	865	St. Louis Cardinals	Sports	MLB Play-by-Play	Cardinals Play-by-Play
+	866	Tampa Bay Rays	Sports	MLB Play-by-Play	Rays Play-by-Play
+	867	Texas Rangers	Sports	MLB Play-by-Play	Rangers Play-by-Play
+	868	Toronto Blue Jays	Sports	MLB Play-by-Play	Blue Jays Play-by-Play
+	869	Washington Nationals	Sports	MLB Play-by-Play	Nationals Play-by-Play
+	870	MLB en Español 870	Sports	MLB Play-by-Play	MLB games
+	871	MLB en Español 871	Sports	MLB Play-by-Play	MLB games
+	880	Atlanta Hawks	Sports	NBA Play-by-Play	Hawks Play-by-Play
+	881	Boston Celtics	Sports	NBA Play-by-Play	Celtics Play-by-Play
+	882	Brooklyn Nets	Sports	NBA Play-by-Play	Nets Play-by-Play
+	883	Charlotte Hornets	Sports	NBA Play-by-Play	Hornets Play-by-Play
+	884	Chicago Bulls	Sports	NBA Play-by-Play	Bulls Play-by-Play
+	885	Cleveland Cavaliers	Sports	NBA Play-by-Play	Cavaliers Play-by-Play
+	886	Dallas Mavericks	Sports	NBA Play-by-Play	Mavericks Play-by-Play
+	887	Denver Nuggets	Sports	NBA Play-by-Play	Nuggets Play-by-Play
+	888	Detroit Pistons	Sports	NBA Play-by-Play	Pistons Play-by-Play
+	889	Golden State Warriors	Sports	NBA Play-by-Play	Warriors Play-by-Play
+	890	Houston Rockets	Sports	NBA Play-by-Play	Rockets Play-by-Play
+	891	Indiana Pacers	Sports	NBA Play-by-Play	Pacers Play-by-Play
+	892	Los Angeles Clippers	Sports	NBA Play-by-Play	Clippers Play-by-Play
+	893	Los Angeles Lakers	Sports	NBA Play-by-Play	Lakers Play-by-Play
+	894	Memphis Grizzlies	Sports	NBA Play-by-Play	Grizzlies Play-by-Play
+	895	Miami Heat	Sports	NBA Play-by-Play	Heat Play-by-Play
+	896	Milwaukee Bucks	Sports	NBA Play-by-Play	Bucks Play-by-Play
+	897	Minnesota Timberwolves	Sports	NBA Play-by-Play	Timberwolves Play-by-Play
+	898	New Orleans Pelicans	Sports	NBA Play-by-Play	Pelicans Play-by-Play
+	899	New York Knicks	Sports	NBA Play-by-Play	Knicks Play-by-Play
+	900	Oklahoma City Thunder	Sports	NBA Play-by-Play	Thunder Play-by-Play
+	901	Orlando Magic	Sports	NBA Play-by-Play	Magic Play-by-Play
+	902	Philadelphia 76ers	Sports	NBA Play-by-Play	76ers Play-by-Play
+	903	Phoenix Suns	Sports	NBA Play-by-Play	Suns Play-by-Play
+	904	Portland Trail Blazers	Sports	NBA Play-by-Play	Trail Blazers Play-by-Play
+	905	Sacramento Kings	Sports	NBA Play-by-Play	Kings Play-by-Play
+	906	San Antonio Spurs	Sports	NBA Play-by-Play	Spurs Play-by-Play
+	907	Toronto Raptors	Sports	NBA Play-by-Play	Raptors Play-by-Play
+	908	Utah Jazz	Sports	NBA Play-by-Play	Jazz Play-by-Play
+	909	Washington Wizards	Sports	NBA Play-by-Play	Wizards Play-by-Play
+	920	Anaheim Ducks	Sports	NHL Play-by-Play	Ducks Play-by-Play
+	921	Boston Bruins	Sports	NHL Play-by-Play	Bruins Play-by-Play
+	922	Buffalo Sabres	Sports	NHL Play-by-Play	Sabres Play-by-Play
+	923	Calgary Flames	Sports	NHL Play-by-Play	Flames Play-by-Play
+	924	Carolina Hurricanes	Sports	NHL Play-by-Play	Hurricanes Play-by-Play
+	925	Chicago Blackhawks	Sports	NHL Play-by-Play	Blackhawks Play-by-Play
+	926	Colorado Avalanche	Sports	NHL Play-by-Play	Avalanche Play-by-Play
+	927	Columbus Blue Jackets	Sports	NHL Play-by-Play	Blue Jackets Play-by-Play
+	928	Dallas Stars	Sports	NHL Play-by-Play	Stars Play-by-Play
+	929	Detroit Red Wings	Sports	NHL Play-by-Play	Red Wings Play-by-Play
+	930	Edmonton Oilers	Sports	NHL Play-by-Play	Oilers Play-by-Play
+	931	Florida Panthers	Sports	NHL Play-by-Play	Panthers Play-by-Play
+	932	Los Angeles Kings	Sports	NHL Play-by-Play	Kings Play-by-Play
+	933	Minnesota Wild	Sports	NHL Play-by-Play	Wild Play-by-Play
+	934	Montreal Canadiens	Sports	NHL Play-by-Play	Canadiens Play-by-Play
+	935	Nashville Predators	Sports	NHL Play-by-Play	Predators Play-by-Play
+	936	New Jersey Devils	Sports	NHL Play-by-Play	Devils Play-by-Play
+	937	New York Islanders	Sports	NHL Play-by-Play	Islanders Play-by-Play
+	938	New York Rangers	Sports	NHL Play-by-Play	Rangers Play-by-Play
+	939	Ottawa Senators	Sports	NHL Play-by-Play	Senators Play-by-Play
+	940	Philadelphia Flyers	Sports	NHL Play-by-Play	Flyers Play-by-Play
+	941	Pittsburgh Penguins	Sports	NHL Play-by-Play	Penguins Play-by-Play
+	942	San Jose Sharks	Sports	NHL Play-by-Play	Sharks Play-by-Play
+	943	Seattle Kraken	Sports	NHL Play-by-Play	Kraken Play-by-Play
+	944	St. Louis Blues	Sports	NHL Play-by-Play	Blues Play-by-Play
+	945	Tampa Bay Lightning	Sports	NHL Play-by-Play	Lightning Play-by-Play
+	946	Toronto Maple Leafs	Sports	NHL Play-by-Play	Maple Leafs Play-by-Play
+	947	Utah Mammoth	Sports	NHL Play-by-Play	Mammoth Play-by-Play
+	948	Vancouver Canucks	Sports	NHL Play-by-Play	Canucks Play-by-Play
+	949	Vegas Golden Knights	Sports	NHL Play-by-Play	Golden Knights Play-by-Play
+	950	Washington Capitals	Sports	NHL Play-by-Play	Capitals Play-by-Play
+	951	Winnipeg Jets	Sports	NHL Play-by-Play	Jets Play-by-Play
+	952	SEC 952	Sports	College Play-by-Play	Live SEC games
+	953	SEC 953	Sports	College Play-by-Play	Live SEC games
+	954	SEC 954	Sports	College Play-by-Play	Live SEC games
+	955	Big Ten 955	Sports	College Play-by-Play	Live Big Ten games
+	956	Big Ten 956	Sports	College Play-by-Play	Live Big Ten games
+	957	Big Ten 957	Sports	College Play-by-Play	Live Big Ten games
+	958	ACC 958	Sports	College Play-by-Play	Live ACC games
+	959	ACC 959	Sports	College Play-by-Play	Live ACC games
+	960	ACC 960	Sports	College Play-by-Play	Live ACC games
+	961	Big 12 961	Sports	College Play-by-Play	Live Big 12 games
+	962	Big 12 962	Sports	College Play-by-Play	Live Big 12 games
+	963	Sports 963	Sports	Sports Play-by-Play	College sports PXP & more
+	964	Sports 964	Sports	Sports Play-by-Play	College Sports PXP & More
+	965	Sports 965	Sports	Sports Play-by-Play	College Sports PXP & More
+	966	Sports 966	Sports	Sports Play-by-Play	College Sports PXP & More
+	967	Sports 967	Sports	Sports Play-by-Play	College Sports PXP & More
+	968	Sports 968	Sports	Sports Play-by-Play	College Sports PXP & More
+	969	Sports 969	Sports	Sports Play-by-Play	College Sports PXP & More
+	970	Sports 970	Sports	Sports Play-by-Play	College Sports PXP & More
+	971	Sports 971	Sports	Sports Play-by-Play	College Sports PXP & More
+	972	Sports 972	Sports	Sports Play-by-Play	College Sports PXP & More
+	973	Sports 973	Sports	Sports Play-by-Play	College Sports PXP & More
+	974	Sports 974	Sports	Sports Play-by-Play	College Sports PXP & More
+	975	Sports 975	Sports	Sports Play-by-Play	College Sports PXP & More
+	976	Sports 976	Sports	Sports Play-by-Play	College Sports PXP & More
+	977	Sports 977	Sports	Sports Play-by-Play	College Sports PXP & More
+	978	Sports 978	Sports	Sports Play-by-Play	College Sports PXP & More
+	979	Sports 979	Sports	Sports Play-by-Play	College Sports PXP & More
+	980	Sports 980	Sports	Sports Play-by-Play	College Sports PXP & More
+	981	Sports 981	Sports	Sports Play-by-Play	College Sports PXP & More
+	982	Sports 982	Sports	Sports Play-by-Play	College Sports PXP & More
+	983	Sports 983	Sports	Sports Play-by-Play	College Sports PXP & More
+	984	Sports 984	Sports	Sports Play-by-Play	College Sports PXP & More
+	985	Sports 985	Sports	Sports Play-by-Play	College Sports PXP & More
+	986	Sports 986	Sports	Sports Play-by-Play	College Sports PXP & More
+	987	Sports 987	Sports	Sports Play-by-Play	College Sports PXP & More
+	988	Sports 988	Sports	Sports Play-by-Play	College Sports PXP & More
+	989	Sports 989	Sports	Sports Play-by-Play	College Sports PXP & More
+	990	Sports 990	Sports	Sports Play-by-Play	College Sports PXP & More
+	991	Sports 991	Sports	Sports Play-by-Play	College Sports PXP & More
+	992	Sports 992	Sports	Sports Play-by-Play	College Sports PXP & More
+	993	Sports 993	Sports	Sports Play-by-Play	College Sports PXP & More
+	994	Sports 994	Sports	Sports Play-by-Play	College Sports PXP & More
+	995	Sports 995	Sports	Sports Play-by-Play	College Sports PXP & More
+	996	Sports 996	Sports	Sports Play-by-Play	College Sports PXP & More
+	997	Sports 997	Sports	Sports Play-by-Play	College Sports PXP & More
+	998	Sports 998	Sports	Sports Play-by-Play	Jim Rome & sports play-by-play
+	999	Sports 999	Sports	Sports Play-by-Play	College Sports PXP & More
+	1000	Hits 1 Hitbound	Music	New Music Discovery	New emerging songs from Hits 1
+	1001	Hits 1 Top Hits	Music	Today's Hits	New & recent pop hits
+	1002	Hits 1 Workout	Music	Workout	Today's workout hits
+	1003	New Music Mash	Music	Music Mash	Current pop/country/alt/R&B mash-up
+	1004	Pulse Top Hits	Music	Today's Hits	New & recent adult pop
+	1005	50s/60s Pop Hits	Music	Music Mash	50s & 60s pop hits
+	1006	60s/70s	Music	Music Mash	60s & 70s pop hits mash-up
+	1007	Love 70s Hits	Music	The 70s Decade	Love songs from the 70s
+	1008	70s, 80s, 90s	Music	Music Mash	70s-90s pop hits mash-up
+	1009	70s/80s	Music	Music Mash	70s & 80s pop hits mash-up
+	1010	80s/90s	Music	Music Mash	80s & 90s pop hits mash-up
+	1011	90s & 2Ks	Music	Music Mash	90s & 2000s pop hits mash-up
+	1012	2Ks to Now Pop Hits	Music	Music Mash	Pop hits from 2000s to now
+	1013	80s on 8 Top 100	Music	Top 100	80s pop top 100
+	1014	80s on 8 Workout	Music	Workout	80s pop workout music
+	1015	80s on 8 Party	Music	Party	80s up-tempo pop party music
+	1016	80s Chillpill	Music	The 80s Decade	Mellow hits from the 80s
+	1017	90s on 9 Party	Music	Party	90s up-tempo pop party music
+	1018	90s on 9 Top 100	Music	Top 100	90s pop top 100
+	1019	90s on 9 Workout	Music	Workout	90s pop workout music
+	1020	90s Chillax	Music	The 90s Decade	Mellow hits from the 90s
+	1021	Pop2K Top 100	Music	Top 100	2000s pop top 100
+	1022	Pop2K Workout	Music	Workout	2000s pop workout music
+	1023	Pop2K Party	Music	Party	2000s pop party music
+	1024	2Ks Mellow Hits	Music	The 2000s Decade	Mellow hits from the 2000s
+	1025	Coffee House Classics	Music	Cool Down	90s & early 2000s acoustic music
+	1028	2010s Hard Rock Hits	Music	The 2010s Decade	Hard rock hits from the 2010s
+	1029	2010s Country Hits	Music	The 2010s Decade	Country hits from the 2010s
+	1030	2010s Hip-Hop/R&B Hits	Music	The 2010s Decade	Hip-hop/R&B hits from the 2010s
+	1031	Classic Rock BBQ	Music	Party	Classic rock for your BBQ
+	1032	Rockwall	Music	Music Mash	60s, 70s & 80s rock hits mash-up
+	1033	Classic Rock Workout	Music	Workout	Classic rock workout music
+	1034	Classic Rewind Top 100	Music	Top 100	70s & 80s rock top 100
+	1035	Classic Vinyl Top 100	Music	Top 100	60s & 70s rock top 100
+	1036	70s on 7 Rock	Music	The 70s Decade	Rockin' pop hits from the 70s
+	1037	80s on 8 Rock	Music	The 80s Decade	Rockin' pop hits from the 80s
+	1038	90s on 9 Rock	Music	The 90s Decade	Rockin' pop hits from the 90s
+	1039	Pop2K Rock Hits	Music	The 2000s Decade	Rockin' pop hits from the 2000s
+	1040	Alt Nation Top Hits	Music	Today's Hits	Alternative rock new & recent hits
+	1041	Alt Nation Adv Placement	Music	New Music Discovery	New emerging alternative music
+	1043	80s to Now Alt Rock	Music	Music Mash	Alt rock hits from 80s to now
+	1044	Octane Top Hits	Music	Today's Hits	New hard rock hits
+	1045	Octane Test Drive	Music	New Music Discovery	New hard rock music
+	1046	Spectrum Top Hits	Music	Today's Hits	Adult rock new & recent hits
+	1047	Spectrum Discovery	Music	New Music Discovery	A Spectrum of emerging new rock
+	1048	SiriusXMU Discovery	Music	New Music Discovery	New emerging indie rock
+	1049	Nitro	Music	Music Mash	Hard rock mashup
+	1050	1st Wave Party	Music	Party	Classic alternative/new wave party
+	1051	1st Wave Top 100	Music	Top 100	Classic alternative/new wave top 100
+	1052	1st Wave Workout	Music	Workout	Classic alternative/new wave workout
+	1053	Hair Nation Top 100	Music	Top 100	80s hair band top 100
+	1054	Hair Nation Party	Music	Party	80s hair band party music
+	1055	Turbo Top 100	Music	Top 100	90s/00s rock hits
+	1056	Turbo Party	Music	Party	90s/00s rock party
+	1057	Turbo Workout	Music	Workout	90s/00s gym rock
+	1058	Lithium Top 100	Music	Top 100	90s alternative & grunge top 100
+	1059	Lithium Workout	Music	Workout	90s alternative/grunge workout music
+	1060	Classic Hip-Hop BBQ	Music	Party	Classic BBQ hip-hop
+	1061	Hip-Hop Nation Top Hits	Music	Today's Hits	Hip-hop hits
+	1063	Hip-Hop Nation Discovery	Music	New Music Discovery	New hip-hop
+	1064	Hip-Hop Nation Workout	Music	Workout	Hip-hop workout
+	1065	90s on 9 Hip-Hop/R&B	Music	The 90s Decade	Hip-hop and R&B hits from the 90s
+	1066	90s-2Ks Pop, Hip-Hop/R&B	Music	Music Mash	Pop, hip-hop/R&B from 90s to 2000s
+	1067	Fly Top 100	Music	Top 100	90s/00s hiphop hits
+	1068	Fly Party	Music	Party	90s/00s FLY party
+	1069	Fly 2K Hip-Hop	Music	The 2000s Decade	2000s hip-hop hits
+	1070	Fly 90s Hip-Hop	Music	The 90s Decade	90s hip-hop hits
+	1071	Fly Workout	Music	Workout	90s/00s FLY fitness
+	1072	Heat Discovery	Music	New Music Discovery	Emerging R&B and hip-hop music
+	1073	Heat Top Hits	Music	Today's Hits	New and recent R&B/hip-hop hits
+	1074	Heat 2K Hits	Music	The 2000s Decade	2000s R&B and hip-hop hits
+	1075	Heat Workout	Music	Workout	Today's R&B/hip-hop workout music
+	1076	Hip-Hop New & Classic	Music	Music Mash	Hip-hop mash-up
+	1078	Alt R&B	Music	New Music Discovery	New R&B music & emerging artists
+	1081	Reggae Top 100	Music	Top 100	Classic reggae top 100
+	1082	Reggae Vibes	Music	Cool Down	Down-tempo reggae
+	1083	Chillhop	Music	All Xtra	Relaxing lo-fi hip-hop beats
+	1084	Pop & Dance Mix	Music	Music Mash	New & recent pop & dance hits
+	1085	70s on 7 Dance/R&B	Music	All Xtra	Dance and R&B hits from the 70s
+	1086	80s on 8 Dance	Music	The 80s Decade	Dance and R&B hits from the 80s
+	1087	90s on 9 Dance	Music	The 90s Decade	Dance hits from the 90s
+	1089	BPM Top Hits	Music	All Xtra	New & recent dance hits
+	1090	BPM Discovery	Music	All Xtra	New dance music from BPM
+	1091	BPM Workout	Music	All Xtra	Today's dance workout music
+	1092	Chill Instrumental	Music	Instrumentals	Instrumental chill music
+	1093	Rocking Country BBQ	Music	Party	Rocking country music for your BBQ
+	1094	Today's Country BBQ	Music	Party	Today's country for your BBQ
+	1095	Nashville Nation	Music	Music Mash	Country hits from 90s to now
+	1096	Prime Country Top 100	Music	Top 100	80s & 90s country top 100
+	1097	Prime Country 80s Hits	Music	The 80s Decade	Country hits from the 80s
+	1098	Prime Country Party	Music	Party	80s and 90s country party music
+	1099	Highway On The Horizon	Music	New Music Discovery	New emerging country Music
+	1100	Highway Top Hits	Music	Today's Hits	Country new & recent hits
+	1101	Country & Pop Party	Music	Party	New country & pop hit party music
+	1102	Country Classics Mix	Music	Music Mash	60s, 70s & 80s country music mash-up
+	1103	Y2Kountry Top 100	Music	Top 100	Essential 2000s/2010s country
+	1104	Y2Kountry Party	Music	Party	2000s/2010s feel good country
+	1105	Country n Chill	Music	Cool Down	Slow dance country
+	1106	Watercolors Instrumental	Music	All Xtra	Instrumental contemporary jazz
+	1107	Spa Instrumental	Music	All Xtra	Instrumental spa music
+	1108	Yoga	Music	Cool Down	Music for yoga and meditation
+	1109	Elevations Pop	Music	All Xtra	Soothing piano & orchestral pop
+	1110	Velvet	Music	Today's Hits	Today's pop vocalists
+	1111	Salsa Party	Music	All Xtra	Up-tempo salsa music
+	1113	Caliente Discovery	Music	All Xtra	New emerging Caliente music
+	1114	Cross Country	Music	Music Mash	Current country & pop hit mash-up
+	1115	Pop/Hip-Hop/Country	Music	Music Mash	Current pop/hip-hop/country mash-up
+	1116	80s, 90s & 2Ks	Music	Music Mash	80s, 90s & 2000s pop hits mash-up
+	1117	90s Rock & Hip-Hop	Music	Music Mash	90s rock & hip-hop
+	1118	Country & Pop Classics	Music	Music Mash	60s & 70s country & pop hits mash-up
+	1119	Tailgating Anthems	Music	Party	Anthems for game day
+	1121	Prom Radio	Music	Party	80s, 90s & more for prom
+	1125	1st Wave Deep Cuts	Music	Deep Cuts	The depths of 80s new wave
+	1126	Broadway Classics	Music	Music Mash	Classic Broadway show tunes
+	1127	Coffee House Discovery	Music	New Music Discovery	New & emerging singer-songwriters
+	1128	Classic Chill	Music	Cool Down	90s & 2000s chill music
+	1129	Queens of Pop	Music	Music Mash	90s & 2000s female power singers
+	1130	Spectrum of Hip-Hop	Music	Music Mash	Roots to today
+	1131	Lithium Deep Cuts	Music	Deep Cuts	The depth of 90s alternative rock
+	1133	Jackie's House	Music	The 90s Decade	Late 80s & 90s R&B
+	1134	Boy Bands	Music	The 90s Decade	90s & 2000s boy bands
+	1135	The Covers Channel	Music	All Xtra	24/7 cover songs
+	1136	Dead Tracks	Music	All Xtra	All live music
+	1137	Dead Archive	Music	All Xtra	Grateful Dead studio and live albums
+	1138	RTB - B-Sides	Music	All Xtra	Classic hiphop gems
+	1139	RTB - Clean Versions	Music	All Xtra	Clean hip-hop for families
+	1141	Bob Marley's Tuff Beats	Music	All Xtra	African hits
+	1142	Bob Marley's Tuff Soca	Music	All Xtra	Soca rhythms of the Caribbean
+	1143	Lithium Icons	Music	The 90s Decade	90s rock icons
+	1144	Lithium Stripped	Music	The 90s Decade	Acoustic 90s alt rock
+	1145	The Big Easy	Music	Party	The sounds of New Orleans
+	1146	SiriusXM Comes Alive!	Music	All Xtra	Live classic rock
+	1147	Viva 90s/2Ks Hits	Music	All Xtra	90s & 2000s Latin pop hits
+	1150	Tropix	Music	Music Mash	The rhythmic beat of the Tropics
+	1151	Y'allternative	Music	New Music Discovery	Alternative country music
+	1152	Celebrate!	Music	All Xtra	Happy songs for a celebration
+	1153	Queens of Hip-Hop	Music	All Xtra	Women of hip-hop
+	1154	Women of Country	Music	All Xtra	The women of country music
+	1155	Women of Rock	Music	All Xtra	Iconic women of rock
+	1156	90s on 9 Just Music	Music	Just Music	Nonstop 90s pop
+	1157	Alt Nation Just Music	Music	Just Music	Nonstop alternative rock
+	1158	BPM Just Music	Music	Just Music	Nonstop electronic dance hits
+	1159	Hits 1 Just Music	Music	Just Music	Nonstop pop hits
+	1160	Lithium Just Music	Music	Just Music	Nonstop 90s alternative/grunge
+	1161	Octane Just Music	Music	Just Music	New hard rock
+	1162	Pop2K Just Music	Music	Just Music	Nonstop 2Ks pop hits
+	1163	Heat Just Music	Music	Just Music	Nonstop R&B and hip-hop hits
+	1164	Highway Just Music	Music	Just Music	Today's country hits nonstop
+	1165	Pulse Just Music	Music	Just Music	Today's adult hits nonstop
+	1168	Acoustic Guitar Instmntl	Music	Instrumentals	24/7 acoustic ambience
+	1171	Piano Instrumentals	Music	Instrumentals	Instrumental piano music
+	1172	Soothe	Music	Instrumentals	Instrumental chill/indie/hip-hop/R&B
+	1173	Strings	Music	Instrumentals	Music for strings
+	1174	Surf Instrumentals	Music	Instrumentals	Surf music instrumentals
+	1175	Tranquil	Music	Instrumentals	Ambient, binaural beats, electronics
+	1176	60s Gold Just Music	Music	Just Music	Nonstop 60s hits
+	1177	70s on 7 Just Music	Music	Just Music	Nonstop 70s hits
+	1180	Classic Rewind Deep Cuts	Music	Deep Cuts	Deep cassette era classic rock
+	1181	Classic Rewnd Just Music	Music	Just Music	Continuous cassette era rock
+	1182	Classic Vinyl Just Music	Music	Just Music	Nonstop vinyl era classic rock
+	1183	Deep Tracks Just Music	Music	Just Music	Nonstop deep classic rock
+	1184	Fly Deep Cuts	Music	Deep Cuts	Deeper FLY hip-hop
+	1185	Hair Nation Deep Cuts	Music	Deep Cuts	Deeper hair band rock tracks
+	1186	Octane Deep Cuts	Music	Deep Cuts	Deep new hard rock
+	1187	Ozzy's Boneyrd Deep Cuts	Music	Deep Cuts	Deeper hard/heavy classic rock
+	1189	Prime Country Deep Cuts	Music	Deep Cuts	Deeper 80s/90s country
+	1190	Prime Country Just Music	Music	Just Music	Nonstop 80s/90s country hits
+	1191	Real Jazz Just Music	Music	Just Music	Nonstop classic jazz
+	1192	60s/70s R&B Hits	Music	Just Music	Nonstop classic soul/motown
+	1193	Symphony Hall Just Music	Music	Just Music	Nonstop classical music
+	1194	Turbo Deep Cuts	Music	Deep Cuts	Deep 90s/00s rock
+	1195	Watercolors Just Music	Music	Just Music	Nonstop smooth jazz
+	1196	Yacht Rock Deep Cuts	Music	Deep Cuts	Deeper 70s/80s soft rock
+	1198	Cinemagic	Music	Instrumentals	Iconic film scores
+	1199	Happy Radio	Music	All Xtra	Feel-good hits
+	1202	SiriusXM Guitar Greats	Music	All Xtra	Epic songs from guitar greats
+	1203	Alegría	Music	All Xtra	Feel-good Latin hit music
+	1204	Feel-Good Hip-Hop/R&B	Music	Party	Happy hip-hop/R&B
+	1205	Happy Country	Music	Party	Feel-good country hits
+	1206	Happy Dance	Music	Party	Feel-good dance music
+	1207	Happy Oldies	Music	Party	50s, 60s & 70s upbeat hits
+	1208	Happy Rock	Music	Party	Mood elevating feel good rock
+	1211	The Sleep Channel	Music	Cool Down	Ambient music & sleep sounds
+	1213	Octane Workout	Music	Workout	New hard gym rock
+	1216	Perfectly Frank	Music	All Xtra	100% Frank Sinatra music
+	1219	Freestyle Dance	Music	Party	Freestyle dance & club music
+	1221	Mom Jeans	Music	All Xtra	Vintage soft rock and pop
+	1223	Forest Dreams	Music	Cool Down	Calming sounds of nature
+	1224	Night Noise	Music	Cool Down	White, pink, and brown noise
+	1225	Rainfall Radio	Music	Cool Down	Calming sounds of rain
+	1226	Women of Dance	Music	All Xtra	Iconic women of dance music
+	1227	Indie 1.0	Music	The 90s Decade	Vintage indie rock
+	1228	70s/80s Pop	Music	Party	70s & 80s super party hits
+	1229	80s/90s Pop	Music	Party	80s & 90s party hits
+	1230	Carolina Shag Radio	Music	All Xtra	Carolina R&B beach music
+	1231	Elevations	Music	Instrumentals	Reimagined pop & rock classics
+	1232	The Emo Project	Music	The 2000s Decade	Emo, screamo & pop punk
+	1233	ONEderland	Music	All Xtra	One-hit wonders, 24/7
+	1234	Queens of R&B	Music	All Xtra	Chart-topping women of R&B
+	1235	Classic Folk	Music	All Xtra	Folk music from the 50s to 70s
+	1236	Zen	Music	Cool Down	Music for meditation
+	1237	Vacation	Music	Party	A beachy island music vibe
+	1238	Hawaiian Vacation	Music	Party	A mix of Hawaiian-style music
+	1239	MexYZ	Music	All Xtra	New Mexican music
+	1240	Carr-dio by Carrie	Music	All Xtra	Work out with Carrie Underwood
+	1241	Lo-Fi Café	Music	Cool Down	Upbeat lo-fi
+	1242	Lo-Fi Sleep	Music	Cool Down	Restful downtempo beats
+	1243	Lo-Fi Study	Music	Cool Down	Midtempo lo-fi beats
+	1244	Latinas in Music	Music	All Xtra	Celebrating Latinas in music
+	1245	Les Tubes 80-90	Music	All Xtra	French 80s/90s pop-rock hits
+	1246	The Chairman's Lounge	Music	All Xtra	Hip hangout with Sinatra
+	1247	Classical for Sleep	Music	All Xtra	Slow & serene classical music
+	1248	Summer Sleep	Music	Cool Down	Waves, rain, crickets & more
+	1249	Sounds of Ibiza	Music	All Xtra	Afro house, techno & more
+	1250	Yacht Soul	Music	All Xtra	70s/80s smooth grooves
+	1251	The Bridge Deep Cuts	Music	Deep Cuts	The depth of The Bridge
+	1252	Lullaby	Music	Relax	Lullabies for loved ones
+	1253	Music for Cats	Music	Relax	Calming music for cats
+	1254	Music for Dogs	Music	Relax	Calming music for dogs
+	1255	Dad Rock	Music	All Xtra	Nostalgic rock with dad jokes
+	1256	Classical Studyscape	Music	All Xtra	Classical music for focus
+	1257	Hard Attack	Music	All Xtra	Classic metal
+	1259	Vintage T-Shirt	Music	All Xtra	Broken in, never washed out
+	1260	LevelUp	Music	All Xtra	Video game tunes 80s to now
+	1261	Music for Plants	Music	Relax	Music to promote plant growth
+	1262	Horizon	Music	New Music Discovery	New music from Asia
+	1263	Indie Sleep	Music	Relax	Soothing indie & dream pop
+	1264	Mazaa	Music	All Xtra	Upbeat Desi & Bollywood hits
+	1267	The Elevator	Music	Places	A score for every floor
+	1268	Gas Station	Music	Places	Premium classics
+	1269	Karaoke Bar	Music	Places	Top shelf sing-alongs
+	1270	Lift Line	Music	Places	Rock the slopes
+	1271	Pizza Joint	Music	Places	Saucy hits
+	1273	Supermarket	Music	Places	Turnip the beets
+	1275	Wine Bar	Music	All Xtra	Smooth, sophisticated sounds
+	1276	Bachelorette Party	Music	Places	Veil on, volume up
+	1277	Brewery	Music	Places	Craft rock on tap
+	1278	Car Wash	Music	Places	Suds and uptempo fun
+	1279	Frat Party	Music	Places	Beer bros & bangers
+	1280	Line Dance	Music	Places	Boot stompin' country
+	1281	Skate Shop	Music	Places	Asphalt anthems
+	1282	Soccer Stadium	Music	Places	GOOOOOOOOAL-den tunes
+	1283	Record Store	Music	Places	Elite staff picks
+	1284	Wedding Cocktail Hour	Music	Party	Swoon-worthy songs
+	1285	SiriusXM Southern Rock	Music	Places	Rock sounds of the south
+	1286	Affirmations Radio	Music	Relax	Find your center
+	1287	Message Foundations	Music	All Xtra	Christian throwbacks
+	1288	Drag Brunch	Music	Party	LGBTQ+ anthems
+	1293	Roller Rink	Music	Places	Disco on wheels
+	1295	Surf Shop	Music	Places	Waxed tracks
+	1296	Vegas Pool Party	Music	Places	Wet drops
+	1297	Alarm Clock Radio	Music	Wake Up	Skip snooze & press play
+	1298	Café y Ritmo	Music	Wake Up	Mornings fueled by Latin hits
+	1299	Emo Mornings	Music	Wake Up	Upbeat emo to start your day
+	1300	Morning Slaylist	Music	Wake Up	Inner girlboss pop
+	1301	Circuit	Music	All Xtra	Dance music from the 2010s
+	1302	Oldies Party	Music	Pop	Party songs from the 50s & 60s
+	1303	Rage 808 Hip-Hop	Music	All Xtra	Mosh-ready rage rap
+	1304	Prog Rock Radio	Music	All Xtra	The progressive rock universe
+	1305	Viral Hits	Music	New Music Discovery	Trending tracks
+	1306	Yacht Country	Music	All Xtra	Smooth 70s/80s country
+	1308	Alt Workout	Music	Workout	Alt for your all-out workout
+	1309	Bangers	Music	Workout	2000s rap gym vibes
+	1310	Diplo's Run Club Radio	Music	Workout	Run the track
+	1311	Jogging	Music	Workout	Turn your jog into a journey
+	1312	Running	Music	Workout	Fast beats for fast feet
+	1313	Sweat	Music	Workout	Fuel for every rep
+	1314	Walking	Music	Workout	Today's walking-paced hits
+	1315	Revive & Rhyme	Music	Christian	Christian hip-hop & rap
+	1316	Vintage Praise	Music	Christian	Nostalgic gospel music
+	1317	Esperanza	Music	All Xtra	Contemporary Latin Christian
+	1318	Classic Punk	Music	All Xtra	Early punk anarchy
+	1319	Country Coffee House	Music	Relax	Country unplugged
+	1320	Road Trip 2K	Music	The 2000s Decade	Aux cord anthems
+	1321	Country Pride	Music	Country	LGBTQIA+ voices in country
+	1322	Off Grid Rap	Music	Hip-Hop/R&B	Experimental rap
+	1323	Soft Power	Music	Rock	80s soft rock that goes hard
+	1324	Yacht Rock Just Music	Music	Just Music	Nonstop 70s/80s soft rock
+	1326	INNERRHYTHM Radio	Music	Hip-Hop/R&B	R&B and hip-hop global grooves
+	1999	Soccer en Español	Sports	Sports Play-by-Play	Soccer games
