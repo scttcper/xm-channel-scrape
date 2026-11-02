@@ -11,7 +11,7 @@ channel	streaming	name	category	genre	description
 11	11	The 10s Spot	Music	Pop	2010s pop hits
 12	12	The Kelly Clarkson Connection	Music	Pop	Kelly's handpicked faves
 13	13	Pitbull's Globalization	Music	Pop	Worldwide rhythmic hits
-14	14	The Bridge	Music	Rock	Mellow classic rock
+14	14	Fallon Holiday Seasoning	Music	Pop	Jimmy Fallon's holiday picks
 15	15	Yacht Rock Radio	Music	Pop	70s/80s smooth-sailing soft rock
 16	16	The Blend	Music	Pop	Nice & easy 70s & 80s pop
 17	17	The Coffee House	Music	Pop	Acoustic, stripped down songs
@@ -68,7 +68,7 @@ channel	streaming	name	category	genre	description
 68	68	Watercolors	Music	Jazz/Standards/Classical	Smooth and contemporary jazz
 69	69	On Broadway	Music	Jazz/Standards/Classical	Show tunes
 70	70	Siriusly Sinatra	Music	Jazz/Standards/Classical	Standards by Sinatra & more
-71	71	40s Junction	Music	Jazz/Standards/Classical	40s pop hits/big bands
+71	71	Holiday Traditions	Music	Pop	Traditional holiday music
 72	72	50s Gold	Music	Pop	50s pop, rock & doo-wop hits
 73	73	60s Gold	Music	Pop	60s pop, soul and rock & roll
 74	74	Smokey's Soul Town	Music	Hip-Hop/R&B	Classic R&B hosted by Smokey!
@@ -141,8 +141,8 @@ channel	streaming	name	category	genre	description
 141	141	PRX Remix	News & Issues	News/Public Radio	Independent public radio
 142	142	Road Dog Trucking	Talk & Entertainment	Entertainment	Trucking talk
 143	143	RURAL Radio	News & Issues	News/Public Radio	Ag news & rural lifestyle
-144	144	SiriusXM 144	Music	Pop	SiriusXM 144
-145	145	SiriusXM 145	Music	Pop	SiriusXM 145
+144	144	Holly	Music	Holiday	Merry and bright hits
+145	145	The Bridge	Music	Rock	Mellow classic rock
 146	146	Escape	Music	Jazz/Standards/Classical	Easy listening
 147	147	Bill Gaither's enLighten	Music	Christian	Moving, harmony-driven gospel
 148	148	Hits Uno	Music	Latino	Today's Latin hits
@@ -247,7 +247,7 @@ channel	streaming	name	category	genre	description
 271		Sports 271	Sports	Sports Play-by-Play	Sports Play-by-Play
 272		Sports 272	Sports	Sports Play-by-Play	Sports Play-by-Play
 273		Sports 273	Sports	Sports Play-by-Play	Sports Play-by-Play
-300	300	Scream Radio	Music	Pop	Your soundtrack for Halloween
+300	300	Hallmark Radio	Music	Holiday	Timeless Christmas music
 301	301	Road Trip Radio	Music	Pop	Driving jams and singalongs
 302	302	Andy Cohen's Kiki Lounge	Music	Pop	Songs Andy Cohen loves
 305	305	Mosaic	Music	Pop	Relaxing 90s & 2000s pop
@@ -267,6 +267,8 @@ channel	streaming	name	category	genre	description
 450	450	20/20 True Crime	News & Issues	News/Public Radio	True crime, all the time
 455	455	C-SPAN Radio	News & Issues	News/Public Radio	C-SPAN simulcast
 460	460	The Billy Graham Channel	Talk & Entertainment	Religion	Messages from Billy Graham
+608	608	Jolly Christmas	Music	Holiday	Upbeat feel-good holiday hits
+626	626	Navidad	Music	Holiday	Latin holiday music
 	174	KNX Los Angeles	Sports	Local Sports	LA sports talk on 97.1 The Fan
 	175	WGR Buffalo	Sports	Local Sports	WGR 550 Buffalo Sports
 	176	WZGC Atlanta	Sports	Local Sports	Atlanta Sports 92.9 The Game
@@ -281,15 +283,16 @@ channel	streaming	name	category	genre	description
 	185	KWFN San Diego	Sports	Local Sports	San Diego's 97.3 The Fan
 	186	WTEM Washington DC	Sports	Local Sports	D.C.'s The Team 980
 	187	WJFK Washington DC	Sports	Local Sports	D.C.'s 106.7 The Fan
+	296	40s Junction	Music	Jazz/Standards/Classical	40s pop hits/big bands
 	501	Limited Edition 1	Music	Pop	Home for limited-run channels
 	502	Limited Edition 2	Music	Pop	Home for limited-run channels
 	503	Limited Edition 3	Music	Pop	Home for limited-run channels
 	504	Limited Edition 4	Music	Rock	Home for limited-run channels
-	505	Talking Heads Radio 	Music	Rock	50 years of music and stories
+	505	Limited Edition 5	Music	Rock	Home for limited-run channels
 	506	Limited Edition 6	Music	Rock	Home for limited-run channels
 	507	Limited Edition 7	Music	Hip-Hop/R&B	Home for limited-run channels
 	508	Limited Edition 8	Music	Hip-Hop/R&B	Home for limited-run channels
-	509	Limited Edition 9	Music	Hip-Hop/R&B	Home for limited-run channels
+	509	The Wu-Tang Clan Channel	Music	Hip-Hop/R&B	The Wu legacy
 	510	Limited Edition 10	Music	Country	Home for limited-run channels
 	511	Limited Edition 11	Music	Latino	Home for limited-run channels
 	512	Limited Edition 12	Music	Latino	Home for limited-run channels
@@ -300,7 +303,23 @@ channel	streaming	name	category	genre	description
 	556	Hip-Hop Chronicles	Music	Hip-Hop/R&B	Iconic hip-hop
 	558	Country Top 1000	Music	Country	Essential songs from every era
 	560	Billboard Top 500	Music	Pop	Billboard summer hits
-	602	Holiday Traditions	Music	Pop	Traditional holiday music
+	606	Country Christmas	Music	Holiday	Country Christmas music
+	610	Christmas Spirit	Music	Holiday	Christian Christmas music
+	612	Smokey's Holiday Soul	Music	Holiday	R&B/Soul Christmas favorites
+	614	Jingle Jamz	Music	Holiday	Holiday hip-hop and R&B
+	616	Real Jazz Holiday	Music	Holiday	Classic & new jazz Christmas
+	618	Cool Jazz Christmas	Music	Holiday	Smooth jazzy Christmas
+	620	Mannheim Steamroller	Music	Holiday	Mannheim Steamroller Christmas
+	621	Trans-SiberianOrchRadio	Music	Holiday	Trans-Siberian Orchestra Xmas
+	622	Holiday Pops	Music	Holiday	Classical Christmas carols
+	624	Holiday Instrumentals	Music	Holiday	Instrumental holiday hits
+	628	Rockin' Xmas	Music	Holiday	Jingle meets guitar jams
+	630	Acoustic Christmas	Music	Holiday	Acoustic holiday tunes
+	632	Holiday Chill-Out	Music	Holiday	Downtempo holiday chill music
+	634	70s/80s Holidays	Music	Holiday	Holiday hits of the 70s & 80s
+	636	Kids Christmas	Music	Holiday	Kid-friendly holiday songs
+	637	Sleep Christmas	Music	Holiday	Relaxing Christmas music
+	640	Noël Incontournable	Music	Holiday	Francophone holiday music
 	702	Disney Jr. Radio	Music	Family	Where the magic begins
 	703	Pandora Now	Music	Pop	Popular on Pandora
 	705	SiriusXM K-Pop	Music	Pop	K-pop hits
@@ -803,5 +822,6 @@ channel	streaming	name	category	genre	description
 	1322	Off Grid Rap	Music	Hip-Hop/R&B	Experimental rap
 	1323	Soft Power	Music	Rock	80s soft rock that goes hard
 	1324	Yacht Rock Just Music	Music	Just Music	Nonstop 70s/80s soft rock
-	1326	INNERRHYTHM Radio	Music	Hip-Hop/R&B	R&B and hip-hop global grooves
+	1326	INNERRHYTHM Radio	Music	Hip-Hop/R&B	R&B, hip-hop & global grooves
+	1327	Wintering	Music	Holiday	Carol-free cold weather sounds
 	1999	Soccer en Español	Sports	Sports Play-by-Play	Soccer games
