@@ -14084,7 +14084,7 @@
     "xmServiceId": 188,
     "xmChannelNumber": 237,
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/pac-12-play-by-play-198",
+    "vanityURL": "/channels/big-12-play-by-play-237",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
@@ -17122,7 +17122,7 @@
     "shortDescription": "Live SEC games",
     "streamingChannelNumber": 954,
     "explicitContentIndicator": "No",
-    "vanityURL": "/channels/sec-954",
+    "vanityURL": "/channels/sec-play-by-play-954",
     "packages": [
       "SXM_SIR_AUD_ALLACCESS",
       "SXM_SIR_AUD_ALLACCESS_FF",
